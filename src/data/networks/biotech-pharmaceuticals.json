@@ -1,0 +1,3013 @@
+{
+  "sector": "Biotech & Pharmaceuticals",
+  "metadata": {
+    "nodeCount": 150,
+    "edgeCount": 303,
+    "generatedAt": "2026-01-31T16:46:31Z"
+  },
+  "nodes": [
+    {
+      "id": "laboratory-manager",
+      "label": "Laboratory Manager",
+      "soc": "11-9111",
+      "ptr": 0.5472,
+      "nfc": 0.5878,
+      "quadrant": "LH",
+      "size": 35,
+      "aiExposure": 0.2959
+    },
+    {
+      "id": "senior-scientist",
+      "label": "Senior Scientist",
+      "soc": "19-2032",
+      "ptr": 0.6537,
+      "nfc": 0.7072,
+      "quadrant": "LH",
+      "size": 35,
+      "aiExposure": 0.3641
+    },
+    {
+      "id": "research-associate",
+      "label": "Research Associate",
+      "soc": "19-4099",
+      "ptr": 0.291,
+      "nfc": 0.8391,
+      "quadrant": "LH",
+      "size": 35,
+      "aiExposure": 0.3492
+    },
+    {
+      "id": "study-director",
+      "label": "Study Director",
+      "soc": "27-2012",
+      "ptr": 0.6547,
+      "nfc": 0.6671,
+      "quadrant": "LH",
+      "size": 30.3,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "associate-director",
+      "label": "Associate Director",
+      "soc": "27-2012",
+      "ptr": 0.6363,
+      "nfc": 0.6667,
+      "quadrant": "LH",
+      "size": 29.61,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "product-specialist",
+      "label": "Product Specialist",
+      "soc": "41-9011",
+      "ptr": 0.1546,
+      "nfc": 0.1619,
+      "quadrant": "LH",
+      "size": 19.53,
+      "aiExposure": 0.2186
+    },
+    {
+      "id": "phd-student",
+      "label": "PhD Student",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 19.45,
+      "aiExposure": 0
+    },
+    {
+      "id": "phd-candidate-biotech-pharmaceuticals",
+      "label": "PhD Candidate",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 16.06,
+      "aiExposure": 0
+    },
+    {
+      "id": "clinical-research-coordinator-biotech-pharmaceuticals",
+      "label": "Clinical Research Coordinator",
+      "soc": "11-9121",
+      "ptr": 0.713,
+      "nfc": 0.807,
+      "quadrant": "HH",
+      "size": 14.15,
+      "aiExposure": 0.3216
+    },
+    {
+      "id": "research-scientist",
+      "label": "Research Scientist",
+      "soc": "15-2099",
+      "ptr": 0.7675,
+      "nfc": 0.9748,
+      "quadrant": "HH",
+      "size": 13.3,
+      "aiExposure": 0.6013
+    },
+    {
+      "id": "clinical-research-associate",
+      "label": "Clinical Research Associate",
+      "soc": "19-4099",
+      "ptr": 0.6721,
+      "nfc": 0.8351,
+      "quadrant": "LH",
+      "size": 12.48,
+      "aiExposure": 0.3492
+    },
+    {
+      "id": "sales-professional-representative",
+      "label": "Sales Professional Representative",
+      "soc": "41-4012",
+      "ptr": 0.8125,
+      "nfc": 0.9179,
+      "quadrant": "HH",
+      "size": 11.75,
+      "aiExposure": 0.4628
+    },
+    {
+      "id": "clinical-specialist-biotech-pharmaceuticals",
+      "label": "Clinical Specialist",
+      "soc": "29-1141",
+      "ptr": 0.3004,
+      "nfc": 0.3133,
+      "quadrant": "LH",
+      "size": 11.7,
+      "aiExposure": 0.251
+    },
+    {
+      "id": "clinical-pharmacist-biotech-pharmaceuticals",
+      "label": "Clinical Pharmacist",
+      "soc": "29-1051",
+      "ptr": 0.5258,
+      "nfc": 0.5833,
+      "quadrant": "LH",
+      "size": 11.7,
+      "aiExposure": 0.3534
+    },
+    {
+      "id": "clinical-manager-biotech-pharmaceuticals",
+      "label": "Clinical Manager",
+      "soc": "11-9179",
+      "ptr": 0.629,
+      "nfc": 0.6551,
+      "quadrant": "LH",
+      "size": 11.43,
+      "aiExposure": 0.2992
+    },
+    {
+      "id": "scientist",
+      "label": "Scientist",
+      "soc": "15-2099",
+      "ptr": 0.8468,
+      "nfc": 0.9713,
+      "quadrant": "HH",
+      "size": 11.36,
+      "aiExposure": 0.6013
+    },
+    {
+      "id": "pharmacy-intern-biotech-pharmaceuticals",
+      "label": "Pharmacy Intern",
+      "soc": "29-1229",
+      "ptr": 0.4126,
+      "nfc": 0.4688,
+      "quadrant": "LH",
+      "size": 10.78,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "territory-manager",
+      "label": "Territory Manager",
+      "soc": "11-2022",
+      "ptr": 0.5592,
+      "nfc": 0.6406,
+      "quadrant": "LH",
+      "size": 10.59,
+      "aiExposure": 0.3071
+    },
+    {
+      "id": "quality-control-analyst",
+      "label": "Quality Control Analyst",
+      "soc": "17-3026",
+      "ptr": 0.4922,
+      "nfc": 0.5313,
+      "quadrant": "LH",
+      "size": 10.29,
+      "aiExposure": 0.2963
+    },
+    {
+      "id": "postdoctoral-fellow-biotech-pharmaceuticals",
+      "label": "Postdoctoral Fellow",
+      "soc": "11-9121",
+      "ptr": 0.4681,
+      "nfc": 0.8017,
+      "quadrant": "LH",
+      "size": 9.74,
+      "aiExposure": 0.3216
+    },
+    {
+      "id": "senior-clinical-research-associate",
+      "label": "Senior Clinical Research Associate",
+      "soc": "19-4099",
+      "ptr": 0.7699,
+      "nfc": 0.8301,
+      "quadrant": "HH",
+      "size": 9.45,
+      "aiExposure": 0.3492
+    },
+    {
+      "id": "phd-researcher",
+      "label": "PhD Researcher",
+      "soc": "19-3093",
+      "ptr": 0.6743,
+      "nfc": 0.6843,
+      "quadrant": "LH",
+      "size": 9.04,
+      "aiExposure": 0.4679
+    },
+    {
+      "id": "medical-science-liaison",
+      "label": "Medical Science Liaison",
+      "soc": "29-9092",
+      "ptr": 0.7442,
+      "nfc": 0.7496,
+      "quadrant": "HH",
+      "size": 8.97,
+      "aiExposure": 0.4056
+    },
+    {
+      "id": "senior-product-manager",
+      "label": "Senior Product Manager",
+      "soc": "11-2021",
+      "ptr": 0.739,
+      "nfc": 0.7491,
+      "quadrant": "HH",
+      "size": 8.16,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "pharmacist-intern-biotech-pharmaceuticals",
+      "label": "Pharmacist Intern",
+      "soc": "29-1229",
+      "ptr": 0.4473,
+      "nfc": 0.4665,
+      "quadrant": "LH",
+      "size": 7.9,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "postdoctoral-researcher-biotech-pharmaceuticals",
+      "label": "Postdoctoral Researcher",
+      "soc": "19-3093",
+      "ptr": 0.4867,
+      "nfc": 0.6827,
+      "quadrant": "LH",
+      "size": 7.79,
+      "aiExposure": 0.4679
+    },
+    {
+      "id": "pharmacy-manager",
+      "label": "Pharmacy Manager",
+      "soc": "11-9199",
+      "ptr": 0.6845,
+      "nfc": 0.7295,
+      "quadrant": "HH",
+      "size": 7.68,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "pharmacist-biotech-pharmaceuticals",
+      "label": "Pharmacist",
+      "soc": "29-2052",
+      "ptr": 0.4849,
+      "nfc": 0.5622,
+      "quadrant": "LH",
+      "size": 7.5,
+      "aiExposure": 0.3096
+    },
+    {
+      "id": "graduate-student-researcher",
+      "label": "Graduate Student Researcher",
+      "soc": "25-9044",
+      "ptr": 0.7646,
+      "nfc": 0.7955,
+      "quadrant": "HH",
+      "size": 7.26,
+      "aiExposure": 0.3725
+    },
+    {
+      "id": "regulatory-affairs-manager",
+      "label": "Regulatory Affairs Manager",
+      "soc": "11-9199",
+      "ptr": 0.7107,
+      "nfc": 0.7282,
+      "quadrant": "HH",
+      "size": 7.21,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "pharmacy-resident-biotech-pharmaceuticals",
+      "label": "Pharmacy Resident",
+      "soc": "29-1229",
+      "ptr": 0.409,
+      "nfc": 0.4648,
+      "quadrant": "LH",
+      "size": 7.17,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "senior-sales-representative",
+      "label": "Senior Sales Representative",
+      "soc": "41-4012",
+      "ptr": 0.8264,
+      "nfc": 0.9068,
+      "quadrant": "HH",
+      "size": 6.93,
+      "aiExposure": 0.4628
+    },
+    {
+      "id": "associate-product-manager",
+      "label": "Associate Product Manager",
+      "soc": "11-2021",
+      "ptr": 0.7493,
+      "nfc": 0.745,
+      "quadrant": "HH",
+      "size": 6.88,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "study-manager",
+      "label": "Study Manager",
+      "soc": "11-9121",
+      "ptr": 0.7777,
+      "nfc": 0.7948,
+      "quadrant": "HH",
+      "size": 6.84,
+      "aiExposure": 0.3216
+    },
+    {
+      "id": "medical-writer-biotech-pharmaceuticals",
+      "label": "Medical Writer",
+      "soc": "27-3043",
+      "ptr": 0.9658,
+      "nfc": 0.9725,
+      "quadrant": "HH",
+      "size": 6.6,
+      "aiExposure": 0.6657
+    },
+    {
+      "id": "pre-registration-pharmacist-biotech-pharmaceuticals",
+      "label": "Pre Registration Pharmacist",
+      "soc": "29-1051",
+      "ptr": 0.5472,
+      "nfc": 0.5755,
+      "quadrant": "LH",
+      "size": 6.54,
+      "aiExposure": 0.3534
+    },
+    {
+      "id": "medical-representative",
+      "label": "Medical Representative",
+      "soc": "11-1031",
+      "ptr": 0.33,
+      "nfc": 0.3552,
+      "quadrant": "LH",
+      "size": 6.46,
+      "aiExposure": 0.3345
+    },
+    {
+      "id": "pharmacist-manager",
+      "label": "Pharmacist Manager",
+      "soc": "29-1051",
+      "ptr": 0.5799,
+      "nfc": 0.5748,
+      "quadrant": "LH",
+      "size": 6.46,
+      "aiExposure": 0.3534
+    },
+    {
+      "id": "staff-pharmacist-biotech-pharmaceuticals",
+      "label": "Staff Pharmacist",
+      "soc": "29-1051",
+      "ptr": 0.5301,
+      "nfc": 0.5745,
+      "quadrant": "LH",
+      "size": 6.45,
+      "aiExposure": 0.3534
+    },
+    {
+      "id": "senior-biostatistician",
+      "label": "Senior Biostatistician",
+      "soc": "15-2041",
+      "ptr": 0.9468,
+      "nfc": 0.9373,
+      "quadrant": "HH",
+      "size": 6.44,
+      "aiExposure": 0.5199
+    },
+    {
+      "id": "senior-chemist-biotech-pharmaceuticals",
+      "label": "Senior Chemist",
+      "soc": "19-2031",
+      "ptr": 0.2354,
+      "nfc": 0.2449,
+      "quadrant": "LH",
+      "size": 6.32,
+      "aiExposure": 0.3088
+    },
+    {
+      "id": "clinical-trial-assistant",
+      "label": "Clinical Trial Assistant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 6.27,
+      "aiExposure": 0
+    },
+    {
+      "id": "laboratory-supervisor",
+      "label": "Laboratory Supervisor",
+      "soc": "51-1011",
+      "ptr": 0.3557,
+      "nfc": 0.3539,
+      "quadrant": "LH",
+      "size": 6.21,
+      "aiExposure": 0.3251
+    },
+    {
+      "id": "regulatory-affairs-specialist",
+      "label": "Regulatory Affairs Specialist",
+      "soc": "13-1041",
+      "ptr": 0.781,
+      "nfc": 0.7766,
+      "quadrant": "HH",
+      "size": 6.18,
+      "aiExposure": 0.3627
+    },
+    {
+      "id": "district-sales-manager",
+      "label": "District Sales Manager",
+      "soc": "11-2021",
+      "ptr": 0.7338,
+      "nfc": 0.7395,
+      "quadrant": "HH",
+      "size": 6.12,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "analytical-chemist",
+      "label": "Analytical Chemist",
+      "soc": "19-2031",
+      "ptr": 0.2263,
+      "nfc": 0.2442,
+      "quadrant": "LH",
+      "size": 6.07,
+      "aiExposure": 0.3088
+    },
+    {
+      "id": "associate-specialist",
+      "label": "Associate Specialist",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 6.07,
+      "aiExposure": 0
+    },
+    {
+      "id": "pharmacy-technician",
+      "label": "Pharmacy Technician",
+      "soc": "29-2052",
+      "ptr": 0.4937,
+      "nfc": 0.5553,
+      "quadrant": "LH",
+      "size": 6.06,
+      "aiExposure": 0.3096
+    },
+    {
+      "id": "biostatistician",
+      "label": "Biostatistician",
+      "soc": "15-2041",
+      "ptr": 0.9337,
+      "nfc": 0.9321,
+      "quadrant": "HH",
+      "size": 6.05,
+      "aiExposure": 0.5199
+    },
+    {
+      "id": "senior-brand-manager-biotech-pharmaceuticals",
+      "label": "Senior Brand Manager",
+      "soc": "11-2021",
+      "ptr": 0.739,
+      "nfc": 0.7372,
+      "quadrant": "HH",
+      "size": 6.02,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "senior-clinical-project-manager",
+      "label": "Senior Clinical Project Manager",
+      "soc": "11-9121",
+      "ptr": 0.8054,
+      "nfc": 0.7865,
+      "quadrant": "HH",
+      "size": 6.01,
+      "aiExposure": 0.3216
+    },
+    {
+      "id": "clinical-project-manager",
+      "label": "Clinical Project Manager",
+      "soc": "11-9121",
+      "ptr": 0.7999,
+      "nfc": 0.786,
+      "quadrant": "HH",
+      "size": 5.94,
+      "aiExposure": 0.3216
+    },
+    {
+      "id": "associate-scientist",
+      "label": "Associate Scientist",
+      "soc": "19-2032",
+      "ptr": 0.6382,
+      "nfc": 0.6856,
+      "quadrant": "LH",
+      "size": 5.91,
+      "aiExposure": 0.3641
+    },
+    {
+      "id": "global-product-manager-biotech-pharmaceuticals",
+      "label": "Global Product Manager",
+      "soc": "11-2021",
+      "ptr": 0.739,
+      "nfc": 0.7354,
+      "quadrant": "HH",
+      "size": 5.91,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "quality-assurance-specialist",
+      "label": "Quality Assurance Specialist",
+      "soc": "13-1041",
+      "ptr": 0.781,
+      "nfc": 0.7713,
+      "quadrant": "HH",
+      "size": 5.89,
+      "aiExposure": 0.3627
+    },
+    {
+      "id": "research-fellow",
+      "label": "Research Fellow",
+      "soc": "19-3022",
+      "ptr": 0.8502,
+      "nfc": 0.9116,
+      "quadrant": "HH",
+      "size": 5.89,
+      "aiExposure": 0.3781
+    },
+    {
+      "id": "postdoctoral-research-associate-biotech-pharmaceuticals",
+      "label": "Postdoctoral Research Associate",
+      "soc": "19-4099",
+      "ptr": 0.6995,
+      "nfc": 0.8118,
+      "quadrant": "HH",
+      "size": 5.87,
+      "aiExposure": 0.3492
+    },
+    {
+      "id": "laboratory-technician",
+      "label": "Laboratory Technician",
+      "soc": "51-9151",
+      "ptr": 0,
+      "nfc": 0.2423,
+      "quadrant": "LH",
+      "size": 5.84,
+      "aiExposure": 0.244
+    },
+    {
+      "id": "principal-scientist",
+      "label": "Principal Scientist",
+      "soc": "17-3026",
+      "ptr": 0.5262,
+      "nfc": 0.5183,
+      "quadrant": "LH",
+      "size": 5.8,
+      "aiExposure": 0.2963
+    },
+    {
+      "id": "clinical-data-manager",
+      "label": "Clinical Data Manager",
+      "soc": "15-2051",
+      "ptr": 0.9242,
+      "nfc": 0.9227,
+      "quadrant": "HH",
+      "size": 5.79,
+      "aiExposure": 0.526
+    },
+    {
+      "id": "specialty-representative",
+      "label": "Specialty Representative",
+      "soc": "11-1031",
+      "ptr": 0.3557,
+      "nfc": 0.3499,
+      "quadrant": "LH",
+      "size": 5.75,
+      "aiExposure": 0.3345
+    },
+    {
+      "id": "senior-medical-writer",
+      "label": "Senior Medical Writer",
+      "soc": "27-3043",
+      "ptr": 0.9658,
+      "nfc": 0.9562,
+      "quadrant": "HH",
+      "size": 5.73,
+      "aiExposure": 0.6657
+    },
+    {
+      "id": "postdoctoral-research-fellow-biotech-pharmaceuticals",
+      "label": "Postdoctoral Research Fellow",
+      "soc": "19-3022",
+      "ptr": 0.7999,
+      "nfc": 0.9076,
+      "quadrant": "HH",
+      "size": 5.7,
+      "aiExposure": 0.3781
+    },
+    {
+      "id": "statistician",
+      "label": "Statistician",
+      "soc": "19-3022",
+      "ptr": 0.9237,
+      "nfc": 0.907,
+      "quadrant": "HH",
+      "size": 5.61,
+      "aiExposure": 0.3781
+    },
+    {
+      "id": "quality-control-manager-biotech-pharmaceuticals",
+      "label": "Quality Control Manager",
+      "soc": "11-3051",
+      "ptr": 0.4389,
+      "nfc": 0.4337,
+      "quadrant": "LH",
+      "size": 5.61,
+      "aiExposure": 0.263
+    },
+    {
+      "id": "senior-research-associate",
+      "label": "Senior Research Associate",
+      "soc": "19-4099",
+      "ptr": 0.7821,
+      "nfc": 0.8072,
+      "quadrant": "HH",
+      "size": 5.57,
+      "aiExposure": 0.3492
+    },
+    {
+      "id": "medical-technologist-biotech-pharmaceuticals",
+      "label": "Medical Technologist",
+      "soc": "17-3023",
+      "ptr": 0.381,
+      "nfc": 0.3991,
+      "quadrant": "LH",
+      "size": 5.57,
+      "aiExposure": 0.3042
+    },
+    {
+      "id": "biomedical-scientist-biotech-pharmaceuticals",
+      "label": "Biomedical Scientist",
+      "soc": "17-3026",
+      "ptr": 0.5299,
+      "nfc": 0.5154,
+      "quadrant": "LH",
+      "size": 5.56,
+      "aiExposure": 0.2963
+    },
+    {
+      "id": "senior-sales-professional",
+      "label": "Senior Sales Professional",
+      "soc": "41-4012",
+      "ptr": 0.8989,
+      "nfc": 0.886,
+      "quadrant": "HH",
+      "size": 5.55,
+      "aiExposure": 0.4628
+    },
+    {
+      "id": "microbiologist",
+      "label": "Microbiologist",
+      "soc": "29-1131",
+      "ptr": 0.1632,
+      "nfc": 0.1681,
+      "quadrant": "LH",
+      "size": 5.53,
+      "aiExposure": 0.2128
+    },
+    {
+      "id": "certified-pharmacy-technician-biotech-pharmaceuticals",
+      "label": "Certified Pharmacy Technician",
+      "soc": "29-2052",
+      "ptr": 0.5599,
+      "nfc": 0.5473,
+      "quadrant": "LH",
+      "size": 5.52,
+      "aiExposure": 0.3096
+    },
+    {
+      "id": "senior-research-scientist",
+      "label": "Senior Research Scientist",
+      "soc": "15-2099",
+      "ptr": 0.8982,
+      "nfc": 0.9381,
+      "quadrant": "HH",
+      "size": 5.48,
+      "aiExposure": 0.6013
+    },
+    {
+      "id": "specialty-sales-representative",
+      "label": "Specialty Sales Representative",
+      "soc": "41-4012",
+      "ptr": 0.8797,
+      "nfc": 0.8838,
+      "quadrant": "HH",
+      "size": 5.48,
+      "aiExposure": 0.4628
+    },
+    {
+      "id": "clinical-scientist-biotech-pharmaceuticals",
+      "label": "Clinical Scientist",
+      "soc": "19-2032",
+      "ptr": 0.6933,
+      "nfc": 0.676,
+      "quadrant": "HH",
+      "size": 5.44,
+      "aiExposure": 0.3641
+    },
+    {
+      "id": "biologist",
+      "label": "Biologist",
+      "soc": "19-1023",
+      "ptr": 0.6448,
+      "nfc": 0.6331,
+      "quadrant": "LH",
+      "size": 5.44,
+      "aiExposure": 0.3322
+    },
+    {
+      "id": "clinical-research-associate-ii",
+      "label": "Clinical Research Associate II",
+      "soc": "19-4099",
+      "ptr": 0.8174,
+      "nfc": 0.802,
+      "quadrant": "HH",
+      "size": 5.43,
+      "aiExposure": 0.3492
+    },
+    {
+      "id": "quality-assurance-associate",
+      "label": "Quality Assurance Associate",
+      "soc": "51-9061",
+      "ptr": 0.5036,
+      "nfc": 0.4939,
+      "quadrant": "LH",
+      "size": 5.4,
+      "aiExposure": 0.2548
+    },
+    {
+      "id": "postdoctoral-scholar-biotech-pharmaceuticals",
+      "label": "Postdoctoral Scholar",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.39,
+      "aiExposure": 0
+    },
+    {
+      "id": "regulatory-affairs-associate",
+      "label": "Regulatory Affairs Associate",
+      "soc": "13-1041",
+      "ptr": 0.7646,
+      "nfc": 0.7595,
+      "quadrant": "HH",
+      "size": 5.38,
+      "aiExposure": 0.3627
+    },
+    {
+      "id": "quality-control-chemist",
+      "label": "Quality Control Chemist",
+      "soc": "19-2031",
+      "ptr": 0.2389,
+      "nfc": 0.2389,
+      "quadrant": "LH",
+      "size": 5.38,
+      "aiExposure": 0.3088
+    },
+    {
+      "id": "sales-training-manager",
+      "label": "Sales Training Manager",
+      "soc": "11-3131",
+      "ptr": 0.7442,
+      "nfc": 0.7228,
+      "quadrant": "HH",
+      "size": 5.37,
+      "aiExposure": 0.3465
+    },
+    {
+      "id": "medical-director-biotech-pharmaceuticals",
+      "label": "Medical Director",
+      "soc": "29-1229",
+      "ptr": 0.4605,
+      "nfc": 0.4501,
+      "quadrant": "LH",
+      "size": 5.37,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "global-marketing-manager-biotech-pharmaceuticals",
+      "label": "Global Marketing Manager",
+      "soc": "11-2021",
+      "ptr": 0.739,
+      "nfc": 0.7218,
+      "quadrant": "HH",
+      "size": 5.37,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "assistant-scientist",
+      "label": "Assistant Scientist",
+      "soc": "19-2032",
+      "ptr": 0.6638,
+      "nfc": 0.6721,
+      "quadrant": "LH",
+      "size": 5.37,
+      "aiExposure": 0.3641
+    },
+    {
+      "id": "clinical-program-manager-biotech-pharmaceuticals",
+      "label": "Clinical Program Manager",
+      "soc": "11-9199",
+      "ptr": 0.731,
+      "nfc": 0.7019,
+      "quadrant": "HH",
+      "size": 5.37,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "associate-scientific-director",
+      "label": "Associate Scientific Director",
+      "soc": "27-2012",
+      "ptr": 0.6638,
+      "nfc": 0.633,
+      "quadrant": "LH",
+      "size": 5.37,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "quality-control-associate",
+      "label": "Quality Control Associate",
+      "soc": "55-1015",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.37,
+      "aiExposure": 0
+    },
+    {
+      "id": "diabetes-care-specialist",
+      "label": "Diabetes Care Specialist",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.37,
+      "aiExposure": 0
+    },
+    {
+      "id": "senior-associate-scientist",
+      "label": "Senior Associate Scientist",
+      "soc": "19-2032",
+      "ptr": 0.6981,
+      "nfc": 0.6699,
+      "quadrant": "HH",
+      "size": 5.33,
+      "aiExposure": 0.3641
+    },
+    {
+      "id": "undergraduate-research-assistant",
+      "label": "Undergraduate Research Assistant",
+      "soc": "19-4099",
+      "ptr": 0.7638,
+      "nfc": 0.7947,
+      "quadrant": "HH",
+      "size": 5.3,
+      "aiExposure": 0.3492
+    },
+    {
+      "id": "manufacturing-associate",
+      "label": "Manufacturing Associate",
+      "soc": "51-4081",
+      "ptr": 0.1373,
+      "nfc": 0.1354,
+      "quadrant": "LH",
+      "size": 5.29,
+      "aiExposure": 0.1195
+    },
+    {
+      "id": "research-biologist",
+      "label": "Research Biologist",
+      "soc": "19-1029",
+      "ptr": 0.8707,
+      "nfc": 0.8338,
+      "quadrant": "HH",
+      "size": 5.28,
+      "aiExposure": 0.3948
+    },
+    {
+      "id": "senior-research-investigator",
+      "label": "Senior Research Investigator",
+      "soc": "43-4131",
+      "ptr": 0.8982,
+      "nfc": 0.8655,
+      "quadrant": "HH",
+      "size": 5.27,
+      "aiExposure": 0.4384
+    },
+    {
+      "id": "research-assistant-professor-biotech-pharmaceuticals",
+      "label": "Research Assistant Professor",
+      "soc": "25-1071",
+      "ptr": 0.6882,
+      "nfc": 0.6627,
+      "quadrant": "HH",
+      "size": 5.27,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "clinical-laboratory-scientist-biotech-pharmaceuticals",
+      "label": "Clinical Laboratory Scientist",
+      "soc": "17-3026",
+      "ptr": 0.5299,
+      "nfc": 0.5064,
+      "quadrant": "LH",
+      "size": 5.26,
+      "aiExposure": 0.2963
+    },
+    {
+      "id": "clinical-data-associate",
+      "label": "Clinical Data Associate",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.26,
+      "aiExposure": 0
+    },
+    {
+      "id": "clinical-data-associate-iii",
+      "label": "Clinical Data Associate III",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.26,
+      "aiExposure": 0
+    },
+    {
+      "id": "research-assistant-iii",
+      "label": "Research Assistant III",
+      "soc": "19-4099",
+      "ptr": 0.8231,
+      "nfc": 0.7905,
+      "quadrant": "HH",
+      "size": 5.26,
+      "aiExposure": 0.3492
+    },
+    {
+      "id": "scientific-associate-ii",
+      "label": "Scientific Associate II",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.25,
+      "aiExposure": 0
+    },
+    {
+      "id": "postdoctoral-associate-biotech-pharmaceuticals",
+      "label": "Postdoctoral Associate",
+      "soc": "11-9121",
+      "ptr": 0.7431,
+      "nfc": 0.7619,
+      "quadrant": "HH",
+      "size": 5.25,
+      "aiExposure": 0.3216
+    },
+    {
+      "id": "clinical-research-manager",
+      "label": "Clinical Research Manager",
+      "soc": "11-9121",
+      "ptr": 0.7944,
+      "nfc": 0.7614,
+      "quadrant": "HH",
+      "size": 5.25,
+      "aiExposure": 0.3216
+    },
+    {
+      "id": "research-technician-iii",
+      "label": "Research Technician III",
+      "soc": "17-3023",
+      "ptr": 0.4129,
+      "nfc": 0.3901,
+      "quadrant": "LH",
+      "size": 5.24,
+      "aiExposure": 0.3042
+    },
+    {
+      "id": "research-scientist-ii",
+      "label": "Research Scientist II",
+      "soc": "15-2099",
+      "ptr": 0.9535,
+      "nfc": 0.9191,
+      "quadrant": "HH",
+      "size": 5.23,
+      "aiExposure": 0.6013
+    },
+    {
+      "id": "postdoctoral-scientist",
+      "label": "Postdoctoral Scientist",
+      "soc": "17-3026",
+      "ptr": 0.5151,
+      "nfc": 0.5033,
+      "quadrant": "LH",
+      "size": 5.22,
+      "aiExposure": 0.2963
+    },
+    {
+      "id": "staff-scientist",
+      "label": "Staff Scientist",
+      "soc": "19-2032",
+      "ptr": 0.6885,
+      "nfc": 0.6628,
+      "quadrant": "HH",
+      "size": 5.22,
+      "aiExposure": 0.3641
+    },
+    {
+      "id": "associate-scientist-ii",
+      "label": "Associate Scientist II",
+      "soc": "19-2032",
+      "ptr": 0.6933,
+      "nfc": 0.6623,
+      "quadrant": "HH",
+      "size": 5.22,
+      "aiExposure": 0.3641
+    },
+    {
+      "id": "quality-assurance-supervisor",
+      "label": "Quality Assurance Supervisor",
+      "soc": "11-3051",
+      "ptr": 0.4451,
+      "nfc": 0.422,
+      "quadrant": "LH",
+      "size": 5.22,
+      "aiExposure": 0.263
+    },
+    {
+      "id": "study-coordinator",
+      "label": "Study Coordinator",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.2,
+      "aiExposure": 0
+    },
+    {
+      "id": "regional-business-manager",
+      "label": "Regional Business Manager",
+      "soc": "13-1011",
+      "ptr": 0.8566,
+      "nfc": 0.8166,
+      "quadrant": "HH",
+      "size": 5.19,
+      "aiExposure": 0.4062
+    },
+    {
+      "id": "quality-control-supervisor",
+      "label": "Quality Control Supervisor",
+      "soc": "11-3051",
+      "ptr": 0.4451,
+      "nfc": 0.4211,
+      "quadrant": "LH",
+      "size": 5.19,
+      "aiExposure": 0.263
+    },
+    {
+      "id": "scientist-ii",
+      "label": "Scientist II",
+      "soc": "19-2032",
+      "ptr": 0.6787,
+      "nfc": 0.6601,
+      "quadrant": "LH",
+      "size": 5.19,
+      "aiExposure": 0.3641
+    },
+    {
+      "id": "district-business-manager",
+      "label": "District Business Manager",
+      "soc": "13-1011",
+      "ptr": 0.8684,
+      "nfc": 0.8149,
+      "quadrant": "HH",
+      "size": 5.19,
+      "aiExposure": 0.4062
+    },
+    {
+      "id": "regional-sales-trainer",
+      "label": "Regional Sales Trainer",
+      "soc": "13-1151",
+      "ptr": 0.8813,
+      "nfc": 0.8321,
+      "quadrant": "HH",
+      "size": 5.19,
+      "aiExposure": 0.3972
+    },
+    {
+      "id": "research-investigator",
+      "label": "Research Investigator",
+      "soc": "43-4131",
+      "ptr": 0.8982,
+      "nfc": 0.8534,
+      "quadrant": "HH",
+      "size": 5.19,
+      "aiExposure": 0.4384
+    },
+    {
+      "id": "quality-assurance-specialist-ii",
+      "label": "Quality Assurance Specialist II",
+      "soc": "13-1041",
+      "ptr": 0.7918,
+      "nfc": 0.7416,
+      "quadrant": "HH",
+      "size": 5.19,
+      "aiExposure": 0.3627
+    },
+    {
+      "id": "clinical-trial-associate",
+      "label": "Clinical Trial Associate",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.18,
+      "aiExposure": 0
+    },
+    {
+      "id": "senior-statistician",
+      "label": "Senior Statistician",
+      "soc": "15-2041",
+      "ptr": 0.9468,
+      "nfc": 0.8891,
+      "quadrant": "HH",
+      "size": 5.18,
+      "aiExposure": 0.5199
+    },
+    {
+      "id": "patent-agent-biotech-pharmaceuticals",
+      "label": "Patent Agent",
+      "soc": "13-1011",
+      "ptr": 0.8684,
+      "nfc": 0.8099,
+      "quadrant": "HH",
+      "size": 5.18,
+      "aiExposure": 0.4062
+    },
+    {
+      "id": "regulatory-specialist",
+      "label": "Regulatory Specialist",
+      "soc": "13-1041",
+      "ptr": 0.7918,
+      "nfc": 0.7385,
+      "quadrant": "HH",
+      "size": 5.18,
+      "aiExposure": 0.3627
+    },
+    {
+      "id": "scientific-director",
+      "label": "Scientific Director",
+      "soc": "27-2012",
+      "ptr": 0.6638,
+      "nfc": 0.6191,
+      "quadrant": "LH",
+      "size": 5.18,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "clinical-team-manager",
+      "label": "Clinical Team Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.18,
+      "aiExposure": 0
+    },
+    {
+      "id": "clinical-analyst-biotech-pharmaceuticals",
+      "label": "Clinical Analyst",
+      "soc": "15-2041",
+      "ptr": 0.9468,
+      "nfc": 0.8786,
+      "quadrant": "HH",
+      "size": 5.18,
+      "aiExposure": 0.5199
+    },
+    {
+      "id": "principal-investigator",
+      "label": "Principal Investigator",
+      "soc": "43-4131",
+      "ptr": 0.9106,
+      "nfc": 0.8393,
+      "quadrant": "HH",
+      "size": 5.18,
+      "aiExposure": 0.4384
+    },
+    {
+      "id": "regulatory-coordinator",
+      "label": "Regulatory Coordinator",
+      "soc": "17-2161",
+      "ptr": 0.8857,
+      "nfc": 0.8164,
+      "quadrant": "HH",
+      "size": 5.18,
+      "aiExposure": 0.3797
+    },
+    {
+      "id": "area-business-manager",
+      "label": "Area Business Manager",
+      "soc": "13-1011",
+      "ptr": 0.8684,
+      "nfc": 0.8004,
+      "quadrant": "HH",
+      "size": 5.18,
+      "aiExposure": 0.4062
+    },
+    {
+      "id": "senior-clinical-research-associate-ii",
+      "label": "Senior Clinical Research Associate II",
+      "soc": "19-4099",
+      "ptr": 0.8344,
+      "nfc": 0.7691,
+      "quadrant": "HH",
+      "size": 5.18,
+      "aiExposure": 0.3492
+    },
+    {
+      "id": "group-product-manager",
+      "label": "Group Product Manager",
+      "soc": "11-2021",
+      "ptr": 0.7544,
+      "nfc": 0.6954,
+      "quadrant": "HH",
+      "size": 5.18,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "senior-principal-scientist",
+      "label": "Senior Principal Scientist",
+      "soc": "17-3026",
+      "ptr": 0.5335,
+      "nfc": 0.4917,
+      "quadrant": "LH",
+      "size": 5.18,
+      "aiExposure": 0.2963
+    },
+    {
+      "id": "quality-control-analyst-ii",
+      "label": "Quality Control Analyst II",
+      "soc": "17-3026",
+      "ptr": 0.5335,
+      "nfc": 0.4917,
+      "quadrant": "LH",
+      "size": 5.18,
+      "aiExposure": 0.2963
+    },
+    {
+      "id": "analytical-scientist",
+      "label": "Analytical Scientist",
+      "soc": "17-3026",
+      "ptr": 0.5299,
+      "nfc": 0.4917,
+      "quadrant": "LH",
+      "size": 5.18,
+      "aiExposure": 0.2963
+    },
+    {
+      "id": "sales-executive-representative",
+      "label": "Sales Executive Representative",
+      "soc": "11-1031",
+      "ptr": 0.3606,
+      "nfc": 0.3324,
+      "quadrant": "LH",
+      "size": 5.18,
+      "aiExposure": 0.3345
+    },
+    {
+      "id": "executive-representative",
+      "label": "Executive Representative",
+      "soc": "11-1031",
+      "ptr": 0.3606,
+      "nfc": 0.3324,
+      "quadrant": "LH",
+      "size": 5.18,
+      "aiExposure": 0.3345
+    },
+    {
+      "id": "hospital-representative",
+      "label": "Hospital Representative",
+      "soc": "11-1031",
+      "ptr": 0.3532,
+      "nfc": 0.3324,
+      "quadrant": "LH",
+      "size": 5.18,
+      "aiExposure": 0.3345
+    },
+    {
+      "id": "toxicologist",
+      "label": "Toxicologist",
+      "soc": "19-4092",
+      "ptr": 0.3203,
+      "nfc": 0.2952,
+      "quadrant": "LH",
+      "size": 5.18,
+      "aiExposure": 0.2841
+    },
+    {
+      "id": "quality-control-chemist-ii",
+      "label": "Quality Control Chemist II",
+      "soc": "19-2031",
+      "ptr": 0.2492,
+      "nfc": 0.2297,
+      "quadrant": "LH",
+      "size": 5.18,
+      "aiExposure": 0.3088
+    },
+    {
+      "id": "therapeutic-specialist",
+      "label": "Therapeutic Specialist",
+      "soc": "29-1125",
+      "ptr": 0.2082,
+      "nfc": 0.1919,
+      "quadrant": "LH",
+      "size": 5.18,
+      "aiExposure": 0.1917
+    },
+    {
+      "id": "hospital-specialist",
+      "label": "Hospital Specialist",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.18,
+      "aiExposure": 0
+    },
+    {
+      "id": "sales-executive-professional",
+      "label": "Sales Executive Professional",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.18,
+      "aiExposure": 0
+    },
+    {
+      "id": "principal-research-scientist",
+      "label": "Principal Research Scientist",
+      "soc": "15-2099",
+      "ptr": 0.9535,
+      "nfc": 0.8967,
+      "quadrant": "HH",
+      "size": 5.18,
+      "aiExposure": 0.6013
+    },
+    {
+      "id": "staff-research-associate",
+      "label": "Staff Research Associate",
+      "soc": "19-4099",
+      "ptr": 0.8288,
+      "nfc": 0.7648,
+      "quadrant": "HH",
+      "size": 5.18,
+      "aiExposure": 0.3492
+    },
+    {
+      "id": "in-house-clinical-research-associate",
+      "label": "In House Clinical Research Associate",
+      "soc": "19-4099",
+      "ptr": 0.8231,
+      "nfc": 0.7648,
+      "quadrant": "HH",
+      "size": 5.18,
+      "aiExposure": 0.3492
+    },
+    {
+      "id": "clinical-trial-coordinator",
+      "label": "Clinical Trial Coordinator",
+      "soc": "11-9121",
+      "ptr": 0.7889,
+      "nfc": 0.7381,
+      "quadrant": "HH",
+      "size": 5.18,
+      "aiExposure": 0.3216
+    },
+    {
+      "id": "senior-scientist-ii",
+      "label": "Senior Scientist II",
+      "soc": "19-2032",
+      "ptr": 0.6981,
+      "nfc": 0.6442,
+      "quadrant": "HH",
+      "size": 5.18,
+      "aiExposure": 0.3641
+    },
+    {
+      "id": "development-scientist",
+      "label": "Development Scientist",
+      "soc": "19-2032",
+      "ptr": 0.6885,
+      "nfc": 0.6442,
+      "quadrant": "HH",
+      "size": 5.18,
+      "aiExposure": 0.3641
+    },
+    {
+      "id": "biochemist",
+      "label": "Biochemist",
+      "soc": "19-1021",
+      "ptr": 0.6549,
+      "nfc": 0.6044,
+      "quadrant": "LH",
+      "size": 5.18,
+      "aiExposure": 0.353
+    },
+    {
+      "id": "clinical-trial-administrator",
+      "label": "Clinical Trial Administrator",
+      "soc": "11-3012",
+      "ptr": 0.3159,
+      "nfc": 0.2956,
+      "quadrant": "LH",
+      "size": 5.18,
+      "aiExposure": 0.2392
+    },
+    {
+      "id": "project-scientist-biotech-pharmaceuticals",
+      "label": "Project Scientist",
+      "soc": "19-2032",
+      "ptr": 0.6981,
+      "nfc": 0.6438,
+      "quadrant": "HH",
+      "size": 5.16,
+      "aiExposure": 0.3641
+    },
+    {
+      "id": "associate-chemist-biotech-pharmaceuticals",
+      "label": "Associate Chemist",
+      "soc": "19-2031",
+      "ptr": 0.2458,
+      "nfc": 0.2281,
+      "quadrant": "LH",
+      "size": 5.16,
+      "aiExposure": 0.3088
+    },
+    {
+      "id": "research-technician",
+      "label": "Research Technician",
+      "soc": "15-2099",
+      "ptr": 0.7246,
+      "nfc": 0.8903,
+      "quadrant": "HH",
+      "size": 5.12,
+      "aiExposure": 0.6013
+    },
+    {
+      "id": "research-associate-ii",
+      "label": "Research Associate II",
+      "soc": "19-4099",
+      "ptr": 0.7881,
+      "nfc": 0.7626,
+      "quadrant": "HH",
+      "size": 5.1,
+      "aiExposure": 0.3492
+    }
+  ],
+  "edges": [
+    {
+      "source": "clinical-research-associate",
+      "target": "associate-director",
+      "weight": 0.57
+    },
+    {
+      "source": "sales-professional-representative",
+      "target": "research-scientist",
+      "weight": 0.71
+    },
+    {
+      "source": "clinical-specialist-biotech-pharmaceuticals",
+      "target": "research-scientist",
+      "weight": 0.82
+    },
+    {
+      "source": "clinical-specialist-biotech-pharmaceuticals",
+      "target": "laboratory-manager",
+      "weight": 0.67
+    },
+    {
+      "source": "clinical-pharmacist-biotech-pharmaceuticals",
+      "target": "phd-student",
+      "weight": 0.68
+    },
+    {
+      "source": "clinical-pharmacist-biotech-pharmaceuticals",
+      "target": "study-director",
+      "weight": 0.96
+    },
+    {
+      "source": "clinical-manager-biotech-pharmaceuticals",
+      "target": "study-director",
+      "weight": 0.94
+    },
+    {
+      "source": "clinical-manager-biotech-pharmaceuticals",
+      "target": "senior-scientist",
+      "weight": 0.48
+    },
+    {
+      "source": "scientist",
+      "target": "clinical-research-coordinator-biotech-pharmaceuticals",
+      "weight": 0.45
+    },
+    {
+      "source": "pharmacy-intern-biotech-pharmaceuticals",
+      "target": "associate-director",
+      "weight": 0.84
+    },
+    {
+      "source": "pharmacy-intern-biotech-pharmaceuticals",
+      "target": "research-scientist",
+      "weight": 0.89
+    },
+    {
+      "source": "territory-manager",
+      "target": "phd-candidate-biotech-pharmaceuticals",
+      "weight": 0.9
+    },
+    {
+      "source": "territory-manager",
+      "target": "research-associate",
+      "weight": 0.4
+    },
+    {
+      "source": "quality-control-analyst",
+      "target": "phd-candidate-biotech-pharmaceuticals",
+      "weight": 0.98
+    },
+    {
+      "source": "quality-control-analyst",
+      "target": "product-specialist",
+      "weight": 0.66
+    },
+    {
+      "source": "postdoctoral-fellow-biotech-pharmaceuticals",
+      "target": "study-director",
+      "weight": 0.98
+    },
+    {
+      "source": "postdoctoral-fellow-biotech-pharmaceuticals",
+      "target": "product-specialist",
+      "weight": 0.77
+    },
+    {
+      "source": "senior-clinical-research-associate",
+      "target": "associate-director",
+      "weight": 0.87
+    },
+    {
+      "source": "senior-clinical-research-associate",
+      "target": "study-director",
+      "weight": 0.42
+    },
+    {
+      "source": "phd-researcher",
+      "target": "research-associate",
+      "weight": 0.56
+    },
+    {
+      "source": "phd-researcher",
+      "target": "phd-candidate-biotech-pharmaceuticals",
+      "weight": 0.71
+    },
+    {
+      "source": "medical-science-liaison",
+      "target": "research-scientist",
+      "weight": 0.86
+    },
+    {
+      "source": "senior-product-manager",
+      "target": "product-specialist",
+      "weight": 0.56
+    },
+    {
+      "source": "senior-product-manager",
+      "target": "senior-scientist",
+      "weight": 0.9
+    },
+    {
+      "source": "pharmacist-intern-biotech-pharmaceuticals",
+      "target": "associate-director",
+      "weight": 0.48
+    },
+    {
+      "source": "pharmacist-intern-biotech-pharmaceuticals",
+      "target": "senior-scientist",
+      "weight": 0.53
+    },
+    {
+      "source": "postdoctoral-researcher-biotech-pharmaceuticals",
+      "target": "research-scientist",
+      "weight": 0.4
+    },
+    {
+      "source": "postdoctoral-researcher-biotech-pharmaceuticals",
+      "target": "phd-candidate-biotech-pharmaceuticals",
+      "weight": 0.63
+    },
+    {
+      "source": "pharmacy-manager",
+      "target": "phd-student",
+      "weight": 0.75
+    },
+    {
+      "source": "pharmacist-biotech-pharmaceuticals",
+      "target": "research-scientist",
+      "weight": 0.79
+    },
+    {
+      "source": "graduate-student-researcher",
+      "target": "study-director",
+      "weight": 0.45
+    },
+    {
+      "source": "regulatory-affairs-manager",
+      "target": "research-associate",
+      "weight": 0.8
+    },
+    {
+      "source": "pharmacy-resident-biotech-pharmaceuticals",
+      "target": "associate-director",
+      "weight": 0.84
+    },
+    {
+      "source": "pharmacy-resident-biotech-pharmaceuticals",
+      "target": "phd-candidate-biotech-pharmaceuticals",
+      "weight": 0.6
+    },
+    {
+      "source": "senior-sales-representative",
+      "target": "product-specialist",
+      "weight": 0.78
+    },
+    {
+      "source": "senior-sales-representative",
+      "target": "senior-scientist",
+      "weight": 0.53
+    },
+    {
+      "source": "associate-product-manager",
+      "target": "senior-scientist",
+      "weight": 0.97
+    },
+    {
+      "source": "study-manager",
+      "target": "phd-candidate-biotech-pharmaceuticals",
+      "weight": 0.72
+    },
+    {
+      "source": "study-manager",
+      "target": "phd-student",
+      "weight": 0.4
+    },
+    {
+      "source": "medical-writer-biotech-pharmaceuticals",
+      "target": "clinical-research-coordinator-biotech-pharmaceuticals",
+      "weight": 0.67
+    },
+    {
+      "source": "medical-writer-biotech-pharmaceuticals",
+      "target": "study-director",
+      "weight": 0.72
+    },
+    {
+      "source": "pre-registration-pharmacist-biotech-pharmaceuticals",
+      "target": "associate-director",
+      "weight": 0.61
+    },
+    {
+      "source": "pre-registration-pharmacist-biotech-pharmaceuticals",
+      "target": "product-specialist",
+      "weight": 0.65
+    },
+    {
+      "source": "medical-representative",
+      "target": "product-specialist",
+      "weight": 0.98
+    },
+    {
+      "source": "medical-representative",
+      "target": "laboratory-manager",
+      "weight": 0.54
+    },
+    {
+      "source": "pharmacist-manager",
+      "target": "associate-director",
+      "weight": 0.76
+    },
+    {
+      "source": "staff-pharmacist-biotech-pharmaceuticals",
+      "target": "clinical-research-coordinator-biotech-pharmaceuticals",
+      "weight": 0.91
+    },
+    {
+      "source": "senior-biostatistician",
+      "target": "phd-candidate-biotech-pharmaceuticals",
+      "weight": 0.77
+    },
+    {
+      "source": "senior-biostatistician",
+      "target": "phd-student",
+      "weight": 0.49
+    },
+    {
+      "source": "senior-chemist-biotech-pharmaceuticals",
+      "target": "associate-director",
+      "weight": 0.84
+    },
+    {
+      "source": "clinical-trial-assistant",
+      "target": "research-scientist",
+      "weight": 0.58
+    },
+    {
+      "source": "laboratory-supervisor",
+      "target": "research-scientist",
+      "weight": 0.87
+    },
+    {
+      "source": "laboratory-supervisor",
+      "target": "phd-candidate-biotech-pharmaceuticals",
+      "weight": 0.64
+    },
+    {
+      "source": "regulatory-affairs-specialist",
+      "target": "clinical-research-coordinator-biotech-pharmaceuticals",
+      "weight": 0.42
+    },
+    {
+      "source": "district-sales-manager",
+      "target": "laboratory-manager",
+      "weight": 0.73
+    },
+    {
+      "source": "analytical-chemist",
+      "target": "product-specialist",
+      "weight": 0.67
+    },
+    {
+      "source": "analytical-chemist",
+      "target": "phd-candidate-biotech-pharmaceuticals",
+      "weight": 0.59
+    },
+    {
+      "source": "associate-specialist",
+      "target": "associate-director",
+      "weight": 0.65
+    },
+    {
+      "source": "associate-specialist",
+      "target": "laboratory-manager",
+      "weight": 0.69
+    },
+    {
+      "source": "pharmacy-technician",
+      "target": "senior-scientist",
+      "weight": 0.89
+    },
+    {
+      "source": "biostatistician",
+      "target": "product-specialist",
+      "weight": 0.59
+    },
+    {
+      "source": "biostatistician",
+      "target": "research-scientist",
+      "weight": 0.56
+    },
+    {
+      "source": "senior-brand-manager-biotech-pharmaceuticals",
+      "target": "study-director",
+      "weight": 0.57
+    },
+    {
+      "source": "senior-brand-manager-biotech-pharmaceuticals",
+      "target": "senior-scientist",
+      "weight": 0.52
+    },
+    {
+      "source": "senior-clinical-project-manager",
+      "target": "research-scientist",
+      "weight": 0.47
+    },
+    {
+      "source": "senior-clinical-project-manager",
+      "target": "clinical-research-coordinator-biotech-pharmaceuticals",
+      "weight": 0.85
+    },
+    {
+      "source": "clinical-project-manager",
+      "target": "phd-candidate-biotech-pharmaceuticals",
+      "weight": 0.91
+    },
+    {
+      "source": "clinical-project-manager",
+      "target": "senior-scientist",
+      "weight": 0.67
+    },
+    {
+      "source": "associate-scientist",
+      "target": "senior-scientist",
+      "weight": 0.56
+    },
+    {
+      "source": "global-product-manager-biotech-pharmaceuticals",
+      "target": "research-scientist",
+      "weight": 0.74
+    },
+    {
+      "source": "global-product-manager-biotech-pharmaceuticals",
+      "target": "clinical-research-coordinator-biotech-pharmaceuticals",
+      "weight": 0.61
+    },
+    {
+      "source": "quality-assurance-specialist",
+      "target": "research-scientist",
+      "weight": 0.69
+    },
+    {
+      "source": "research-fellow",
+      "target": "associate-director",
+      "weight": 0.98
+    },
+    {
+      "source": "postdoctoral-research-associate-biotech-pharmaceuticals",
+      "target": "research-scientist",
+      "weight": 0.55
+    },
+    {
+      "source": "postdoctoral-research-associate-biotech-pharmaceuticals",
+      "target": "laboratory-manager",
+      "weight": 0.61
+    },
+    {
+      "source": "laboratory-technician",
+      "target": "research-scientist",
+      "weight": 0.73
+    },
+    {
+      "source": "laboratory-technician",
+      "target": "study-director",
+      "weight": 0.65
+    },
+    {
+      "source": "principal-scientist",
+      "target": "study-director",
+      "weight": 0.69
+    },
+    {
+      "source": "clinical-data-manager",
+      "target": "laboratory-manager",
+      "weight": 0.6
+    },
+    {
+      "source": "clinical-data-manager",
+      "target": "clinical-research-coordinator-biotech-pharmaceuticals",
+      "weight": 0.51
+    },
+    {
+      "source": "specialty-representative",
+      "target": "laboratory-manager",
+      "weight": 0.74
+    },
+    {
+      "source": "senior-medical-writer",
+      "target": "laboratory-manager",
+      "weight": 0.59
+    },
+    {
+      "source": "senior-medical-writer",
+      "target": "research-scientist",
+      "weight": 0.97
+    },
+    {
+      "source": "postdoctoral-research-fellow-biotech-pharmaceuticals",
+      "target": "phd-candidate-biotech-pharmaceuticals",
+      "weight": 0.48
+    },
+    {
+      "source": "postdoctoral-research-fellow-biotech-pharmaceuticals",
+      "target": "research-associate",
+      "weight": 0.87
+    },
+    {
+      "source": "statistician",
+      "target": "laboratory-manager",
+      "weight": 0.59
+    },
+    {
+      "source": "statistician",
+      "target": "research-associate",
+      "weight": 0.64
+    },
+    {
+      "source": "quality-control-manager-biotech-pharmaceuticals",
+      "target": "phd-candidate-biotech-pharmaceuticals",
+      "weight": 0.43
+    },
+    {
+      "source": "senior-research-associate",
+      "target": "research-scientist",
+      "weight": 0.5
+    },
+    {
+      "source": "medical-technologist-biotech-pharmaceuticals",
+      "target": "clinical-research-coordinator-biotech-pharmaceuticals",
+      "weight": 0.6
+    },
+    {
+      "source": "biomedical-scientist-biotech-pharmaceuticals",
+      "target": "research-associate",
+      "weight": 0.84
+    },
+    {
+      "source": "senior-sales-professional",
+      "target": "clinical-research-coordinator-biotech-pharmaceuticals",
+      "weight": 0.42
+    },
+    {
+      "source": "microbiologist",
+      "target": "product-specialist",
+      "weight": 0.6
+    },
+    {
+      "source": "certified-pharmacy-technician-biotech-pharmaceuticals",
+      "target": "product-specialist",
+      "weight": 0.5
+    },
+    {
+      "source": "senior-research-scientist",
+      "target": "product-specialist",
+      "weight": 0.46
+    },
+    {
+      "source": "specialty-sales-representative",
+      "target": "product-specialist",
+      "weight": 0.53
+    },
+    {
+      "source": "specialty-sales-representative",
+      "target": "study-director",
+      "weight": 0.96
+    },
+    {
+      "source": "clinical-scientist-biotech-pharmaceuticals",
+      "target": "research-scientist",
+      "weight": 0.94
+    },
+    {
+      "source": "biologist",
+      "target": "associate-director",
+      "weight": 0.57
+    },
+    {
+      "source": "clinical-research-associate-ii",
+      "target": "product-specialist",
+      "weight": 0.62
+    },
+    {
+      "source": "quality-assurance-associate",
+      "target": "laboratory-manager",
+      "weight": 0.64
+    },
+    {
+      "source": "quality-assurance-associate",
+      "target": "senior-scientist",
+      "weight": 0.81
+    },
+    {
+      "source": "postdoctoral-scholar-biotech-pharmaceuticals",
+      "target": "research-scientist",
+      "weight": 0.89
+    },
+    {
+      "source": "postdoctoral-scholar-biotech-pharmaceuticals",
+      "target": "study-director",
+      "weight": 0.58
+    },
+    {
+      "source": "regulatory-affairs-associate",
+      "target": "phd-student",
+      "weight": 0.88
+    },
+    {
+      "source": "quality-control-chemist",
+      "target": "associate-director",
+      "weight": 0.97
+    },
+    {
+      "source": "sales-training-manager",
+      "target": "senior-scientist",
+      "weight": 0.75
+    },
+    {
+      "source": "sales-training-manager",
+      "target": "clinical-research-coordinator-biotech-pharmaceuticals",
+      "weight": 0.44
+    },
+    {
+      "source": "medical-director-biotech-pharmaceuticals",
+      "target": "research-scientist",
+      "weight": 0.81
+    },
+    {
+      "source": "medical-director-biotech-pharmaceuticals",
+      "target": "clinical-research-coordinator-biotech-pharmaceuticals",
+      "weight": 0.97
+    },
+    {
+      "source": "global-marketing-manager-biotech-pharmaceuticals",
+      "target": "research-associate",
+      "weight": 0.79
+    },
+    {
+      "source": "global-marketing-manager-biotech-pharmaceuticals",
+      "target": "clinical-research-coordinator-biotech-pharmaceuticals",
+      "weight": 0.57
+    },
+    {
+      "source": "assistant-scientist",
+      "target": "associate-director",
+      "weight": 0.77
+    },
+    {
+      "source": "assistant-scientist",
+      "target": "study-director",
+      "weight": 0.96
+    },
+    {
+      "source": "clinical-program-manager-biotech-pharmaceuticals",
+      "target": "product-specialist",
+      "weight": 0.45
+    },
+    {
+      "source": "associate-scientific-director",
+      "target": "associate-director",
+      "weight": 0.98
+    },
+    {
+      "source": "quality-control-associate",
+      "target": "product-specialist",
+      "weight": 0.43
+    },
+    {
+      "source": "diabetes-care-specialist",
+      "target": "research-scientist",
+      "weight": 0.68
+    },
+    {
+      "source": "senior-associate-scientist",
+      "target": "phd-student",
+      "weight": 0.89
+    },
+    {
+      "source": "senior-associate-scientist",
+      "target": "research-scientist",
+      "weight": 0.46
+    },
+    {
+      "source": "undergraduate-research-assistant",
+      "target": "research-associate",
+      "weight": 0.45
+    },
+    {
+      "source": "manufacturing-associate",
+      "target": "clinical-research-coordinator-biotech-pharmaceuticals",
+      "weight": 0.79
+    },
+    {
+      "source": "research-biologist",
+      "target": "research-associate",
+      "weight": 0.98
+    },
+    {
+      "source": "research-biologist",
+      "target": "senior-scientist",
+      "weight": 0.94
+    },
+    {
+      "source": "senior-research-investigator",
+      "target": "study-director",
+      "weight": 0.78
+    },
+    {
+      "source": "research-assistant-professor-biotech-pharmaceuticals",
+      "target": "phd-candidate-biotech-pharmaceuticals",
+      "weight": 0.46
+    },
+    {
+      "source": "clinical-laboratory-scientist-biotech-pharmaceuticals",
+      "target": "associate-director",
+      "weight": 0.63
+    },
+    {
+      "source": "clinical-laboratory-scientist-biotech-pharmaceuticals",
+      "target": "study-director",
+      "weight": 0.47
+    },
+    {
+      "source": "clinical-data-associate",
+      "target": "laboratory-manager",
+      "weight": 0.56
+    },
+    {
+      "source": "clinical-data-associate-iii",
+      "target": "product-specialist",
+      "weight": 0.99
+    },
+    {
+      "source": "clinical-data-associate-iii",
+      "target": "research-scientist",
+      "weight": 0.89
+    },
+    {
+      "source": "research-assistant-iii",
+      "target": "phd-student",
+      "weight": 0.68
+    },
+    {
+      "source": "scientific-associate-ii",
+      "target": "senior-scientist",
+      "weight": 0.73
+    },
+    {
+      "source": "postdoctoral-associate-biotech-pharmaceuticals",
+      "target": "research-scientist",
+      "weight": 0.96
+    },
+    {
+      "source": "clinical-research-manager",
+      "target": "senior-scientist",
+      "weight": 0.69
+    },
+    {
+      "source": "clinical-research-manager",
+      "target": "research-associate",
+      "weight": 0.79
+    },
+    {
+      "source": "research-technician-iii",
+      "target": "study-director",
+      "weight": 0.91
+    },
+    {
+      "source": "research-scientist-ii",
+      "target": "product-specialist",
+      "weight": 0.49
+    },
+    {
+      "source": "postdoctoral-scientist",
+      "target": "research-associate",
+      "weight": 0.44
+    },
+    {
+      "source": "staff-scientist",
+      "target": "clinical-research-coordinator-biotech-pharmaceuticals",
+      "weight": 0.58
+    },
+    {
+      "source": "staff-scientist",
+      "target": "research-scientist",
+      "weight": 0.55
+    },
+    {
+      "source": "associate-scientist-ii",
+      "target": "phd-student",
+      "weight": 0.64
+    },
+    {
+      "source": "associate-scientist-ii",
+      "target": "research-associate",
+      "weight": 0.45
+    },
+    {
+      "source": "quality-assurance-supervisor",
+      "target": "research-scientist",
+      "weight": 0.78
+    },
+    {
+      "source": "quality-assurance-supervisor",
+      "target": "senior-scientist",
+      "weight": 0.59
+    },
+    {
+      "source": "study-coordinator",
+      "target": "research-associate",
+      "weight": 0.4
+    },
+    {
+      "source": "study-coordinator",
+      "target": "laboratory-manager",
+      "weight": 0.95
+    },
+    {
+      "source": "regional-business-manager",
+      "target": "senior-scientist",
+      "weight": 0.76
+    },
+    {
+      "source": "quality-control-supervisor",
+      "target": "research-scientist",
+      "weight": 0.87
+    },
+    {
+      "source": "scientist-ii",
+      "target": "research-scientist",
+      "weight": 0.48
+    },
+    {
+      "source": "scientist-ii",
+      "target": "study-director",
+      "weight": 0.94
+    },
+    {
+      "source": "district-business-manager",
+      "target": "phd-student",
+      "weight": 0.55
+    },
+    {
+      "source": "regional-sales-trainer",
+      "target": "study-director",
+      "weight": 0.69
+    },
+    {
+      "source": "regional-sales-trainer",
+      "target": "product-specialist",
+      "weight": 0.91
+    },
+    {
+      "source": "research-investigator",
+      "target": "product-specialist",
+      "weight": 0.51
+    },
+    {
+      "source": "quality-assurance-specialist-ii",
+      "target": "research-scientist",
+      "weight": 0.42
+    },
+    {
+      "source": "clinical-trial-associate",
+      "target": "clinical-research-coordinator-biotech-pharmaceuticals",
+      "weight": 0.71
+    },
+    {
+      "source": "senior-statistician",
+      "target": "clinical-research-coordinator-biotech-pharmaceuticals",
+      "weight": 0.75
+    },
+    {
+      "source": "senior-statistician",
+      "target": "phd-candidate-biotech-pharmaceuticals",
+      "weight": 0.49
+    },
+    {
+      "source": "patent-agent-biotech-pharmaceuticals",
+      "target": "associate-director",
+      "weight": 0.49
+    },
+    {
+      "source": "regulatory-specialist",
+      "target": "research-scientist",
+      "weight": 0.6
+    },
+    {
+      "source": "regulatory-specialist",
+      "target": "laboratory-manager",
+      "weight": 0.49
+    },
+    {
+      "source": "scientific-director",
+      "target": "product-specialist",
+      "weight": 0.89
+    },
+    {
+      "source": "clinical-team-manager",
+      "target": "clinical-research-coordinator-biotech-pharmaceuticals",
+      "weight": 0.48
+    },
+    {
+      "source": "clinical-analyst-biotech-pharmaceuticals",
+      "target": "associate-director",
+      "weight": 0.95
+    },
+    {
+      "source": "principal-investigator",
+      "target": "associate-director",
+      "weight": 0.54
+    },
+    {
+      "source": "regulatory-coordinator",
+      "target": "study-director",
+      "weight": 0.46
+    },
+    {
+      "source": "regulatory-coordinator",
+      "target": "senior-scientist",
+      "weight": 0.4
+    },
+    {
+      "source": "area-business-manager",
+      "target": "clinical-research-coordinator-biotech-pharmaceuticals",
+      "weight": 0.53
+    },
+    {
+      "source": "senior-clinical-research-associate-ii",
+      "target": "research-associate",
+      "weight": 0.86
+    },
+    {
+      "source": "group-product-manager",
+      "target": "senior-scientist",
+      "weight": 0.61
+    },
+    {
+      "source": "senior-principal-scientist",
+      "target": "phd-candidate-biotech-pharmaceuticals",
+      "weight": 0.52
+    },
+    {
+      "source": "quality-control-analyst-ii",
+      "target": "associate-director",
+      "weight": 0.46
+    },
+    {
+      "source": "quality-control-analyst-ii",
+      "target": "research-scientist",
+      "weight": 0.95
+    },
+    {
+      "source": "analytical-scientist",
+      "target": "study-director",
+      "weight": 0.52
+    },
+    {
+      "source": "analytical-scientist",
+      "target": "clinical-research-coordinator-biotech-pharmaceuticals",
+      "weight": 0.43
+    },
+    {
+      "source": "sales-executive-representative",
+      "target": "research-scientist",
+      "weight": 0.86
+    },
+    {
+      "source": "sales-executive-representative",
+      "target": "phd-student",
+      "weight": 0.78
+    },
+    {
+      "source": "executive-representative",
+      "target": "clinical-research-coordinator-biotech-pharmaceuticals",
+      "weight": 0.78
+    },
+    {
+      "source": "executive-representative",
+      "target": "senior-scientist",
+      "weight": 0.41
+    },
+    {
+      "source": "hospital-representative",
+      "target": "laboratory-manager",
+      "weight": 0.95
+    },
+    {
+      "source": "toxicologist",
+      "target": "research-associate",
+      "weight": 0.69
+    },
+    {
+      "source": "quality-control-chemist-ii",
+      "target": "product-specialist",
+      "weight": 0.83
+    },
+    {
+      "source": "therapeutic-specialist",
+      "target": "research-scientist",
+      "weight": 1
+    },
+    {
+      "source": "hospital-specialist",
+      "target": "laboratory-manager",
+      "weight": 0.57
+    },
+    {
+      "source": "hospital-specialist",
+      "target": "phd-candidate-biotech-pharmaceuticals",
+      "weight": 0.87
+    },
+    {
+      "source": "sales-executive-professional",
+      "target": "study-director",
+      "weight": 0.67
+    },
+    {
+      "source": "sales-executive-professional",
+      "target": "phd-candidate-biotech-pharmaceuticals",
+      "weight": 0.71
+    },
+    {
+      "source": "principal-research-scientist",
+      "target": "research-associate",
+      "weight": 0.46
+    },
+    {
+      "source": "principal-research-scientist",
+      "target": "research-scientist",
+      "weight": 0.52
+    },
+    {
+      "source": "staff-research-associate",
+      "target": "phd-student",
+      "weight": 0.68
+    },
+    {
+      "source": "in-house-clinical-research-associate",
+      "target": "associate-director",
+      "weight": 0.82
+    },
+    {
+      "source": "in-house-clinical-research-associate",
+      "target": "phd-student",
+      "weight": 0.56
+    },
+    {
+      "source": "clinical-trial-coordinator",
+      "target": "research-scientist",
+      "weight": 0.68
+    },
+    {
+      "source": "senior-scientist-ii",
+      "target": "phd-candidate-biotech-pharmaceuticals",
+      "weight": 0.74
+    },
+    {
+      "source": "senior-scientist-ii",
+      "target": "research-scientist",
+      "weight": 0.83
+    },
+    {
+      "source": "development-scientist",
+      "target": "research-associate",
+      "weight": 0.91
+    },
+    {
+      "source": "biochemist",
+      "target": "senior-scientist",
+      "weight": 0.47
+    },
+    {
+      "source": "clinical-trial-administrator",
+      "target": "associate-director",
+      "weight": 0.82
+    },
+    {
+      "source": "clinical-trial-administrator",
+      "target": "research-scientist",
+      "weight": 0.7
+    },
+    {
+      "source": "project-scientist-biotech-pharmaceuticals",
+      "target": "research-scientist",
+      "weight": 0.52
+    },
+    {
+      "source": "associate-chemist-biotech-pharmaceuticals",
+      "target": "product-specialist",
+      "weight": 0.71
+    },
+    {
+      "source": "research-technician",
+      "target": "research-scientist",
+      "weight": 0.46
+    },
+    {
+      "source": "research-associate-ii",
+      "target": "senior-scientist",
+      "weight": 0.86
+    },
+    {
+      "source": "research-associate-ii",
+      "target": "associate-director",
+      "weight": 0.74
+    },
+    {
+      "source": "laboratory-manager",
+      "target": "senior-scientist",
+      "weight": 0.94
+    },
+    {
+      "source": "laboratory-manager",
+      "target": "study-director",
+      "weight": 0.91
+    },
+    {
+      "source": "laboratory-manager",
+      "target": "product-specialist",
+      "weight": 0.64
+    },
+    {
+      "source": "senior-scientist",
+      "target": "research-associate",
+      "weight": 0.8
+    },
+    {
+      "source": "senior-scientist",
+      "target": "study-director",
+      "weight": 0.9
+    },
+    {
+      "source": "senior-scientist",
+      "target": "associate-director",
+      "weight": 0.73
+    },
+    {
+      "source": "senior-scientist",
+      "target": "product-specialist",
+      "weight": 0.65
+    },
+    {
+      "source": "senior-scientist",
+      "target": "phd-candidate-biotech-pharmaceuticals",
+      "weight": 0.82
+    },
+    {
+      "source": "senior-scientist",
+      "target": "clinical-research-coordinator-biotech-pharmaceuticals",
+      "weight": 0.65
+    },
+    {
+      "source": "senior-scientist",
+      "target": "research-scientist",
+      "weight": 0.94
+    },
+    {
+      "source": "research-associate",
+      "target": "associate-director",
+      "weight": 0.81
+    },
+    {
+      "source": "research-associate",
+      "target": "product-specialist",
+      "weight": 0.96
+    },
+    {
+      "source": "research-associate",
+      "target": "phd-student",
+      "weight": 0.91
+    },
+    {
+      "source": "research-associate",
+      "target": "phd-candidate-biotech-pharmaceuticals",
+      "weight": 0.68
+    },
+    {
+      "source": "research-associate",
+      "target": "clinical-research-coordinator-biotech-pharmaceuticals",
+      "weight": 0.91
+    },
+    {
+      "source": "research-associate",
+      "target": "research-scientist",
+      "weight": 0.68
+    },
+    {
+      "source": "study-director",
+      "target": "product-specialist",
+      "weight": 0.83
+    },
+    {
+      "source": "study-director",
+      "target": "phd-student",
+      "weight": 0.95
+    },
+    {
+      "source": "study-director",
+      "target": "phd-candidate-biotech-pharmaceuticals",
+      "weight": 0.9
+    },
+    {
+      "source": "study-director",
+      "target": "clinical-research-coordinator-biotech-pharmaceuticals",
+      "weight": 0.89
+    },
+    {
+      "source": "study-director",
+      "target": "research-scientist",
+      "weight": 0.72
+    },
+    {
+      "source": "associate-director",
+      "target": "phd-student",
+      "weight": 0.68
+    },
+    {
+      "source": "associate-director",
+      "target": "phd-candidate-biotech-pharmaceuticals",
+      "weight": 0.66
+    },
+    {
+      "source": "associate-director",
+      "target": "clinical-research-coordinator-biotech-pharmaceuticals",
+      "weight": 0.73
+    },
+    {
+      "source": "associate-director",
+      "target": "research-scientist",
+      "weight": 0.75
+    },
+    {
+      "source": "product-specialist",
+      "target": "phd-student",
+      "weight": 0.78
+    },
+    {
+      "source": "product-specialist",
+      "target": "phd-candidate-biotech-pharmaceuticals",
+      "weight": 0.76
+    },
+    {
+      "source": "product-specialist",
+      "target": "clinical-research-coordinator-biotech-pharmaceuticals",
+      "weight": 0.99
+    },
+    {
+      "source": "product-specialist",
+      "target": "research-scientist",
+      "weight": 0.63
+    },
+    {
+      "source": "phd-student",
+      "target": "phd-candidate-biotech-pharmaceuticals",
+      "weight": 0.74
+    },
+    {
+      "source": "phd-student",
+      "target": "clinical-research-coordinator-biotech-pharmaceuticals",
+      "weight": 0.85
+    },
+    {
+      "source": "phd-student",
+      "target": "research-scientist",
+      "weight": 0.98
+    },
+    {
+      "source": "phd-candidate-biotech-pharmaceuticals",
+      "target": "clinical-research-coordinator-biotech-pharmaceuticals",
+      "weight": 0.81
+    },
+    {
+      "source": "phd-candidate-biotech-pharmaceuticals",
+      "target": "research-scientist",
+      "weight": 0.96
+    },
+    {
+      "source": "clinical-research-coordinator-biotech-pharmaceuticals",
+      "target": "research-scientist",
+      "weight": 0.62
+    },
+    {
+      "source": "study-director",
+      "target": "associate-director",
+      "weight": 0.7
+    },
+    {
+      "source": "study-director",
+      "target": "associate-scientific-director",
+      "weight": 0.7
+    },
+    {
+      "source": "study-director",
+      "target": "scientific-director",
+      "weight": 0.7
+    },
+    {
+      "source": "associate-director",
+      "target": "associate-scientific-director",
+      "weight": 0.7
+    },
+    {
+      "source": "associate-director",
+      "target": "scientific-director",
+      "weight": 0.7
+    },
+    {
+      "source": "associate-scientific-director",
+      "target": "scientific-director",
+      "weight": 0.7
+    },
+    {
+      "source": "sales-professional-representative",
+      "target": "senior-sales-representative",
+      "weight": 0.7
+    },
+    {
+      "source": "sales-professional-representative",
+      "target": "senior-sales-professional",
+      "weight": 0.7
+    },
+    {
+      "source": "sales-professional-representative",
+      "target": "specialty-sales-representative",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-sales-representative",
+      "target": "senior-sales-professional",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-sales-representative",
+      "target": "specialty-sales-representative",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-sales-professional",
+      "target": "specialty-sales-representative",
+      "weight": 0.7
+    },
+    {
+      "source": "clinical-specialist-biotech-pharmaceuticals",
+      "target": "microbiologist",
+      "weight": 0.7
+    },
+    {
+      "source": "clinical-specialist-biotech-pharmaceuticals",
+      "target": "therapeutic-specialist",
+      "weight": 0.7
+    },
+    {
+      "source": "microbiologist",
+      "target": "therapeutic-specialist",
+      "weight": 0.7
+    },
+    {
+      "source": "clinical-pharmacist-biotech-pharmaceuticals",
+      "target": "pre-registration-pharmacist-biotech-pharmaceuticals",
+      "weight": 0.7
+    },
+    {
+      "source": "clinical-pharmacist-biotech-pharmaceuticals",
+      "target": "pharmacist-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "clinical-pharmacist-biotech-pharmaceuticals",
+      "target": "staff-pharmacist-biotech-pharmaceuticals",
+      "weight": 0.7
+    },
+    {
+      "source": "pre-registration-pharmacist-biotech-pharmaceuticals",
+      "target": "pharmacist-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "pre-registration-pharmacist-biotech-pharmaceuticals",
+      "target": "staff-pharmacist-biotech-pharmaceuticals",
+      "weight": 0.7
+    },
+    {
+      "source": "pharmacist-manager",
+      "target": "staff-pharmacist-biotech-pharmaceuticals",
+      "weight": 0.7
+    },
+    {
+      "source": "pharmacy-intern-biotech-pharmaceuticals",
+      "target": "pharmacist-intern-biotech-pharmaceuticals",
+      "weight": 0.7
+    },
+    {
+      "source": "pharmacy-intern-biotech-pharmaceuticals",
+      "target": "pharmacy-resident-biotech-pharmaceuticals",
+      "weight": 0.7
+    },
+    {
+      "source": "pharmacy-intern-biotech-pharmaceuticals",
+      "target": "medical-director-biotech-pharmaceuticals",
+      "weight": 0.7
+    },
+    {
+      "source": "pharmacist-intern-biotech-pharmaceuticals",
+      "target": "pharmacy-resident-biotech-pharmaceuticals",
+      "weight": 0.7
+    },
+    {
+      "source": "pharmacist-intern-biotech-pharmaceuticals",
+      "target": "medical-director-biotech-pharmaceuticals",
+      "weight": 0.7
+    },
+    {
+      "source": "pharmacy-resident-biotech-pharmaceuticals",
+      "target": "medical-director-biotech-pharmaceuticals",
+      "weight": 0.7
+    },
+    {
+      "source": "phd-researcher",
+      "target": "postdoctoral-researcher-biotech-pharmaceuticals",
+      "weight": 0.7
+    },
+    {
+      "source": "phd-researcher",
+      "target": "research-fellow",
+      "weight": 0.7
+    },
+    {
+      "source": "phd-researcher",
+      "target": "postdoctoral-research-fellow-biotech-pharmaceuticals",
+      "weight": 0.7
+    },
+    {
+      "source": "phd-researcher",
+      "target": "statistician",
+      "weight": 0.7
+    },
+    {
+      "source": "postdoctoral-researcher-biotech-pharmaceuticals",
+      "target": "research-fellow",
+      "weight": 0.7
+    },
+    {
+      "source": "postdoctoral-researcher-biotech-pharmaceuticals",
+      "target": "postdoctoral-research-fellow-biotech-pharmaceuticals",
+      "weight": 0.7
+    },
+    {
+      "source": "postdoctoral-researcher-biotech-pharmaceuticals",
+      "target": "statistician",
+      "weight": 0.7
+    },
+    {
+      "source": "research-fellow",
+      "target": "postdoctoral-research-fellow-biotech-pharmaceuticals",
+      "weight": 0.7
+    },
+    {
+      "source": "research-fellow",
+      "target": "statistician",
+      "weight": 0.7
+    },
+    {
+      "source": "postdoctoral-research-fellow-biotech-pharmaceuticals",
+      "target": "statistician",
+      "weight": 0.7
+    },
+    {
+      "source": "pharmacist-biotech-pharmaceuticals",
+      "target": "pharmacy-technician",
+      "weight": 0.7
+    },
+    {
+      "source": "pharmacist-biotech-pharmaceuticals",
+      "target": "certified-pharmacy-technician-biotech-pharmaceuticals",
+      "weight": 0.7
+    },
+    {
+      "source": "pharmacy-technician",
+      "target": "certified-pharmacy-technician-biotech-pharmaceuticals",
+      "weight": 0.7
+    },
+    {
+      "source": "medical-writer-biotech-pharmaceuticals",
+      "target": "senior-medical-writer",
+      "weight": 0.7
+    },
+    {
+      "source": "medical-representative",
+      "target": "specialty-representative",
+      "weight": 0.7
+    },
+    {
+      "source": "medical-representative",
+      "target": "sales-executive-representative",
+      "weight": 0.7
+    },
+    {
+      "source": "medical-representative",
+      "target": "executive-representative",
+      "weight": 0.7
+    },
+    {
+      "source": "medical-representative",
+      "target": "hospital-representative",
+      "weight": 0.7
+    },
+    {
+      "source": "specialty-representative",
+      "target": "sales-executive-representative",
+      "weight": 0.7
+    },
+    {
+      "source": "specialty-representative",
+      "target": "executive-representative",
+      "weight": 0.7
+    },
+    {
+      "source": "specialty-representative",
+      "target": "hospital-representative",
+      "weight": 0.7
+    },
+    {
+      "source": "sales-executive-representative",
+      "target": "executive-representative",
+      "weight": 0.7
+    },
+    {
+      "source": "sales-executive-representative",
+      "target": "hospital-representative",
+      "weight": 0.7
+    },
+    {
+      "source": "executive-representative",
+      "target": "hospital-representative",
+      "weight": 0.7
+    },
+    {
+      "source": "quality-control-manager-biotech-pharmaceuticals",
+      "target": "quality-assurance-supervisor",
+      "weight": 0.7
+    },
+    {
+      "source": "quality-control-manager-biotech-pharmaceuticals",
+      "target": "quality-control-supervisor",
+      "weight": 0.7
+    },
+    {
+      "source": "quality-control-manager-biotech-pharmaceuticals",
+      "target": "clinical-trial-administrator",
+      "weight": 0.7
+    },
+    {
+      "source": "quality-assurance-supervisor",
+      "target": "quality-control-supervisor",
+      "weight": 0.7
+    },
+    {
+      "source": "quality-assurance-supervisor",
+      "target": "clinical-trial-administrator",
+      "weight": 0.7
+    },
+    {
+      "source": "quality-control-supervisor",
+      "target": "clinical-trial-administrator",
+      "weight": 0.7
+    },
+    {
+      "source": "biologist",
+      "target": "research-biologist",
+      "weight": 0.7
+    },
+    {
+      "source": "biologist",
+      "target": "biochemist",
+      "weight": 0.7
+    },
+    {
+      "source": "research-biologist",
+      "target": "biochemist",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-research-investigator",
+      "target": "research-investigator",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-research-investigator",
+      "target": "principal-investigator",
+      "weight": 0.7
+    },
+    {
+      "source": "research-investigator",
+      "target": "principal-investigator",
+      "weight": 0.7
+    }
+  ]
+}

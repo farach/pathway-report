@@ -1,0 +1,2857 @@
+{
+  "sector": "Media",
+  "metadata": {
+    "nodeCount": 150,
+    "edgeCount": 271,
+    "generatedAt": "2026-01-31T16:46:30Z"
+  },
+  "nodes": [
+    {
+      "id": "producer",
+      "label": "Producer",
+      "soc": "13-1121",
+      "ptr": 0.5349,
+      "nfc": 0.6958,
+      "quadrant": "LH",
+      "size": 11.72,
+      "aiExposure": 0.3165
+    },
+    {
+      "id": "editor",
+      "label": "Editor",
+      "soc": "27-4014",
+      "ptr": 0.3602,
+      "nfc": 0.515,
+      "quadrant": "LH",
+      "size": 10.85,
+      "aiExposure": 0.2492
+    },
+    {
+      "id": "art-director-media",
+      "label": "Art Director",
+      "soc": "27-1011",
+      "ptr": 0.5916,
+      "nfc": 0.7041,
+      "quadrant": "LH",
+      "size": 8.71,
+      "aiExposure": 0.3714
+    },
+    {
+      "id": "associate-producer",
+      "label": "Associate Producer",
+      "soc": "27-2012",
+      "ptr": 0.4233,
+      "nfc": 0.5395,
+      "quadrant": "LH",
+      "size": 8.3,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "deputy-editor",
+      "label": "Deputy Editor",
+      "soc": "27-3041",
+      "ptr": 0.8044,
+      "nfc": 0.8582,
+      "quadrant": "HH",
+      "size": 7.94,
+      "aiExposure": 0.5073
+    },
+    {
+      "id": "freelance-writer",
+      "label": "Freelance Writer",
+      "soc": "27-3043",
+      "ptr": 0.9538,
+      "nfc": 0.9679,
+      "quadrant": "HH",
+      "size": 7.87,
+      "aiExposure": 0.6657
+    },
+    {
+      "id": "writer",
+      "label": "Writer",
+      "soc": "23-2093",
+      "ptr": 0.735,
+      "nfc": 0.8335,
+      "quadrant": "HH",
+      "size": 7.83,
+      "aiExposure": 0.3194
+    },
+    {
+      "id": "proofreader",
+      "label": "Proofreader",
+      "soc": "43-9081",
+      "ptr": 0.9438,
+      "nfc": 0.9862,
+      "quadrant": "HH",
+      "size": 7.73,
+      "aiExposure": 0.672
+    },
+    {
+      "id": "senior-editor",
+      "label": "Senior Editor",
+      "soc": "27-3041",
+      "ptr": 0.7725,
+      "nfc": 0.8563,
+      "quadrant": "HH",
+      "size": 7.72,
+      "aiExposure": 0.5073
+    },
+    {
+      "id": "production-assistant",
+      "label": "Production Assistant",
+      "soc": "27-4012",
+      "ptr": 0,
+      "nfc": 0.7389,
+      "quadrant": "LH",
+      "size": 7.67,
+      "aiExposure": 0.332
+    },
+    {
+      "id": "reporter",
+      "label": "Reporter",
+      "soc": "21-1019",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 7.06,
+      "aiExposure": 0
+    },
+    {
+      "id": "assistant-editor",
+      "label": "Assistant Editor",
+      "soc": "27-3041",
+      "ptr": 0.5021,
+      "nfc": 0.855,
+      "quadrant": "LH",
+      "size": 6.94,
+      "aiExposure": 0.5073
+    },
+    {
+      "id": "production-coordinator",
+      "label": "Production Coordinator",
+      "soc": "51-1011",
+      "ptr": 0.2198,
+      "nfc": 0.2691,
+      "quadrant": "LH",
+      "size": 6.74,
+      "aiExposure": 0.3251
+    },
+    {
+      "id": "associate-editor",
+      "label": "Associate Editor",
+      "soc": "27-3041",
+      "ptr": 0.6674,
+      "nfc": 0.854,
+      "quadrant": "LH",
+      "size": 6.67,
+      "aiExposure": 0.5073
+    },
+    {
+      "id": "creative-director-media",
+      "label": "Creative Director",
+      "soc": "27-1011",
+      "ptr": 0.6593,
+      "nfc": 0.6996,
+      "quadrant": "LH",
+      "size": 6.63,
+      "aiExposure": 0.3714
+    },
+    {
+      "id": "media-manager",
+      "label": "Media Manager",
+      "soc": "11-2032",
+      "ptr": 0.7842,
+      "nfc": 0.8059,
+      "quadrant": "HH",
+      "size": 6.52,
+      "aiExposure": 0.386
+    },
+    {
+      "id": "technical-writer",
+      "label": "Technical Writer",
+      "soc": "43-9081",
+      "ptr": 0.9259,
+      "nfc": 0.9814,
+      "quadrant": "HH",
+      "size": 6.51,
+      "aiExposure": 0.672
+    },
+    {
+      "id": "copywriter-media",
+      "label": "Copywriter",
+      "soc": "27-3043",
+      "ptr": 0.8014,
+      "nfc": 0.9617,
+      "quadrant": "HH",
+      "size": 6.48,
+      "aiExposure": 0.6657
+    },
+    {
+      "id": "news-reporter",
+      "label": "News Reporter",
+      "soc": "27-3023",
+      "ptr": 0.8208,
+      "nfc": 0.9115,
+      "quadrant": "HH",
+      "size": 6.45,
+      "aiExposure": 0.5163
+    },
+    {
+      "id": "senior-writer",
+      "label": "Senior Writer",
+      "soc": "27-3043",
+      "ptr": 0.9368,
+      "nfc": 0.9607,
+      "quadrant": "HH",
+      "size": 6.29,
+      "aiExposure": 0.6657
+    },
+    {
+      "id": "social-media-coordinator",
+      "label": "Social Media Coordinator",
+      "soc": "27-2012",
+      "ptr": 0.5248,
+      "nfc": 0.5346,
+      "quadrant": "LH",
+      "size": 6.25,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "social-media-manager",
+      "label": "Social Media Manager",
+      "soc": "11-2032",
+      "ptr": 0.7746,
+      "nfc": 0.8033,
+      "quadrant": "HH",
+      "size": 6.2,
+      "aiExposure": 0.386
+    },
+    {
+      "id": "managing-editor",
+      "label": "Managing Editor",
+      "soc": "27-3041",
+      "ptr": 0.7886,
+      "nfc": 0.8499,
+      "quadrant": "HH",
+      "size": 6.04,
+      "aiExposure": 0.5073
+    },
+    {
+      "id": "art-editor-media",
+      "label": "Art Editor",
+      "soc": "27-3041",
+      "ptr": 0.8502,
+      "nfc": 0.8494,
+      "quadrant": "HH",
+      "size": 5.82,
+      "aiExposure": 0.5073
+    },
+    {
+      "id": "press-officer",
+      "label": "Press Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.73,
+      "aiExposure": 0
+    },
+    {
+      "id": "animator",
+      "label": "Animator",
+      "soc": "27-1014",
+      "ptr": 0.6917,
+      "nfc": 0.7442,
+      "quadrant": "LH",
+      "size": 5.73,
+      "aiExposure": 0.3282
+    },
+    {
+      "id": "assistant-producer",
+      "label": "Assistant Producer",
+      "soc": "27-2012",
+      "ptr": 0.4785,
+      "nfc": 0.5329,
+      "quadrant": "LH",
+      "size": 5.7,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "media-director",
+      "label": "Media Director",
+      "soc": "27-2012",
+      "ptr": 0.5311,
+      "nfc": 0.5326,
+      "quadrant": "LH",
+      "size": 5.59,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "media-coordinator",
+      "label": "Media Coordinator",
+      "soc": "27-2012",
+      "ptr": 0.512,
+      "nfc": 0.5323,
+      "quadrant": "LH",
+      "size": 5.54,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "news-editor",
+      "label": "News Editor",
+      "soc": "27-3041",
+      "ptr": 0.7886,
+      "nfc": 0.8467,
+      "quadrant": "HH",
+      "size": 5.54,
+      "aiExposure": 0.5073
+    },
+    {
+      "id": "contributing-writer",
+      "label": "Contributing Writer",
+      "soc": "27-3043",
+      "ptr": 0.9594,
+      "nfc": 0.9549,
+      "quadrant": "HH",
+      "size": 5.52,
+      "aiExposure": 0.6657
+    },
+    {
+      "id": "video-editor",
+      "label": "Video Editor",
+      "soc": "27-3041",
+      "ptr": 0.7939,
+      "nfc": 0.8457,
+      "quadrant": "HH",
+      "size": 5.48,
+      "aiExposure": 0.5073
+    },
+    {
+      "id": "senior-producer",
+      "label": "Senior Producer",
+      "soc": "27-2012",
+      "ptr": 0.5217,
+      "nfc": 0.5312,
+      "quadrant": "LH",
+      "size": 5.47,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "publisher",
+      "label": "Publisher",
+      "soc": "43-9031",
+      "ptr": 0.8344,
+      "nfc": 0.839,
+      "quadrant": "HH",
+      "size": 5.46,
+      "aiExposure": 0.4779
+    },
+    {
+      "id": "copy-editor",
+      "label": "Copy Editor",
+      "soc": "27-3041",
+      "ptr": 0.7391,
+      "nfc": 0.8444,
+      "quadrant": "HH",
+      "size": 5.45,
+      "aiExposure": 0.5073
+    },
+    {
+      "id": "studio-manager-media",
+      "label": "Studio Manager",
+      "soc": "11-9179",
+      "ptr": 0.5,
+      "nfc": 0.528,
+      "quadrant": "LH",
+      "size": 5.44,
+      "aiExposure": 0.2992
+    },
+    {
+      "id": "3d-artist",
+      "label": "3D Artist",
+      "soc": "27-1014",
+      "ptr": 0.7009,
+      "nfc": 0.7397,
+      "quadrant": "HH",
+      "size": 5.44,
+      "aiExposure": 0.3282
+    },
+    {
+      "id": "quality-assurance-tester-media",
+      "label": "Quality Assurance Tester",
+      "soc": "51-9061",
+      "ptr": 0.4051,
+      "nfc": 0.4138,
+      "quadrant": "LH",
+      "size": 5.42,
+      "aiExposure": 0.2548
+    },
+    {
+      "id": "senior-copywriter-media",
+      "label": "Senior Copywriter",
+      "soc": "27-3043",
+      "ptr": 0.9311,
+      "nfc": 0.9508,
+      "quadrant": "HH",
+      "size": 5.42,
+      "aiExposure": 0.6657
+    },
+    {
+      "id": "senior-reporter",
+      "label": "Senior Reporter",
+      "soc": "27-3023",
+      "ptr": 0.8609,
+      "nfc": 0.9011,
+      "quadrant": "HH",
+      "size": 5.4,
+      "aiExposure": 0.5163
+    },
+    {
+      "id": "media-supervisor-media",
+      "label": "Media Supervisor",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.39,
+      "aiExposure": 0
+    },
+    {
+      "id": "broadcast-journalism",
+      "label": "Broadcast Journalism",
+      "soc": "27-3023",
+      "ptr": 0.8938,
+      "nfc": 0.9001,
+      "quadrant": "HH",
+      "size": 5.39,
+      "aiExposure": 0.5163
+    },
+    {
+      "id": "graphic-artist-media",
+      "label": "Graphic Artist",
+      "soc": "27-1014",
+      "ptr": 0.7009,
+      "nfc": 0.7373,
+      "quadrant": "HH",
+      "size": 5.37,
+      "aiExposure": 0.3282
+    },
+    {
+      "id": "video-journalist",
+      "label": "Video Journalist",
+      "soc": "27-3023",
+      "ptr": 0.9098,
+      "nfc": 0.8991,
+      "quadrant": "HH",
+      "size": 5.31,
+      "aiExposure": 0.5163
+    },
+    {
+      "id": "editorial-assistant",
+      "label": "Editorial Assistant",
+      "soc": "43-9081",
+      "ptr": 0.6061,
+      "nfc": 0.9665,
+      "quadrant": "LH",
+      "size": 5.31,
+      "aiExposure": 0.672
+    },
+    {
+      "id": "journalist",
+      "label": "Journalist",
+      "soc": "25-1122",
+      "ptr": 0.4659,
+      "nfc": 0.4992,
+      "quadrant": "LH",
+      "size": 5.3,
+      "aiExposure": 0.3711
+    },
+    {
+      "id": "casting-associate",
+      "label": "Casting Associate",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.28,
+      "aiExposure": 0
+    },
+    {
+      "id": "senior-technical-writer-media",
+      "label": "Senior Technical Writer",
+      "soc": "43-9081",
+      "ptr": 0.9785,
+      "nfc": 0.9649,
+      "quadrant": "HH",
+      "size": 5.26,
+      "aiExposure": 0.672
+    },
+    {
+      "id": "photo-editor-media",
+      "label": "Photo Editor",
+      "soc": "27-3041",
+      "ptr": 0.8352,
+      "nfc": 0.8378,
+      "quadrant": "HH",
+      "size": 5.24,
+      "aiExposure": 0.5073
+    },
+    {
+      "id": "executive-producer",
+      "label": "Executive Producer",
+      "soc": "11-2011",
+      "ptr": 0.6706,
+      "nfc": 0.6605,
+      "quadrant": "LH",
+      "size": 5.23,
+      "aiExposure": 0.3326
+    },
+    {
+      "id": "media-intern",
+      "label": "Media Intern",
+      "soc": "29-1229",
+      "ptr": 0.3146,
+      "nfc": 0.3171,
+      "quadrant": "LH",
+      "size": 5.22,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "editorial-intern",
+      "label": "Editorial Intern",
+      "soc": "29-1229",
+      "ptr": 0.2304,
+      "nfc": 0.317,
+      "quadrant": "LH",
+      "size": 5.21,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "content-editor",
+      "label": "Content Editor",
+      "soc": "27-3041",
+      "ptr": 0.8251,
+      "nfc": 0.836,
+      "quadrant": "HH",
+      "size": 5.19,
+      "aiExposure": 0.5073
+    },
+    {
+      "id": "social-media-intern-media",
+      "label": "Social Media Intern",
+      "soc": "29-1229",
+      "ptr": 0.3008,
+      "nfc": 0.3166,
+      "quadrant": "LH",
+      "size": 5.19,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "production-designer-media",
+      "label": "Production Designer",
+      "soc": "17-2121",
+      "ptr": 0.4247,
+      "nfc": 0.4172,
+      "quadrant": "LH",
+      "size": 5.19,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "motion-graphic-designer-media",
+      "label": "Motion Graphic Designer",
+      "soc": "17-2121",
+      "ptr": 0.4147,
+      "nfc": 0.4169,
+      "quadrant": "LH",
+      "size": 5.19,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "production-artist-media",
+      "label": "Production Artist",
+      "soc": "27-1014",
+      "ptr": 0.7101,
+      "nfc": 0.7315,
+      "quadrant": "HH",
+      "size": 5.18,
+      "aiExposure": 0.3282
+    },
+    {
+      "id": "3d-generalist",
+      "label": "3D Generalist",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.17,
+      "aiExposure": 0
+    },
+    {
+      "id": "content-manager",
+      "label": "Content Manager",
+      "soc": "15-1299",
+      "ptr": 0.9351,
+      "nfc": 0.9217,
+      "quadrant": "HH",
+      "size": 5.17,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "executive-editor",
+      "label": "Executive Editor",
+      "soc": "27-3041",
+      "ptr": 0.8352,
+      "nfc": 0.8327,
+      "quadrant": "HH",
+      "size": 5.17,
+      "aiExposure": 0.5073
+    },
+    {
+      "id": "videographer-media",
+      "label": "Videographer",
+      "soc": "27-4031",
+      "ptr": 0.4812,
+      "nfc": 0.4914,
+      "quadrant": "LH",
+      "size": 5.16,
+      "aiExposure": 0.3146
+    },
+    {
+      "id": "staff-writer",
+      "label": "Staff Writer",
+      "soc": "27-3023",
+      "ptr": 0.6726,
+      "nfc": 0.8901,
+      "quadrant": "LH",
+      "size": 5.16,
+      "aiExposure": 0.5163
+    },
+    {
+      "id": "creative-manager-media",
+      "label": "Creative Manager",
+      "soc": "27-1011",
+      "ptr": 0.6887,
+      "nfc": 0.6813,
+      "quadrant": "LH",
+      "size": 5.16,
+      "aiExposure": 0.3714
+    },
+    {
+      "id": "media-consultant",
+      "label": "Media Consultant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.16,
+      "aiExposure": 0
+    },
+    {
+      "id": "editorial-manager",
+      "label": "Editorial Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.15,
+      "aiExposure": 0
+    },
+    {
+      "id": "content-strategist-media",
+      "label": "Content Strategist",
+      "soc": "15-1299",
+      "ptr": 0.9405,
+      "nfc": 0.917,
+      "quadrant": "HH",
+      "size": 5.15,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "social-media-strategist-media",
+      "label": "Social Media Strategist",
+      "soc": "13-1161",
+      "ptr": 0.7373,
+      "nfc": 0.7189,
+      "quadrant": "HH",
+      "size": 5.15,
+      "aiExposure": 0.4372
+    },
+    {
+      "id": "creative-consultant-media",
+      "label": "Creative Consultant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.15,
+      "aiExposure": 0
+    },
+    {
+      "id": "marketing-writer",
+      "label": "Marketing Writer",
+      "soc": "27-3043",
+      "ptr": 0.9594,
+      "nfc": 0.9343,
+      "quadrant": "HH",
+      "size": 5.15,
+      "aiExposure": 0.6657
+    },
+    {
+      "id": "social-media-specialist",
+      "label": "Social Media Specialist",
+      "soc": "25-4022",
+      "ptr": 0.7946,
+      "nfc": 0.7784,
+      "quadrant": "HH",
+      "size": 5.15,
+      "aiExposure": 0.3947
+    },
+    {
+      "id": "sports-editor-media",
+      "label": "Sports Editor",
+      "soc": "27-3041",
+      "ptr": 0.82,
+      "nfc": 0.8275,
+      "quadrant": "HH",
+      "size": 5.15,
+      "aiExposure": 0.5073
+    },
+    {
+      "id": "bureau-chief",
+      "label": "Bureau Chief",
+      "soc": "33-1021",
+      "ptr": 0.3122,
+      "nfc": 0.302,
+      "quadrant": "LH",
+      "size": 5.15,
+      "aiExposure": 0.212
+    },
+    {
+      "id": "assistant-photo-editor-media",
+      "label": "Assistant Photo Editor",
+      "soc": "27-3041",
+      "ptr": 0.8502,
+      "nfc": 0.8265,
+      "quadrant": "HH",
+      "size": 5.14,
+      "aiExposure": 0.5073
+    },
+    {
+      "id": "news-producer",
+      "label": "News Producer",
+      "soc": "27-2012",
+      "ptr": 0.5217,
+      "nfc": 0.5191,
+      "quadrant": "LH",
+      "size": 5.13,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "production-intern",
+      "label": "Production Intern",
+      "soc": "29-1229",
+      "ptr": 0.2906,
+      "nfc": 0.3128,
+      "quadrant": "LH",
+      "size": 5.13,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "publicity-manager",
+      "label": "Publicity Manager",
+      "soc": "11-2032",
+      "ptr": 0.7937,
+      "nfc": 0.7794,
+      "quadrant": "HH",
+      "size": 5.12,
+      "aiExposure": 0.386
+    },
+    {
+      "id": "camera-operator-media",
+      "label": "Camera Operator",
+      "soc": "51-9151",
+      "ptr": 0.2018,
+      "nfc": 0.2017,
+      "quadrant": "LH",
+      "size": 5.11,
+      "aiExposure": 0.244
+    },
+    {
+      "id": "production-editor",
+      "label": "Production Editor",
+      "soc": "27-3041",
+      "ptr": 0.7939,
+      "nfc": 0.8242,
+      "quadrant": "HH",
+      "size": 5.11,
+      "aiExposure": 0.5073
+    },
+    {
+      "id": "concept-artist-media",
+      "label": "Concept Artist",
+      "soc": "27-1014",
+      "ptr": 0.7192,
+      "nfc": 0.7224,
+      "quadrant": "HH",
+      "size": 5.1,
+      "aiExposure": 0.3282
+    },
+    {
+      "id": "production-director",
+      "label": "Production Director",
+      "soc": "27-2012",
+      "ptr": 0.5342,
+      "nfc": 0.5173,
+      "quadrant": "LH",
+      "size": 5.09,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "news-anchor",
+      "label": "News Anchor",
+      "soc": "27-3011",
+      "ptr": 0.9098,
+      "nfc": 0.8805,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.5296
+    },
+    {
+      "id": "publicity-assistant",
+      "label": "Publicity Assistant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.09,
+      "aiExposure": 0
+    },
+    {
+      "id": "media-analyst",
+      "label": "Media Analyst",
+      "soc": "15-1299",
+      "ptr": 0.9295,
+      "nfc": 0.9092,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "media-specialist",
+      "label": "Media Specialist",
+      "soc": "25-4022",
+      "ptr": 0.7946,
+      "nfc": 0.7721,
+      "quadrant": "HH",
+      "size": 5.08,
+      "aiExposure": 0.3947
+    },
+    {
+      "id": "chief-reporter",
+      "label": "Chief Reporter",
+      "soc": "27-3023",
+      "ptr": 0.9098,
+      "nfc": 0.8784,
+      "quadrant": "HH",
+      "size": 5.08,
+      "aiExposure": 0.5163
+    },
+    {
+      "id": "press-assistant-media",
+      "label": "Press Assistant",
+      "soc": "53-7063",
+      "ptr": 0.0791,
+      "nfc": 0.0758,
+      "quadrant": "LH",
+      "size": 5.08,
+      "aiExposure": 0.0551
+    },
+    {
+      "id": "game-designer",
+      "label": "Game Designer",
+      "soc": "17-2121",
+      "ptr": 0.4197,
+      "nfc": 0.4096,
+      "quadrant": "LH",
+      "size": 5.08,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "digital-project-manager-media",
+      "label": "Digital Project Manager",
+      "soc": "15-1299",
+      "ptr": 0.924,
+      "nfc": 0.9065,
+      "quadrant": "HH",
+      "size": 5.08,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "artworker-media",
+      "label": "Artworker",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.08,
+      "aiExposure": 0
+    },
+    {
+      "id": "senior-media-buyer-media",
+      "label": "Senior Media Buyer",
+      "soc": "13-1023",
+      "ptr": 0.6576,
+      "nfc": 0.6331,
+      "quadrant": "LH",
+      "size": 5.08,
+      "aiExposure": 0.2368
+    },
+    {
+      "id": "business-editor",
+      "label": "Business Editor",
+      "soc": "27-3041",
+      "ptr": 0.8551,
+      "nfc": 0.818,
+      "quadrant": "HH",
+      "size": 5.08,
+      "aiExposure": 0.5073
+    },
+    {
+      "id": "motion-designer-media",
+      "label": "Motion Designer",
+      "soc": "17-2121",
+      "ptr": 0.4197,
+      "nfc": 0.4084,
+      "quadrant": "LH",
+      "size": 5.08,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "set-designer-media",
+      "label": "Set Designer",
+      "soc": "17-2121",
+      "ptr": 0.4272,
+      "nfc": 0.4082,
+      "quadrant": "LH",
+      "size": 5.07,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "audio-visual-technician",
+      "label": "Audio Visual Technician",
+      "soc": "27-4011",
+      "ptr": 0.5009,
+      "nfc": 0.4927,
+      "quadrant": "LH",
+      "size": 5.07,
+      "aiExposure": 0.3047
+    },
+    {
+      "id": "video-producer",
+      "label": "Video Producer",
+      "soc": "27-2012",
+      "ptr": 0.5311,
+      "nfc": 0.5128,
+      "quadrant": "LH",
+      "size": 5.07,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "publicist",
+      "label": "Publicist",
+      "soc": "27-3031",
+      "ptr": 0.8247,
+      "nfc": 0.7958,
+      "quadrant": "HH",
+      "size": 5.07,
+      "aiExposure": 0.4781
+    },
+    {
+      "id": "development-producer",
+      "label": "Development Producer",
+      "soc": "27-2012",
+      "ptr": 0.5373,
+      "nfc": 0.5122,
+      "quadrant": "LH",
+      "size": 5.07,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "freelance-illustrator-media",
+      "label": "Freelance Illustrator",
+      "soc": "27-1013",
+      "ptr": 0.5086,
+      "nfc": 0.4846,
+      "quadrant": "LH",
+      "size": 5.07,
+      "aiExposure": 0.3038
+    },
+    {
+      "id": "chief-editor",
+      "label": "Chief Editor",
+      "soc": "27-3041",
+      "ptr": 0.8452,
+      "nfc": 0.8141,
+      "quadrant": "HH",
+      "size": 5.07,
+      "aiExposure": 0.5073
+    },
+    {
+      "id": "senior-broadcast-journalism",
+      "label": "Senior Broadcast Journalism",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.06,
+      "aiExposure": 0
+    },
+    {
+      "id": "interactive-designer-media",
+      "label": "Interactive Designer",
+      "soc": "17-2121",
+      "ptr": 0.4096,
+      "nfc": 0.4062,
+      "quadrant": "LH",
+      "size": 5.06,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "associate-managing-editor",
+      "label": "Associate Managing Editor",
+      "soc": "27-3041",
+      "ptr": 0.8502,
+      "nfc": 0.8127,
+      "quadrant": "HH",
+      "size": 5.06,
+      "aiExposure": 0.5073
+    },
+    {
+      "id": "digital-account-manager-media",
+      "label": "Digital Account Manager",
+      "soc": "11-2022",
+      "ptr": 0.5133,
+      "nfc": 0.4992,
+      "quadrant": "LH",
+      "size": 5.06,
+      "aiExposure": 0.3071
+    },
+    {
+      "id": "freelance-editor",
+      "label": "Freelance Editor",
+      "soc": "27-3041",
+      "ptr": 0.8551,
+      "nfc": 0.8117,
+      "quadrant": "HH",
+      "size": 5.06,
+      "aiExposure": 0.5073
+    },
+    {
+      "id": "digital-producer-media",
+      "label": "Digital Producer",
+      "soc": "27-2012",
+      "ptr": 0.5311,
+      "nfc": 0.5098,
+      "quadrant": "LH",
+      "size": 5.05,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "general-assignment-reporter",
+      "label": "General Assignment Reporter",
+      "soc": "27-3023",
+      "ptr": 0.8884,
+      "nfc": 0.8671,
+      "quadrant": "HH",
+      "size": 5.05,
+      "aiExposure": 0.5163
+    },
+    {
+      "id": "edit-producer",
+      "label": "Edit Producer",
+      "soc": "27-2012",
+      "ptr": 0.5373,
+      "nfc": 0.5092,
+      "quadrant": "LH",
+      "size": 5.05,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "sub-editor",
+      "label": "Sub Editor",
+      "soc": "27-3041",
+      "ptr": 0.8301,
+      "nfc": 0.8098,
+      "quadrant": "HH",
+      "size": 5.05,
+      "aiExposure": 0.5073
+    },
+    {
+      "id": "web-editor",
+      "label": "Web Editor",
+      "soc": "27-3041",
+      "ptr": 0.8251,
+      "nfc": 0.8093,
+      "quadrant": "HH",
+      "size": 5.05,
+      "aiExposure": 0.5073
+    },
+    {
+      "id": "presenter",
+      "label": "Presenter",
+      "soc": "39-7011",
+      "ptr": 0.1581,
+      "nfc": 0.1495,
+      "quadrant": "LH",
+      "size": 5.05,
+      "aiExposure": 0.1346
+    },
+    {
+      "id": "features-writer",
+      "label": "Features Writer",
+      "soc": "27-3043",
+      "ptr": 0.9253,
+      "nfc": 0.9122,
+      "quadrant": "HH",
+      "size": 5.05,
+      "aiExposure": 0.6657
+    },
+    {
+      "id": "creative-associate-director-media",
+      "label": "Creative Associate Director",
+      "soc": "27-2012",
+      "ptr": 0.5248,
+      "nfc": 0.5076,
+      "quadrant": "LH",
+      "size": 5.04,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "photojournalist-media",
+      "label": "Photojournalist",
+      "soc": "27-4021",
+      "ptr": 0.2561,
+      "nfc": 0.2476,
+      "quadrant": "LH",
+      "size": 5.04,
+      "aiExposure": 0.3158
+    },
+    {
+      "id": "master-control-operator",
+      "label": "Master Control Operator",
+      "soc": "51-4199",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.04,
+      "aiExposure": 0
+    },
+    {
+      "id": "senior-media-planner-media",
+      "label": "Senior Media Planner",
+      "soc": "19-3051",
+      "ptr": 0.6745,
+      "nfc": 0.6473,
+      "quadrant": "LH",
+      "size": 5.04,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "casting-producer",
+      "label": "Casting Producer",
+      "soc": "27-2012",
+      "ptr": 0.5373,
+      "nfc": 0.5064,
+      "quadrant": "LH",
+      "size": 5.04,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "digital-designer-media",
+      "label": "Digital Designer",
+      "soc": "17-2121",
+      "ptr": 0.4147,
+      "nfc": 0.4024,
+      "quadrant": "LH",
+      "size": 5.04,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "creative-service-manager-media",
+      "label": "Creative Service Manager",
+      "soc": "11-2022",
+      "ptr": 0.5225,
+      "nfc": 0.4947,
+      "quadrant": "LH",
+      "size": 5.04,
+      "aiExposure": 0.3071
+    },
+    {
+      "id": "creative-intern-media",
+      "label": "Creative Intern",
+      "soc": "29-1229",
+      "ptr": 0.3008,
+      "nfc": 0.3048,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "sports-anchor-media",
+      "label": "Sports Anchor",
+      "soc": "27-3011",
+      "ptr": 0.9151,
+      "nfc": 0.8599,
+      "quadrant": "HH",
+      "size": 5.03,
+      "aiExposure": 0.5296
+    },
+    {
+      "id": "audio-engineer",
+      "label": "Audio Engineer",
+      "soc": "17-2071",
+      "ptr": 0.798,
+      "nfc": 0.7676,
+      "quadrant": "HH",
+      "size": 5.03,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "social-media-executive-media",
+      "label": "Social Media Executive",
+      "soc": "11-1011",
+      "ptr": 0.7289,
+      "nfc": 0.6884,
+      "quadrant": "HH",
+      "size": 5.03,
+      "aiExposure": 0.3316
+    },
+    {
+      "id": "news-intern",
+      "label": "News Intern",
+      "soc": "29-1229",
+      "ptr": 0.3028,
+      "nfc": 0.3041,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "columnist",
+      "label": "Columnist",
+      "soc": "27-3023",
+      "ptr": 0.9151,
+      "nfc": 0.8583,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.5163
+    },
+    {
+      "id": "correspondent",
+      "label": "Correspondent",
+      "soc": "27-3023",
+      "ptr": 0.9045,
+      "nfc": 0.8578,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.5163
+    },
+    {
+      "id": "publishing-manager",
+      "label": "Publishing Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.02,
+      "aiExposure": 0
+    },
+    {
+      "id": "media-assistant",
+      "label": "Media Assistant",
+      "soc": "43-4121",
+      "ptr": 0.763,
+      "nfc": 0.7497,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.342
+    },
+    {
+      "id": "advertising-director",
+      "label": "Advertising Director",
+      "soc": "11-2011",
+      "ptr": 0.6667,
+      "nfc": 0.6311,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.3326
+    },
+    {
+      "id": "user-interface-designer-media",
+      "label": "User Interface Designer",
+      "soc": "17-2121",
+      "ptr": 0.4197,
+      "nfc": 0.3994,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "page-designer",
+      "label": "Page Designer",
+      "soc": "17-2121",
+      "ptr": 0.4222,
+      "nfc": 0.3992,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "associate-media-director-media",
+      "label": "Associate Media Director",
+      "soc": "27-2012",
+      "ptr": 0.5373,
+      "nfc": 0.5018,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "content-writer",
+      "label": "Content Writer",
+      "soc": "27-3043",
+      "ptr": 0.9368,
+      "nfc": 0.9006,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.6657
+    },
+    {
+      "id": "ux-designer-media",
+      "label": "UX Designer",
+      "soc": "17-2121",
+      "ptr": 0.4272,
+      "nfc": 0.3985,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "assignment-editor",
+      "label": "Assignment Editor",
+      "soc": "27-3041",
+      "ptr": 0.8301,
+      "nfc": 0.7971,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.5073
+    },
+    {
+      "id": "creative-producer",
+      "label": "Creative Producer",
+      "soc": "27-2012",
+      "ptr": 0.5373,
+      "nfc": 0.5006,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "assistant-managing-editor",
+      "label": "Assistant Managing Editor",
+      "soc": "27-3041",
+      "ptr": 0.8452,
+      "nfc": 0.7961,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.5073
+    },
+    {
+      "id": "assistant-art-director-media",
+      "label": "Assistant Art Director",
+      "soc": "27-1011",
+      "ptr": 0.6804,
+      "nfc": 0.6521,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3714
+    },
+    {
+      "id": "associate-art-director-media",
+      "label": "Associate Art Director",
+      "soc": "27-1011",
+      "ptr": 0.6927,
+      "nfc": 0.6517,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3714
+    },
+    {
+      "id": "production-secretary",
+      "label": "Production Secretary",
+      "soc": "43-6014",
+      "ptr": 0.8387,
+      "nfc": 0.7885,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.4504
+    },
+    {
+      "id": "assistant-news-director",
+      "label": "Assistant News Director",
+      "soc": "27-2012",
+      "ptr": 0.5373,
+      "nfc": 0.499,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "stage-manager-media",
+      "label": "Stage Manager",
+      "soc": "27-2012",
+      "ptr": 0.5373,
+      "nfc": 0.4987,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "post-production-coordinator",
+      "label": "Post Production Coordinator",
+      "soc": "11-3051",
+      "ptr": 0.2757,
+      "nfc": 0.2603,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.263
+    },
+    {
+      "id": "freelance-copywriter-media",
+      "label": "Freelance Copywriter",
+      "soc": "27-3043",
+      "ptr": 0.965,
+      "nfc": 0.8945,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.6657
+    },
+    {
+      "id": "assistant-production-coordinator",
+      "label": "Assistant Production Coordinator",
+      "soc": "11-3051",
+      "ptr": 0.2774,
+      "nfc": 0.26,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.263
+    },
+    {
+      "id": "weekend-anchor",
+      "label": "Weekend Anchor",
+      "soc": "27-3011",
+      "ptr": 0.9045,
+      "nfc": 0.8472,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.5296
+    },
+    {
+      "id": "digital-marketing-intern-media",
+      "label": "Digital Marketing Intern",
+      "soc": "29-1229",
+      "ptr": 0.3203,
+      "nfc": 0.2998,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "medical-writer-media",
+      "label": "Medical Writer",
+      "soc": "27-3043",
+      "ptr": 0.9482,
+      "nfc": 0.8923,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.6657
+    },
+    {
+      "id": "associate-writer",
+      "label": "Associate Writer",
+      "soc": "27-3043",
+      "ptr": 0.9482,
+      "nfc": 0.8912,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.6657
+    },
+    {
+      "id": "content-associate",
+      "label": "Content Associate",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.01,
+      "aiExposure": 0
+    },
+    {
+      "id": "segment-producer",
+      "label": "Segment Producer",
+      "soc": "27-2012",
+      "ptr": 0.5248,
+      "nfc": 0.4959,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3185
+    }
+  ],
+  "edges": [
+    {
+      "source": "reporter",
+      "target": "deputy-editor",
+      "weight": 0.57
+    },
+    {
+      "source": "assistant-editor",
+      "target": "production-assistant",
+      "weight": 0.71
+    },
+    {
+      "source": "production-coordinator",
+      "target": "production-assistant",
+      "weight": 0.82
+    },
+    {
+      "source": "production-coordinator",
+      "target": "producer",
+      "weight": 0.67
+    },
+    {
+      "source": "associate-editor",
+      "target": "writer",
+      "weight": 0.68
+    },
+    {
+      "source": "associate-editor",
+      "target": "associate-producer",
+      "weight": 0.96
+    },
+    {
+      "source": "creative-director-media",
+      "target": "associate-producer",
+      "weight": 0.94
+    },
+    {
+      "source": "creative-director-media",
+      "target": "editor",
+      "weight": 0.48
+    },
+    {
+      "source": "media-manager",
+      "target": "senior-editor",
+      "weight": 0.45
+    },
+    {
+      "source": "technical-writer",
+      "target": "deputy-editor",
+      "weight": 0.84
+    },
+    {
+      "source": "technical-writer",
+      "target": "production-assistant",
+      "weight": 0.89
+    },
+    {
+      "source": "copywriter-media",
+      "target": "proofreader",
+      "weight": 0.9
+    },
+    {
+      "source": "copywriter-media",
+      "target": "art-director-media",
+      "weight": 0.4
+    },
+    {
+      "source": "news-reporter",
+      "target": "proofreader",
+      "weight": 0.98
+    },
+    {
+      "source": "news-reporter",
+      "target": "freelance-writer",
+      "weight": 0.66
+    },
+    {
+      "source": "senior-writer",
+      "target": "associate-producer",
+      "weight": 0.98
+    },
+    {
+      "source": "senior-writer",
+      "target": "freelance-writer",
+      "weight": 0.77
+    },
+    {
+      "source": "social-media-coordinator",
+      "target": "deputy-editor",
+      "weight": 0.87
+    },
+    {
+      "source": "social-media-coordinator",
+      "target": "associate-producer",
+      "weight": 0.42
+    },
+    {
+      "source": "social-media-manager",
+      "target": "art-director-media",
+      "weight": 0.56
+    },
+    {
+      "source": "social-media-manager",
+      "target": "proofreader",
+      "weight": 0.71
+    },
+    {
+      "source": "managing-editor",
+      "target": "production-assistant",
+      "weight": 0.86
+    },
+    {
+      "source": "art-editor-media",
+      "target": "freelance-writer",
+      "weight": 0.56
+    },
+    {
+      "source": "art-editor-media",
+      "target": "editor",
+      "weight": 0.9
+    },
+    {
+      "source": "press-officer",
+      "target": "deputy-editor",
+      "weight": 0.48
+    },
+    {
+      "source": "press-officer",
+      "target": "editor",
+      "weight": 0.53
+    },
+    {
+      "source": "animator",
+      "target": "production-assistant",
+      "weight": 0.4
+    },
+    {
+      "source": "animator",
+      "target": "proofreader",
+      "weight": 0.63
+    },
+    {
+      "source": "assistant-producer",
+      "target": "writer",
+      "weight": 0.75
+    },
+    {
+      "source": "media-director",
+      "target": "production-assistant",
+      "weight": 0.79
+    },
+    {
+      "source": "media-coordinator",
+      "target": "associate-producer",
+      "weight": 0.45
+    },
+    {
+      "source": "news-editor",
+      "target": "art-director-media",
+      "weight": 0.8
+    },
+    {
+      "source": "contributing-writer",
+      "target": "deputy-editor",
+      "weight": 0.84
+    },
+    {
+      "source": "contributing-writer",
+      "target": "proofreader",
+      "weight": 0.6
+    },
+    {
+      "source": "video-editor",
+      "target": "freelance-writer",
+      "weight": 0.78
+    },
+    {
+      "source": "video-editor",
+      "target": "editor",
+      "weight": 0.53
+    },
+    {
+      "source": "senior-producer",
+      "target": "editor",
+      "weight": 0.97
+    },
+    {
+      "source": "publisher",
+      "target": "proofreader",
+      "weight": 0.72
+    },
+    {
+      "source": "publisher",
+      "target": "writer",
+      "weight": 0.4
+    },
+    {
+      "source": "copy-editor",
+      "target": "senior-editor",
+      "weight": 0.67
+    },
+    {
+      "source": "copy-editor",
+      "target": "associate-producer",
+      "weight": 0.72
+    },
+    {
+      "source": "studio-manager-media",
+      "target": "deputy-editor",
+      "weight": 0.61
+    },
+    {
+      "source": "studio-manager-media",
+      "target": "freelance-writer",
+      "weight": 0.65
+    },
+    {
+      "source": "3d-artist",
+      "target": "freelance-writer",
+      "weight": 0.98
+    },
+    {
+      "source": "3d-artist",
+      "target": "producer",
+      "weight": 0.54
+    },
+    {
+      "source": "quality-assurance-tester-media",
+      "target": "deputy-editor",
+      "weight": 0.76
+    },
+    {
+      "source": "senior-copywriter-media",
+      "target": "senior-editor",
+      "weight": 0.91
+    },
+    {
+      "source": "senior-reporter",
+      "target": "proofreader",
+      "weight": 0.77
+    },
+    {
+      "source": "senior-reporter",
+      "target": "writer",
+      "weight": 0.49
+    },
+    {
+      "source": "media-supervisor-media",
+      "target": "deputy-editor",
+      "weight": 0.84
+    },
+    {
+      "source": "broadcast-journalism",
+      "target": "production-assistant",
+      "weight": 0.58
+    },
+    {
+      "source": "graphic-artist-media",
+      "target": "production-assistant",
+      "weight": 0.87
+    },
+    {
+      "source": "graphic-artist-media",
+      "target": "proofreader",
+      "weight": 0.64
+    },
+    {
+      "source": "video-journalist",
+      "target": "senior-editor",
+      "weight": 0.42
+    },
+    {
+      "source": "editorial-assistant",
+      "target": "producer",
+      "weight": 0.73
+    },
+    {
+      "source": "journalist",
+      "target": "freelance-writer",
+      "weight": 0.67
+    },
+    {
+      "source": "journalist",
+      "target": "proofreader",
+      "weight": 0.59
+    },
+    {
+      "source": "casting-associate",
+      "target": "deputy-editor",
+      "weight": 0.65
+    },
+    {
+      "source": "casting-associate",
+      "target": "producer",
+      "weight": 0.69
+    },
+    {
+      "source": "senior-technical-writer-media",
+      "target": "editor",
+      "weight": 0.89
+    },
+    {
+      "source": "photo-editor-media",
+      "target": "freelance-writer",
+      "weight": 0.59
+    },
+    {
+      "source": "photo-editor-media",
+      "target": "production-assistant",
+      "weight": 0.56
+    },
+    {
+      "source": "executive-producer",
+      "target": "associate-producer",
+      "weight": 0.57
+    },
+    {
+      "source": "executive-producer",
+      "target": "editor",
+      "weight": 0.52
+    },
+    {
+      "source": "media-intern",
+      "target": "production-assistant",
+      "weight": 0.47
+    },
+    {
+      "source": "media-intern",
+      "target": "senior-editor",
+      "weight": 0.85
+    },
+    {
+      "source": "editorial-intern",
+      "target": "proofreader",
+      "weight": 0.91
+    },
+    {
+      "source": "editorial-intern",
+      "target": "editor",
+      "weight": 0.67
+    },
+    {
+      "source": "content-editor",
+      "target": "editor",
+      "weight": 0.56
+    },
+    {
+      "source": "social-media-intern-media",
+      "target": "production-assistant",
+      "weight": 0.74
+    },
+    {
+      "source": "social-media-intern-media",
+      "target": "senior-editor",
+      "weight": 0.61
+    },
+    {
+      "source": "production-designer-media",
+      "target": "production-assistant",
+      "weight": 0.69
+    },
+    {
+      "source": "motion-graphic-designer-media",
+      "target": "deputy-editor",
+      "weight": 0.98
+    },
+    {
+      "source": "production-artist-media",
+      "target": "production-assistant",
+      "weight": 0.55
+    },
+    {
+      "source": "production-artist-media",
+      "target": "producer",
+      "weight": 0.61
+    },
+    {
+      "source": "3d-generalist",
+      "target": "production-assistant",
+      "weight": 0.73
+    },
+    {
+      "source": "3d-generalist",
+      "target": "associate-producer",
+      "weight": 0.65
+    },
+    {
+      "source": "content-manager",
+      "target": "associate-producer",
+      "weight": 0.69
+    },
+    {
+      "source": "executive-editor",
+      "target": "producer",
+      "weight": 0.6
+    },
+    {
+      "source": "executive-editor",
+      "target": "senior-editor",
+      "weight": 0.51
+    },
+    {
+      "source": "videographer-media",
+      "target": "producer",
+      "weight": 0.74
+    },
+    {
+      "source": "staff-writer",
+      "target": "producer",
+      "weight": 0.59
+    },
+    {
+      "source": "staff-writer",
+      "target": "production-assistant",
+      "weight": 0.97
+    },
+    {
+      "source": "creative-manager-media",
+      "target": "proofreader",
+      "weight": 0.48
+    },
+    {
+      "source": "creative-manager-media",
+      "target": "art-director-media",
+      "weight": 0.87
+    },
+    {
+      "source": "media-consultant",
+      "target": "producer",
+      "weight": 0.59
+    },
+    {
+      "source": "media-consultant",
+      "target": "art-director-media",
+      "weight": 0.64
+    },
+    {
+      "source": "editorial-manager",
+      "target": "proofreader",
+      "weight": 0.43
+    },
+    {
+      "source": "content-strategist-media",
+      "target": "production-assistant",
+      "weight": 0.5
+    },
+    {
+      "source": "social-media-strategist-media",
+      "target": "senior-editor",
+      "weight": 0.6
+    },
+    {
+      "source": "creative-consultant-media",
+      "target": "art-director-media",
+      "weight": 0.84
+    },
+    {
+      "source": "marketing-writer",
+      "target": "senior-editor",
+      "weight": 0.42
+    },
+    {
+      "source": "social-media-specialist",
+      "target": "freelance-writer",
+      "weight": 0.6
+    },
+    {
+      "source": "sports-editor-media",
+      "target": "freelance-writer",
+      "weight": 0.5
+    },
+    {
+      "source": "bureau-chief",
+      "target": "freelance-writer",
+      "weight": 0.46
+    },
+    {
+      "source": "assistant-photo-editor-media",
+      "target": "freelance-writer",
+      "weight": 0.53
+    },
+    {
+      "source": "assistant-photo-editor-media",
+      "target": "associate-producer",
+      "weight": 0.96
+    },
+    {
+      "source": "news-producer",
+      "target": "production-assistant",
+      "weight": 0.94
+    },
+    {
+      "source": "production-intern",
+      "target": "deputy-editor",
+      "weight": 0.57
+    },
+    {
+      "source": "publicity-manager",
+      "target": "freelance-writer",
+      "weight": 0.62
+    },
+    {
+      "source": "camera-operator-media",
+      "target": "producer",
+      "weight": 0.64
+    },
+    {
+      "source": "camera-operator-media",
+      "target": "editor",
+      "weight": 0.81
+    },
+    {
+      "source": "production-editor",
+      "target": "production-assistant",
+      "weight": 0.89
+    },
+    {
+      "source": "production-editor",
+      "target": "associate-producer",
+      "weight": 0.58
+    },
+    {
+      "source": "concept-artist-media",
+      "target": "writer",
+      "weight": 0.88
+    },
+    {
+      "source": "production-director",
+      "target": "deputy-editor",
+      "weight": 0.97
+    },
+    {
+      "source": "news-anchor",
+      "target": "editor",
+      "weight": 0.75
+    },
+    {
+      "source": "news-anchor",
+      "target": "senior-editor",
+      "weight": 0.44
+    },
+    {
+      "source": "publicity-assistant",
+      "target": "production-assistant",
+      "weight": 0.81
+    },
+    {
+      "source": "publicity-assistant",
+      "target": "senior-editor",
+      "weight": 0.97
+    },
+    {
+      "source": "media-analyst",
+      "target": "art-director-media",
+      "weight": 0.79
+    },
+    {
+      "source": "media-analyst",
+      "target": "senior-editor",
+      "weight": 0.57
+    },
+    {
+      "source": "media-specialist",
+      "target": "deputy-editor",
+      "weight": 0.77
+    },
+    {
+      "source": "media-specialist",
+      "target": "associate-producer",
+      "weight": 0.96
+    },
+    {
+      "source": "chief-reporter",
+      "target": "freelance-writer",
+      "weight": 0.45
+    },
+    {
+      "source": "press-assistant-media",
+      "target": "deputy-editor",
+      "weight": 0.98
+    },
+    {
+      "source": "game-designer",
+      "target": "freelance-writer",
+      "weight": 0.43
+    },
+    {
+      "source": "digital-project-manager-media",
+      "target": "production-assistant",
+      "weight": 0.68
+    },
+    {
+      "source": "artworker-media",
+      "target": "writer",
+      "weight": 0.89
+    },
+    {
+      "source": "artworker-media",
+      "target": "production-assistant",
+      "weight": 0.46
+    },
+    {
+      "source": "senior-media-buyer-media",
+      "target": "art-director-media",
+      "weight": 0.45
+    },
+    {
+      "source": "business-editor",
+      "target": "senior-editor",
+      "weight": 0.79
+    },
+    {
+      "source": "motion-designer-media",
+      "target": "art-director-media",
+      "weight": 0.98
+    },
+    {
+      "source": "motion-designer-media",
+      "target": "editor",
+      "weight": 0.94
+    },
+    {
+      "source": "set-designer-media",
+      "target": "associate-producer",
+      "weight": 0.78
+    },
+    {
+      "source": "audio-visual-technician",
+      "target": "proofreader",
+      "weight": 0.46
+    },
+    {
+      "source": "video-producer",
+      "target": "deputy-editor",
+      "weight": 0.63
+    },
+    {
+      "source": "video-producer",
+      "target": "associate-producer",
+      "weight": 0.47
+    },
+    {
+      "source": "publicist",
+      "target": "producer",
+      "weight": 0.56
+    },
+    {
+      "source": "development-producer",
+      "target": "freelance-writer",
+      "weight": 0.99
+    },
+    {
+      "source": "development-producer",
+      "target": "production-assistant",
+      "weight": 0.89
+    },
+    {
+      "source": "freelance-illustrator-media",
+      "target": "writer",
+      "weight": 0.68
+    },
+    {
+      "source": "chief-editor",
+      "target": "editor",
+      "weight": 0.73
+    },
+    {
+      "source": "senior-broadcast-journalism",
+      "target": "production-assistant",
+      "weight": 0.96
+    },
+    {
+      "source": "interactive-designer-media",
+      "target": "editor",
+      "weight": 0.69
+    },
+    {
+      "source": "interactive-designer-media",
+      "target": "art-director-media",
+      "weight": 0.79
+    },
+    {
+      "source": "associate-managing-editor",
+      "target": "associate-producer",
+      "weight": 0.91
+    },
+    {
+      "source": "digital-account-manager-media",
+      "target": "freelance-writer",
+      "weight": 0.49
+    },
+    {
+      "source": "freelance-editor",
+      "target": "art-director-media",
+      "weight": 0.44
+    },
+    {
+      "source": "digital-producer-media",
+      "target": "senior-editor",
+      "weight": 0.58
+    },
+    {
+      "source": "digital-producer-media",
+      "target": "production-assistant",
+      "weight": 0.55
+    },
+    {
+      "source": "general-assignment-reporter",
+      "target": "writer",
+      "weight": 0.64
+    },
+    {
+      "source": "general-assignment-reporter",
+      "target": "art-director-media",
+      "weight": 0.45
+    },
+    {
+      "source": "edit-producer",
+      "target": "production-assistant",
+      "weight": 0.78
+    },
+    {
+      "source": "edit-producer",
+      "target": "editor",
+      "weight": 0.59
+    },
+    {
+      "source": "sub-editor",
+      "target": "art-director-media",
+      "weight": 0.4
+    },
+    {
+      "source": "sub-editor",
+      "target": "producer",
+      "weight": 0.95
+    },
+    {
+      "source": "web-editor",
+      "target": "editor",
+      "weight": 0.76
+    },
+    {
+      "source": "presenter",
+      "target": "production-assistant",
+      "weight": 0.87
+    },
+    {
+      "source": "features-writer",
+      "target": "production-assistant",
+      "weight": 0.48
+    },
+    {
+      "source": "features-writer",
+      "target": "associate-producer",
+      "weight": 0.94
+    },
+    {
+      "source": "creative-associate-director-media",
+      "target": "writer",
+      "weight": 0.55
+    },
+    {
+      "source": "photojournalist-media",
+      "target": "associate-producer",
+      "weight": 0.69
+    },
+    {
+      "source": "photojournalist-media",
+      "target": "freelance-writer",
+      "weight": 0.91
+    },
+    {
+      "source": "master-control-operator",
+      "target": "freelance-writer",
+      "weight": 0.51
+    },
+    {
+      "source": "senior-media-planner-media",
+      "target": "production-assistant",
+      "weight": 0.42
+    },
+    {
+      "source": "casting-producer",
+      "target": "senior-editor",
+      "weight": 0.71
+    },
+    {
+      "source": "digital-designer-media",
+      "target": "senior-editor",
+      "weight": 0.75
+    },
+    {
+      "source": "digital-designer-media",
+      "target": "proofreader",
+      "weight": 0.49
+    },
+    {
+      "source": "creative-service-manager-media",
+      "target": "deputy-editor",
+      "weight": 0.49
+    },
+    {
+      "source": "creative-intern-media",
+      "target": "production-assistant",
+      "weight": 0.6
+    },
+    {
+      "source": "creative-intern-media",
+      "target": "producer",
+      "weight": 0.49
+    },
+    {
+      "source": "sports-anchor-media",
+      "target": "freelance-writer",
+      "weight": 0.89
+    },
+    {
+      "source": "audio-engineer",
+      "target": "senior-editor",
+      "weight": 0.48
+    },
+    {
+      "source": "social-media-executive-media",
+      "target": "deputy-editor",
+      "weight": 0.95
+    },
+    {
+      "source": "news-intern",
+      "target": "deputy-editor",
+      "weight": 0.54
+    },
+    {
+      "source": "columnist",
+      "target": "associate-producer",
+      "weight": 0.46
+    },
+    {
+      "source": "columnist",
+      "target": "editor",
+      "weight": 0.4
+    },
+    {
+      "source": "correspondent",
+      "target": "senior-editor",
+      "weight": 0.53
+    },
+    {
+      "source": "publishing-manager",
+      "target": "art-director-media",
+      "weight": 0.86
+    },
+    {
+      "source": "media-assistant",
+      "target": "editor",
+      "weight": 0.61
+    },
+    {
+      "source": "advertising-director",
+      "target": "proofreader",
+      "weight": 0.52
+    },
+    {
+      "source": "user-interface-designer-media",
+      "target": "deputy-editor",
+      "weight": 0.46
+    },
+    {
+      "source": "user-interface-designer-media",
+      "target": "production-assistant",
+      "weight": 0.95
+    },
+    {
+      "source": "page-designer",
+      "target": "associate-producer",
+      "weight": 0.52
+    },
+    {
+      "source": "page-designer",
+      "target": "senior-editor",
+      "weight": 0.43
+    },
+    {
+      "source": "associate-media-director-media",
+      "target": "production-assistant",
+      "weight": 0.86
+    },
+    {
+      "source": "associate-media-director-media",
+      "target": "writer",
+      "weight": 0.78
+    },
+    {
+      "source": "content-writer",
+      "target": "senior-editor",
+      "weight": 0.78
+    },
+    {
+      "source": "content-writer",
+      "target": "editor",
+      "weight": 0.41
+    },
+    {
+      "source": "ux-designer-media",
+      "target": "producer",
+      "weight": 0.95
+    },
+    {
+      "source": "assignment-editor",
+      "target": "art-director-media",
+      "weight": 0.69
+    },
+    {
+      "source": "creative-producer",
+      "target": "freelance-writer",
+      "weight": 0.83
+    },
+    {
+      "source": "assistant-managing-editor",
+      "target": "production-assistant",
+      "weight": 1
+    },
+    {
+      "source": "assistant-art-director-media",
+      "target": "producer",
+      "weight": 0.57
+    },
+    {
+      "source": "assistant-art-director-media",
+      "target": "proofreader",
+      "weight": 0.87
+    },
+    {
+      "source": "associate-art-director-media",
+      "target": "associate-producer",
+      "weight": 0.67
+    },
+    {
+      "source": "associate-art-director-media",
+      "target": "proofreader",
+      "weight": 0.71
+    },
+    {
+      "source": "production-secretary",
+      "target": "art-director-media",
+      "weight": 0.46
+    },
+    {
+      "source": "production-secretary",
+      "target": "production-assistant",
+      "weight": 0.52
+    },
+    {
+      "source": "assistant-news-director",
+      "target": "writer",
+      "weight": 0.68
+    },
+    {
+      "source": "stage-manager-media",
+      "target": "deputy-editor",
+      "weight": 0.82
+    },
+    {
+      "source": "stage-manager-media",
+      "target": "writer",
+      "weight": 0.56
+    },
+    {
+      "source": "post-production-coordinator",
+      "target": "production-assistant",
+      "weight": 0.68
+    },
+    {
+      "source": "freelance-copywriter-media",
+      "target": "proofreader",
+      "weight": 0.74
+    },
+    {
+      "source": "freelance-copywriter-media",
+      "target": "production-assistant",
+      "weight": 0.83
+    },
+    {
+      "source": "assistant-production-coordinator",
+      "target": "art-director-media",
+      "weight": 0.91
+    },
+    {
+      "source": "weekend-anchor",
+      "target": "editor",
+      "weight": 0.47
+    },
+    {
+      "source": "digital-marketing-intern-media",
+      "target": "deputy-editor",
+      "weight": 0.82
+    },
+    {
+      "source": "digital-marketing-intern-media",
+      "target": "production-assistant",
+      "weight": 0.7
+    },
+    {
+      "source": "medical-writer-media",
+      "target": "production-assistant",
+      "weight": 0.52
+    },
+    {
+      "source": "associate-writer",
+      "target": "freelance-writer",
+      "weight": 0.71
+    },
+    {
+      "source": "content-associate",
+      "target": "production-assistant",
+      "weight": 0.46
+    },
+    {
+      "source": "segment-producer",
+      "target": "editor",
+      "weight": 0.86
+    },
+    {
+      "source": "segment-producer",
+      "target": "deputy-editor",
+      "weight": 0.74
+    },
+    {
+      "source": "producer",
+      "target": "editor",
+      "weight": 0.94
+    },
+    {
+      "source": "producer",
+      "target": "associate-producer",
+      "weight": 0.91
+    },
+    {
+      "source": "producer",
+      "target": "freelance-writer",
+      "weight": 0.64
+    },
+    {
+      "source": "editor",
+      "target": "art-director-media",
+      "weight": 0.8
+    },
+    {
+      "source": "editor",
+      "target": "associate-producer",
+      "weight": 0.9
+    },
+    {
+      "source": "editor",
+      "target": "deputy-editor",
+      "weight": 0.73
+    },
+    {
+      "source": "editor",
+      "target": "freelance-writer",
+      "weight": 0.65
+    },
+    {
+      "source": "editor",
+      "target": "proofreader",
+      "weight": 0.82
+    },
+    {
+      "source": "editor",
+      "target": "senior-editor",
+      "weight": 0.65
+    },
+    {
+      "source": "editor",
+      "target": "production-assistant",
+      "weight": 0.94
+    },
+    {
+      "source": "art-director-media",
+      "target": "deputy-editor",
+      "weight": 0.81
+    },
+    {
+      "source": "art-director-media",
+      "target": "freelance-writer",
+      "weight": 0.96
+    },
+    {
+      "source": "art-director-media",
+      "target": "writer",
+      "weight": 0.91
+    },
+    {
+      "source": "art-director-media",
+      "target": "proofreader",
+      "weight": 0.68
+    },
+    {
+      "source": "art-director-media",
+      "target": "senior-editor",
+      "weight": 0.91
+    },
+    {
+      "source": "art-director-media",
+      "target": "production-assistant",
+      "weight": 0.68
+    },
+    {
+      "source": "associate-producer",
+      "target": "freelance-writer",
+      "weight": 0.83
+    },
+    {
+      "source": "associate-producer",
+      "target": "writer",
+      "weight": 0.95
+    },
+    {
+      "source": "associate-producer",
+      "target": "proofreader",
+      "weight": 0.9
+    },
+    {
+      "source": "associate-producer",
+      "target": "senior-editor",
+      "weight": 0.89
+    },
+    {
+      "source": "associate-producer",
+      "target": "production-assistant",
+      "weight": 0.72
+    },
+    {
+      "source": "deputy-editor",
+      "target": "writer",
+      "weight": 0.68
+    },
+    {
+      "source": "deputy-editor",
+      "target": "proofreader",
+      "weight": 0.66
+    },
+    {
+      "source": "deputy-editor",
+      "target": "senior-editor",
+      "weight": 0.73
+    },
+    {
+      "source": "deputy-editor",
+      "target": "production-assistant",
+      "weight": 0.75
+    },
+    {
+      "source": "freelance-writer",
+      "target": "writer",
+      "weight": 0.78
+    },
+    {
+      "source": "freelance-writer",
+      "target": "proofreader",
+      "weight": 0.76
+    },
+    {
+      "source": "freelance-writer",
+      "target": "senior-editor",
+      "weight": 0.99
+    },
+    {
+      "source": "freelance-writer",
+      "target": "production-assistant",
+      "weight": 0.63
+    },
+    {
+      "source": "writer",
+      "target": "proofreader",
+      "weight": 0.74
+    },
+    {
+      "source": "writer",
+      "target": "senior-editor",
+      "weight": 0.85
+    },
+    {
+      "source": "writer",
+      "target": "production-assistant",
+      "weight": 0.98
+    },
+    {
+      "source": "proofreader",
+      "target": "senior-editor",
+      "weight": 0.81
+    },
+    {
+      "source": "proofreader",
+      "target": "production-assistant",
+      "weight": 0.96
+    },
+    {
+      "source": "senior-editor",
+      "target": "production-assistant",
+      "weight": 0.62
+    },
+    {
+      "source": "producer",
+      "target": "social-media-strategist-media",
+      "weight": 0.7
+    },
+    {
+      "source": "editor",
+      "target": "videographer-media",
+      "weight": 0.7
+    },
+    {
+      "source": "editor",
+      "target": "audio-visual-technician",
+      "weight": 0.7
+    },
+    {
+      "source": "editor",
+      "target": "photojournalist-media",
+      "weight": 0.7
+    },
+    {
+      "source": "production-assistant",
+      "target": "videographer-media",
+      "weight": 0.7
+    },
+    {
+      "source": "production-assistant",
+      "target": "audio-visual-technician",
+      "weight": 0.7
+    },
+    {
+      "source": "production-assistant",
+      "target": "photojournalist-media",
+      "weight": 0.7
+    },
+    {
+      "source": "videographer-media",
+      "target": "audio-visual-technician",
+      "weight": 0.7
+    },
+    {
+      "source": "videographer-media",
+      "target": "photojournalist-media",
+      "weight": 0.7
+    },
+    {
+      "source": "audio-visual-technician",
+      "target": "photojournalist-media",
+      "weight": 0.7
+    },
+    {
+      "source": "proofreader",
+      "target": "technical-writer",
+      "weight": 0.7
+    },
+    {
+      "source": "proofreader",
+      "target": "publisher",
+      "weight": 0.7
+    },
+    {
+      "source": "proofreader",
+      "target": "editorial-assistant",
+      "weight": 0.7
+    },
+    {
+      "source": "proofreader",
+      "target": "senior-technical-writer-media",
+      "weight": 0.7
+    },
+    {
+      "source": "technical-writer",
+      "target": "publisher",
+      "weight": 0.7
+    },
+    {
+      "source": "technical-writer",
+      "target": "editorial-assistant",
+      "weight": 0.7
+    },
+    {
+      "source": "technical-writer",
+      "target": "senior-technical-writer-media",
+      "weight": 0.7
+    },
+    {
+      "source": "publisher",
+      "target": "editorial-assistant",
+      "weight": 0.7
+    },
+    {
+      "source": "publisher",
+      "target": "senior-technical-writer-media",
+      "weight": 0.7
+    },
+    {
+      "source": "editorial-assistant",
+      "target": "senior-technical-writer-media",
+      "weight": 0.7
+    },
+    {
+      "source": "reporter",
+      "target": "press-officer",
+      "weight": 0.7
+    },
+    {
+      "source": "reporter",
+      "target": "media-supervisor-media",
+      "weight": 0.7
+    },
+    {
+      "source": "press-officer",
+      "target": "media-supervisor-media",
+      "weight": 0.7
+    },
+    {
+      "source": "content-manager",
+      "target": "content-strategist-media",
+      "weight": 0.7
+    },
+    {
+      "source": "content-manager",
+      "target": "media-analyst",
+      "weight": 0.7
+    },
+    {
+      "source": "content-manager",
+      "target": "digital-project-manager-media",
+      "weight": 0.7
+    },
+    {
+      "source": "content-strategist-media",
+      "target": "media-analyst",
+      "weight": 0.7
+    },
+    {
+      "source": "content-strategist-media",
+      "target": "digital-project-manager-media",
+      "weight": 0.7
+    },
+    {
+      "source": "media-analyst",
+      "target": "digital-project-manager-media",
+      "weight": 0.7
+    },
+    {
+      "source": "social-media-specialist",
+      "target": "media-specialist",
+      "weight": 0.7
+    },
+    {
+      "source": "post-production-coordinator",
+      "target": "assistant-production-coordinator",
+      "weight": 0.7
+    }
+  ]
+}

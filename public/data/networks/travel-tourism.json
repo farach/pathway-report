@@ -1,0 +1,2998 @@
+{
+  "sector": "Travel & Tourism",
+  "metadata": {
+    "nodeCount": 150,
+    "edgeCount": 299,
+    "generatedAt": "2026-01-31T16:46:33Z"
+  },
+  "nodes": [
+    {
+      "id": "beverage-manager",
+      "label": "Beverage Manager",
+      "soc": "11-9051",
+      "ptr": 0.4386,
+      "nfc": 0.6579,
+      "quadrant": "LH",
+      "size": 11.74,
+      "aiExposure": 0.2538
+    },
+    {
+      "id": "restaurant-manager",
+      "label": "Restaurant Manager",
+      "soc": "39-1022",
+      "ptr": 0.342,
+      "nfc": 0.5916,
+      "quadrant": "LH",
+      "size": 10.83,
+      "aiExposure": 0.3523
+    },
+    {
+      "id": "front-office-manager",
+      "label": "Front Office Manager",
+      "soc": "11-9081",
+      "ptr": 0.4652,
+      "nfc": 0.727,
+      "quadrant": "LH",
+      "size": 10.29,
+      "aiExposure": 0.32
+    },
+    {
+      "id": "duty-manager",
+      "label": "Duty Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 9.94,
+      "aiExposure": 0
+    },
+    {
+      "id": "sous-chef",
+      "label": "Sous Chef",
+      "soc": "35-1011",
+      "ptr": 0.2218,
+      "nfc": 0.3822,
+      "quadrant": "LH",
+      "size": 9.41,
+      "aiExposure": 0.2066
+    },
+    {
+      "id": "chef",
+      "label": "Chef",
+      "soc": "25-1194",
+      "ptr": 0.6257,
+      "nfc": 0.8962,
+      "quadrant": "LH",
+      "size": 8.97,
+      "aiExposure": 0.3368
+    },
+    {
+      "id": "event-manager",
+      "label": "Event Manager",
+      "soc": "13-1121",
+      "ptr": 0.683,
+      "nfc": 0.8544,
+      "quadrant": "HH",
+      "size": 8.89,
+      "aiExposure": 0.3165
+    },
+    {
+      "id": "catering-manager",
+      "label": "Catering Manager",
+      "soc": "13-1121",
+      "ptr": 0.683,
+      "nfc": 0.8534,
+      "quadrant": "HH",
+      "size": 7.07,
+      "aiExposure": 0.3165
+    },
+    {
+      "id": "front-desk-agent",
+      "label": "Front Desk Agent",
+      "soc": "39-6012",
+      "ptr": 0,
+      "nfc": 0.7732,
+      "quadrant": "LH",
+      "size": 7.05,
+      "aiExposure": 0.4193
+    },
+    {
+      "id": "front-office-supervisor",
+      "label": "Front Office Supervisor",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 7.01,
+      "aiExposure": 0
+    },
+    {
+      "id": "executive-chef",
+      "label": "Executive Chef",
+      "soc": "35-1011",
+      "ptr": 0.3136,
+      "nfc": 0.3794,
+      "quadrant": "LH",
+      "size": 6.63,
+      "aiExposure": 0.2066
+    },
+    {
+      "id": "catering-sales-manager",
+      "label": "Catering Sales Manager",
+      "soc": "11-2021",
+      "ptr": 0.8,
+      "nfc": 0.8948,
+      "quadrant": "HH",
+      "size": 6.56,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "event-operation-manager",
+      "label": "Event Operation Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 6.3,
+      "aiExposure": 0
+    },
+    {
+      "id": "pastry-chef",
+      "label": "Pastry Chef",
+      "soc": "35-1011",
+      "ptr": 0.2766,
+      "nfc": 0.3779,
+      "quadrant": "LH",
+      "size": 6.2,
+      "aiExposure": 0.2066
+    },
+    {
+      "id": "assistant-general-manager",
+      "label": "Assistant General Manager",
+      "soc": "11-1021",
+      "ptr": 0.8062,
+      "nfc": 0.8402,
+      "quadrant": "HH",
+      "size": 6.1,
+      "aiExposure": 0.2953
+    },
+    {
+      "id": "assistant-front-office-manager",
+      "label": "Assistant Front Office Manager",
+      "soc": "11-9081",
+      "ptr": 0.5432,
+      "nfc": 0.7152,
+      "quadrant": "LH",
+      "size": 6.07,
+      "aiExposure": 0.32
+    },
+    {
+      "id": "senior-sales-manager",
+      "label": "Senior Sales Manager",
+      "soc": "11-2021",
+      "ptr": 0.8373,
+      "nfc": 0.8891,
+      "quadrant": "HH",
+      "size": 6.06,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "reception-manager",
+      "label": "Reception Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 6.05,
+      "aiExposure": 0
+    },
+    {
+      "id": "beverage-supervisor",
+      "label": "Beverage Supervisor",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.93,
+      "aiExposure": 0
+    },
+    {
+      "id": "revenue-manager",
+      "label": "Revenue Manager",
+      "soc": "11-9081",
+      "ptr": 0.6579,
+      "nfc": 0.7115,
+      "quadrant": "HH",
+      "size": 5.89,
+      "aiExposure": 0.32
+    },
+    {
+      "id": "corporate-sales-manager",
+      "label": "Corporate Sales Manager",
+      "soc": "11-2021",
+      "ptr": 0.8189,
+      "nfc": 0.8845,
+      "quadrant": "HH",
+      "size": 5.79,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "food-service-director",
+      "label": "Food Service Director",
+      "soc": "11-9051",
+      "ptr": 0.633,
+      "nfc": 0.6406,
+      "quadrant": "LH",
+      "size": 5.76,
+      "aiExposure": 0.2538
+    },
+    {
+      "id": "convention-service-manager",
+      "label": "Convention Service Manager",
+      "soc": "11-2022",
+      "ptr": 0.6298,
+      "nfc": 0.6636,
+      "quadrant": "LH",
+      "size": 5.73,
+      "aiExposure": 0.3071
+    },
+    {
+      "id": "group-sales-manager",
+      "label": "Group Sales Manager",
+      "soc": "11-2021",
+      "ptr": 0.8373,
+      "nfc": 0.8811,
+      "quadrant": "HH",
+      "size": 5.69,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "waiter",
+      "label": "Waiter",
+      "soc": "35-3023",
+      "ptr": 0.2253,
+      "nfc": 0.2605,
+      "quadrant": "LH",
+      "size": 5.67,
+      "aiExposure": 0.1304
+    },
+    {
+      "id": "head-chef",
+      "label": "Head Chef",
+      "soc": "35-1011",
+      "ptr": 0.3388,
+      "nfc": 0.3721,
+      "quadrant": "LH",
+      "size": 5.64,
+      "aiExposure": 0.2066
+    },
+    {
+      "id": "catering-director",
+      "label": "Catering Director",
+      "soc": "13-1121",
+      "ptr": 0.8283,
+      "nfc": 0.8328,
+      "quadrant": "HH",
+      "size": 5.57,
+      "aiExposure": 0.3165
+    },
+    {
+      "id": "head-waiter",
+      "label": "Head Waiter",
+      "soc": "35-3031",
+      "ptr": 0.3006,
+      "nfc": 0.308,
+      "quadrant": "LH",
+      "size": 5.55,
+      "aiExposure": 0.2224
+    },
+    {
+      "id": "bar-supervisor",
+      "label": "Bar Supervisor",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.49,
+      "aiExposure": 0
+    },
+    {
+      "id": "catering-coordinator",
+      "label": "Catering Coordinator",
+      "soc": "13-1121",
+      "ptr": 0.7409,
+      "nfc": 0.8295,
+      "quadrant": "HH",
+      "size": 5.46,
+      "aiExposure": 0.3165
+    },
+    {
+      "id": "bar-manager",
+      "label": "Bar Manager",
+      "soc": "39-1022",
+      "ptr": 0.5347,
+      "nfc": 0.57,
+      "quadrant": "LH",
+      "size": 5.43,
+      "aiExposure": 0.3523
+    },
+    {
+      "id": "night-auditor",
+      "label": "Night Auditor",
+      "soc": "13-2011",
+      "ptr": 0.6376,
+      "nfc": 0.9192,
+      "quadrant": "LH",
+      "size": 5.43,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "rooms-division-manager",
+      "label": "Rooms Division Manager",
+      "soc": "11-2022",
+      "ptr": 0.6696,
+      "nfc": 0.6549,
+      "quadrant": "HH",
+      "size": 5.41,
+      "aiExposure": 0.3071
+    },
+    {
+      "id": "guest-service-manager",
+      "label": "Guest Service Manager",
+      "soc": "11-2022",
+      "ptr": 0.5873,
+      "nfc": 0.654,
+      "quadrant": "LH",
+      "size": 5.4,
+      "aiExposure": 0.3071
+    },
+    {
+      "id": "housekeeper",
+      "label": "Housekeeper",
+      "soc": "39-3093",
+      "ptr": 0.1398,
+      "nfc": 0.145,
+      "quadrant": "LH",
+      "size": 5.39,
+      "aiExposure": 0.1226
+    },
+    {
+      "id": "cook",
+      "label": "Cook",
+      "soc": "35-2014",
+      "ptr": 0.1763,
+      "nfc": 0.2189,
+      "quadrant": "LH",
+      "size": 5.37,
+      "aiExposure": 0.1335
+    },
+    {
+      "id": "housekeeping-supervisor",
+      "label": "Housekeeping Supervisor",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.35,
+      "aiExposure": 0
+    },
+    {
+      "id": "front-desk-supervisor",
+      "label": "Front Desk Supervisor",
+      "soc": "11-9081",
+      "ptr": 0.5951,
+      "nfc": 0.6948,
+      "quadrant": "LH",
+      "size": 5.35,
+      "aiExposure": 0.32
+    },
+    {
+      "id": "guest-relations-manager",
+      "label": "Guest Relations Manager",
+      "soc": "11-9081",
+      "ptr": 0.6871,
+      "nfc": 0.6939,
+      "quadrant": "HH",
+      "size": 5.33,
+      "aiExposure": 0.32
+    },
+    {
+      "id": "chef-de-partie",
+      "label": "Chef De Partie",
+      "soc": "35-1011",
+      "ptr": 0.3048,
+      "nfc": 0.3652,
+      "quadrant": "LH",
+      "size": 5.29,
+      "aiExposure": 0.2066
+    },
+    {
+      "id": "reservations-manager",
+      "label": "Reservations Manager",
+      "soc": "11-3071",
+      "ptr": 0.8467,
+      "nfc": 0.8527,
+      "quadrant": "HH",
+      "size": 5.28,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "guest-service-supervisor",
+      "label": "Guest Service Supervisor",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.27,
+      "aiExposure": 0
+    },
+    {
+      "id": "banqueting-manager",
+      "label": "Banqueting Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.24,
+      "aiExposure": 0
+    },
+    {
+      "id": "housekeeping-manager",
+      "label": "Housekeeping Manager",
+      "soc": "37-1011",
+      "ptr": 0.4652,
+      "nfc": 0.4873,
+      "quadrant": "LH",
+      "size": 5.24,
+      "aiExposure": 0.2117
+    },
+    {
+      "id": "banquet-manager",
+      "label": "Banquet Manager",
+      "soc": "11-9051",
+      "ptr": 0.5802,
+      "nfc": 0.6212,
+      "quadrant": "LH",
+      "size": 5.23,
+      "aiExposure": 0.2538
+    },
+    {
+      "id": "banquet-captain",
+      "label": "Banquet Captain",
+      "soc": "33-1012",
+      "ptr": 0.5006,
+      "nfc": 0.5007,
+      "quadrant": "LH",
+      "size": 5.23,
+      "aiExposure": 0.2058
+    },
+    {
+      "id": "event-sales-manager",
+      "label": "Event Sales Manager",
+      "soc": "11-2021",
+      "ptr": 0.8902,
+      "nfc": 0.8542,
+      "quadrant": "HH",
+      "size": 5.19,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "head-receptionist",
+      "label": "Head Receptionist",
+      "soc": "43-4171",
+      "ptr": 0.9164,
+      "nfc": 0.8782,
+      "quadrant": "HH",
+      "size": 5.17,
+      "aiExposure": 0.387
+    },
+    {
+      "id": "assistant-banquet-manager",
+      "label": "Assistant Banquet Manager",
+      "soc": "11-9051",
+      "ptr": 0.6202,
+      "nfc": 0.6178,
+      "quadrant": "LH",
+      "size": 5.16,
+      "aiExposure": 0.2538
+    },
+    {
+      "id": "beverage-director",
+      "label": "Beverage Director",
+      "soc": "27-2012",
+      "ptr": 0.7674,
+      "nfc": 0.7479,
+      "quadrant": "HH",
+      "size": 5.15,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "front-desk-manager",
+      "label": "Front Desk Manager",
+      "soc": "11-9081",
+      "ptr": 0.6579,
+      "nfc": 0.6824,
+      "quadrant": "HH",
+      "size": 5.14,
+      "aiExposure": 0.32
+    },
+    {
+      "id": "dining-room-manager",
+      "label": "Dining Room Manager",
+      "soc": "35-1012",
+      "ptr": 0.8772,
+      "nfc": 0.87,
+      "quadrant": "HH",
+      "size": 5.14,
+      "aiExposure": 0.3139
+    },
+    {
+      "id": "outlet-manager",
+      "label": "Outlet Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.14,
+      "aiExposure": 0
+    },
+    {
+      "id": "conference-service-manager",
+      "label": "Conference Service Manager",
+      "soc": "11-2022",
+      "ptr": 0.6159,
+      "nfc": 0.6362,
+      "quadrant": "LH",
+      "size": 5.13,
+      "aiExposure": 0.3071
+    },
+    {
+      "id": "assistant-restaurant-manager",
+      "label": "Assistant Restaurant Manager",
+      "soc": "39-1022",
+      "ptr": 0.4969,
+      "nfc": 0.5515,
+      "quadrant": "LH",
+      "size": 5.12,
+      "aiExposure": 0.3523
+    },
+    {
+      "id": "night-manager",
+      "label": "Night Manager",
+      "soc": "11-9081",
+      "ptr": 0.6579,
+      "nfc": 0.6776,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.32
+    },
+    {
+      "id": "housekeeping-director",
+      "label": "Housekeeping Director",
+      "soc": "27-2012",
+      "ptr": 0.7674,
+      "nfc": 0.7405,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "executive-sous-chef",
+      "label": "Executive Sous Chef",
+      "soc": "35-1011",
+      "ptr": 0.3621,
+      "nfc": 0.3561,
+      "quadrant": "LH",
+      "size": 5.08,
+      "aiExposure": 0.2066
+    },
+    {
+      "id": "catering-assistant",
+      "label": "Catering Assistant",
+      "soc": "35-3023",
+      "ptr": 0.2532,
+      "nfc": 0.2483,
+      "quadrant": "LH",
+      "size": 5.07,
+      "aiExposure": 0.1304
+    },
+    {
+      "id": "executive-housekeeper",
+      "label": "Executive Housekeeper",
+      "soc": "39-3093",
+      "ptr": 0.1487,
+      "nfc": 0.1401,
+      "quadrant": "LH",
+      "size": 5.07,
+      "aiExposure": 0.1226
+    },
+    {
+      "id": "reservations-agent",
+      "label": "Reservations Agent",
+      "soc": "13-1011",
+      "ptr": 0.8143,
+      "nfc": 0.8734,
+      "quadrant": "HH",
+      "size": 5.07,
+      "aiExposure": 0.4062
+    },
+    {
+      "id": "sommelier",
+      "label": "Sommelier",
+      "soc": "35-3023",
+      "ptr": 0.2424,
+      "nfc": 0.2476,
+      "quadrant": "LH",
+      "size": 5.06,
+      "aiExposure": 0.1304
+    },
+    {
+      "id": "demi-chef-de-partie",
+      "label": "Demi Chef De Partie",
+      "soc": "35-1011",
+      "ptr": 0.3467,
+      "nfc": 0.3536,
+      "quadrant": "LH",
+      "size": 5.06,
+      "aiExposure": 0.2066
+    },
+    {
+      "id": "junior-sous-chef",
+      "label": "Junior Sous Chef",
+      "soc": "35-1011",
+      "ptr": 0.3545,
+      "nfc": 0.3531,
+      "quadrant": "LH",
+      "size": 5.05,
+      "aiExposure": 0.2066
+    },
+    {
+      "id": "head-housekeeper",
+      "label": "Head Housekeeper",
+      "soc": "39-3093",
+      "ptr": 0.1487,
+      "nfc": 0.139,
+      "quadrant": "LH",
+      "size": 5.05,
+      "aiExposure": 0.1226
+    },
+    {
+      "id": "assistant-executive-housekeeper",
+      "label": "Assistant Executive Housekeeper",
+      "soc": "39-3093",
+      "ptr": 0.1428,
+      "nfc": 0.1388,
+      "quadrant": "LH",
+      "size": 5.04,
+      "aiExposure": 0.1226
+    },
+    {
+      "id": "travel-consultant-travel-tourism",
+      "label": "Travel Consultant",
+      "soc": "41-3041",
+      "ptr": 0.868,
+      "nfc": 0.8799,
+      "quadrant": "HH",
+      "size": 5.04,
+      "aiExposure": 0.3997
+    },
+    {
+      "id": "house-manager-front",
+      "label": "House Manager Front",
+      "soc": "39-9011",
+      "ptr": 0.292,
+      "nfc": 0.2719,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.1509
+    },
+    {
+      "id": "executive-meeting-manager",
+      "label": "Executive Meeting Manager",
+      "soc": "13-1121",
+      "ptr": 0.7945,
+      "nfc": 0.7854,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3165
+    },
+    {
+      "id": "reservations-coordinator",
+      "label": "Reservations Coordinator",
+      "soc": "43-4181",
+      "ptr": 0.7474,
+      "nfc": 0.7076,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3942
+    },
+    {
+      "id": "concierge",
+      "label": "Concierge",
+      "soc": "39-6012",
+      "ptr": 0.6551,
+      "nfc": 0.7104,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.4193
+    },
+    {
+      "id": "kitchen-supervisor",
+      "label": "Kitchen Supervisor",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.02,
+      "aiExposure": 0
+    },
+    {
+      "id": "event-assistant",
+      "label": "Event Assistant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.02,
+      "aiExposure": 0
+    },
+    {
+      "id": "restaurant-supervisor",
+      "label": "Restaurant Supervisor",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.01,
+      "aiExposure": 0
+    },
+    {
+      "id": "tour-manager-travel-tourism",
+      "label": "Tour Manager",
+      "soc": "39-7012",
+      "ptr": 0.5262,
+      "nfc": 0.5039,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.19
+    },
+    {
+      "id": "chef-manager",
+      "label": "Chef Manager",
+      "soc": "35-1011",
+      "ptr": 0.3769,
+      "nfc": 0.3468,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.2066
+    },
+    {
+      "id": "senior-sous-chef",
+      "label": "Senior Sous Chef",
+      "soc": "35-1011",
+      "ptr": 0.3621,
+      "nfc": 0.3463,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.2066
+    },
+    {
+      "id": "meeting-manager",
+      "label": "Meeting Manager",
+      "soc": "13-1121",
+      "ptr": 0.8447,
+      "nfc": 0.7713,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3165
+    },
+    {
+      "id": "special-event-manager-travel-tourism",
+      "label": "Special Event Manager",
+      "soc": "13-1121",
+      "ptr": 0.8447,
+      "nfc": 0.7713,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3165
+    },
+    {
+      "id": "assistant-housekeeping-manager",
+      "label": "Assistant Housekeeping Manager",
+      "soc": "37-1011",
+      "ptr": 0.4959,
+      "nfc": 0.4618,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.2117
+    },
+    {
+      "id": "event-executive",
+      "label": "Event Executive",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.01,
+      "aiExposure": 0
+    },
+    {
+      "id": "senior-event-manager",
+      "label": "Senior Event Manager",
+      "soc": "13-1121",
+      "ptr": 0.8447,
+      "nfc": 0.7702,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3165
+    },
+    {
+      "id": "front-office-director",
+      "label": "Front Office Director",
+      "soc": "11-9081",
+      "ptr": 0.7152,
+      "nfc": 0.6511,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.32
+    },
+    {
+      "id": "floor-supervisor",
+      "label": "Floor Supervisor",
+      "soc": "41-1012",
+      "ptr": 0.9087,
+      "nfc": 0.8345,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3532
+    },
+    {
+      "id": "helpdesk-analyst-travel-tourism",
+      "label": "Helpdesk Analyst",
+      "soc": "13-2054",
+      "ptr": 0.9164,
+      "nfc": 0.8252,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "meeting-planner",
+      "label": "Meeting Planner",
+      "soc": "19-3051",
+      "ptr": 0.8191,
+      "nfc": 0.7522,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "conference-manager",
+      "label": "Conference Manager",
+      "soc": "13-1121",
+      "ptr": 0.7945,
+      "nfc": 0.7606,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3165
+    },
+    {
+      "id": "lead-cook",
+      "label": "Lead Cook",
+      "soc": "35-2014",
+      "ptr": 0.2114,
+      "nfc": 0.2024,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.1335
+    },
+    {
+      "id": "head-golf-professional-travel-tourism",
+      "label": "Head Golf Professional",
+      "soc": "27-2021",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.1109
+    },
+    {
+      "id": "rooms-operation-manager",
+      "label": "Rooms Operation Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "spa-manager-travel-tourism",
+      "label": "Spa Manager",
+      "soc": "11-9179",
+      "ptr": 0.6926,
+      "nfc": 0.635,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.2992
+    },
+    {
+      "id": "assistant-front-desk-manager",
+      "label": "Assistant Front Desk Manager",
+      "soc": "11-9081",
+      "ptr": 0.7013,
+      "nfc": 0.6419,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.32
+    },
+    {
+      "id": "senior-chef-de-partie",
+      "label": "Senior Chef De Partie",
+      "soc": "35-1011",
+      "ptr": 0.3621,
+      "nfc": 0.3378,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.2066
+    },
+    {
+      "id": "banquet-chef",
+      "label": "Banquet Chef",
+      "soc": "35-1011",
+      "ptr": 0.3696,
+      "nfc": 0.3373,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.2066
+    },
+    {
+      "id": "pastry-assistant",
+      "label": "Pastry Assistant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "assistant-spa-director-travel-tourism",
+      "label": "Assistant Spa Director",
+      "soc": "11-9179",
+      "ptr": 0.7063,
+      "nfc": 0.6299,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.2992
+    },
+    {
+      "id": "executive-casino-host-travel-tourism",
+      "label": "Executive Casino Host",
+      "soc": "27-3011",
+      "ptr": 0.9984,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5296
+    },
+    {
+      "id": "event-management-assistant-travel-tourism",
+      "label": "Event Management Assistant",
+      "soc": "43-6011",
+      "ptr": 0.9967,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4549
+    },
+    {
+      "id": "sales-administrative-assistant",
+      "label": "Sales Administrative Assistant",
+      "soc": "43-6014",
+      "ptr": 0.9951,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4504
+    },
+    {
+      "id": "reservation-sales-agent",
+      "label": "Reservation Sales Agent",
+      "soc": "41-3091",
+      "ptr": 0.9934,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.541
+    },
+    {
+      "id": "sales-associate-director",
+      "label": "Sales Associate Director",
+      "soc": "13-1199",
+      "ptr": 0.9851,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4007
+    },
+    {
+      "id": "senior-front-office-assistant",
+      "label": "Senior Front Office Assistant",
+      "soc": "43-9061",
+      "ptr": 0.9801,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4088
+    },
+    {
+      "id": "casino-host-travel-tourism",
+      "label": "Casino Host",
+      "soc": "27-3011",
+      "ptr": 0.9797,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5296
+    },
+    {
+      "id": "room-manager",
+      "label": "Room Manager",
+      "soc": "11-9071",
+      "ptr": 0.9785,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3795
+    },
+    {
+      "id": "catering-sales-coordinator",
+      "label": "Catering Sales Coordinator",
+      "soc": "41-4012",
+      "ptr": 0.97,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4628
+    },
+    {
+      "id": "casino-dealer-travel-tourism",
+      "label": "Casino Dealer",
+      "soc": "41-3031",
+      "ptr": 0.9684,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4188
+    },
+    {
+      "id": "senior-business-travel-consultant-travel-tourism",
+      "label": "Senior Business Travel Consultant",
+      "soc": "41-3041",
+      "ptr": 0.9616,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3997
+    },
+    {
+      "id": "senior-travel-consultant-travel-tourism",
+      "label": "Senior Travel Consultant",
+      "soc": "41-3041",
+      "ptr": 0.9616,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3997
+    },
+    {
+      "id": "senior-tour-coordinator",
+      "label": "Senior Tour Coordinator",
+      "soc": "41-3041",
+      "ptr": 0.9616,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3997
+    },
+    {
+      "id": "corporate-travel-consultant-travel-tourism",
+      "label": "Corporate Travel Consultant",
+      "soc": "41-3041",
+      "ptr": 0.9616,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3997
+    },
+    {
+      "id": "senior-travel-coordinator",
+      "label": "Senior Travel Coordinator",
+      "soc": "41-3041",
+      "ptr": 0.9616,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3997
+    },
+    {
+      "id": "income-auditor",
+      "label": "Income Auditor",
+      "soc": "13-2011",
+      "ptr": 0.9564,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "senior-night-auditor",
+      "label": "Senior Night Auditor",
+      "soc": "13-2011",
+      "ptr": 0.9564,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "event-sales-coordinator",
+      "label": "Event Sales Coordinator",
+      "soc": "41-4012",
+      "ptr": 0.9511,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4628
+    },
+    {
+      "id": "group-sales-coordinator",
+      "label": "Group Sales Coordinator",
+      "soc": "41-4012",
+      "ptr": 0.9511,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4628
+    },
+    {
+      "id": "senior-reservations-agent",
+      "label": "Senior Reservations Agent",
+      "soc": "13-1011",
+      "ptr": 0.9461,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4062
+    },
+    {
+      "id": "corporate-travel-agent",
+      "label": "Corporate Travel Agent",
+      "soc": "13-1011",
+      "ptr": 0.9461,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4062
+    },
+    {
+      "id": "senior-travel-agent",
+      "label": "Senior Travel Agent",
+      "soc": "13-1011",
+      "ptr": 0.9461,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4062
+    },
+    {
+      "id": "business-travel-consultant-travel-tourism",
+      "label": "Business Travel Consultant",
+      "soc": "41-3041",
+      "ptr": 0.9436,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3997
+    },
+    {
+      "id": "junior-travel-consultant",
+      "label": "Junior Travel Consultant",
+      "soc": "41-3041",
+      "ptr": 0.9436,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3997
+    },
+    {
+      "id": "front-office-agent",
+      "label": "Front Office Agent",
+      "soc": "13-1011",
+      "ptr": 0.9284,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4062
+    },
+    {
+      "id": "tour-coordinator",
+      "label": "Tour Coordinator",
+      "soc": "41-3041",
+      "ptr": 0.9253,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3997
+    },
+    {
+      "id": "travel-coordinator",
+      "label": "Travel Coordinator",
+      "soc": "41-3041",
+      "ptr": 0.9253,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3997
+    },
+    {
+      "id": "front-office-assistant",
+      "label": "Front Office Assistant",
+      "soc": "43-9061",
+      "ptr": 0.9241,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4088
+    },
+    {
+      "id": "front-desk-clerk",
+      "label": "Front Desk Clerk",
+      "soc": "43-9061",
+      "ptr": 0.9241,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4088
+    },
+    {
+      "id": "senior-receptionist",
+      "label": "Senior Receptionist",
+      "soc": "43-4171",
+      "ptr": 0.9164,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.387
+    },
+    {
+      "id": "assistant-dining-room-manager",
+      "label": "Assistant Dining Room Manager",
+      "soc": "35-1012",
+      "ptr": 0.913,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3139
+    },
+    {
+      "id": "senior-corporate-sales-manager",
+      "label": "Senior Corporate Sales Manager",
+      "soc": "11-2021",
+      "ptr": 0.9072,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "corporate-sales-director",
+      "label": "Corporate Sales Director",
+      "soc": "11-2021",
+      "ptr": 0.9072,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "group-sales-director",
+      "label": "Group Sales Director",
+      "soc": "11-2021",
+      "ptr": 0.9072,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "catering-sales-director",
+      "label": "Catering Sales Director",
+      "soc": "11-2021",
+      "ptr": 0.9072,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "event-sales-director",
+      "label": "Event Sales Director",
+      "soc": "11-2021",
+      "ptr": 0.9072,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "revenue-analyst",
+      "label": "Revenue Analyst",
+      "soc": "13-2054",
+      "ptr": 0.8986,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "event-planning-manager",
+      "label": "Event Planning Manager",
+      "soc": "11-3071",
+      "ptr": 0.8981,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "business-travel-sales-manager",
+      "label": "Business Travel Sales Manager",
+      "soc": "11-2021",
+      "ptr": 0.8902,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "assistant-group-sales-manager",
+      "label": "Assistant Group Sales Manager",
+      "soc": "11-2021",
+      "ptr": 0.8902,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "assistant-event-sales-manager",
+      "label": "Assistant Event Sales Manager",
+      "soc": "11-2021",
+      "ptr": 0.8902,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "event-planning-coordinator",
+      "label": "Event Planning Coordinator",
+      "soc": "11-9199",
+      "ptr": 0.8867,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "travel-agent",
+      "label": "Travel Agent",
+      "soc": "13-1011",
+      "ptr": 0.8732,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4062
+    },
+    {
+      "id": "front-desk-receptionist",
+      "label": "Front Desk Receptionist",
+      "soc": "43-4171",
+      "ptr": 0.8619,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.387
+    },
+    {
+      "id": "front-desk-associate",
+      "label": "Front Desk Associate",
+      "soc": "43-4171",
+      "ptr": 0.8619,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.387
+    },
+    {
+      "id": "senior-meeting-manager",
+      "label": "Senior Meeting Manager",
+      "soc": "13-1121",
+      "ptr": 0.8608,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3165
+    },
+    {
+      "id": "convention-manager",
+      "label": "Convention Manager",
+      "soc": "13-1121",
+      "ptr": 0.8608,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3165
+    },
+    {
+      "id": "senior-conference-manager",
+      "label": "Senior Conference Manager",
+      "soc": "13-1121",
+      "ptr": 0.8608,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3165
+    },
+    {
+      "id": "interim-general-manager",
+      "label": "Interim General Manager",
+      "soc": "11-1021",
+      "ptr": 0.8551,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.2953
+    },
+    {
+      "id": "corporate-management-trainee",
+      "label": "Corporate Management Trainee",
+      "soc": "11-9199",
+      "ptr": 0.8519,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "senior-meeting-planner",
+      "label": "Senior Meeting Planner",
+      "soc": "19-3051",
+      "ptr": 0.8512,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "chef-instructor",
+      "label": "Chef Instructor",
+      "soc": "25-1071",
+      "ptr": 0.8474,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "culinary-instructor",
+      "label": "Culinary Instructor",
+      "soc": "25-1071",
+      "ptr": 0.8474,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "junior-event-manager",
+      "label": "Junior Event Manager",
+      "soc": "13-1121",
+      "ptr": 0.8447,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3165
+    }
+  ],
+  "edges": [
+    {
+      "source": "executive-chef",
+      "target": "sous-chef",
+      "weight": 0.57
+    },
+    {
+      "source": "catering-sales-manager",
+      "target": "front-office-supervisor",
+      "weight": 0.71
+    },
+    {
+      "source": "event-operation-manager",
+      "target": "front-office-supervisor",
+      "weight": 0.82
+    },
+    {
+      "source": "event-operation-manager",
+      "target": "beverage-manager",
+      "weight": 0.67
+    },
+    {
+      "source": "pastry-chef",
+      "target": "event-manager",
+      "weight": 0.68
+    },
+    {
+      "source": "pastry-chef",
+      "target": "duty-manager",
+      "weight": 0.96
+    },
+    {
+      "source": "assistant-general-manager",
+      "target": "duty-manager",
+      "weight": 0.94
+    },
+    {
+      "source": "assistant-general-manager",
+      "target": "restaurant-manager",
+      "weight": 0.48
+    },
+    {
+      "source": "assistant-front-office-manager",
+      "target": "front-desk-agent",
+      "weight": 0.45
+    },
+    {
+      "source": "senior-sales-manager",
+      "target": "sous-chef",
+      "weight": 0.84
+    },
+    {
+      "source": "senior-sales-manager",
+      "target": "front-office-supervisor",
+      "weight": 0.89
+    },
+    {
+      "source": "reception-manager",
+      "target": "catering-manager",
+      "weight": 0.9
+    },
+    {
+      "source": "reception-manager",
+      "target": "front-office-manager",
+      "weight": 0.4
+    },
+    {
+      "source": "beverage-supervisor",
+      "target": "catering-manager",
+      "weight": 0.98
+    },
+    {
+      "source": "beverage-supervisor",
+      "target": "chef",
+      "weight": 0.66
+    },
+    {
+      "source": "revenue-manager",
+      "target": "duty-manager",
+      "weight": 0.98
+    },
+    {
+      "source": "revenue-manager",
+      "target": "chef",
+      "weight": 0.77
+    },
+    {
+      "source": "corporate-sales-manager",
+      "target": "sous-chef",
+      "weight": 0.87
+    },
+    {
+      "source": "corporate-sales-manager",
+      "target": "duty-manager",
+      "weight": 0.42
+    },
+    {
+      "source": "food-service-director",
+      "target": "front-office-manager",
+      "weight": 0.56
+    },
+    {
+      "source": "food-service-director",
+      "target": "catering-manager",
+      "weight": 0.71
+    },
+    {
+      "source": "convention-service-manager",
+      "target": "front-office-supervisor",
+      "weight": 0.86
+    },
+    {
+      "source": "group-sales-manager",
+      "target": "chef",
+      "weight": 0.56
+    },
+    {
+      "source": "group-sales-manager",
+      "target": "restaurant-manager",
+      "weight": 0.9
+    },
+    {
+      "source": "waiter",
+      "target": "sous-chef",
+      "weight": 0.48
+    },
+    {
+      "source": "waiter",
+      "target": "restaurant-manager",
+      "weight": 0.53
+    },
+    {
+      "source": "head-chef",
+      "target": "front-office-supervisor",
+      "weight": 0.4
+    },
+    {
+      "source": "head-chef",
+      "target": "catering-manager",
+      "weight": 0.63
+    },
+    {
+      "source": "catering-director",
+      "target": "event-manager",
+      "weight": 0.75
+    },
+    {
+      "source": "head-waiter",
+      "target": "front-office-supervisor",
+      "weight": 0.79
+    },
+    {
+      "source": "bar-supervisor",
+      "target": "duty-manager",
+      "weight": 0.45
+    },
+    {
+      "source": "catering-coordinator",
+      "target": "front-office-manager",
+      "weight": 0.8
+    },
+    {
+      "source": "bar-manager",
+      "target": "sous-chef",
+      "weight": 0.84
+    },
+    {
+      "source": "bar-manager",
+      "target": "catering-manager",
+      "weight": 0.6
+    },
+    {
+      "source": "night-auditor",
+      "target": "chef",
+      "weight": 0.78
+    },
+    {
+      "source": "night-auditor",
+      "target": "restaurant-manager",
+      "weight": 0.53
+    },
+    {
+      "source": "rooms-division-manager",
+      "target": "restaurant-manager",
+      "weight": 0.97
+    },
+    {
+      "source": "guest-service-manager",
+      "target": "catering-manager",
+      "weight": 0.72
+    },
+    {
+      "source": "guest-service-manager",
+      "target": "event-manager",
+      "weight": 0.4
+    },
+    {
+      "source": "housekeeper",
+      "target": "front-desk-agent",
+      "weight": 0.67
+    },
+    {
+      "source": "housekeeper",
+      "target": "duty-manager",
+      "weight": 0.72
+    },
+    {
+      "source": "cook",
+      "target": "sous-chef",
+      "weight": 0.61
+    },
+    {
+      "source": "cook",
+      "target": "chef",
+      "weight": 0.65
+    },
+    {
+      "source": "housekeeping-supervisor",
+      "target": "chef",
+      "weight": 0.98
+    },
+    {
+      "source": "housekeeping-supervisor",
+      "target": "beverage-manager",
+      "weight": 0.54
+    },
+    {
+      "source": "front-desk-supervisor",
+      "target": "sous-chef",
+      "weight": 0.76
+    },
+    {
+      "source": "guest-relations-manager",
+      "target": "front-desk-agent",
+      "weight": 0.91
+    },
+    {
+      "source": "chef-de-partie",
+      "target": "catering-manager",
+      "weight": 0.77
+    },
+    {
+      "source": "chef-de-partie",
+      "target": "event-manager",
+      "weight": 0.49
+    },
+    {
+      "source": "reservations-manager",
+      "target": "sous-chef",
+      "weight": 0.84
+    },
+    {
+      "source": "guest-service-supervisor",
+      "target": "front-office-supervisor",
+      "weight": 0.58
+    },
+    {
+      "source": "banqueting-manager",
+      "target": "front-office-supervisor",
+      "weight": 0.87
+    },
+    {
+      "source": "banqueting-manager",
+      "target": "catering-manager",
+      "weight": 0.64
+    },
+    {
+      "source": "housekeeping-manager",
+      "target": "front-desk-agent",
+      "weight": 0.42
+    },
+    {
+      "source": "banquet-manager",
+      "target": "beverage-manager",
+      "weight": 0.73
+    },
+    {
+      "source": "banquet-captain",
+      "target": "chef",
+      "weight": 0.67
+    },
+    {
+      "source": "banquet-captain",
+      "target": "catering-manager",
+      "weight": 0.59
+    },
+    {
+      "source": "event-sales-manager",
+      "target": "sous-chef",
+      "weight": 0.65
+    },
+    {
+      "source": "event-sales-manager",
+      "target": "beverage-manager",
+      "weight": 0.69
+    },
+    {
+      "source": "head-receptionist",
+      "target": "restaurant-manager",
+      "weight": 0.89
+    },
+    {
+      "source": "assistant-banquet-manager",
+      "target": "chef",
+      "weight": 0.59
+    },
+    {
+      "source": "assistant-banquet-manager",
+      "target": "front-office-supervisor",
+      "weight": 0.56
+    },
+    {
+      "source": "beverage-director",
+      "target": "duty-manager",
+      "weight": 0.57
+    },
+    {
+      "source": "beverage-director",
+      "target": "restaurant-manager",
+      "weight": 0.52
+    },
+    {
+      "source": "front-desk-manager",
+      "target": "front-office-supervisor",
+      "weight": 0.47
+    },
+    {
+      "source": "front-desk-manager",
+      "target": "front-desk-agent",
+      "weight": 0.85
+    },
+    {
+      "source": "dining-room-manager",
+      "target": "catering-manager",
+      "weight": 0.91
+    },
+    {
+      "source": "dining-room-manager",
+      "target": "restaurant-manager",
+      "weight": 0.67
+    },
+    {
+      "source": "outlet-manager",
+      "target": "restaurant-manager",
+      "weight": 0.56
+    },
+    {
+      "source": "conference-service-manager",
+      "target": "front-office-supervisor",
+      "weight": 0.74
+    },
+    {
+      "source": "conference-service-manager",
+      "target": "front-desk-agent",
+      "weight": 0.61
+    },
+    {
+      "source": "assistant-restaurant-manager",
+      "target": "front-office-supervisor",
+      "weight": 0.69
+    },
+    {
+      "source": "night-manager",
+      "target": "sous-chef",
+      "weight": 0.98
+    },
+    {
+      "source": "housekeeping-director",
+      "target": "front-office-supervisor",
+      "weight": 0.55
+    },
+    {
+      "source": "housekeeping-director",
+      "target": "beverage-manager",
+      "weight": 0.61
+    },
+    {
+      "source": "executive-sous-chef",
+      "target": "front-office-supervisor",
+      "weight": 0.73
+    },
+    {
+      "source": "executive-sous-chef",
+      "target": "duty-manager",
+      "weight": 0.65
+    },
+    {
+      "source": "catering-assistant",
+      "target": "duty-manager",
+      "weight": 0.69
+    },
+    {
+      "source": "executive-housekeeper",
+      "target": "beverage-manager",
+      "weight": 0.6
+    },
+    {
+      "source": "executive-housekeeper",
+      "target": "front-desk-agent",
+      "weight": 0.51
+    },
+    {
+      "source": "reservations-agent",
+      "target": "beverage-manager",
+      "weight": 0.74
+    },
+    {
+      "source": "sommelier",
+      "target": "beverage-manager",
+      "weight": 0.59
+    },
+    {
+      "source": "sommelier",
+      "target": "front-office-supervisor",
+      "weight": 0.97
+    },
+    {
+      "source": "demi-chef-de-partie",
+      "target": "catering-manager",
+      "weight": 0.48
+    },
+    {
+      "source": "demi-chef-de-partie",
+      "target": "front-office-manager",
+      "weight": 0.87
+    },
+    {
+      "source": "junior-sous-chef",
+      "target": "beverage-manager",
+      "weight": 0.59
+    },
+    {
+      "source": "junior-sous-chef",
+      "target": "front-office-manager",
+      "weight": 0.64
+    },
+    {
+      "source": "head-housekeeper",
+      "target": "catering-manager",
+      "weight": 0.43
+    },
+    {
+      "source": "assistant-executive-housekeeper",
+      "target": "front-office-supervisor",
+      "weight": 0.5
+    },
+    {
+      "source": "travel-consultant-travel-tourism",
+      "target": "front-desk-agent",
+      "weight": 0.6
+    },
+    {
+      "source": "house-manager-front",
+      "target": "front-office-manager",
+      "weight": 0.84
+    },
+    {
+      "source": "executive-meeting-manager",
+      "target": "front-desk-agent",
+      "weight": 0.42
+    },
+    {
+      "source": "reservations-coordinator",
+      "target": "chef",
+      "weight": 0.6
+    },
+    {
+      "source": "concierge",
+      "target": "chef",
+      "weight": 0.5
+    },
+    {
+      "source": "kitchen-supervisor",
+      "target": "chef",
+      "weight": 0.46
+    },
+    {
+      "source": "event-assistant",
+      "target": "chef",
+      "weight": 0.53
+    },
+    {
+      "source": "event-assistant",
+      "target": "duty-manager",
+      "weight": 0.96
+    },
+    {
+      "source": "restaurant-supervisor",
+      "target": "front-office-supervisor",
+      "weight": 0.94
+    },
+    {
+      "source": "tour-manager-travel-tourism",
+      "target": "sous-chef",
+      "weight": 0.57
+    },
+    {
+      "source": "chef-manager",
+      "target": "chef",
+      "weight": 0.62
+    },
+    {
+      "source": "senior-sous-chef",
+      "target": "beverage-manager",
+      "weight": 0.64
+    },
+    {
+      "source": "senior-sous-chef",
+      "target": "restaurant-manager",
+      "weight": 0.81
+    },
+    {
+      "source": "meeting-manager",
+      "target": "front-office-supervisor",
+      "weight": 0.89
+    },
+    {
+      "source": "meeting-manager",
+      "target": "duty-manager",
+      "weight": 0.58
+    },
+    {
+      "source": "special-event-manager-travel-tourism",
+      "target": "event-manager",
+      "weight": 0.88
+    },
+    {
+      "source": "assistant-housekeeping-manager",
+      "target": "sous-chef",
+      "weight": 0.97
+    },
+    {
+      "source": "event-executive",
+      "target": "restaurant-manager",
+      "weight": 0.75
+    },
+    {
+      "source": "event-executive",
+      "target": "front-desk-agent",
+      "weight": 0.44
+    },
+    {
+      "source": "senior-event-manager",
+      "target": "front-office-supervisor",
+      "weight": 0.81
+    },
+    {
+      "source": "senior-event-manager",
+      "target": "front-desk-agent",
+      "weight": 0.97
+    },
+    {
+      "source": "front-office-director",
+      "target": "front-office-manager",
+      "weight": 0.79
+    },
+    {
+      "source": "front-office-director",
+      "target": "front-desk-agent",
+      "weight": 0.57
+    },
+    {
+      "source": "floor-supervisor",
+      "target": "sous-chef",
+      "weight": 0.77
+    },
+    {
+      "source": "floor-supervisor",
+      "target": "duty-manager",
+      "weight": 0.96
+    },
+    {
+      "source": "helpdesk-analyst-travel-tourism",
+      "target": "chef",
+      "weight": 0.45
+    },
+    {
+      "source": "meeting-planner",
+      "target": "sous-chef",
+      "weight": 0.98
+    },
+    {
+      "source": "conference-manager",
+      "target": "chef",
+      "weight": 0.43
+    },
+    {
+      "source": "lead-cook",
+      "target": "front-office-supervisor",
+      "weight": 0.68
+    },
+    {
+      "source": "head-golf-professional-travel-tourism",
+      "target": "event-manager",
+      "weight": 0.89
+    },
+    {
+      "source": "head-golf-professional-travel-tourism",
+      "target": "front-office-supervisor",
+      "weight": 0.46
+    },
+    {
+      "source": "rooms-operation-manager",
+      "target": "front-office-manager",
+      "weight": 0.45
+    },
+    {
+      "source": "spa-manager-travel-tourism",
+      "target": "front-desk-agent",
+      "weight": 0.79
+    },
+    {
+      "source": "assistant-front-desk-manager",
+      "target": "front-office-manager",
+      "weight": 0.98
+    },
+    {
+      "source": "assistant-front-desk-manager",
+      "target": "restaurant-manager",
+      "weight": 0.94
+    },
+    {
+      "source": "senior-chef-de-partie",
+      "target": "duty-manager",
+      "weight": 0.78
+    },
+    {
+      "source": "banquet-chef",
+      "target": "catering-manager",
+      "weight": 0.46
+    },
+    {
+      "source": "pastry-assistant",
+      "target": "sous-chef",
+      "weight": 0.63
+    },
+    {
+      "source": "pastry-assistant",
+      "target": "duty-manager",
+      "weight": 0.47
+    },
+    {
+      "source": "assistant-spa-director-travel-tourism",
+      "target": "beverage-manager",
+      "weight": 0.56
+    },
+    {
+      "source": "executive-casino-host-travel-tourism",
+      "target": "chef",
+      "weight": 0.99
+    },
+    {
+      "source": "executive-casino-host-travel-tourism",
+      "target": "front-office-supervisor",
+      "weight": 0.89
+    },
+    {
+      "source": "event-management-assistant-travel-tourism",
+      "target": "event-manager",
+      "weight": 0.68
+    },
+    {
+      "source": "sales-administrative-assistant",
+      "target": "restaurant-manager",
+      "weight": 0.73
+    },
+    {
+      "source": "reservation-sales-agent",
+      "target": "front-office-supervisor",
+      "weight": 0.96
+    },
+    {
+      "source": "sales-associate-director",
+      "target": "restaurant-manager",
+      "weight": 0.69
+    },
+    {
+      "source": "sales-associate-director",
+      "target": "front-office-manager",
+      "weight": 0.79
+    },
+    {
+      "source": "senior-front-office-assistant",
+      "target": "duty-manager",
+      "weight": 0.91
+    },
+    {
+      "source": "casino-host-travel-tourism",
+      "target": "chef",
+      "weight": 0.49
+    },
+    {
+      "source": "room-manager",
+      "target": "front-office-manager",
+      "weight": 0.44
+    },
+    {
+      "source": "catering-sales-coordinator",
+      "target": "front-desk-agent",
+      "weight": 0.58
+    },
+    {
+      "source": "catering-sales-coordinator",
+      "target": "front-office-supervisor",
+      "weight": 0.55
+    },
+    {
+      "source": "casino-dealer-travel-tourism",
+      "target": "event-manager",
+      "weight": 0.64
+    },
+    {
+      "source": "casino-dealer-travel-tourism",
+      "target": "front-office-manager",
+      "weight": 0.45
+    },
+    {
+      "source": "senior-business-travel-consultant-travel-tourism",
+      "target": "front-office-supervisor",
+      "weight": 0.78
+    },
+    {
+      "source": "senior-business-travel-consultant-travel-tourism",
+      "target": "restaurant-manager",
+      "weight": 0.59
+    },
+    {
+      "source": "senior-travel-consultant-travel-tourism",
+      "target": "front-office-manager",
+      "weight": 0.4
+    },
+    {
+      "source": "senior-travel-consultant-travel-tourism",
+      "target": "beverage-manager",
+      "weight": 0.95
+    },
+    {
+      "source": "senior-tour-coordinator",
+      "target": "restaurant-manager",
+      "weight": 0.76
+    },
+    {
+      "source": "corporate-travel-consultant-travel-tourism",
+      "target": "front-office-supervisor",
+      "weight": 0.87
+    },
+    {
+      "source": "senior-travel-coordinator",
+      "target": "front-office-supervisor",
+      "weight": 0.48
+    },
+    {
+      "source": "senior-travel-coordinator",
+      "target": "duty-manager",
+      "weight": 0.94
+    },
+    {
+      "source": "income-auditor",
+      "target": "event-manager",
+      "weight": 0.55
+    },
+    {
+      "source": "senior-night-auditor",
+      "target": "duty-manager",
+      "weight": 0.69
+    },
+    {
+      "source": "senior-night-auditor",
+      "target": "chef",
+      "weight": 0.91
+    },
+    {
+      "source": "event-sales-coordinator",
+      "target": "chef",
+      "weight": 0.51
+    },
+    {
+      "source": "group-sales-coordinator",
+      "target": "front-office-supervisor",
+      "weight": 0.42
+    },
+    {
+      "source": "senior-reservations-agent",
+      "target": "front-desk-agent",
+      "weight": 0.71
+    },
+    {
+      "source": "corporate-travel-agent",
+      "target": "front-desk-agent",
+      "weight": 0.75
+    },
+    {
+      "source": "corporate-travel-agent",
+      "target": "catering-manager",
+      "weight": 0.49
+    },
+    {
+      "source": "senior-travel-agent",
+      "target": "sous-chef",
+      "weight": 0.49
+    },
+    {
+      "source": "business-travel-consultant-travel-tourism",
+      "target": "front-office-supervisor",
+      "weight": 0.6
+    },
+    {
+      "source": "business-travel-consultant-travel-tourism",
+      "target": "beverage-manager",
+      "weight": 0.49
+    },
+    {
+      "source": "junior-travel-consultant",
+      "target": "chef",
+      "weight": 0.89
+    },
+    {
+      "source": "front-office-agent",
+      "target": "front-desk-agent",
+      "weight": 0.48
+    },
+    {
+      "source": "tour-coordinator",
+      "target": "sous-chef",
+      "weight": 0.95
+    },
+    {
+      "source": "travel-coordinator",
+      "target": "sous-chef",
+      "weight": 0.54
+    },
+    {
+      "source": "front-office-assistant",
+      "target": "duty-manager",
+      "weight": 0.46
+    },
+    {
+      "source": "front-office-assistant",
+      "target": "restaurant-manager",
+      "weight": 0.4
+    },
+    {
+      "source": "front-desk-clerk",
+      "target": "front-desk-agent",
+      "weight": 0.53
+    },
+    {
+      "source": "senior-receptionist",
+      "target": "front-office-manager",
+      "weight": 0.86
+    },
+    {
+      "source": "assistant-dining-room-manager",
+      "target": "restaurant-manager",
+      "weight": 0.61
+    },
+    {
+      "source": "senior-corporate-sales-manager",
+      "target": "catering-manager",
+      "weight": 0.52
+    },
+    {
+      "source": "corporate-sales-director",
+      "target": "sous-chef",
+      "weight": 0.46
+    },
+    {
+      "source": "corporate-sales-director",
+      "target": "front-office-supervisor",
+      "weight": 0.95
+    },
+    {
+      "source": "group-sales-director",
+      "target": "duty-manager",
+      "weight": 0.52
+    },
+    {
+      "source": "group-sales-director",
+      "target": "front-desk-agent",
+      "weight": 0.43
+    },
+    {
+      "source": "catering-sales-director",
+      "target": "front-office-supervisor",
+      "weight": 0.86
+    },
+    {
+      "source": "catering-sales-director",
+      "target": "event-manager",
+      "weight": 0.78
+    },
+    {
+      "source": "event-sales-director",
+      "target": "front-desk-agent",
+      "weight": 0.78
+    },
+    {
+      "source": "event-sales-director",
+      "target": "restaurant-manager",
+      "weight": 0.41
+    },
+    {
+      "source": "revenue-analyst",
+      "target": "beverage-manager",
+      "weight": 0.95
+    },
+    {
+      "source": "event-planning-manager",
+      "target": "front-office-manager",
+      "weight": 0.69
+    },
+    {
+      "source": "business-travel-sales-manager",
+      "target": "chef",
+      "weight": 0.83
+    },
+    {
+      "source": "assistant-group-sales-manager",
+      "target": "front-office-supervisor",
+      "weight": 1
+    },
+    {
+      "source": "assistant-event-sales-manager",
+      "target": "beverage-manager",
+      "weight": 0.57
+    },
+    {
+      "source": "assistant-event-sales-manager",
+      "target": "catering-manager",
+      "weight": 0.87
+    },
+    {
+      "source": "event-planning-coordinator",
+      "target": "duty-manager",
+      "weight": 0.67
+    },
+    {
+      "source": "event-planning-coordinator",
+      "target": "catering-manager",
+      "weight": 0.71
+    },
+    {
+      "source": "travel-agent",
+      "target": "front-office-manager",
+      "weight": 0.46
+    },
+    {
+      "source": "travel-agent",
+      "target": "front-office-supervisor",
+      "weight": 0.52
+    },
+    {
+      "source": "front-desk-receptionist",
+      "target": "event-manager",
+      "weight": 0.68
+    },
+    {
+      "source": "front-desk-associate",
+      "target": "sous-chef",
+      "weight": 0.82
+    },
+    {
+      "source": "front-desk-associate",
+      "target": "event-manager",
+      "weight": 0.56
+    },
+    {
+      "source": "senior-meeting-manager",
+      "target": "front-office-supervisor",
+      "weight": 0.68
+    },
+    {
+      "source": "convention-manager",
+      "target": "catering-manager",
+      "weight": 0.74
+    },
+    {
+      "source": "convention-manager",
+      "target": "front-office-supervisor",
+      "weight": 0.83
+    },
+    {
+      "source": "senior-conference-manager",
+      "target": "front-office-manager",
+      "weight": 0.91
+    },
+    {
+      "source": "interim-general-manager",
+      "target": "restaurant-manager",
+      "weight": 0.47
+    },
+    {
+      "source": "corporate-management-trainee",
+      "target": "sous-chef",
+      "weight": 0.82
+    },
+    {
+      "source": "corporate-management-trainee",
+      "target": "front-office-supervisor",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-meeting-planner",
+      "target": "front-office-supervisor",
+      "weight": 0.52
+    },
+    {
+      "source": "chef-instructor",
+      "target": "chef",
+      "weight": 0.71
+    },
+    {
+      "source": "culinary-instructor",
+      "target": "front-office-supervisor",
+      "weight": 0.46
+    },
+    {
+      "source": "junior-event-manager",
+      "target": "restaurant-manager",
+      "weight": 0.86
+    },
+    {
+      "source": "junior-event-manager",
+      "target": "sous-chef",
+      "weight": 0.74
+    },
+    {
+      "source": "beverage-manager",
+      "target": "restaurant-manager",
+      "weight": 0.94
+    },
+    {
+      "source": "beverage-manager",
+      "target": "duty-manager",
+      "weight": 0.91
+    },
+    {
+      "source": "beverage-manager",
+      "target": "chef",
+      "weight": 0.64
+    },
+    {
+      "source": "restaurant-manager",
+      "target": "front-office-manager",
+      "weight": 0.8
+    },
+    {
+      "source": "restaurant-manager",
+      "target": "duty-manager",
+      "weight": 0.9
+    },
+    {
+      "source": "restaurant-manager",
+      "target": "sous-chef",
+      "weight": 0.73
+    },
+    {
+      "source": "restaurant-manager",
+      "target": "chef",
+      "weight": 0.65
+    },
+    {
+      "source": "restaurant-manager",
+      "target": "catering-manager",
+      "weight": 0.82
+    },
+    {
+      "source": "restaurant-manager",
+      "target": "front-desk-agent",
+      "weight": 0.65
+    },
+    {
+      "source": "restaurant-manager",
+      "target": "front-office-supervisor",
+      "weight": 0.94
+    },
+    {
+      "source": "front-office-manager",
+      "target": "sous-chef",
+      "weight": 0.81
+    },
+    {
+      "source": "front-office-manager",
+      "target": "chef",
+      "weight": 0.96
+    },
+    {
+      "source": "front-office-manager",
+      "target": "event-manager",
+      "weight": 0.91
+    },
+    {
+      "source": "front-office-manager",
+      "target": "catering-manager",
+      "weight": 0.68
+    },
+    {
+      "source": "front-office-manager",
+      "target": "front-desk-agent",
+      "weight": 0.91
+    },
+    {
+      "source": "front-office-manager",
+      "target": "front-office-supervisor",
+      "weight": 0.68
+    },
+    {
+      "source": "duty-manager",
+      "target": "chef",
+      "weight": 0.83
+    },
+    {
+      "source": "duty-manager",
+      "target": "event-manager",
+      "weight": 0.95
+    },
+    {
+      "source": "duty-manager",
+      "target": "catering-manager",
+      "weight": 0.9
+    },
+    {
+      "source": "duty-manager",
+      "target": "front-desk-agent",
+      "weight": 0.89
+    },
+    {
+      "source": "duty-manager",
+      "target": "front-office-supervisor",
+      "weight": 0.72
+    },
+    {
+      "source": "sous-chef",
+      "target": "event-manager",
+      "weight": 0.68
+    },
+    {
+      "source": "sous-chef",
+      "target": "catering-manager",
+      "weight": 0.66
+    },
+    {
+      "source": "sous-chef",
+      "target": "front-desk-agent",
+      "weight": 0.73
+    },
+    {
+      "source": "sous-chef",
+      "target": "front-office-supervisor",
+      "weight": 0.75
+    },
+    {
+      "source": "chef",
+      "target": "event-manager",
+      "weight": 0.78
+    },
+    {
+      "source": "chef",
+      "target": "catering-manager",
+      "weight": 0.76
+    },
+    {
+      "source": "chef",
+      "target": "front-desk-agent",
+      "weight": 0.99
+    },
+    {
+      "source": "chef",
+      "target": "front-office-supervisor",
+      "weight": 0.63
+    },
+    {
+      "source": "event-manager",
+      "target": "catering-manager",
+      "weight": 0.74
+    },
+    {
+      "source": "event-manager",
+      "target": "front-desk-agent",
+      "weight": 0.85
+    },
+    {
+      "source": "event-manager",
+      "target": "front-office-supervisor",
+      "weight": 0.98
+    },
+    {
+      "source": "catering-manager",
+      "target": "front-desk-agent",
+      "weight": 0.81
+    },
+    {
+      "source": "catering-manager",
+      "target": "front-office-supervisor",
+      "weight": 0.96
+    },
+    {
+      "source": "front-desk-agent",
+      "target": "front-office-supervisor",
+      "weight": 0.62
+    },
+    {
+      "source": "restaurant-manager",
+      "target": "bar-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "restaurant-manager",
+      "target": "assistant-restaurant-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "bar-manager",
+      "target": "assistant-restaurant-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "front-desk-agent",
+      "target": "concierge",
+      "weight": 0.7
+    },
+    {
+      "source": "assistant-general-manager",
+      "target": "interim-general-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "waiter",
+      "target": "head-waiter",
+      "weight": 0.7
+    },
+    {
+      "source": "waiter",
+      "target": "catering-assistant",
+      "weight": 0.7
+    },
+    {
+      "source": "waiter",
+      "target": "sommelier",
+      "weight": 0.7
+    },
+    {
+      "source": "head-waiter",
+      "target": "catering-assistant",
+      "weight": 0.7
+    },
+    {
+      "source": "head-waiter",
+      "target": "sommelier",
+      "weight": 0.7
+    },
+    {
+      "source": "catering-assistant",
+      "target": "sommelier",
+      "weight": 0.7
+    },
+    {
+      "source": "night-auditor",
+      "target": "helpdesk-analyst-travel-tourism",
+      "weight": 0.7
+    },
+    {
+      "source": "night-auditor",
+      "target": "income-auditor",
+      "weight": 0.7
+    },
+    {
+      "source": "night-auditor",
+      "target": "senior-night-auditor",
+      "weight": 0.7
+    },
+    {
+      "source": "night-auditor",
+      "target": "revenue-analyst",
+      "weight": 0.7
+    },
+    {
+      "source": "helpdesk-analyst-travel-tourism",
+      "target": "income-auditor",
+      "weight": 0.7
+    },
+    {
+      "source": "helpdesk-analyst-travel-tourism",
+      "target": "senior-night-auditor",
+      "weight": 0.7
+    },
+    {
+      "source": "helpdesk-analyst-travel-tourism",
+      "target": "revenue-analyst",
+      "weight": 0.7
+    },
+    {
+      "source": "income-auditor",
+      "target": "senior-night-auditor",
+      "weight": 0.7
+    },
+    {
+      "source": "income-auditor",
+      "target": "revenue-analyst",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-night-auditor",
+      "target": "revenue-analyst",
+      "weight": 0.7
+    },
+    {
+      "source": "housekeeper",
+      "target": "executive-housekeeper",
+      "weight": 0.7
+    },
+    {
+      "source": "housekeeper",
+      "target": "head-housekeeper",
+      "weight": 0.7
+    },
+    {
+      "source": "housekeeper",
+      "target": "assistant-executive-housekeeper",
+      "weight": 0.7
+    },
+    {
+      "source": "executive-housekeeper",
+      "target": "head-housekeeper",
+      "weight": 0.7
+    },
+    {
+      "source": "executive-housekeeper",
+      "target": "assistant-executive-housekeeper",
+      "weight": 0.7
+    },
+    {
+      "source": "head-housekeeper",
+      "target": "assistant-executive-housekeeper",
+      "weight": 0.7
+    },
+    {
+      "source": "cook",
+      "target": "lead-cook",
+      "weight": 0.7
+    },
+    {
+      "source": "reservations-manager",
+      "target": "event-planning-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "housekeeping-manager",
+      "target": "assistant-housekeeping-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "head-receptionist",
+      "target": "reservations-coordinator",
+      "weight": 0.7
+    },
+    {
+      "source": "head-receptionist",
+      "target": "senior-receptionist",
+      "weight": 0.7
+    },
+    {
+      "source": "head-receptionist",
+      "target": "front-desk-receptionist",
+      "weight": 0.7
+    },
+    {
+      "source": "head-receptionist",
+      "target": "front-desk-associate",
+      "weight": 0.7
+    },
+    {
+      "source": "reservations-coordinator",
+      "target": "senior-receptionist",
+      "weight": 0.7
+    },
+    {
+      "source": "reservations-coordinator",
+      "target": "front-desk-receptionist",
+      "weight": 0.7
+    },
+    {
+      "source": "reservations-coordinator",
+      "target": "front-desk-associate",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-receptionist",
+      "target": "front-desk-receptionist",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-receptionist",
+      "target": "front-desk-associate",
+      "weight": 0.7
+    },
+    {
+      "source": "front-desk-receptionist",
+      "target": "front-desk-associate",
+      "weight": 0.7
+    },
+    {
+      "source": "beverage-director",
+      "target": "housekeeping-director",
+      "weight": 0.7
+    },
+    {
+      "source": "beverage-director",
+      "target": "head-golf-professional-travel-tourism",
+      "weight": 0.7
+    },
+    {
+      "source": "housekeeping-director",
+      "target": "head-golf-professional-travel-tourism",
+      "weight": 0.7
+    },
+    {
+      "source": "meeting-planner",
+      "target": "senior-meeting-planner",
+      "weight": 0.7
+    },
+    {
+      "source": "spa-manager-travel-tourism",
+      "target": "assistant-spa-director-travel-tourism",
+      "weight": 0.7
+    },
+    {
+      "source": "spa-manager-travel-tourism",
+      "target": "event-planning-coordinator",
+      "weight": 0.7
+    },
+    {
+      "source": "spa-manager-travel-tourism",
+      "target": "corporate-management-trainee",
+      "weight": 0.7
+    },
+    {
+      "source": "assistant-spa-director-travel-tourism",
+      "target": "event-planning-coordinator",
+      "weight": 0.7
+    },
+    {
+      "source": "assistant-spa-director-travel-tourism",
+      "target": "corporate-management-trainee",
+      "weight": 0.7
+    },
+    {
+      "source": "event-planning-coordinator",
+      "target": "corporate-management-trainee",
+      "weight": 0.7
+    },
+    {
+      "source": "executive-casino-host-travel-tourism",
+      "target": "casino-host-travel-tourism",
+      "weight": 0.7
+    },
+    {
+      "source": "event-management-assistant-travel-tourism",
+      "target": "sales-administrative-assistant",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-front-office-assistant",
+      "target": "front-office-assistant",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-front-office-assistant",
+      "target": "front-desk-clerk",
+      "weight": 0.7
+    },
+    {
+      "source": "front-office-assistant",
+      "target": "front-desk-clerk",
+      "weight": 0.7
+    },
+    {
+      "source": "catering-sales-coordinator",
+      "target": "event-sales-coordinator",
+      "weight": 0.7
+    },
+    {
+      "source": "catering-sales-coordinator",
+      "target": "group-sales-coordinator",
+      "weight": 0.7
+    },
+    {
+      "source": "event-sales-coordinator",
+      "target": "group-sales-coordinator",
+      "weight": 0.7
+    },
+    {
+      "source": "chef-instructor",
+      "target": "culinary-instructor",
+      "weight": 0.7
+    }
+  ]
+}

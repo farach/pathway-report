@@ -1,0 +1,147 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --quadrant-hh: 220 14 39;
+    --quadrant-hl: 234 88 12;
+    --quadrant-lh: 147 51 234;
+    --quadrant-ll: 22 163 74;
+
+    --background: 255 255 255;
+    --foreground: 15 23 42;
+    --muted: 241 245 249;
+    --muted-foreground: 100 116 139;
+    --accent: 59 130 246;
+    --accent-foreground: 255 255 255;
+    --border: 226 232 240;
+  }
+
+  .dark {
+    --background: 15 23 42;
+    --foreground: 248 250 252;
+    --muted: 30 41 59;
+    --muted-foreground: 148 163 184;
+    --accent: 96 165 250;
+    --accent-foreground: 15 23 42;
+    --border: 51 65 85;
+  }
+
+  * {
+    @apply border-slate-200 dark:border-slate-700;
+  }
+
+  body {
+    @apply bg-white dark:bg-slate-900 text-slate-900 dark:text-slate-50;
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Plus Jakarta Sans', 'Inter', sans-serif;
+  }
+}
+
+@layer components {
+  .section-container {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .section-padding {
+    @apply py-16 md:py-24 lg:py-32;
+  }
+
+  .gradient-text {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-600 dark:from-blue-400 dark:to-purple-400;
+  }
+
+  .card {
+    @apply bg-white dark:bg-slate-800 rounded-2xl shadow-lg border border-slate-200 dark:border-slate-700;
+  }
+
+  .stat-card {
+    @apply p-6 rounded-xl bg-gradient-to-br from-slate-50 to-slate-100 dark:from-slate-800 dark:to-slate-900;
+  }
+
+  .quadrant-hh {
+    @apply bg-red-600 text-white;
+  }
+
+  .quadrant-hl {
+    @apply bg-orange-600 text-white;
+  }
+
+  .quadrant-lh {
+    @apply bg-purple-600 text-white;
+  }
+
+  .quadrant-ll {
+    @apply bg-green-600 text-white;
+  }
+
+  .quadrant-badge {
+    @apply px-2 py-1 rounded-full text-xs font-semibold;
+  }
+}
+
+@layer utilities {
+  .animate-fade-in-up {
+    animation: fadeInUp 0.6s ease-out forwards;
+    opacity: 0;
+  }
+
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(30px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .network-container {
+    @apply relative overflow-hidden rounded-xl bg-slate-50 dark:bg-slate-800/50;
+  }
+
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+/* Network visualization styles */
+.network-node {
+  cursor: pointer;
+  transition: opacity 0.2s ease;
+}
+
+.network-node:hover {
+  opacity: 0.8;
+}
+
+.network-link {
+  stroke: #94a3b8;
+  stroke-opacity: 0.4;
+  fill: none;
+}
+
+.network-tooltip {
+  @apply absolute z-50 px-3 py-2 text-sm bg-white dark:bg-slate-800 rounded-lg shadow-xl border border-slate-200 dark:border-slate-700;
+  pointer-events: none;
+}
+
+/* Smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Selection color */
+::selection {
+  @apply bg-blue-600/20;
+}

@@ -1,0 +1,3001 @@
+{
+  "sector": "Oil, Gas, Energy & Utilities",
+  "metadata": {
+    "nodeCount": 150,
+    "edgeCount": 299,
+    "generatedAt": "2026-01-31T16:46:32Z"
+  },
+  "nodes": [
+    {
+      "id": "project-engineer-oil-gas-energy-utilities",
+      "label": "Project Engineer",
+      "soc": "17-2121",
+      "ptr": 0,
+      "nfc": 0.5289,
+      "quadrant": "LH",
+      "size": 10.68,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "electrical-engineer-oil-gas-energy-utilities",
+      "label": "Electrical Engineer",
+      "soc": "17-2071",
+      "ptr": 0.5043,
+      "nfc": 0.7545,
+      "quadrant": "LH",
+      "size": 7.02,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "field-engineer-oil-gas-energy-utilities",
+      "label": "Field Engineer",
+      "soc": "17-2071",
+      "ptr": 0.3861,
+      "nfc": 0.754,
+      "quadrant": "LH",
+      "size": 7.01,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "process-engineer-oil-gas-energy-utilities",
+      "label": "Process Engineer",
+      "soc": "17-2071",
+      "ptr": 0.4188,
+      "nfc": 0.7535,
+      "quadrant": "LH",
+      "size": 6.77,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "geologist-oil-gas-energy-utilities",
+      "label": "Geologist",
+      "soc": "19-2042",
+      "ptr": 0.5146,
+      "nfc": 0.6168,
+      "quadrant": "LH",
+      "size": 6.7,
+      "aiExposure": 0.3202
+    },
+    {
+      "id": "maintenance-engineer-oil-gas-energy-utilities",
+      "label": "Maintenance Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6944,
+      "nfc": 0.7525,
+      "quadrant": "HH",
+      "size": 6.41,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "environmental-specialist",
+      "label": "Environmental Specialist",
+      "soc": "19-2041",
+      "ptr": 0.6661,
+      "nfc": 0.7085,
+      "quadrant": "LH",
+      "size": 6.39,
+      "aiExposure": 0.3468
+    },
+    {
+      "id": "mechanical-engineer-oil-gas-energy-utilities",
+      "label": "Mechanical Engineer",
+      "soc": "17-2071",
+      "ptr": 0.4682,
+      "nfc": 0.7515,
+      "quadrant": "LH",
+      "size": 6.34,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "lead-engineer-oil-gas-energy-utilities",
+      "label": "Lead Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6881,
+      "nfc": 0.751,
+      "quadrant": "LH",
+      "size": 5.85,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "production-engineer-oil-gas-energy-utilities",
+      "label": "Production Engineer",
+      "soc": "17-2071",
+      "ptr": 0.5996,
+      "nfc": 0.7505,
+      "quadrant": "LH",
+      "size": 5.74,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "operation-engineer-oil-gas-energy-utilities",
+      "label": "Operation Engineer",
+      "soc": "17-2071",
+      "ptr": 0.707,
+      "nfc": 0.75,
+      "quadrant": "HH",
+      "size": 5.56,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "data-engineer-oil-gas-energy-utilities",
+      "label": "Data Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7253,
+      "nfc": 0.7495,
+      "quadrant": "HH",
+      "size": 5.54,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "environmental-engineer",
+      "label": "Environmental Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7193,
+      "nfc": 0.749,
+      "quadrant": "HH",
+      "size": 5.53,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-process-engineer-oil-gas-energy-utilities",
+      "label": "Senior Process Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7131,
+      "nfc": 0.7486,
+      "quadrant": "HH",
+      "size": 5.47,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-project-engineer-oil-gas-energy-utilities",
+      "label": "Senior Project Engineer",
+      "soc": "17-2121",
+      "ptr": 0.4953,
+      "nfc": 0.5241,
+      "quadrant": "LH",
+      "size": 5.37,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "reliability-engineer-oil-gas-energy-utilities",
+      "label": "Reliability Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7193,
+      "nfc": 0.7476,
+      "quadrant": "HH",
+      "size": 5.37,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "drilling-engineer",
+      "label": "Drilling Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7007,
+      "nfc": 0.7471,
+      "quadrant": "HH",
+      "size": 5.36,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "electrical-design-engineer-oil-gas-energy-utilities",
+      "label": "Electrical Design Engineer",
+      "soc": "17-2071",
+      "ptr": 0.707,
+      "nfc": 0.7466,
+      "quadrant": "HH",
+      "size": 5.25,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "control-engineer-oil-gas-energy-utilities",
+      "label": "Control Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7193,
+      "nfc": 0.7461,
+      "quadrant": "HH",
+      "size": 5.25,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "instrument-technician",
+      "label": "Instrument Technician",
+      "soc": "49-2094",
+      "ptr": 0.3225,
+      "nfc": 0.3343,
+      "quadrant": "LH",
+      "size": 5.24,
+      "aiExposure": 0.257
+    },
+    {
+      "id": "project-engineering-manager",
+      "label": "Project Engineering Manager",
+      "soc": "11-9041",
+      "ptr": 0.5763,
+      "nfc": 0.5824,
+      "quadrant": "LH",
+      "size": 5.23,
+      "aiExposure": 0.303
+    },
+    {
+      "id": "plant-engineer-oil-gas-energy-utilities",
+      "label": "Plant Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7193,
+      "nfc": 0.7446,
+      "quadrant": "HH",
+      "size": 5.23,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "structural-engineer-oil-gas-energy-utilities",
+      "label": "Structural Engineer",
+      "soc": "17-2121",
+      "ptr": 0.4909,
+      "nfc": 0.5213,
+      "quadrant": "LH",
+      "size": 5.21,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "commissioning-engineer",
+      "label": "Commissioning Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7253,
+      "nfc": 0.7436,
+      "quadrant": "HH",
+      "size": 5.19,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "project-control-oil-gas-energy-utilities",
+      "label": "Project Control",
+      "soc": "55-1015",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.19,
+      "aiExposure": 0
+    },
+    {
+      "id": "electrical-supervisor-oil-gas-energy-utilities",
+      "label": "Electrical Supervisor",
+      "soc": "51-1011",
+      "ptr": 0.3854,
+      "nfc": 0.3851,
+      "quadrant": "LH",
+      "size": 5.18,
+      "aiExposure": 0.3251
+    },
+    {
+      "id": "project-control-manager-oil-gas-energy-utilities",
+      "label": "Project Control Manager",
+      "soc": "55-1015",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.16,
+      "aiExposure": 0
+    },
+    {
+      "id": "graduate-engineer-oil-gas-energy-utilities",
+      "label": "Graduate Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6351,
+      "nfc": 0.7416,
+      "quadrant": "LH",
+      "size": 5.16,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "environmental-manager",
+      "label": "Environmental Manager",
+      "soc": "11-9199",
+      "ptr": 0.6718,
+      "nfc": 0.6753,
+      "quadrant": "LH",
+      "size": 5.15,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "chemical-engineer-oil-gas-energy-utilities",
+      "label": "Chemical Engineer",
+      "soc": "17-2071",
+      "ptr": 0.707,
+      "nfc": 0.7406,
+      "quadrant": "HH",
+      "size": 5.15,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-mechanical-engineer-oil-gas-energy-utilities",
+      "label": "Senior Mechanical Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7253,
+      "nfc": 0.7401,
+      "quadrant": "HH",
+      "size": 5.15,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-geologist-oil-gas-energy-utilities",
+      "label": "Senior Geologist",
+      "soc": "19-2042",
+      "ptr": 0.5842,
+      "nfc": 0.6059,
+      "quadrant": "LH",
+      "size": 5.14,
+      "aiExposure": 0.3202
+    },
+    {
+      "id": "reservoir-engineer",
+      "label": "Reservoir Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7313,
+      "nfc": 0.7391,
+      "quadrant": "HH",
+      "size": 5.13,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "process-control-engineer-oil-gas-energy-utilities",
+      "label": "Process Control Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7432,
+      "nfc": 0.7386,
+      "quadrant": "HH",
+      "size": 5.12,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "contract-engineer-oil-gas-energy-utilities",
+      "label": "Contract Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7432,
+      "nfc": 0.7381,
+      "quadrant": "HH",
+      "size": 5.11,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "control-systems-engineer-oil-gas-energy-utilities",
+      "label": "Control Systems Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7313,
+      "nfc": 0.7376,
+      "quadrant": "HH",
+      "size": 5.1,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "project-control-engineer-oil-gas-energy-utilities",
+      "label": "Project Control Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7253,
+      "nfc": 0.7371,
+      "quadrant": "HH",
+      "size": 5.1,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "principal-process-engineer",
+      "label": "Principal Process Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7491,
+      "nfc": 0.7366,
+      "quadrant": "HH",
+      "size": 5.1,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "power-systems-engineer",
+      "label": "Power Systems Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7491,
+      "nfc": 0.7356,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "automation-specialist-oil-gas-energy-utilities",
+      "label": "Automation Specialist",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.09,
+      "aiExposure": 0
+    },
+    {
+      "id": "engineer-iii-oil-gas-energy-utilities",
+      "label": "Engineer III",
+      "soc": "17-2071",
+      "ptr": 0.7373,
+      "nfc": 0.7351,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-electrical-engineer-oil-gas-energy-utilities",
+      "label": "Senior Electrical Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7373,
+      "nfc": 0.7346,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "lead-process-engineer",
+      "label": "Lead Process Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7491,
+      "nfc": 0.7341,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "directional-driller",
+      "label": "Directional Driller",
+      "soc": "47-5012",
+      "ptr": 0.141,
+      "nfc": 0.1403,
+      "quadrant": "LH",
+      "size": 5.08,
+      "aiExposure": 0.0548
+    },
+    {
+      "id": "environmental-scientist-oil-gas-energy-utilities",
+      "label": "Environmental Scientist",
+      "soc": "17-3026",
+      "ptr": 0.4648,
+      "nfc": 0.5095,
+      "quadrant": "LH",
+      "size": 5.08,
+      "aiExposure": 0.2963
+    },
+    {
+      "id": "construction-superintendent-oil-gas-energy-utilities",
+      "label": "Construction Superintendent",
+      "soc": "47-1011",
+      "ptr": 0.4947,
+      "nfc": 0.4831,
+      "quadrant": "LH",
+      "size": 5.08,
+      "aiExposure": 0.2634
+    },
+    {
+      "id": "senior-inspector",
+      "label": "Senior Inspector",
+      "soc": "51-9061",
+      "ptr": 0.4735,
+      "nfc": 0.4624,
+      "quadrant": "LH",
+      "size": 5.08,
+      "aiExposure": 0.2548
+    },
+    {
+      "id": "driller",
+      "label": "Driller",
+      "soc": "51-9061",
+      "ptr": 0.4546,
+      "nfc": 0.4624,
+      "quadrant": "LH",
+      "size": 5.08,
+      "aiExposure": 0.2548
+    },
+    {
+      "id": "project-control-specialist-oil-gas-energy-utilities",
+      "label": "Project Control Specialist",
+      "soc": "49-9012",
+      "ptr": 0.2279,
+      "nfc": 0.2241,
+      "quadrant": "LH",
+      "size": 5.07,
+      "aiExposure": 0.1402
+    },
+    {
+      "id": "proposal-manager-oil-gas-energy-utilities",
+      "label": "Proposal Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.07,
+      "aiExposure": 0
+    },
+    {
+      "id": "project-scheduler-oil-gas-energy-utilities",
+      "label": "Project Scheduler",
+      "soc": "43-6013",
+      "ptr": 0.9789,
+      "nfc": 0.9487,
+      "quadrant": "HH",
+      "size": 5.07,
+      "aiExposure": 0.4243
+    },
+    {
+      "id": "senior-civil-engineer-oil-gas-energy-utilities",
+      "label": "Senior Civil Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7491,
+      "nfc": 0.726,
+      "quadrant": "HH",
+      "size": 5.07,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "asset-engineer-oil-gas-energy-utilities",
+      "label": "Asset Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7491,
+      "nfc": 0.726,
+      "quadrant": "HH",
+      "size": 5.07,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "supervising-engineer",
+      "label": "Supervising Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7491,
+      "nfc": 0.726,
+      "quadrant": "HH",
+      "size": 5.07,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "utilities-engineer",
+      "label": "Utilities Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7491,
+      "nfc": 0.726,
+      "quadrant": "HH",
+      "size": 5.07,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "compliance-engineer-oil-gas-energy-utilities",
+      "label": "Compliance Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7491,
+      "nfc": 0.726,
+      "quadrant": "HH",
+      "size": 5.07,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "maintenance-planner-oil-gas-energy-utilities",
+      "label": "Maintenance Planner",
+      "soc": "19-3051",
+      "ptr": 0.6729,
+      "nfc": 0.6521,
+      "quadrant": "LH",
+      "size": 5.07,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "equipment-engineer-oil-gas-energy-utilities",
+      "label": "Equipment Engineer",
+      "soc": "17-2121",
+      "ptr": 0.5207,
+      "nfc": 0.5086,
+      "quadrant": "LH",
+      "size": 5.07,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "environmental-coordinator",
+      "label": "Environmental Coordinator",
+      "soc": "19-5012",
+      "ptr": 0.3786,
+      "nfc": 0.3728,
+      "quadrant": "LH",
+      "size": 5.07,
+      "aiExposure": 0.2474
+    },
+    {
+      "id": "planning-engineer-oil-gas-energy-utilities",
+      "label": "Planning Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7373,
+      "nfc": 0.7255,
+      "quadrant": "HH",
+      "size": 5.06,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "safety-engineer-oil-gas-energy-utilities",
+      "label": "Safety Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7432,
+      "nfc": 0.725,
+      "quadrant": "HH",
+      "size": 5.05,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "landman",
+      "label": "Landman",
+      "soc": "11-9141",
+      "ptr": 0.5692,
+      "nfc": 0.5782,
+      "quadrant": "LH",
+      "size": 5.05,
+      "aiExposure": 0.2913
+    },
+    {
+      "id": "facilities-engineer",
+      "label": "Facilities Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7373,
+      "nfc": 0.724,
+      "quadrant": "HH",
+      "size": 5.04,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "staff-reservoir-engineer",
+      "label": "Staff Reservoir Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7491,
+      "nfc": 0.7234,
+      "quadrant": "HH",
+      "size": 5.04,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "mechanical-supervisor-oil-gas-energy-utilities",
+      "label": "Mechanical Supervisor",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.04,
+      "aiExposure": 0
+    },
+    {
+      "id": "electrical-technician",
+      "label": "Electrical Technician",
+      "soc": "49-2094",
+      "ptr": 0.3306,
+      "nfc": 0.3239,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.257
+    },
+    {
+      "id": "exploration-manager-oil-gas-energy-utilities",
+      "label": "Exploration Manager",
+      "soc": "11-9121",
+      "ptr": 0.7206,
+      "nfc": 0.6999,
+      "quadrant": "HH",
+      "size": 5.03,
+      "aiExposure": 0.3216
+    },
+    {
+      "id": "consultant-engineer-oil-gas-energy-utilities",
+      "label": "Consultant Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7432,
+      "nfc": 0.7209,
+      "quadrant": "HH",
+      "size": 5.03,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "drilling-supervisor",
+      "label": "Drilling Supervisor",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.03,
+      "aiExposure": 0
+    },
+    {
+      "id": "geotechnical-engineer-oil-gas-energy-utilities",
+      "label": "Geotechnical Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7253,
+      "nfc": 0.7204,
+      "quadrant": "HH",
+      "size": 5.03,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-safety-engineer-oil-gas-energy-utilities",
+      "label": "Senior Safety Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7491,
+      "nfc": 0.7199,
+      "quadrant": "HH",
+      "size": 5.03,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "control-technician",
+      "label": "Control Technician",
+      "soc": "51-9061",
+      "ptr": 0.4698,
+      "nfc": 0.4547,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.2548
+    },
+    {
+      "id": "welder-oil-gas-energy-utilities",
+      "label": "Welder",
+      "soc": "47-2011",
+      "ptr": 0.1065,
+      "nfc": 0.1102,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.0357
+    },
+    {
+      "id": "environmental-consultant-oil-gas-energy-utilities",
+      "label": "Environmental Consultant",
+      "soc": "19-2041",
+      "ptr": 0.6834,
+      "nfc": 0.6768,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.3468
+    },
+    {
+      "id": "completion-engineer",
+      "label": "Completion Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7373,
+      "nfc": 0.7178,
+      "quadrant": "HH",
+      "size": 5.03,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "geologist-ii",
+      "label": "Geologist II",
+      "soc": "19-2042",
+      "ptr": 0.6136,
+      "nfc": 0.5871,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.3202
+    },
+    {
+      "id": "petrophysicist",
+      "label": "Petrophysicist",
+      "soc": "19-2042",
+      "ptr": 0.6088,
+      "nfc": 0.5871,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.3202
+    },
+    {
+      "id": "environmental-technician",
+      "label": "Environmental Technician",
+      "soc": "17-3025",
+      "ptr": 0.4174,
+      "nfc": 0.4157,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.294
+    },
+    {
+      "id": "well-engineer",
+      "label": "Well Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7491,
+      "nfc": 0.7152,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-drilling-engineer",
+      "label": "Senior Drilling Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7373,
+      "nfc": 0.7152,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-structural-engineer-oil-gas-energy-utilities",
+      "label": "Senior Structural Engineer",
+      "soc": "17-2121",
+      "ptr": 0.5166,
+      "nfc": 0.5007,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "senior-geophysicist",
+      "label": "Senior Geophysicist",
+      "soc": "19-2042",
+      "ptr": 0.6088,
+      "nfc": 0.5846,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.3202
+    },
+    {
+      "id": "pipefitter-oil-gas-energy-utilities",
+      "label": "Pipefitter",
+      "soc": "47-2152",
+      "ptr": 0.1585,
+      "nfc": 0.1547,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.0748
+    },
+    {
+      "id": "cost-engineer-oil-gas-energy-utilities",
+      "label": "Cost Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7313,
+      "nfc": 0.7132,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "party-chief",
+      "label": "Party Chief",
+      "soc": "33-1021",
+      "ptr": 0.4447,
+      "nfc": 0.4231,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.212
+    },
+    {
+      "id": "senior-field-engineer",
+      "label": "Senior Field Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7491,
+      "nfc": 0.7121,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "general-foreman-oil-gas-energy-utilities",
+      "label": "General Foreman",
+      "soc": "49-9044",
+      "ptr": 0.1005,
+      "nfc": 0.0962,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.0423
+    },
+    {
+      "id": "senior-reservoir-engineer",
+      "label": "Senior Reservoir Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7432,
+      "nfc": 0.7111,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "second-engineer-oil-gas-energy-utilities",
+      "label": "Second Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7432,
+      "nfc": 0.7106,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "petroleum-engineer",
+      "label": "Petroleum Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7313,
+      "nfc": 0.71,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "hydrogeologist-oil-gas-energy-utilities",
+      "label": "Hydrogeologist",
+      "soc": "19-2043",
+      "ptr": 0.6702,
+      "nfc": 0.6556,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3402
+    },
+    {
+      "id": "field-specialist",
+      "label": "Field Specialist",
+      "soc": "13-1041",
+      "ptr": 0.7145,
+      "nfc": 0.6816,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3627
+    },
+    {
+      "id": "district-engineer",
+      "label": "District Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7491,
+      "nfc": 0.7074,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "quality-control-engineer-oil-gas-energy-utilities",
+      "label": "Quality Control Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7373,
+      "nfc": 0.7074,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "field-supervisor",
+      "label": "Field Supervisor",
+      "soc": "45-1011",
+      "ptr": 0.3086,
+      "nfc": 0.2914,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.1677
+    },
+    {
+      "id": "senior-hydrogeologist-oil-gas-energy-utilities",
+      "label": "Senior Hydrogeologist",
+      "soc": "19-2043",
+      "ptr": 0.6922,
+      "nfc": 0.6532,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3402
+    },
+    {
+      "id": "derrickman",
+      "label": "Derrickman",
+      "soc": "47-5081",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.014
+    },
+    {
+      "id": "rig-manager",
+      "label": "Rig Manager",
+      "soc": "49-1011",
+      "ptr": 0.4345,
+      "nfc": 0.416,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.2682
+    },
+    {
+      "id": "geophysicist",
+      "label": "Geophysicist",
+      "soc": "19-2042",
+      "ptr": 0.604,
+      "nfc": 0.5778,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3202
+    },
+    {
+      "id": "production-superintendent-oil-gas-energy-utilities",
+      "label": "Production Superintendent",
+      "soc": "11-9013",
+      "ptr": 0.3691,
+      "nfc": 0.3473,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.2217
+    },
+    {
+      "id": "project-geologist-oil-gas-energy-utilities",
+      "label": "Project Geologist",
+      "soc": "19-2042",
+      "ptr": 0.6088,
+      "nfc": 0.5769,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3202
+    },
+    {
+      "id": "geographic-information-systems-analyst-oil-gas-energy-utilities",
+      "label": "Geographic Information Systems Analyst",
+      "soc": "15-1299",
+      "ptr": 0.9579,
+      "nfc": 0.9211,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "land-technician",
+      "label": "Land Technician",
+      "soc": "17-3023",
+      "ptr": 0.4019,
+      "nfc": 0.3803,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3042
+    },
+    {
+      "id": "exploration-geologist-oil-gas-energy-utilities",
+      "label": "Exploration Geologist",
+      "soc": "19-2042",
+      "ptr": 0.604,
+      "nfc": 0.5748,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3202
+    },
+    {
+      "id": "electrical-designer-oil-gas-energy-utilities",
+      "label": "Electrical Designer",
+      "soc": "17-2121",
+      "ptr": 0.5124,
+      "nfc": 0.4916,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "toolpusher",
+      "label": "Toolpusher",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.01,
+      "aiExposure": 0
+    },
+    {
+      "id": "way-agent-right",
+      "label": "Way Agent Right",
+      "soc": "13-1011",
+      "ptr": 0.7412,
+      "nfc": 0.6932,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.4062
+    },
+    {
+      "id": "certified-welding-inspector-oil-gas-energy-utilities",
+      "label": "Certified Welding Inspector",
+      "soc": "51-9061",
+      "ptr": 0.4735,
+      "nfc": 0.4428,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.2548
+    },
+    {
+      "id": "lease-analyst",
+      "label": "Lease Analyst",
+      "soc": "41-9021",
+      "ptr": 0.6922,
+      "nfc": 0.6459,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3747
+    },
+    {
+      "id": "staff-geophysicist",
+      "label": "Staff Geophysicist",
+      "soc": "19-2042",
+      "ptr": 0.6136,
+      "nfc": 0.5726,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3202
+    },
+    {
+      "id": "geophysical-advisor",
+      "label": "Geophysical Advisor",
+      "soc": "21-1012",
+      "ptr": 0.3133,
+      "nfc": 0.2924,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3073
+    },
+    {
+      "id": "sustainability-consultant",
+      "label": "Sustainability Consultant",
+      "soc": "13-1199",
+      "ptr": 0.9593,
+      "nfc": 0.8995,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.4007
+    },
+    {
+      "id": "environmental-advisor",
+      "label": "Environmental Advisor",
+      "soc": "13-1041",
+      "ptr": 0.7089,
+      "nfc": 0.67,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3627
+    },
+    {
+      "id": "senior-environmental-consultant-oil-gas-energy-utilities",
+      "label": "Senior Environmental Consultant",
+      "soc": "19-2041",
+      "ptr": 0.7058,
+      "nfc": 0.6566,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3468
+    },
+    {
+      "id": "lead-operator",
+      "label": "Lead Operator",
+      "soc": "51-9161",
+      "ptr": 0.2652,
+      "nfc": 0.2467,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.2277
+    },
+    {
+      "id": "staff-geologist-oil-gas-energy-utilities",
+      "label": "Staff Geologist",
+      "soc": "19-2042",
+      "ptr": 0.5892,
+      "nfc": 0.5704,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3202
+    },
+    {
+      "id": "document-controller-oil-gas-energy-utilities",
+      "label": "Document Controller",
+      "soc": "15-1299",
+      "ptr": 0.9657,
+      "nfc": 0.91,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "energy-manager",
+      "label": "Energy Manager",
+      "soc": "13-1199",
+      "ptr": 0.9593,
+      "nfc": 0.8967,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4007
+    },
+    {
+      "id": "data-protection-officer-oil-gas-energy-utilities",
+      "label": "Data Protection Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "pipeline-engineer",
+      "label": "Pipeline Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7432,
+      "nfc": 0.6926,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "construction-engineer-oil-gas-energy-utilities",
+      "label": "Construction Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7373,
+      "nfc": 0.6926,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "lease-operator",
+      "label": "Lease Operator",
+      "soc": "51-9161",
+      "ptr": 0.2631,
+      "nfc": 0.2452,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.2277
+    },
+    {
+      "id": "roughneck",
+      "label": "Roughneck",
+      "soc": "47-5081",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.014
+    },
+    {
+      "id": "senior-instrument-engineer",
+      "label": "Senior Instrument Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7491,
+      "nfc": 0.6873,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "instrument-engineer",
+      "label": "Instrument Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7432,
+      "nfc": 0.6873,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-ecologist-oil-gas-energy-utilities",
+      "label": "Senior Ecologist",
+      "soc": "19-2041",
+      "ptr": 0.7058,
+      "nfc": 0.6476,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3468
+    },
+    {
+      "id": "ecologist-oil-gas-energy-utilities",
+      "label": "Ecologist",
+      "soc": "19-1023",
+      "ptr": 0.6076,
+      "nfc": 0.5619,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3322
+    },
+    {
+      "id": "senior-operator",
+      "label": "Senior Operator",
+      "soc": "51-9161",
+      "ptr": 0.2652,
+      "nfc": 0.2433,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.2277
+    },
+    {
+      "id": "reactor-operator",
+      "label": "Reactor Operator",
+      "soc": "51-9161",
+      "ptr": 0.2652,
+      "nfc": 0.2433,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.2277
+    },
+    {
+      "id": "rigger",
+      "label": "Rigger",
+      "soc": "47-2111",
+      "ptr": 0.2341,
+      "nfc": 0.2165,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.1486
+    },
+    {
+      "id": "technical-professional",
+      "label": "Technical Professional",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "senior-technical-professional",
+      "label": "Senior Technical Professional",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "health-safety-environment-manager-oil-gas-energy-utilities",
+      "label": "Health Safety Environment Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "derrickhand",
+      "label": "Derrickhand",
+      "soc": "47-5012",
+      "ptr": 0.1421,
+      "nfc": 0.1313,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.0548
+    },
+    {
+      "id": "reservoir-engineering-intern",
+      "label": "Reservoir Engineering Intern",
+      "soc": "29-1229",
+      "ptr": 0.4461,
+      "nfc": 0.4119,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "document-control-manager-oil-gas-energy-utilities",
+      "label": "Document Control Manager",
+      "soc": "15-1299",
+      "ptr": 0.9811,
+      "nfc": 0.8902,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "geographic-information-systems-specialist-oil-gas-energy-utilities",
+      "label": "Geographic Information Systems Specialist",
+      "soc": "15-1231",
+      "ptr": 0.9542,
+      "nfc": 0.8869,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4684
+    },
+    {
+      "id": "second-assistant-engineer-oil-gas-energy-utilities",
+      "label": "Second Assistant Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7491,
+      "nfc": 0.6797,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "water-engineer",
+      "label": "Water Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7491,
+      "nfc": 0.6797,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "subsea-engineer",
+      "label": "Subsea Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7432,
+      "nfc": 0.6797,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "welding-engineer-oil-gas-energy-utilities",
+      "label": "Welding Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7432,
+      "nfc": 0.6797,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "field-energy-consultant",
+      "label": "Field Energy Consultant",
+      "soc": "41-4011",
+      "ptr": 0.689,
+      "nfc": 0.6252,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.4059
+    },
+    {
+      "id": "geoscientist",
+      "label": "Geoscientist",
+      "soc": "19-2042",
+      "ptr": 0.6088,
+      "nfc": 0.5568,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3202
+    },
+    {
+      "id": "piping-designer",
+      "label": "Piping Designer",
+      "soc": "17-2121",
+      "ptr": 0.5207,
+      "nfc": 0.4762,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "electrical-project-engineer-oil-gas-energy-utilities",
+      "label": "Electrical Project Engineer",
+      "soc": "17-2121",
+      "ptr": 0.5124,
+      "nfc": 0.4762,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "second-mate-oil-gas-energy-utilities",
+      "label": "Second Mate",
+      "soc": "53-5021",
+      "ptr": 0.3014,
+      "nfc": 0.2757,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.1971
+    },
+    {
+      "id": "rov-supervisor",
+      "label": "ROV Supervisor",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "floorhand",
+      "label": "Floorhand",
+      "soc": "47-5099",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "instrument-operator-oil-gas-energy-utilities",
+      "label": "Instrument Operator",
+      "soc": "51-9161",
+      "ptr": 0.2631,
+      "nfc": 0.2401,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.2277
+    },
+    {
+      "id": "instrument-man-oil-gas-energy-utilities",
+      "label": "Instrument Man",
+      "soc": "49-9069",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    }
+  ],
+  "edges": [
+    {
+      "source": "operation-engineer-oil-gas-energy-utilities",
+      "target": "geologist-oil-gas-energy-utilities",
+      "weight": 0.57
+    },
+    {
+      "source": "data-engineer-oil-gas-energy-utilities",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.71
+    },
+    {
+      "source": "environmental-engineer",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.82
+    },
+    {
+      "source": "environmental-engineer",
+      "target": "project-engineer-oil-gas-energy-utilities",
+      "weight": 0.67
+    },
+    {
+      "source": "senior-process-engineer-oil-gas-energy-utilities",
+      "target": "environmental-specialist",
+      "weight": 0.68
+    },
+    {
+      "source": "senior-process-engineer-oil-gas-energy-utilities",
+      "target": "process-engineer-oil-gas-energy-utilities",
+      "weight": 0.96
+    },
+    {
+      "source": "senior-project-engineer-oil-gas-energy-utilities",
+      "target": "process-engineer-oil-gas-energy-utilities",
+      "weight": 0.94
+    },
+    {
+      "source": "senior-project-engineer-oil-gas-energy-utilities",
+      "target": "electrical-engineer-oil-gas-energy-utilities",
+      "weight": 0.48
+    },
+    {
+      "source": "reliability-engineer-oil-gas-energy-utilities",
+      "target": "lead-engineer-oil-gas-energy-utilities",
+      "weight": 0.45
+    },
+    {
+      "source": "drilling-engineer",
+      "target": "geologist-oil-gas-energy-utilities",
+      "weight": 0.84
+    },
+    {
+      "source": "drilling-engineer",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.89
+    },
+    {
+      "source": "electrical-design-engineer-oil-gas-energy-utilities",
+      "target": "mechanical-engineer-oil-gas-energy-utilities",
+      "weight": 0.9
+    },
+    {
+      "source": "electrical-design-engineer-oil-gas-energy-utilities",
+      "target": "field-engineer-oil-gas-energy-utilities",
+      "weight": 0.4
+    },
+    {
+      "source": "control-engineer-oil-gas-energy-utilities",
+      "target": "mechanical-engineer-oil-gas-energy-utilities",
+      "weight": 0.98
+    },
+    {
+      "source": "control-engineer-oil-gas-energy-utilities",
+      "target": "maintenance-engineer-oil-gas-energy-utilities",
+      "weight": 0.66
+    },
+    {
+      "source": "instrument-technician",
+      "target": "process-engineer-oil-gas-energy-utilities",
+      "weight": 0.98
+    },
+    {
+      "source": "instrument-technician",
+      "target": "maintenance-engineer-oil-gas-energy-utilities",
+      "weight": 0.77
+    },
+    {
+      "source": "project-engineering-manager",
+      "target": "geologist-oil-gas-energy-utilities",
+      "weight": 0.87
+    },
+    {
+      "source": "project-engineering-manager",
+      "target": "process-engineer-oil-gas-energy-utilities",
+      "weight": 0.42
+    },
+    {
+      "source": "plant-engineer-oil-gas-energy-utilities",
+      "target": "field-engineer-oil-gas-energy-utilities",
+      "weight": 0.56
+    },
+    {
+      "source": "plant-engineer-oil-gas-energy-utilities",
+      "target": "mechanical-engineer-oil-gas-energy-utilities",
+      "weight": 0.71
+    },
+    {
+      "source": "structural-engineer-oil-gas-energy-utilities",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.86
+    },
+    {
+      "source": "commissioning-engineer",
+      "target": "maintenance-engineer-oil-gas-energy-utilities",
+      "weight": 0.56
+    },
+    {
+      "source": "commissioning-engineer",
+      "target": "electrical-engineer-oil-gas-energy-utilities",
+      "weight": 0.9
+    },
+    {
+      "source": "project-control-oil-gas-energy-utilities",
+      "target": "geologist-oil-gas-energy-utilities",
+      "weight": 0.48
+    },
+    {
+      "source": "project-control-oil-gas-energy-utilities",
+      "target": "electrical-engineer-oil-gas-energy-utilities",
+      "weight": 0.53
+    },
+    {
+      "source": "electrical-supervisor-oil-gas-energy-utilities",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.4
+    },
+    {
+      "source": "electrical-supervisor-oil-gas-energy-utilities",
+      "target": "mechanical-engineer-oil-gas-energy-utilities",
+      "weight": 0.63
+    },
+    {
+      "source": "project-control-manager-oil-gas-energy-utilities",
+      "target": "environmental-specialist",
+      "weight": 0.75
+    },
+    {
+      "source": "graduate-engineer-oil-gas-energy-utilities",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.79
+    },
+    {
+      "source": "environmental-manager",
+      "target": "process-engineer-oil-gas-energy-utilities",
+      "weight": 0.45
+    },
+    {
+      "source": "chemical-engineer-oil-gas-energy-utilities",
+      "target": "field-engineer-oil-gas-energy-utilities",
+      "weight": 0.8
+    },
+    {
+      "source": "senior-mechanical-engineer-oil-gas-energy-utilities",
+      "target": "geologist-oil-gas-energy-utilities",
+      "weight": 0.84
+    },
+    {
+      "source": "senior-mechanical-engineer-oil-gas-energy-utilities",
+      "target": "mechanical-engineer-oil-gas-energy-utilities",
+      "weight": 0.6
+    },
+    {
+      "source": "senior-geologist-oil-gas-energy-utilities",
+      "target": "maintenance-engineer-oil-gas-energy-utilities",
+      "weight": 0.78
+    },
+    {
+      "source": "senior-geologist-oil-gas-energy-utilities",
+      "target": "electrical-engineer-oil-gas-energy-utilities",
+      "weight": 0.53
+    },
+    {
+      "source": "reservoir-engineer",
+      "target": "electrical-engineer-oil-gas-energy-utilities",
+      "weight": 0.97
+    },
+    {
+      "source": "process-control-engineer-oil-gas-energy-utilities",
+      "target": "mechanical-engineer-oil-gas-energy-utilities",
+      "weight": 0.72
+    },
+    {
+      "source": "process-control-engineer-oil-gas-energy-utilities",
+      "target": "environmental-specialist",
+      "weight": 0.4
+    },
+    {
+      "source": "contract-engineer-oil-gas-energy-utilities",
+      "target": "lead-engineer-oil-gas-energy-utilities",
+      "weight": 0.67
+    },
+    {
+      "source": "contract-engineer-oil-gas-energy-utilities",
+      "target": "process-engineer-oil-gas-energy-utilities",
+      "weight": 0.72
+    },
+    {
+      "source": "control-systems-engineer-oil-gas-energy-utilities",
+      "target": "geologist-oil-gas-energy-utilities",
+      "weight": 0.61
+    },
+    {
+      "source": "control-systems-engineer-oil-gas-energy-utilities",
+      "target": "maintenance-engineer-oil-gas-energy-utilities",
+      "weight": 0.65
+    },
+    {
+      "source": "project-control-engineer-oil-gas-energy-utilities",
+      "target": "maintenance-engineer-oil-gas-energy-utilities",
+      "weight": 0.98
+    },
+    {
+      "source": "project-control-engineer-oil-gas-energy-utilities",
+      "target": "project-engineer-oil-gas-energy-utilities",
+      "weight": 0.54
+    },
+    {
+      "source": "principal-process-engineer",
+      "target": "geologist-oil-gas-energy-utilities",
+      "weight": 0.76
+    },
+    {
+      "source": "power-systems-engineer",
+      "target": "lead-engineer-oil-gas-energy-utilities",
+      "weight": 0.91
+    },
+    {
+      "source": "automation-specialist-oil-gas-energy-utilities",
+      "target": "mechanical-engineer-oil-gas-energy-utilities",
+      "weight": 0.77
+    },
+    {
+      "source": "automation-specialist-oil-gas-energy-utilities",
+      "target": "environmental-specialist",
+      "weight": 0.49
+    },
+    {
+      "source": "engineer-iii-oil-gas-energy-utilities",
+      "target": "geologist-oil-gas-energy-utilities",
+      "weight": 0.84
+    },
+    {
+      "source": "senior-electrical-engineer-oil-gas-energy-utilities",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.58
+    },
+    {
+      "source": "lead-process-engineer",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.87
+    },
+    {
+      "source": "lead-process-engineer",
+      "target": "mechanical-engineer-oil-gas-energy-utilities",
+      "weight": 0.64
+    },
+    {
+      "source": "directional-driller",
+      "target": "lead-engineer-oil-gas-energy-utilities",
+      "weight": 0.42
+    },
+    {
+      "source": "environmental-scientist-oil-gas-energy-utilities",
+      "target": "project-engineer-oil-gas-energy-utilities",
+      "weight": 0.73
+    },
+    {
+      "source": "construction-superintendent-oil-gas-energy-utilities",
+      "target": "maintenance-engineer-oil-gas-energy-utilities",
+      "weight": 0.67
+    },
+    {
+      "source": "construction-superintendent-oil-gas-energy-utilities",
+      "target": "mechanical-engineer-oil-gas-energy-utilities",
+      "weight": 0.59
+    },
+    {
+      "source": "senior-inspector",
+      "target": "geologist-oil-gas-energy-utilities",
+      "weight": 0.65
+    },
+    {
+      "source": "senior-inspector",
+      "target": "project-engineer-oil-gas-energy-utilities",
+      "weight": 0.69
+    },
+    {
+      "source": "driller",
+      "target": "electrical-engineer-oil-gas-energy-utilities",
+      "weight": 0.89
+    },
+    {
+      "source": "project-control-specialist-oil-gas-energy-utilities",
+      "target": "maintenance-engineer-oil-gas-energy-utilities",
+      "weight": 0.59
+    },
+    {
+      "source": "project-control-specialist-oil-gas-energy-utilities",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.56
+    },
+    {
+      "source": "proposal-manager-oil-gas-energy-utilities",
+      "target": "process-engineer-oil-gas-energy-utilities",
+      "weight": 0.57
+    },
+    {
+      "source": "proposal-manager-oil-gas-energy-utilities",
+      "target": "electrical-engineer-oil-gas-energy-utilities",
+      "weight": 0.52
+    },
+    {
+      "source": "project-scheduler-oil-gas-energy-utilities",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.47
+    },
+    {
+      "source": "project-scheduler-oil-gas-energy-utilities",
+      "target": "lead-engineer-oil-gas-energy-utilities",
+      "weight": 0.85
+    },
+    {
+      "source": "senior-civil-engineer-oil-gas-energy-utilities",
+      "target": "mechanical-engineer-oil-gas-energy-utilities",
+      "weight": 0.91
+    },
+    {
+      "source": "senior-civil-engineer-oil-gas-energy-utilities",
+      "target": "electrical-engineer-oil-gas-energy-utilities",
+      "weight": 0.67
+    },
+    {
+      "source": "asset-engineer-oil-gas-energy-utilities",
+      "target": "electrical-engineer-oil-gas-energy-utilities",
+      "weight": 0.56
+    },
+    {
+      "source": "supervising-engineer",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.74
+    },
+    {
+      "source": "supervising-engineer",
+      "target": "lead-engineer-oil-gas-energy-utilities",
+      "weight": 0.61
+    },
+    {
+      "source": "utilities-engineer",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.69
+    },
+    {
+      "source": "compliance-engineer-oil-gas-energy-utilities",
+      "target": "geologist-oil-gas-energy-utilities",
+      "weight": 0.98
+    },
+    {
+      "source": "maintenance-planner-oil-gas-energy-utilities",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.55
+    },
+    {
+      "source": "maintenance-planner-oil-gas-energy-utilities",
+      "target": "project-engineer-oil-gas-energy-utilities",
+      "weight": 0.61
+    },
+    {
+      "source": "equipment-engineer-oil-gas-energy-utilities",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.73
+    },
+    {
+      "source": "equipment-engineer-oil-gas-energy-utilities",
+      "target": "process-engineer-oil-gas-energy-utilities",
+      "weight": 0.65
+    },
+    {
+      "source": "environmental-coordinator",
+      "target": "process-engineer-oil-gas-energy-utilities",
+      "weight": 0.69
+    },
+    {
+      "source": "planning-engineer-oil-gas-energy-utilities",
+      "target": "project-engineer-oil-gas-energy-utilities",
+      "weight": 0.6
+    },
+    {
+      "source": "planning-engineer-oil-gas-energy-utilities",
+      "target": "lead-engineer-oil-gas-energy-utilities",
+      "weight": 0.51
+    },
+    {
+      "source": "safety-engineer-oil-gas-energy-utilities",
+      "target": "project-engineer-oil-gas-energy-utilities",
+      "weight": 0.74
+    },
+    {
+      "source": "landman",
+      "target": "project-engineer-oil-gas-energy-utilities",
+      "weight": 0.59
+    },
+    {
+      "source": "landman",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.97
+    },
+    {
+      "source": "facilities-engineer",
+      "target": "mechanical-engineer-oil-gas-energy-utilities",
+      "weight": 0.48
+    },
+    {
+      "source": "facilities-engineer",
+      "target": "field-engineer-oil-gas-energy-utilities",
+      "weight": 0.87
+    },
+    {
+      "source": "staff-reservoir-engineer",
+      "target": "project-engineer-oil-gas-energy-utilities",
+      "weight": 0.59
+    },
+    {
+      "source": "staff-reservoir-engineer",
+      "target": "field-engineer-oil-gas-energy-utilities",
+      "weight": 0.64
+    },
+    {
+      "source": "mechanical-supervisor-oil-gas-energy-utilities",
+      "target": "mechanical-engineer-oil-gas-energy-utilities",
+      "weight": 0.43
+    },
+    {
+      "source": "electrical-technician",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.5
+    },
+    {
+      "source": "exploration-manager-oil-gas-energy-utilities",
+      "target": "lead-engineer-oil-gas-energy-utilities",
+      "weight": 0.6
+    },
+    {
+      "source": "consultant-engineer-oil-gas-energy-utilities",
+      "target": "field-engineer-oil-gas-energy-utilities",
+      "weight": 0.84
+    },
+    {
+      "source": "drilling-supervisor",
+      "target": "lead-engineer-oil-gas-energy-utilities",
+      "weight": 0.42
+    },
+    {
+      "source": "geotechnical-engineer-oil-gas-energy-utilities",
+      "target": "maintenance-engineer-oil-gas-energy-utilities",
+      "weight": 0.6
+    },
+    {
+      "source": "senior-safety-engineer-oil-gas-energy-utilities",
+      "target": "maintenance-engineer-oil-gas-energy-utilities",
+      "weight": 0.5
+    },
+    {
+      "source": "control-technician",
+      "target": "maintenance-engineer-oil-gas-energy-utilities",
+      "weight": 0.46
+    },
+    {
+      "source": "welder-oil-gas-energy-utilities",
+      "target": "maintenance-engineer-oil-gas-energy-utilities",
+      "weight": 0.53
+    },
+    {
+      "source": "welder-oil-gas-energy-utilities",
+      "target": "process-engineer-oil-gas-energy-utilities",
+      "weight": 0.96
+    },
+    {
+      "source": "environmental-consultant-oil-gas-energy-utilities",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.94
+    },
+    {
+      "source": "completion-engineer",
+      "target": "geologist-oil-gas-energy-utilities",
+      "weight": 0.57
+    },
+    {
+      "source": "geologist-ii",
+      "target": "maintenance-engineer-oil-gas-energy-utilities",
+      "weight": 0.62
+    },
+    {
+      "source": "petrophysicist",
+      "target": "project-engineer-oil-gas-energy-utilities",
+      "weight": 0.64
+    },
+    {
+      "source": "petrophysicist",
+      "target": "electrical-engineer-oil-gas-energy-utilities",
+      "weight": 0.81
+    },
+    {
+      "source": "environmental-technician",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.89
+    },
+    {
+      "source": "environmental-technician",
+      "target": "process-engineer-oil-gas-energy-utilities",
+      "weight": 0.58
+    },
+    {
+      "source": "well-engineer",
+      "target": "environmental-specialist",
+      "weight": 0.88
+    },
+    {
+      "source": "senior-drilling-engineer",
+      "target": "geologist-oil-gas-energy-utilities",
+      "weight": 0.97
+    },
+    {
+      "source": "senior-structural-engineer-oil-gas-energy-utilities",
+      "target": "electrical-engineer-oil-gas-energy-utilities",
+      "weight": 0.75
+    },
+    {
+      "source": "senior-structural-engineer-oil-gas-energy-utilities",
+      "target": "lead-engineer-oil-gas-energy-utilities",
+      "weight": 0.44
+    },
+    {
+      "source": "senior-geophysicist",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.81
+    },
+    {
+      "source": "senior-geophysicist",
+      "target": "lead-engineer-oil-gas-energy-utilities",
+      "weight": 0.97
+    },
+    {
+      "source": "pipefitter-oil-gas-energy-utilities",
+      "target": "field-engineer-oil-gas-energy-utilities",
+      "weight": 0.79
+    },
+    {
+      "source": "pipefitter-oil-gas-energy-utilities",
+      "target": "lead-engineer-oil-gas-energy-utilities",
+      "weight": 0.57
+    },
+    {
+      "source": "cost-engineer-oil-gas-energy-utilities",
+      "target": "geologist-oil-gas-energy-utilities",
+      "weight": 0.77
+    },
+    {
+      "source": "cost-engineer-oil-gas-energy-utilities",
+      "target": "process-engineer-oil-gas-energy-utilities",
+      "weight": 0.96
+    },
+    {
+      "source": "party-chief",
+      "target": "maintenance-engineer-oil-gas-energy-utilities",
+      "weight": 0.45
+    },
+    {
+      "source": "senior-field-engineer",
+      "target": "geologist-oil-gas-energy-utilities",
+      "weight": 0.98
+    },
+    {
+      "source": "general-foreman-oil-gas-energy-utilities",
+      "target": "maintenance-engineer-oil-gas-energy-utilities",
+      "weight": 0.43
+    },
+    {
+      "source": "senior-reservoir-engineer",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.68
+    },
+    {
+      "source": "second-engineer-oil-gas-energy-utilities",
+      "target": "environmental-specialist",
+      "weight": 0.89
+    },
+    {
+      "source": "second-engineer-oil-gas-energy-utilities",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.46
+    },
+    {
+      "source": "petroleum-engineer",
+      "target": "field-engineer-oil-gas-energy-utilities",
+      "weight": 0.45
+    },
+    {
+      "source": "hydrogeologist-oil-gas-energy-utilities",
+      "target": "lead-engineer-oil-gas-energy-utilities",
+      "weight": 0.79
+    },
+    {
+      "source": "field-specialist",
+      "target": "field-engineer-oil-gas-energy-utilities",
+      "weight": 0.98
+    },
+    {
+      "source": "field-specialist",
+      "target": "electrical-engineer-oil-gas-energy-utilities",
+      "weight": 0.94
+    },
+    {
+      "source": "district-engineer",
+      "target": "process-engineer-oil-gas-energy-utilities",
+      "weight": 0.78
+    },
+    {
+      "source": "quality-control-engineer-oil-gas-energy-utilities",
+      "target": "mechanical-engineer-oil-gas-energy-utilities",
+      "weight": 0.46
+    },
+    {
+      "source": "field-supervisor",
+      "target": "geologist-oil-gas-energy-utilities",
+      "weight": 0.63
+    },
+    {
+      "source": "field-supervisor",
+      "target": "process-engineer-oil-gas-energy-utilities",
+      "weight": 0.47
+    },
+    {
+      "source": "senior-hydrogeologist-oil-gas-energy-utilities",
+      "target": "project-engineer-oil-gas-energy-utilities",
+      "weight": 0.56
+    },
+    {
+      "source": "derrickman",
+      "target": "maintenance-engineer-oil-gas-energy-utilities",
+      "weight": 0.99
+    },
+    {
+      "source": "derrickman",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.89
+    },
+    {
+      "source": "rig-manager",
+      "target": "environmental-specialist",
+      "weight": 0.68
+    },
+    {
+      "source": "geophysicist",
+      "target": "electrical-engineer-oil-gas-energy-utilities",
+      "weight": 0.73
+    },
+    {
+      "source": "production-superintendent-oil-gas-energy-utilities",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.96
+    },
+    {
+      "source": "project-geologist-oil-gas-energy-utilities",
+      "target": "electrical-engineer-oil-gas-energy-utilities",
+      "weight": 0.69
+    },
+    {
+      "source": "project-geologist-oil-gas-energy-utilities",
+      "target": "field-engineer-oil-gas-energy-utilities",
+      "weight": 0.79
+    },
+    {
+      "source": "geographic-information-systems-analyst-oil-gas-energy-utilities",
+      "target": "process-engineer-oil-gas-energy-utilities",
+      "weight": 0.91
+    },
+    {
+      "source": "land-technician",
+      "target": "maintenance-engineer-oil-gas-energy-utilities",
+      "weight": 0.49
+    },
+    {
+      "source": "exploration-geologist-oil-gas-energy-utilities",
+      "target": "field-engineer-oil-gas-energy-utilities",
+      "weight": 0.44
+    },
+    {
+      "source": "electrical-designer-oil-gas-energy-utilities",
+      "target": "lead-engineer-oil-gas-energy-utilities",
+      "weight": 0.58
+    },
+    {
+      "source": "electrical-designer-oil-gas-energy-utilities",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.55
+    },
+    {
+      "source": "toolpusher",
+      "target": "environmental-specialist",
+      "weight": 0.64
+    },
+    {
+      "source": "toolpusher",
+      "target": "field-engineer-oil-gas-energy-utilities",
+      "weight": 0.45
+    },
+    {
+      "source": "way-agent-right",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.78
+    },
+    {
+      "source": "way-agent-right",
+      "target": "electrical-engineer-oil-gas-energy-utilities",
+      "weight": 0.59
+    },
+    {
+      "source": "certified-welding-inspector-oil-gas-energy-utilities",
+      "target": "field-engineer-oil-gas-energy-utilities",
+      "weight": 0.4
+    },
+    {
+      "source": "certified-welding-inspector-oil-gas-energy-utilities",
+      "target": "project-engineer-oil-gas-energy-utilities",
+      "weight": 0.95
+    },
+    {
+      "source": "lease-analyst",
+      "target": "electrical-engineer-oil-gas-energy-utilities",
+      "weight": 0.76
+    },
+    {
+      "source": "staff-geophysicist",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.87
+    },
+    {
+      "source": "geophysical-advisor",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.48
+    },
+    {
+      "source": "geophysical-advisor",
+      "target": "process-engineer-oil-gas-energy-utilities",
+      "weight": 0.94
+    },
+    {
+      "source": "sustainability-consultant",
+      "target": "environmental-specialist",
+      "weight": 0.55
+    },
+    {
+      "source": "environmental-advisor",
+      "target": "process-engineer-oil-gas-energy-utilities",
+      "weight": 0.69
+    },
+    {
+      "source": "environmental-advisor",
+      "target": "maintenance-engineer-oil-gas-energy-utilities",
+      "weight": 0.91
+    },
+    {
+      "source": "senior-environmental-consultant-oil-gas-energy-utilities",
+      "target": "maintenance-engineer-oil-gas-energy-utilities",
+      "weight": 0.51
+    },
+    {
+      "source": "lead-operator",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.42
+    },
+    {
+      "source": "staff-geologist-oil-gas-energy-utilities",
+      "target": "lead-engineer-oil-gas-energy-utilities",
+      "weight": 0.71
+    },
+    {
+      "source": "document-controller-oil-gas-energy-utilities",
+      "target": "lead-engineer-oil-gas-energy-utilities",
+      "weight": 0.75
+    },
+    {
+      "source": "document-controller-oil-gas-energy-utilities",
+      "target": "mechanical-engineer-oil-gas-energy-utilities",
+      "weight": 0.49
+    },
+    {
+      "source": "energy-manager",
+      "target": "geologist-oil-gas-energy-utilities",
+      "weight": 0.49
+    },
+    {
+      "source": "data-protection-officer-oil-gas-energy-utilities",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.6
+    },
+    {
+      "source": "data-protection-officer-oil-gas-energy-utilities",
+      "target": "project-engineer-oil-gas-energy-utilities",
+      "weight": 0.49
+    },
+    {
+      "source": "pipeline-engineer",
+      "target": "maintenance-engineer-oil-gas-energy-utilities",
+      "weight": 0.89
+    },
+    {
+      "source": "construction-engineer-oil-gas-energy-utilities",
+      "target": "lead-engineer-oil-gas-energy-utilities",
+      "weight": 0.48
+    },
+    {
+      "source": "lease-operator",
+      "target": "geologist-oil-gas-energy-utilities",
+      "weight": 0.95
+    },
+    {
+      "source": "roughneck",
+      "target": "geologist-oil-gas-energy-utilities",
+      "weight": 0.54
+    },
+    {
+      "source": "senior-instrument-engineer",
+      "target": "process-engineer-oil-gas-energy-utilities",
+      "weight": 0.46
+    },
+    {
+      "source": "senior-instrument-engineer",
+      "target": "electrical-engineer-oil-gas-energy-utilities",
+      "weight": 0.4
+    },
+    {
+      "source": "instrument-engineer",
+      "target": "lead-engineer-oil-gas-energy-utilities",
+      "weight": 0.53
+    },
+    {
+      "source": "senior-ecologist-oil-gas-energy-utilities",
+      "target": "field-engineer-oil-gas-energy-utilities",
+      "weight": 0.86
+    },
+    {
+      "source": "ecologist-oil-gas-energy-utilities",
+      "target": "electrical-engineer-oil-gas-energy-utilities",
+      "weight": 0.61
+    },
+    {
+      "source": "senior-operator",
+      "target": "mechanical-engineer-oil-gas-energy-utilities",
+      "weight": 0.52
+    },
+    {
+      "source": "reactor-operator",
+      "target": "geologist-oil-gas-energy-utilities",
+      "weight": 0.46
+    },
+    {
+      "source": "reactor-operator",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.95
+    },
+    {
+      "source": "rigger",
+      "target": "process-engineer-oil-gas-energy-utilities",
+      "weight": 0.52
+    },
+    {
+      "source": "rigger",
+      "target": "lead-engineer-oil-gas-energy-utilities",
+      "weight": 0.43
+    },
+    {
+      "source": "technical-professional",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.86
+    },
+    {
+      "source": "technical-professional",
+      "target": "environmental-specialist",
+      "weight": 0.78
+    },
+    {
+      "source": "senior-technical-professional",
+      "target": "lead-engineer-oil-gas-energy-utilities",
+      "weight": 0.78
+    },
+    {
+      "source": "senior-technical-professional",
+      "target": "electrical-engineer-oil-gas-energy-utilities",
+      "weight": 0.41
+    },
+    {
+      "source": "health-safety-environment-manager-oil-gas-energy-utilities",
+      "target": "project-engineer-oil-gas-energy-utilities",
+      "weight": 0.95
+    },
+    {
+      "source": "derrickhand",
+      "target": "field-engineer-oil-gas-energy-utilities",
+      "weight": 0.69
+    },
+    {
+      "source": "reservoir-engineering-intern",
+      "target": "maintenance-engineer-oil-gas-energy-utilities",
+      "weight": 0.83
+    },
+    {
+      "source": "document-control-manager-oil-gas-energy-utilities",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 1
+    },
+    {
+      "source": "geographic-information-systems-specialist-oil-gas-energy-utilities",
+      "target": "project-engineer-oil-gas-energy-utilities",
+      "weight": 0.57
+    },
+    {
+      "source": "geographic-information-systems-specialist-oil-gas-energy-utilities",
+      "target": "mechanical-engineer-oil-gas-energy-utilities",
+      "weight": 0.87
+    },
+    {
+      "source": "second-assistant-engineer-oil-gas-energy-utilities",
+      "target": "process-engineer-oil-gas-energy-utilities",
+      "weight": 0.67
+    },
+    {
+      "source": "second-assistant-engineer-oil-gas-energy-utilities",
+      "target": "mechanical-engineer-oil-gas-energy-utilities",
+      "weight": 0.71
+    },
+    {
+      "source": "water-engineer",
+      "target": "field-engineer-oil-gas-energy-utilities",
+      "weight": 0.46
+    },
+    {
+      "source": "water-engineer",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.52
+    },
+    {
+      "source": "subsea-engineer",
+      "target": "environmental-specialist",
+      "weight": 0.68
+    },
+    {
+      "source": "welding-engineer-oil-gas-energy-utilities",
+      "target": "geologist-oil-gas-energy-utilities",
+      "weight": 0.82
+    },
+    {
+      "source": "welding-engineer-oil-gas-energy-utilities",
+      "target": "environmental-specialist",
+      "weight": 0.56
+    },
+    {
+      "source": "field-energy-consultant",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.68
+    },
+    {
+      "source": "geoscientist",
+      "target": "mechanical-engineer-oil-gas-energy-utilities",
+      "weight": 0.74
+    },
+    {
+      "source": "geoscientist",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.83
+    },
+    {
+      "source": "piping-designer",
+      "target": "field-engineer-oil-gas-energy-utilities",
+      "weight": 0.91
+    },
+    {
+      "source": "electrical-project-engineer-oil-gas-energy-utilities",
+      "target": "electrical-engineer-oil-gas-energy-utilities",
+      "weight": 0.47
+    },
+    {
+      "source": "second-mate-oil-gas-energy-utilities",
+      "target": "geologist-oil-gas-energy-utilities",
+      "weight": 0.82
+    },
+    {
+      "source": "second-mate-oil-gas-energy-utilities",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.7
+    },
+    {
+      "source": "rov-supervisor",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.52
+    },
+    {
+      "source": "floorhand",
+      "target": "maintenance-engineer-oil-gas-energy-utilities",
+      "weight": 0.71
+    },
+    {
+      "source": "instrument-operator-oil-gas-energy-utilities",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.46
+    },
+    {
+      "source": "instrument-man-oil-gas-energy-utilities",
+      "target": "electrical-engineer-oil-gas-energy-utilities",
+      "weight": 0.86
+    },
+    {
+      "source": "instrument-man-oil-gas-energy-utilities",
+      "target": "geologist-oil-gas-energy-utilities",
+      "weight": 0.74
+    },
+    {
+      "source": "project-engineer-oil-gas-energy-utilities",
+      "target": "electrical-engineer-oil-gas-energy-utilities",
+      "weight": 0.94
+    },
+    {
+      "source": "project-engineer-oil-gas-energy-utilities",
+      "target": "process-engineer-oil-gas-energy-utilities",
+      "weight": 0.91
+    },
+    {
+      "source": "project-engineer-oil-gas-energy-utilities",
+      "target": "maintenance-engineer-oil-gas-energy-utilities",
+      "weight": 0.64
+    },
+    {
+      "source": "electrical-engineer-oil-gas-energy-utilities",
+      "target": "field-engineer-oil-gas-energy-utilities",
+      "weight": 0.8
+    },
+    {
+      "source": "electrical-engineer-oil-gas-energy-utilities",
+      "target": "process-engineer-oil-gas-energy-utilities",
+      "weight": 0.9
+    },
+    {
+      "source": "electrical-engineer-oil-gas-energy-utilities",
+      "target": "geologist-oil-gas-energy-utilities",
+      "weight": 0.73
+    },
+    {
+      "source": "electrical-engineer-oil-gas-energy-utilities",
+      "target": "maintenance-engineer-oil-gas-energy-utilities",
+      "weight": 0.65
+    },
+    {
+      "source": "electrical-engineer-oil-gas-energy-utilities",
+      "target": "mechanical-engineer-oil-gas-energy-utilities",
+      "weight": 0.82
+    },
+    {
+      "source": "electrical-engineer-oil-gas-energy-utilities",
+      "target": "lead-engineer-oil-gas-energy-utilities",
+      "weight": 0.65
+    },
+    {
+      "source": "electrical-engineer-oil-gas-energy-utilities",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.94
+    },
+    {
+      "source": "field-engineer-oil-gas-energy-utilities",
+      "target": "geologist-oil-gas-energy-utilities",
+      "weight": 0.81
+    },
+    {
+      "source": "field-engineer-oil-gas-energy-utilities",
+      "target": "maintenance-engineer-oil-gas-energy-utilities",
+      "weight": 0.96
+    },
+    {
+      "source": "field-engineer-oil-gas-energy-utilities",
+      "target": "environmental-specialist",
+      "weight": 0.91
+    },
+    {
+      "source": "field-engineer-oil-gas-energy-utilities",
+      "target": "mechanical-engineer-oil-gas-energy-utilities",
+      "weight": 0.68
+    },
+    {
+      "source": "field-engineer-oil-gas-energy-utilities",
+      "target": "lead-engineer-oil-gas-energy-utilities",
+      "weight": 0.91
+    },
+    {
+      "source": "field-engineer-oil-gas-energy-utilities",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.68
+    },
+    {
+      "source": "process-engineer-oil-gas-energy-utilities",
+      "target": "maintenance-engineer-oil-gas-energy-utilities",
+      "weight": 0.83
+    },
+    {
+      "source": "process-engineer-oil-gas-energy-utilities",
+      "target": "environmental-specialist",
+      "weight": 0.95
+    },
+    {
+      "source": "process-engineer-oil-gas-energy-utilities",
+      "target": "mechanical-engineer-oil-gas-energy-utilities",
+      "weight": 0.9
+    },
+    {
+      "source": "process-engineer-oil-gas-energy-utilities",
+      "target": "lead-engineer-oil-gas-energy-utilities",
+      "weight": 0.89
+    },
+    {
+      "source": "process-engineer-oil-gas-energy-utilities",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.72
+    },
+    {
+      "source": "geologist-oil-gas-energy-utilities",
+      "target": "environmental-specialist",
+      "weight": 0.68
+    },
+    {
+      "source": "geologist-oil-gas-energy-utilities",
+      "target": "mechanical-engineer-oil-gas-energy-utilities",
+      "weight": 0.66
+    },
+    {
+      "source": "geologist-oil-gas-energy-utilities",
+      "target": "lead-engineer-oil-gas-energy-utilities",
+      "weight": 0.73
+    },
+    {
+      "source": "geologist-oil-gas-energy-utilities",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.75
+    },
+    {
+      "source": "maintenance-engineer-oil-gas-energy-utilities",
+      "target": "environmental-specialist",
+      "weight": 0.78
+    },
+    {
+      "source": "maintenance-engineer-oil-gas-energy-utilities",
+      "target": "mechanical-engineer-oil-gas-energy-utilities",
+      "weight": 0.76
+    },
+    {
+      "source": "maintenance-engineer-oil-gas-energy-utilities",
+      "target": "lead-engineer-oil-gas-energy-utilities",
+      "weight": 0.99
+    },
+    {
+      "source": "maintenance-engineer-oil-gas-energy-utilities",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.63
+    },
+    {
+      "source": "environmental-specialist",
+      "target": "mechanical-engineer-oil-gas-energy-utilities",
+      "weight": 0.74
+    },
+    {
+      "source": "environmental-specialist",
+      "target": "lead-engineer-oil-gas-energy-utilities",
+      "weight": 0.85
+    },
+    {
+      "source": "environmental-specialist",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.98
+    },
+    {
+      "source": "mechanical-engineer-oil-gas-energy-utilities",
+      "target": "lead-engineer-oil-gas-energy-utilities",
+      "weight": 0.81
+    },
+    {
+      "source": "mechanical-engineer-oil-gas-energy-utilities",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.96
+    },
+    {
+      "source": "lead-engineer-oil-gas-energy-utilities",
+      "target": "production-engineer-oil-gas-energy-utilities",
+      "weight": 0.62
+    },
+    {
+      "source": "instrument-technician",
+      "target": "electrical-technician",
+      "weight": 0.7
+    },
+    {
+      "source": "project-engineering-manager",
+      "target": "production-superintendent-oil-gas-energy-utilities",
+      "weight": 0.7
+    },
+    {
+      "source": "project-control-oil-gas-energy-utilities",
+      "target": "project-control-manager-oil-gas-energy-utilities",
+      "weight": 0.7
+    },
+    {
+      "source": "environmental-manager",
+      "target": "landman",
+      "weight": 0.7
+    },
+    {
+      "source": "environmental-manager",
+      "target": "exploration-manager-oil-gas-energy-utilities",
+      "weight": 0.7
+    },
+    {
+      "source": "landman",
+      "target": "exploration-manager-oil-gas-energy-utilities",
+      "weight": 0.7
+    },
+    {
+      "source": "directional-driller",
+      "target": "derrickman",
+      "weight": 0.7
+    },
+    {
+      "source": "directional-driller",
+      "target": "roughneck",
+      "weight": 0.7
+    },
+    {
+      "source": "directional-driller",
+      "target": "derrickhand",
+      "weight": 0.7
+    },
+    {
+      "source": "directional-driller",
+      "target": "floorhand",
+      "weight": 0.7
+    },
+    {
+      "source": "derrickman",
+      "target": "roughneck",
+      "weight": 0.7
+    },
+    {
+      "source": "derrickman",
+      "target": "derrickhand",
+      "weight": 0.7
+    },
+    {
+      "source": "derrickman",
+      "target": "floorhand",
+      "weight": 0.7
+    },
+    {
+      "source": "roughneck",
+      "target": "derrickhand",
+      "weight": 0.7
+    },
+    {
+      "source": "roughneck",
+      "target": "floorhand",
+      "weight": 0.7
+    },
+    {
+      "source": "derrickhand",
+      "target": "floorhand",
+      "weight": 0.7
+    },
+    {
+      "source": "environmental-scientist-oil-gas-energy-utilities",
+      "target": "environmental-technician",
+      "weight": 0.7
+    },
+    {
+      "source": "environmental-scientist-oil-gas-energy-utilities",
+      "target": "land-technician",
+      "weight": 0.7
+    },
+    {
+      "source": "environmental-technician",
+      "target": "land-technician",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-inspector",
+      "target": "driller",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-inspector",
+      "target": "control-technician",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-inspector",
+      "target": "certified-welding-inspector-oil-gas-energy-utilities",
+      "weight": 0.7
+    },
+    {
+      "source": "driller",
+      "target": "control-technician",
+      "weight": 0.7
+    },
+    {
+      "source": "driller",
+      "target": "certified-welding-inspector-oil-gas-energy-utilities",
+      "weight": 0.7
+    },
+    {
+      "source": "control-technician",
+      "target": "certified-welding-inspector-oil-gas-energy-utilities",
+      "weight": 0.7
+    },
+    {
+      "source": "project-control-specialist-oil-gas-energy-utilities",
+      "target": "general-foreman-oil-gas-energy-utilities",
+      "weight": 0.7
+    },
+    {
+      "source": "project-control-specialist-oil-gas-energy-utilities",
+      "target": "instrument-man-oil-gas-energy-utilities",
+      "weight": 0.7
+    },
+    {
+      "source": "general-foreman-oil-gas-energy-utilities",
+      "target": "instrument-man-oil-gas-energy-utilities",
+      "weight": 0.7
+    },
+    {
+      "source": "mechanical-supervisor-oil-gas-energy-utilities",
+      "target": "drilling-supervisor",
+      "weight": 0.7
+    },
+    {
+      "source": "mechanical-supervisor-oil-gas-energy-utilities",
+      "target": "geophysical-advisor",
+      "weight": 0.7
+    },
+    {
+      "source": "mechanical-supervisor-oil-gas-energy-utilities",
+      "target": "data-protection-officer-oil-gas-energy-utilities",
+      "weight": 0.7
+    },
+    {
+      "source": "mechanical-supervisor-oil-gas-energy-utilities",
+      "target": "rov-supervisor",
+      "weight": 0.7
+    },
+    {
+      "source": "drilling-supervisor",
+      "target": "geophysical-advisor",
+      "weight": 0.7
+    },
+    {
+      "source": "drilling-supervisor",
+      "target": "data-protection-officer-oil-gas-energy-utilities",
+      "weight": 0.7
+    },
+    {
+      "source": "drilling-supervisor",
+      "target": "rov-supervisor",
+      "weight": 0.7
+    },
+    {
+      "source": "geophysical-advisor",
+      "target": "data-protection-officer-oil-gas-energy-utilities",
+      "weight": 0.7
+    },
+    {
+      "source": "geophysical-advisor",
+      "target": "rov-supervisor",
+      "weight": 0.7
+    },
+    {
+      "source": "data-protection-officer-oil-gas-energy-utilities",
+      "target": "rov-supervisor",
+      "weight": 0.7
+    },
+    {
+      "source": "pipefitter-oil-gas-energy-utilities",
+      "target": "rigger",
+      "weight": 0.7
+    },
+    {
+      "source": "field-specialist",
+      "target": "way-agent-right",
+      "weight": 0.7
+    },
+    {
+      "source": "field-specialist",
+      "target": "environmental-advisor",
+      "weight": 0.7
+    },
+    {
+      "source": "way-agent-right",
+      "target": "environmental-advisor",
+      "weight": 0.7
+    },
+    {
+      "source": "geographic-information-systems-analyst-oil-gas-energy-utilities",
+      "target": "document-controller-oil-gas-energy-utilities",
+      "weight": 0.7
+    },
+    {
+      "source": "geographic-information-systems-analyst-oil-gas-energy-utilities",
+      "target": "document-control-manager-oil-gas-energy-utilities",
+      "weight": 0.7
+    },
+    {
+      "source": "geographic-information-systems-analyst-oil-gas-energy-utilities",
+      "target": "geographic-information-systems-specialist-oil-gas-energy-utilities",
+      "weight": 0.7
+    },
+    {
+      "source": "document-controller-oil-gas-energy-utilities",
+      "target": "document-control-manager-oil-gas-energy-utilities",
+      "weight": 0.7
+    },
+    {
+      "source": "document-controller-oil-gas-energy-utilities",
+      "target": "geographic-information-systems-specialist-oil-gas-energy-utilities",
+      "weight": 0.7
+    },
+    {
+      "source": "document-control-manager-oil-gas-energy-utilities",
+      "target": "geographic-information-systems-specialist-oil-gas-energy-utilities",
+      "weight": 0.7
+    },
+    {
+      "source": "sustainability-consultant",
+      "target": "energy-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "lead-operator",
+      "target": "lease-operator",
+      "weight": 0.7
+    },
+    {
+      "source": "lead-operator",
+      "target": "senior-operator",
+      "weight": 0.7
+    },
+    {
+      "source": "lead-operator",
+      "target": "reactor-operator",
+      "weight": 0.7
+    },
+    {
+      "source": "lead-operator",
+      "target": "instrument-operator-oil-gas-energy-utilities",
+      "weight": 0.7
+    },
+    {
+      "source": "lease-operator",
+      "target": "senior-operator",
+      "weight": 0.7
+    },
+    {
+      "source": "lease-operator",
+      "target": "reactor-operator",
+      "weight": 0.7
+    },
+    {
+      "source": "lease-operator",
+      "target": "instrument-operator-oil-gas-energy-utilities",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-operator",
+      "target": "reactor-operator",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-operator",
+      "target": "instrument-operator-oil-gas-energy-utilities",
+      "weight": 0.7
+    },
+    {
+      "source": "reactor-operator",
+      "target": "instrument-operator-oil-gas-energy-utilities",
+      "weight": 0.7
+    }
+  ]
+}

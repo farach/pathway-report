@@ -1,0 +1,2963 @@
+{
+  "sector": "Government",
+  "metadata": {
+    "nodeCount": 150,
+    "edgeCount": 294,
+    "generatedAt": "2026-01-31T16:46:32Z"
+  },
+  "nodes": [
+    {
+      "id": "platoon-leader",
+      "label": "Platoon Leader",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 6.8,
+      "aiExposure": 0
+    },
+    {
+      "id": "executive-officer",
+      "label": "Executive Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 6.59,
+      "aiExposure": 0
+    },
+    {
+      "id": "platoon-sergeant",
+      "label": "Platoon Sergeant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 6.47,
+      "aiExposure": 0
+    },
+    {
+      "id": "police-officer",
+      "label": "Police Officer",
+      "soc": "43-6014",
+      "ptr": 0,
+      "nfc": 0.9421,
+      "quadrant": "LH",
+      "size": 5.86,
+      "aiExposure": 0.4504
+    },
+    {
+      "id": "planning-officer",
+      "label": "Planning Officer",
+      "soc": "55-1015",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.83,
+      "aiExposure": 0
+    },
+    {
+      "id": "non-commissioned-officer",
+      "label": "Non Commissioned Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.77,
+      "aiExposure": 0
+    },
+    {
+      "id": "intelligence-analyst-government",
+      "label": "Intelligence Analyst",
+      "soc": "55-2013",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.77,
+      "aiExposure": 0
+    },
+    {
+      "id": "sergeant",
+      "label": "Sergeant",
+      "soc": "33-1012",
+      "ptr": 0.2628,
+      "nfc": 0.3179,
+      "quadrant": "LH",
+      "size": 5.52,
+      "aiExposure": 0.2058
+    },
+    {
+      "id": "operation-officer",
+      "label": "Operation Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.48,
+      "aiExposure": 0
+    },
+    {
+      "id": "company-commander",
+      "label": "Company Commander",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.48,
+      "aiExposure": 0
+    },
+    {
+      "id": "policy-officer-government",
+      "label": "Policy Officer",
+      "soc": "19-3011",
+      "ptr": 0.7815,
+      "nfc": 0.8827,
+      "quadrant": "HH",
+      "size": 5.47,
+      "aiExposure": 0.4402
+    },
+    {
+      "id": "section-chief",
+      "label": "Section Chief",
+      "soc": "33-1021",
+      "ptr": 0.5408,
+      "nfc": 0.5652,
+      "quadrant": "LH",
+      "size": 5.44,
+      "aiExposure": 0.212
+    },
+    {
+      "id": "division-officer-government",
+      "label": "Division Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.41,
+      "aiExposure": 0
+    },
+    {
+      "id": "intelligence-officer-government",
+      "label": "Intelligence Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.37,
+      "aiExposure": 0
+    },
+    {
+      "id": "training-non-commissioned-officer",
+      "label": "Training Non Commissioned Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.33,
+      "aiExposure": 0
+    },
+    {
+      "id": "contracting-officer-government",
+      "label": "Contracting Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.3,
+      "aiExposure": 0
+    },
+    {
+      "id": "special-agent",
+      "label": "Special Agent",
+      "soc": "33-3051",
+      "ptr": 0.3679,
+      "nfc": 0.4229,
+      "quadrant": "LH",
+      "size": 5.29,
+      "aiExposure": 0.2473
+    },
+    {
+      "id": "lieutenant",
+      "label": "Lieutenant",
+      "soc": "33-1012",
+      "ptr": 0.2924,
+      "nfc": 0.316,
+      "quadrant": "LH",
+      "size": 5.28,
+      "aiExposure": 0.2058
+    },
+    {
+      "id": "paramedic-government",
+      "label": "Paramedic",
+      "soc": "29-2043",
+      "ptr": 0.1225,
+      "nfc": 0.1508,
+      "quadrant": "LH",
+      "size": 5.27,
+      "aiExposure": 0.1154
+    },
+    {
+      "id": "first-lieutenant",
+      "label": "First Lieutenant",
+      "soc": "33-1012",
+      "ptr": 0.298,
+      "nfc": 0.3156,
+      "quadrant": "LH",
+      "size": 5.27,
+      "aiExposure": 0.2058
+    },
+    {
+      "id": "first-sergeant",
+      "label": "First Sergeant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.23,
+      "aiExposure": 0
+    },
+    {
+      "id": "commander-government",
+      "label": "Commander",
+      "soc": "33-1012",
+      "ptr": 0.298,
+      "nfc": 0.3152,
+      "quadrant": "LH",
+      "size": 5.22,
+      "aiExposure": 0.2058
+    },
+    {
+      "id": "policy-manager-government",
+      "label": "Policy Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.2,
+      "aiExposure": 0
+    },
+    {
+      "id": "weapons-officer-government",
+      "label": "Weapons Officer",
+      "soc": "55-1014",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.18,
+      "aiExposure": 0
+    },
+    {
+      "id": "combat-systems-officer-government",
+      "label": "Combat Systems Officer",
+      "soc": "55-1015",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.18,
+      "aiExposure": 0
+    },
+    {
+      "id": "infantry-squad-leader",
+      "label": "Infantry Squad Leader",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.17,
+      "aiExposure": 0
+    },
+    {
+      "id": "platoon-commander",
+      "label": "Platoon Commander",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.17,
+      "aiExposure": 0
+    },
+    {
+      "id": "investigator",
+      "label": "Investigator",
+      "soc": "51-9061",
+      "ptr": 0.553,
+      "nfc": 0.6055,
+      "quadrant": "LH",
+      "size": 5.16,
+      "aiExposure": 0.2548
+    },
+    {
+      "id": "flight-commander-government",
+      "label": "Flight Commander",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.16,
+      "aiExposure": 0
+    },
+    {
+      "id": "policy-advisor-government",
+      "label": "Policy Advisor",
+      "soc": "19-3011",
+      "ptr": 0.8441,
+      "nfc": 0.8723,
+      "quadrant": "HH",
+      "size": 5.12,
+      "aiExposure": 0.4402
+    },
+    {
+      "id": "patrol-officer",
+      "label": "Patrol Officer",
+      "soc": "13-1041",
+      "ptr": 0.5652,
+      "nfc": 0.7974,
+      "quadrant": "LH",
+      "size": 5.12,
+      "aiExposure": 0.3627
+    },
+    {
+      "id": "library-assistant",
+      "label": "Library Assistant",
+      "soc": "43-4121",
+      "ptr": 0.4575,
+      "nfc": 0.8328,
+      "quadrant": "LH",
+      "size": 5.11,
+      "aiExposure": 0.342
+    },
+    {
+      "id": "contract-specialist",
+      "label": "Contract Specialist",
+      "soc": "13-1023",
+      "ptr": 0.6171,
+      "nfc": 0.7181,
+      "quadrant": "LH",
+      "size": 5.11,
+      "aiExposure": 0.2368
+    },
+    {
+      "id": "detective",
+      "label": "Detective",
+      "soc": "33-1012",
+      "ptr": 0.2751,
+      "nfc": 0.3128,
+      "quadrant": "LH",
+      "size": 5.1,
+      "aiExposure": 0.2058
+    },
+    {
+      "id": "assistant-operation-officer-government",
+      "label": "Assistant Operation Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.1,
+      "aiExposure": 0
+    },
+    {
+      "id": "policy-analyst-government",
+      "label": "Policy Analyst",
+      "soc": "19-3051",
+      "ptr": 0.6497,
+      "nfc": 0.7379,
+      "quadrant": "LH",
+      "size": 5.1,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "deputy-chief",
+      "label": "Deputy Chief",
+      "soc": "33-1012",
+      "ptr": 0.3035,
+      "nfc": 0.3122,
+      "quadrant": "LH",
+      "size": 5.1,
+      "aiExposure": 0.2058
+    },
+    {
+      "id": "pilot-instructor-government",
+      "label": "Pilot Instructor",
+      "soc": "25-1071",
+      "ptr": 0.695,
+      "nfc": 0.7276,
+      "quadrant": "HH",
+      "size": 5.1,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "detective-sergeant",
+      "label": "Detective Sergeant",
+      "soc": "33-1012",
+      "ptr": 0.3089,
+      "nfc": 0.3118,
+      "quadrant": "LH",
+      "size": 5.09,
+      "aiExposure": 0.2058
+    },
+    {
+      "id": "squad-leader",
+      "label": "Squad Leader",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.09,
+      "aiExposure": 0
+    },
+    {
+      "id": "police-sergeant",
+      "label": "Police Sergeant",
+      "soc": "43-6014",
+      "ptr": 0.8476,
+      "nfc": 0.9204,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.4504
+    },
+    {
+      "id": "librarian",
+      "label": "Librarian",
+      "soc": "43-4121",
+      "ptr": 0.6988,
+      "nfc": 0.8274,
+      "quadrant": "HH",
+      "size": 5.08,
+      "aiExposure": 0.342
+    },
+    {
+      "id": "aircraft-commander-government",
+      "label": "Aircraft Commander",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.08,
+      "aiExposure": 0
+    },
+    {
+      "id": "deputy-sheriff",
+      "label": "Deputy Sheriff",
+      "soc": "33-1012",
+      "ptr": 0.25,
+      "nfc": 0.3108,
+      "quadrant": "LH",
+      "size": 5.08,
+      "aiExposure": 0.2058
+    },
+    {
+      "id": "program-analyst-government",
+      "label": "Program Analyst",
+      "soc": "15-1251",
+      "ptr": 0.9307,
+      "nfc": 0.97,
+      "quadrant": "HH",
+      "size": 5.08,
+      "aiExposure": 0.63
+    },
+    {
+      "id": "probation-officer",
+      "label": "Probation Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.08,
+      "aiExposure": 0
+    },
+    {
+      "id": "troop-commander",
+      "label": "Troop Commander",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.07,
+      "aiExposure": 0
+    },
+    {
+      "id": "deputy-commander-government",
+      "label": "Deputy Commander",
+      "soc": "33-3051",
+      "ptr": 0.3987,
+      "nfc": 0.4147,
+      "quadrant": "LH",
+      "size": 5.07,
+      "aiExposure": 0.2473
+    },
+    {
+      "id": "patrol-sergeant",
+      "label": "Patrol Sergeant",
+      "soc": "33-1012",
+      "ptr": 0.2924,
+      "nfc": 0.3098,
+      "quadrant": "LH",
+      "size": 5.07,
+      "aiExposure": 0.2058
+    },
+    {
+      "id": "firefighter",
+      "label": "Firefighter",
+      "soc": "33-2011",
+      "ptr": 0.0804,
+      "nfc": 0.116,
+      "quadrant": "LH",
+      "size": 5.06,
+      "aiExposure": 0.1054
+    },
+    {
+      "id": "budget-analyst",
+      "label": "Budget Analyst",
+      "soc": "13-2054",
+      "ptr": 0.7414,
+      "nfc": 0.7998,
+      "quadrant": "HH",
+      "size": 5.06,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "branch-chief-government",
+      "label": "Branch Chief",
+      "soc": "33-1021",
+      "ptr": 0.5504,
+      "nfc": 0.5509,
+      "quadrant": "LH",
+      "size": 5.06,
+      "aiExposure": 0.212
+    },
+    {
+      "id": "legislative-assistant-government",
+      "label": "Legislative Assistant",
+      "soc": "23-2099",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.06,
+      "aiExposure": 0
+    },
+    {
+      "id": "park-ranger-government",
+      "label": "Park Ranger",
+      "soc": "33-9099",
+      "ptr": 0.4646,
+      "nfc": 0.4645,
+      "quadrant": "LH",
+      "size": 5.06,
+      "aiExposure": 0.2143
+    },
+    {
+      "id": "detective-inspector",
+      "label": "Detective Inspector",
+      "soc": "51-9061",
+      "ptr": 0.6058,
+      "nfc": 0.5951,
+      "quadrant": "LH",
+      "size": 5.05,
+      "aiExposure": 0.2548
+    },
+    {
+      "id": "division-chief",
+      "label": "Division Chief",
+      "soc": "33-1021",
+      "ptr": 0.5598,
+      "nfc": 0.5495,
+      "quadrant": "LH",
+      "size": 5.05,
+      "aiExposure": 0.212
+    },
+    {
+      "id": "battalion-commander-government",
+      "label": "Battalion Commander",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.05,
+      "aiExposure": 0
+    },
+    {
+      "id": "squadron-commander-government",
+      "label": "Squadron Commander",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.05,
+      "aiExposure": 0
+    },
+    {
+      "id": "program-specialist-government",
+      "label": "Program Specialist",
+      "soc": "43-4061",
+      "ptr": 0.9471,
+      "nfc": 0.9437,
+      "quadrant": "HH",
+      "size": 5.05,
+      "aiExposure": 0.4816
+    },
+    {
+      "id": "reference-librarian",
+      "label": "Reference Librarian",
+      "soc": "25-4022",
+      "ptr": 0.6954,
+      "nfc": 0.8338,
+      "quadrant": "HH",
+      "size": 5.05,
+      "aiExposure": 0.3947
+    },
+    {
+      "id": "correctional-officer",
+      "label": "Correctional Officer",
+      "soc": "21-1092",
+      "ptr": 0.3672,
+      "nfc": 0.4919,
+      "quadrant": "LH",
+      "size": 5.05,
+      "aiExposure": 0.3416
+    },
+    {
+      "id": "staff-sergeant",
+      "label": "Staff Sergeant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.05,
+      "aiExposure": 0
+    },
+    {
+      "id": "emergency-medical-technician-government",
+      "label": "Emergency Medical Technician",
+      "soc": "17-3023",
+      "ptr": 0.4429,
+      "nfc": 0.5301,
+      "quadrant": "LH",
+      "size": 5.05,
+      "aiExposure": 0.3042
+    },
+    {
+      "id": "policy-adviser-government",
+      "label": "Policy Adviser",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.04,
+      "aiExposure": 0
+    },
+    {
+      "id": "town-planner-government",
+      "label": "Town Planner",
+      "soc": "19-3051",
+      "ptr": 0.742,
+      "nfc": 0.724,
+      "quadrant": "HH",
+      "size": 5.04,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "development-planner",
+      "label": "Development Planner",
+      "soc": "19-3051",
+      "ptr": 0.742,
+      "nfc": 0.7235,
+      "quadrant": "HH",
+      "size": 5.04,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "operation-research-analyst-government",
+      "label": "Operation Research Analyst",
+      "soc": "19-3011",
+      "ptr": 0.8738,
+      "nfc": 0.8515,
+      "quadrant": "HH",
+      "size": 5.04,
+      "aiExposure": 0.4402
+    },
+    {
+      "id": "battalion-chief",
+      "label": "Battalion Chief",
+      "soc": "33-1021",
+      "ptr": 0.5408,
+      "nfc": 0.5451,
+      "quadrant": "LH",
+      "size": 5.04,
+      "aiExposure": 0.212
+    },
+    {
+      "id": "second-lieutenant",
+      "label": "Second Lieutenant",
+      "soc": "33-1012",
+      "ptr": 0.298,
+      "nfc": 0.3057,
+      "quadrant": "LH",
+      "size": 5.04,
+      "aiExposure": 0.2058
+    },
+    {
+      "id": "management-analyst",
+      "label": "Management Analyst",
+      "soc": "13-1081",
+      "ptr": 0.7753,
+      "nfc": 0.7805,
+      "quadrant": "HH",
+      "size": 5.04,
+      "aiExposure": 0.3451
+    },
+    {
+      "id": "senior-intelligence-officer-government",
+      "label": "Senior Intelligence Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.03,
+      "aiExposure": 0
+    },
+    {
+      "id": "military-police",
+      "label": "Military Police",
+      "soc": "43-6014",
+      "ptr": 0.8644,
+      "nfc": 0.9018,
+      "quadrant": "HH",
+      "size": 5.03,
+      "aiExposure": 0.4504
+    },
+    {
+      "id": "chief-inspector-government",
+      "label": "Chief Inspector",
+      "soc": "51-9061",
+      "ptr": 0.6058,
+      "nfc": 0.5876,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.2548
+    },
+    {
+      "id": "commanding-officer-government",
+      "label": "Commanding Officer",
+      "soc": "33-1012",
+      "ptr": 0.3089,
+      "nfc": 0.3047,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.2058
+    },
+    {
+      "id": "legislative-aide-government",
+      "label": "Legislative Aide",
+      "soc": "23-2099",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.03,
+      "aiExposure": 0
+    },
+    {
+      "id": "assistant-librarian",
+      "label": "Assistant Librarian",
+      "soc": "25-4022",
+      "ptr": 0.7618,
+      "nfc": 0.825,
+      "quadrant": "HH",
+      "size": 5.03,
+      "aiExposure": 0.3947
+    },
+    {
+      "id": "investigator-ii-government",
+      "label": "Investigator II",
+      "soc": "43-4131",
+      "ptr": 0.9144,
+      "nfc": 0.8845,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.4384
+    },
+    {
+      "id": "fraud-investigator-government",
+      "label": "Fraud Investigator",
+      "soc": "43-4131",
+      "ptr": 0.9144,
+      "nfc": 0.8845,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.4384
+    },
+    {
+      "id": "supply-officer-government",
+      "label": "Supply Officer",
+      "soc": "11-3071",
+      "ptr": 0.7576,
+      "nfc": 0.7449,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "staff-assistant",
+      "label": "Staff Assistant",
+      "soc": "43-6014",
+      "ptr": 0.7581,
+      "nfc": 0.897,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.4504
+    },
+    {
+      "id": "trainee-probation-officer",
+      "label": "Trainee Probation Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.02,
+      "aiExposure": 0
+    },
+    {
+      "id": "naval-aviator-government",
+      "label": "Naval Aviator",
+      "soc": "53-2012",
+      "ptr": 0.208,
+      "nfc": 0.2198,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.1977
+    },
+    {
+      "id": "plans-officer",
+      "label": "Plans Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.02,
+      "aiExposure": 0
+    },
+    {
+      "id": "special-assistant-government",
+      "label": "Special Assistant",
+      "soc": "23-1011",
+      "ptr": 0.6378,
+      "nfc": 0.6145,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3026
+    },
+    {
+      "id": "press-secretary-government",
+      "label": "Press Secretary",
+      "soc": "43-6014",
+      "ptr": 0.9129,
+      "nfc": 0.8927,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.4504
+    },
+    {
+      "id": "librarian-ii",
+      "label": "Librarian II",
+      "soc": "25-4022",
+      "ptr": 0.8517,
+      "nfc": 0.8188,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3947
+    },
+    {
+      "id": "assistant-district-attorney-government",
+      "label": "Assistant District Attorney",
+      "soc": "23-1011",
+      "ptr": 0.5462,
+      "nfc": 0.6132,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3026
+    },
+    {
+      "id": "parole-officer",
+      "label": "Parole Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.01,
+      "aiExposure": 0
+    },
+    {
+      "id": "management-analyst-ii",
+      "label": "Management Analyst II",
+      "soc": "13-1111",
+      "ptr": 0.5345,
+      "nfc": 0.5128,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3788
+    },
+    {
+      "id": "city-manager",
+      "label": "City Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.01,
+      "aiExposure": 0
+    },
+    {
+      "id": "assistant-attorney-general",
+      "label": "Assistant Attorney General",
+      "soc": "23-1011",
+      "ptr": 0.6051,
+      "nfc": 0.6115,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3026
+    },
+    {
+      "id": "fire-captain",
+      "label": "Fire Captain",
+      "soc": "33-1012",
+      "ptr": 0.3089,
+      "nfc": 0.301,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.2058
+    },
+    {
+      "id": "geographic-information-systems-analyst-government",
+      "label": "Geographic Information Systems Analyst",
+      "soc": "15-1299",
+      "ptr": 0.8672,
+      "nfc": 0.9264,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "community-development-director-government",
+      "label": "Community Development Director",
+      "soc": "11-9121",
+      "ptr": 0.8057,
+      "nfc": 0.7698,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3216
+    },
+    {
+      "id": "city-planner",
+      "label": "City Planner",
+      "soc": "19-3051",
+      "ptr": 0.7295,
+      "nfc": 0.7089,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "transportation-planner-government",
+      "label": "Transportation Planner",
+      "soc": "19-3051",
+      "ptr": 0.7039,
+      "nfc": 0.7089,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "assistant-city-attorney-government",
+      "label": "Assistant City Attorney",
+      "soc": "23-1011",
+      "ptr": 0.6271,
+      "nfc": 0.609,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3026
+    },
+    {
+      "id": "criminal-investigator",
+      "label": "Criminal Investigator",
+      "soc": "43-4131",
+      "ptr": 0.8991,
+      "nfc": 0.8725,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.4384
+    },
+    {
+      "id": "military-intelligence-officer",
+      "label": "Military Intelligence Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.01,
+      "aiExposure": 0
+    },
+    {
+      "id": "chief-petty-officer",
+      "label": "Chief Petty Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.01,
+      "aiExposure": 0
+    },
+    {
+      "id": "contract-specialist-ii",
+      "label": "Contract Specialist II",
+      "soc": "13-1023",
+      "ptr": 0.7207,
+      "nfc": 0.6852,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.2368
+    },
+    {
+      "id": "public-works-director",
+      "label": "Public Works Director",
+      "soc": "27-2012",
+      "ptr": 0.69,
+      "nfc": 0.656,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "leading-petty-officer",
+      "label": "Leading Petty Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.01,
+      "aiExposure": 0
+    },
+    {
+      "id": "legislative-director-government",
+      "label": "Legislative Director",
+      "soc": "27-2012",
+      "ptr": 0.6784,
+      "nfc": 0.6556,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "program-support-assistant",
+      "label": "Program Support Assistant",
+      "soc": "43-6011",
+      "ptr": 0.9579,
+      "nfc": 0.9082,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.4549
+    },
+    {
+      "id": "library-assistant-iii",
+      "label": "Library Assistant III",
+      "soc": "43-4121",
+      "ptr": 0.8353,
+      "nfc": 0.7919,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.342
+    },
+    {
+      "id": "legislative-analyst-government",
+      "label": "Legislative Analyst",
+      "soc": "13-2054",
+      "ptr": 0.7985,
+      "nfc": 0.77,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "associate-planner-government",
+      "label": "Associate Planner",
+      "soc": "19-3051",
+      "ptr": 0.7295,
+      "nfc": 0.7025,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "public-affairs-officer",
+      "label": "Public Affairs Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "legislative-correspondent-government",
+      "label": "Legislative Correspondent",
+      "soc": "27-3023",
+      "ptr": 0.8926,
+      "nfc": 0.9071,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5163
+    },
+    {
+      "id": "project-support-officer",
+      "label": "Project Support Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "financial-management-specialist",
+      "label": "Financial Management Specialist",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "police-lieutenant",
+      "label": "Police Lieutenant",
+      "soc": "43-6014",
+      "ptr": 0.9129,
+      "nfc": 0.8766,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4504
+    },
+    {
+      "id": "budget-analyst-ii",
+      "label": "Budget Analyst II",
+      "soc": "13-2054",
+      "ptr": 0.8122,
+      "nfc": 0.7651,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "detective-constable",
+      "label": "Detective Constable",
+      "soc": "33-9021",
+      "ptr": 0.4834,
+      "nfc": 0.4554,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.2804
+    },
+    {
+      "id": "budget-officer",
+      "label": "Budget Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "public-affairs-specialist",
+      "label": "Public Affairs Specialist",
+      "soc": "27-3031",
+      "ptr": 0.9106,
+      "nfc": 0.8548,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4781
+    },
+    {
+      "id": "lawyer-government",
+      "label": "Lawyer",
+      "soc": "23-1011",
+      "ptr": 0.6271,
+      "nfc": 0.5987,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3026
+    },
+    {
+      "id": "case-worker",
+      "label": "Case Worker",
+      "soc": "21-1022",
+      "ptr": 0.3728,
+      "nfc": 0.3622,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.2662
+    },
+    {
+      "id": "correctional-sergeant",
+      "label": "Correctional Sergeant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "petty-officer-first-class",
+      "label": "Petty Officer First Class",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "global-information-security-manager-government",
+      "label": "Global Information Security Manager",
+      "soc": "11-3013",
+      "ptr": 0.5279,
+      "nfc": 0.4952,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.2309
+    },
+    {
+      "id": "assistant-commissioner",
+      "label": "Assistant Commissioner",
+      "soc": "11-1011",
+      "ptr": 0.7762,
+      "nfc": 0.7357,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3316
+    },
+    {
+      "id": "housing-manager-government",
+      "label": "Housing Manager",
+      "soc": "11-9111",
+      "ptr": 0.676,
+      "nfc": 0.63,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.2959
+    },
+    {
+      "id": "assistant-corporation-counsel",
+      "label": "Assistant Corporation Counsel",
+      "soc": "23-1011",
+      "ptr": 0.6378,
+      "nfc": 0.5944,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3026
+    },
+    {
+      "id": "judge-government",
+      "label": "Judge",
+      "soc": "23-1023",
+      "ptr": 0.6058,
+      "nfc": 0.5646,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.2465
+    },
+    {
+      "id": "city-administrator",
+      "label": "City Administrator",
+      "soc": "11-3012",
+      "ptr": 0.487,
+      "nfc": 0.4539,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.2392
+    },
+    {
+      "id": "court-clerk-government",
+      "label": "Court Clerk",
+      "soc": "43-5051",
+      "ptr": 0.2805,
+      "nfc": 0.2658,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.2668
+    },
+    {
+      "id": "juvenile-probation-officer",
+      "label": "Juvenile Probation Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "drill-sergeant",
+      "label": "Drill Sergeant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "mission-commander-government",
+      "label": "Mission Commander",
+      "soc": "55-1019",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "geographic-information-systems-specialist-government",
+      "label": "Geographic Information Systems Specialist",
+      "soc": "15-1231",
+      "ptr": 0.8288,
+      "nfc": 0.8611,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4684
+    },
+    {
+      "id": "senior-legislative-assistant-government",
+      "label": "Senior Legislative Assistant",
+      "soc": "23-2099",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "battalion-logistics-officer",
+      "label": "Battalion Logistics Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "signal-officer",
+      "label": "Signal Officer",
+      "soc": "55-1012",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "fire-support-officer",
+      "label": "Fire Support Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "field-training-officer",
+      "label": "Field Training Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "private-secretary",
+      "label": "Private Secretary",
+      "soc": "43-6014",
+      "ptr": 0.9285,
+      "nfc": 0.8494,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4504
+    },
+    {
+      "id": "economic-advisor-government",
+      "label": "Economic Advisor",
+      "soc": "19-3011",
+      "ptr": 0.8591,
+      "nfc": 0.7993,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4402
+    },
+    {
+      "id": "children-s-librarian",
+      "label": "Children's Librarian",
+      "soc": "25-4022",
+      "ptr": 0.8228,
+      "nfc": 0.7791,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3947
+    },
+    {
+      "id": "service-staff-analyst",
+      "label": "Service Staff Analyst",
+      "soc": "13-2054",
+      "ptr": 0.8122,
+      "nfc": 0.7429,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "grants-specialist-government",
+      "label": "Grants Specialist",
+      "soc": "13-1131",
+      "ptr": 0.7927,
+      "nfc": 0.7252,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3209
+    },
+    {
+      "id": "plans-examiner-government",
+      "label": "Plans Examiner",
+      "soc": "13-2061",
+      "ptr": 0.7773,
+      "nfc": 0.711,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3196
+    },
+    {
+      "id": "epidemiologist-government",
+      "label": "Epidemiologist",
+      "soc": "19-1041",
+      "ptr": 0.6709,
+      "nfc": 0.6243,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3097
+    },
+    {
+      "id": "trial-counsel",
+      "label": "Trial Counsel",
+      "soc": "23-1011",
+      "ptr": 0.6378,
+      "nfc": 0.5835,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3026
+    },
+    {
+      "id": "squadron-superintendent-government",
+      "label": "Squadron Superintendent",
+      "soc": "11-9032",
+      "ptr": 0.6269,
+      "nfc": 0.5735,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.2768
+    },
+    {
+      "id": "fire-inspector",
+      "label": "Fire Inspector",
+      "soc": "51-9061",
+      "ptr": 0.6058,
+      "nfc": 0.5542,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.2548
+    },
+    {
+      "id": "associate-information-systems-analyst",
+      "label": "Associate Information Systems Analyst",
+      "soc": "17-3027",
+      "ptr": 0.4744,
+      "nfc": 0.434,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3019
+    },
+    {
+      "id": "social-worker-iii-government",
+      "label": "Social Worker III",
+      "soc": "21-1022",
+      "ptr": 0.3859,
+      "nfc": 0.353,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.2662
+    },
+    {
+      "id": "environmental-health-specialist",
+      "label": "Environmental Health Specialist",
+      "soc": "19-5011",
+      "ptr": 0.3722,
+      "nfc": 0.3404,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.2396
+    }
+  ],
+  "edges": [
+    {
+      "source": "policy-officer-government",
+      "target": "planning-officer",
+      "weight": 0.57
+    },
+    {
+      "source": "section-chief",
+      "target": "company-commander",
+      "weight": 0.71
+    },
+    {
+      "source": "division-officer-government",
+      "target": "company-commander",
+      "weight": 0.82
+    },
+    {
+      "source": "division-officer-government",
+      "target": "platoon-leader",
+      "weight": 0.67
+    },
+    {
+      "source": "intelligence-officer-government",
+      "target": "intelligence-analyst-government",
+      "weight": 0.68
+    },
+    {
+      "source": "intelligence-officer-government",
+      "target": "police-officer",
+      "weight": 0.96
+    },
+    {
+      "source": "training-non-commissioned-officer",
+      "target": "police-officer",
+      "weight": 0.94
+    },
+    {
+      "source": "training-non-commissioned-officer",
+      "target": "executive-officer",
+      "weight": 0.48
+    },
+    {
+      "source": "contracting-officer-government",
+      "target": "operation-officer",
+      "weight": 0.45
+    },
+    {
+      "source": "special-agent",
+      "target": "planning-officer",
+      "weight": 0.84
+    },
+    {
+      "source": "special-agent",
+      "target": "company-commander",
+      "weight": 0.89
+    },
+    {
+      "source": "lieutenant",
+      "target": "sergeant",
+      "weight": 0.9
+    },
+    {
+      "source": "lieutenant",
+      "target": "platoon-sergeant",
+      "weight": 0.4
+    },
+    {
+      "source": "paramedic-government",
+      "target": "sergeant",
+      "weight": 0.98
+    },
+    {
+      "source": "paramedic-government",
+      "target": "non-commissioned-officer",
+      "weight": 0.66
+    },
+    {
+      "source": "first-lieutenant",
+      "target": "police-officer",
+      "weight": 0.98
+    },
+    {
+      "source": "first-lieutenant",
+      "target": "non-commissioned-officer",
+      "weight": 0.77
+    },
+    {
+      "source": "first-sergeant",
+      "target": "planning-officer",
+      "weight": 0.87
+    },
+    {
+      "source": "first-sergeant",
+      "target": "police-officer",
+      "weight": 0.42
+    },
+    {
+      "source": "commander-government",
+      "target": "platoon-sergeant",
+      "weight": 0.56
+    },
+    {
+      "source": "commander-government",
+      "target": "sergeant",
+      "weight": 0.71
+    },
+    {
+      "source": "policy-manager-government",
+      "target": "company-commander",
+      "weight": 0.86
+    },
+    {
+      "source": "weapons-officer-government",
+      "target": "non-commissioned-officer",
+      "weight": 0.56
+    },
+    {
+      "source": "weapons-officer-government",
+      "target": "executive-officer",
+      "weight": 0.9
+    },
+    {
+      "source": "combat-systems-officer-government",
+      "target": "planning-officer",
+      "weight": 0.48
+    },
+    {
+      "source": "combat-systems-officer-government",
+      "target": "executive-officer",
+      "weight": 0.53
+    },
+    {
+      "source": "infantry-squad-leader",
+      "target": "company-commander",
+      "weight": 0.4
+    },
+    {
+      "source": "infantry-squad-leader",
+      "target": "sergeant",
+      "weight": 0.63
+    },
+    {
+      "source": "platoon-commander",
+      "target": "intelligence-analyst-government",
+      "weight": 0.75
+    },
+    {
+      "source": "investigator",
+      "target": "company-commander",
+      "weight": 0.79
+    },
+    {
+      "source": "flight-commander-government",
+      "target": "police-officer",
+      "weight": 0.45
+    },
+    {
+      "source": "policy-advisor-government",
+      "target": "platoon-sergeant",
+      "weight": 0.8
+    },
+    {
+      "source": "patrol-officer",
+      "target": "planning-officer",
+      "weight": 0.84
+    },
+    {
+      "source": "patrol-officer",
+      "target": "sergeant",
+      "weight": 0.6
+    },
+    {
+      "source": "library-assistant",
+      "target": "non-commissioned-officer",
+      "weight": 0.78
+    },
+    {
+      "source": "library-assistant",
+      "target": "executive-officer",
+      "weight": 0.53
+    },
+    {
+      "source": "contract-specialist",
+      "target": "executive-officer",
+      "weight": 0.97
+    },
+    {
+      "source": "detective",
+      "target": "sergeant",
+      "weight": 0.72
+    },
+    {
+      "source": "detective",
+      "target": "intelligence-analyst-government",
+      "weight": 0.4
+    },
+    {
+      "source": "assistant-operation-officer-government",
+      "target": "operation-officer",
+      "weight": 0.67
+    },
+    {
+      "source": "assistant-operation-officer-government",
+      "target": "police-officer",
+      "weight": 0.72
+    },
+    {
+      "source": "policy-analyst-government",
+      "target": "planning-officer",
+      "weight": 0.61
+    },
+    {
+      "source": "policy-analyst-government",
+      "target": "non-commissioned-officer",
+      "weight": 0.65
+    },
+    {
+      "source": "deputy-chief",
+      "target": "non-commissioned-officer",
+      "weight": 0.98
+    },
+    {
+      "source": "deputy-chief",
+      "target": "platoon-leader",
+      "weight": 0.54
+    },
+    {
+      "source": "pilot-instructor-government",
+      "target": "planning-officer",
+      "weight": 0.76
+    },
+    {
+      "source": "detective-sergeant",
+      "target": "operation-officer",
+      "weight": 0.91
+    },
+    {
+      "source": "squad-leader",
+      "target": "sergeant",
+      "weight": 0.77
+    },
+    {
+      "source": "squad-leader",
+      "target": "intelligence-analyst-government",
+      "weight": 0.49
+    },
+    {
+      "source": "police-sergeant",
+      "target": "planning-officer",
+      "weight": 0.84
+    },
+    {
+      "source": "librarian",
+      "target": "company-commander",
+      "weight": 0.58
+    },
+    {
+      "source": "aircraft-commander-government",
+      "target": "company-commander",
+      "weight": 0.87
+    },
+    {
+      "source": "aircraft-commander-government",
+      "target": "sergeant",
+      "weight": 0.64
+    },
+    {
+      "source": "deputy-sheriff",
+      "target": "operation-officer",
+      "weight": 0.42
+    },
+    {
+      "source": "program-analyst-government",
+      "target": "platoon-leader",
+      "weight": 0.73
+    },
+    {
+      "source": "probation-officer",
+      "target": "non-commissioned-officer",
+      "weight": 0.67
+    },
+    {
+      "source": "probation-officer",
+      "target": "sergeant",
+      "weight": 0.59
+    },
+    {
+      "source": "troop-commander",
+      "target": "planning-officer",
+      "weight": 0.65
+    },
+    {
+      "source": "troop-commander",
+      "target": "platoon-leader",
+      "weight": 0.69
+    },
+    {
+      "source": "deputy-commander-government",
+      "target": "executive-officer",
+      "weight": 0.89
+    },
+    {
+      "source": "patrol-sergeant",
+      "target": "non-commissioned-officer",
+      "weight": 0.59
+    },
+    {
+      "source": "patrol-sergeant",
+      "target": "company-commander",
+      "weight": 0.56
+    },
+    {
+      "source": "firefighter",
+      "target": "police-officer",
+      "weight": 0.57
+    },
+    {
+      "source": "firefighter",
+      "target": "executive-officer",
+      "weight": 0.52
+    },
+    {
+      "source": "budget-analyst",
+      "target": "company-commander",
+      "weight": 0.47
+    },
+    {
+      "source": "budget-analyst",
+      "target": "operation-officer",
+      "weight": 0.85
+    },
+    {
+      "source": "branch-chief-government",
+      "target": "sergeant",
+      "weight": 0.91
+    },
+    {
+      "source": "branch-chief-government",
+      "target": "executive-officer",
+      "weight": 0.67
+    },
+    {
+      "source": "legislative-assistant-government",
+      "target": "executive-officer",
+      "weight": 0.56
+    },
+    {
+      "source": "park-ranger-government",
+      "target": "company-commander",
+      "weight": 0.74
+    },
+    {
+      "source": "park-ranger-government",
+      "target": "operation-officer",
+      "weight": 0.61
+    },
+    {
+      "source": "detective-inspector",
+      "target": "company-commander",
+      "weight": 0.69
+    },
+    {
+      "source": "division-chief",
+      "target": "planning-officer",
+      "weight": 0.98
+    },
+    {
+      "source": "battalion-commander-government",
+      "target": "company-commander",
+      "weight": 0.55
+    },
+    {
+      "source": "battalion-commander-government",
+      "target": "platoon-leader",
+      "weight": 0.61
+    },
+    {
+      "source": "squadron-commander-government",
+      "target": "company-commander",
+      "weight": 0.73
+    },
+    {
+      "source": "squadron-commander-government",
+      "target": "police-officer",
+      "weight": 0.65
+    },
+    {
+      "source": "program-specialist-government",
+      "target": "police-officer",
+      "weight": 0.69
+    },
+    {
+      "source": "reference-librarian",
+      "target": "platoon-leader",
+      "weight": 0.6
+    },
+    {
+      "source": "reference-librarian",
+      "target": "operation-officer",
+      "weight": 0.51
+    },
+    {
+      "source": "correctional-officer",
+      "target": "platoon-leader",
+      "weight": 0.74
+    },
+    {
+      "source": "staff-sergeant",
+      "target": "platoon-leader",
+      "weight": 0.59
+    },
+    {
+      "source": "staff-sergeant",
+      "target": "company-commander",
+      "weight": 0.97
+    },
+    {
+      "source": "emergency-medical-technician-government",
+      "target": "sergeant",
+      "weight": 0.48
+    },
+    {
+      "source": "emergency-medical-technician-government",
+      "target": "platoon-sergeant",
+      "weight": 0.87
+    },
+    {
+      "source": "policy-adviser-government",
+      "target": "platoon-leader",
+      "weight": 0.59
+    },
+    {
+      "source": "policy-adviser-government",
+      "target": "platoon-sergeant",
+      "weight": 0.64
+    },
+    {
+      "source": "town-planner-government",
+      "target": "sergeant",
+      "weight": 0.43
+    },
+    {
+      "source": "development-planner",
+      "target": "company-commander",
+      "weight": 0.5
+    },
+    {
+      "source": "operation-research-analyst-government",
+      "target": "operation-officer",
+      "weight": 0.6
+    },
+    {
+      "source": "battalion-chief",
+      "target": "platoon-sergeant",
+      "weight": 0.84
+    },
+    {
+      "source": "second-lieutenant",
+      "target": "operation-officer",
+      "weight": 0.42
+    },
+    {
+      "source": "management-analyst",
+      "target": "non-commissioned-officer",
+      "weight": 0.6
+    },
+    {
+      "source": "senior-intelligence-officer-government",
+      "target": "non-commissioned-officer",
+      "weight": 0.5
+    },
+    {
+      "source": "military-police",
+      "target": "non-commissioned-officer",
+      "weight": 0.46
+    },
+    {
+      "source": "chief-inspector-government",
+      "target": "non-commissioned-officer",
+      "weight": 0.53
+    },
+    {
+      "source": "chief-inspector-government",
+      "target": "police-officer",
+      "weight": 0.96
+    },
+    {
+      "source": "commanding-officer-government",
+      "target": "company-commander",
+      "weight": 0.94
+    },
+    {
+      "source": "legislative-aide-government",
+      "target": "planning-officer",
+      "weight": 0.57
+    },
+    {
+      "source": "assistant-librarian",
+      "target": "non-commissioned-officer",
+      "weight": 0.62
+    },
+    {
+      "source": "investigator-ii-government",
+      "target": "platoon-leader",
+      "weight": 0.64
+    },
+    {
+      "source": "investigator-ii-government",
+      "target": "executive-officer",
+      "weight": 0.81
+    },
+    {
+      "source": "fraud-investigator-government",
+      "target": "company-commander",
+      "weight": 0.89
+    },
+    {
+      "source": "fraud-investigator-government",
+      "target": "police-officer",
+      "weight": 0.58
+    },
+    {
+      "source": "supply-officer-government",
+      "target": "intelligence-analyst-government",
+      "weight": 0.88
+    },
+    {
+      "source": "staff-assistant",
+      "target": "planning-officer",
+      "weight": 0.97
+    },
+    {
+      "source": "trainee-probation-officer",
+      "target": "executive-officer",
+      "weight": 0.75
+    },
+    {
+      "source": "trainee-probation-officer",
+      "target": "operation-officer",
+      "weight": 0.44
+    },
+    {
+      "source": "naval-aviator-government",
+      "target": "company-commander",
+      "weight": 0.81
+    },
+    {
+      "source": "naval-aviator-government",
+      "target": "operation-officer",
+      "weight": 0.97
+    },
+    {
+      "source": "plans-officer",
+      "target": "platoon-sergeant",
+      "weight": 0.79
+    },
+    {
+      "source": "plans-officer",
+      "target": "operation-officer",
+      "weight": 0.57
+    },
+    {
+      "source": "special-assistant-government",
+      "target": "planning-officer",
+      "weight": 0.77
+    },
+    {
+      "source": "special-assistant-government",
+      "target": "police-officer",
+      "weight": 0.96
+    },
+    {
+      "source": "press-secretary-government",
+      "target": "non-commissioned-officer",
+      "weight": 0.45
+    },
+    {
+      "source": "librarian-ii",
+      "target": "planning-officer",
+      "weight": 0.98
+    },
+    {
+      "source": "assistant-district-attorney-government",
+      "target": "non-commissioned-officer",
+      "weight": 0.43
+    },
+    {
+      "source": "parole-officer",
+      "target": "company-commander",
+      "weight": 0.68
+    },
+    {
+      "source": "management-analyst-ii",
+      "target": "intelligence-analyst-government",
+      "weight": 0.89
+    },
+    {
+      "source": "management-analyst-ii",
+      "target": "company-commander",
+      "weight": 0.46
+    },
+    {
+      "source": "city-manager",
+      "target": "platoon-sergeant",
+      "weight": 0.45
+    },
+    {
+      "source": "assistant-attorney-general",
+      "target": "operation-officer",
+      "weight": 0.79
+    },
+    {
+      "source": "fire-captain",
+      "target": "platoon-sergeant",
+      "weight": 0.98
+    },
+    {
+      "source": "fire-captain",
+      "target": "executive-officer",
+      "weight": 0.94
+    },
+    {
+      "source": "geographic-information-systems-analyst-government",
+      "target": "police-officer",
+      "weight": 0.78
+    },
+    {
+      "source": "community-development-director-government",
+      "target": "sergeant",
+      "weight": 0.46
+    },
+    {
+      "source": "city-planner",
+      "target": "planning-officer",
+      "weight": 0.63
+    },
+    {
+      "source": "city-planner",
+      "target": "police-officer",
+      "weight": 0.47
+    },
+    {
+      "source": "transportation-planner-government",
+      "target": "platoon-leader",
+      "weight": 0.56
+    },
+    {
+      "source": "assistant-city-attorney-government",
+      "target": "non-commissioned-officer",
+      "weight": 0.99
+    },
+    {
+      "source": "assistant-city-attorney-government",
+      "target": "company-commander",
+      "weight": 0.89
+    },
+    {
+      "source": "criminal-investigator",
+      "target": "intelligence-analyst-government",
+      "weight": 0.68
+    },
+    {
+      "source": "military-intelligence-officer",
+      "target": "executive-officer",
+      "weight": 0.73
+    },
+    {
+      "source": "chief-petty-officer",
+      "target": "company-commander",
+      "weight": 0.96
+    },
+    {
+      "source": "contract-specialist-ii",
+      "target": "executive-officer",
+      "weight": 0.69
+    },
+    {
+      "source": "contract-specialist-ii",
+      "target": "platoon-sergeant",
+      "weight": 0.79
+    },
+    {
+      "source": "public-works-director",
+      "target": "police-officer",
+      "weight": 0.91
+    },
+    {
+      "source": "leading-petty-officer",
+      "target": "non-commissioned-officer",
+      "weight": 0.49
+    },
+    {
+      "source": "legislative-director-government",
+      "target": "platoon-sergeant",
+      "weight": 0.44
+    },
+    {
+      "source": "program-support-assistant",
+      "target": "operation-officer",
+      "weight": 0.58
+    },
+    {
+      "source": "program-support-assistant",
+      "target": "company-commander",
+      "weight": 0.55
+    },
+    {
+      "source": "library-assistant-iii",
+      "target": "intelligence-analyst-government",
+      "weight": 0.64
+    },
+    {
+      "source": "library-assistant-iii",
+      "target": "platoon-sergeant",
+      "weight": 0.45
+    },
+    {
+      "source": "legislative-analyst-government",
+      "target": "company-commander",
+      "weight": 0.78
+    },
+    {
+      "source": "legislative-analyst-government",
+      "target": "executive-officer",
+      "weight": 0.59
+    },
+    {
+      "source": "associate-planner-government",
+      "target": "platoon-sergeant",
+      "weight": 0.4
+    },
+    {
+      "source": "associate-planner-government",
+      "target": "platoon-leader",
+      "weight": 0.95
+    },
+    {
+      "source": "public-affairs-officer",
+      "target": "executive-officer",
+      "weight": 0.76
+    },
+    {
+      "source": "legislative-correspondent-government",
+      "target": "company-commander",
+      "weight": 0.87
+    },
+    {
+      "source": "project-support-officer",
+      "target": "company-commander",
+      "weight": 0.48
+    },
+    {
+      "source": "project-support-officer",
+      "target": "police-officer",
+      "weight": 0.94
+    },
+    {
+      "source": "financial-management-specialist",
+      "target": "intelligence-analyst-government",
+      "weight": 0.55
+    },
+    {
+      "source": "police-lieutenant",
+      "target": "police-officer",
+      "weight": 0.69
+    },
+    {
+      "source": "police-lieutenant",
+      "target": "non-commissioned-officer",
+      "weight": 0.91
+    },
+    {
+      "source": "budget-analyst-ii",
+      "target": "non-commissioned-officer",
+      "weight": 0.51
+    },
+    {
+      "source": "detective-constable",
+      "target": "company-commander",
+      "weight": 0.42
+    },
+    {
+      "source": "budget-officer",
+      "target": "operation-officer",
+      "weight": 0.71
+    },
+    {
+      "source": "public-affairs-specialist",
+      "target": "operation-officer",
+      "weight": 0.75
+    },
+    {
+      "source": "public-affairs-specialist",
+      "target": "sergeant",
+      "weight": 0.49
+    },
+    {
+      "source": "lawyer-government",
+      "target": "planning-officer",
+      "weight": 0.49
+    },
+    {
+      "source": "case-worker",
+      "target": "company-commander",
+      "weight": 0.6
+    },
+    {
+      "source": "case-worker",
+      "target": "platoon-leader",
+      "weight": 0.49
+    },
+    {
+      "source": "correctional-sergeant",
+      "target": "non-commissioned-officer",
+      "weight": 0.89
+    },
+    {
+      "source": "petty-officer-first-class",
+      "target": "operation-officer",
+      "weight": 0.48
+    },
+    {
+      "source": "global-information-security-manager-government",
+      "target": "planning-officer",
+      "weight": 0.95
+    },
+    {
+      "source": "assistant-commissioner",
+      "target": "planning-officer",
+      "weight": 0.54
+    },
+    {
+      "source": "housing-manager-government",
+      "target": "police-officer",
+      "weight": 0.46
+    },
+    {
+      "source": "housing-manager-government",
+      "target": "executive-officer",
+      "weight": 0.4
+    },
+    {
+      "source": "assistant-corporation-counsel",
+      "target": "operation-officer",
+      "weight": 0.53
+    },
+    {
+      "source": "judge-government",
+      "target": "platoon-sergeant",
+      "weight": 0.86
+    },
+    {
+      "source": "city-administrator",
+      "target": "executive-officer",
+      "weight": 0.61
+    },
+    {
+      "source": "court-clerk-government",
+      "target": "sergeant",
+      "weight": 0.52
+    },
+    {
+      "source": "juvenile-probation-officer",
+      "target": "planning-officer",
+      "weight": 0.46
+    },
+    {
+      "source": "juvenile-probation-officer",
+      "target": "company-commander",
+      "weight": 0.95
+    },
+    {
+      "source": "drill-sergeant",
+      "target": "police-officer",
+      "weight": 0.52
+    },
+    {
+      "source": "drill-sergeant",
+      "target": "operation-officer",
+      "weight": 0.43
+    },
+    {
+      "source": "mission-commander-government",
+      "target": "company-commander",
+      "weight": 0.86
+    },
+    {
+      "source": "mission-commander-government",
+      "target": "intelligence-analyst-government",
+      "weight": 0.78
+    },
+    {
+      "source": "geographic-information-systems-specialist-government",
+      "target": "operation-officer",
+      "weight": 0.78
+    },
+    {
+      "source": "geographic-information-systems-specialist-government",
+      "target": "executive-officer",
+      "weight": 0.41
+    },
+    {
+      "source": "senior-legislative-assistant-government",
+      "target": "platoon-leader",
+      "weight": 0.95
+    },
+    {
+      "source": "battalion-logistics-officer",
+      "target": "platoon-sergeant",
+      "weight": 0.69
+    },
+    {
+      "source": "signal-officer",
+      "target": "non-commissioned-officer",
+      "weight": 0.83
+    },
+    {
+      "source": "fire-support-officer",
+      "target": "company-commander",
+      "weight": 1
+    },
+    {
+      "source": "field-training-officer",
+      "target": "platoon-leader",
+      "weight": 0.57
+    },
+    {
+      "source": "field-training-officer",
+      "target": "sergeant",
+      "weight": 0.87
+    },
+    {
+      "source": "private-secretary",
+      "target": "police-officer",
+      "weight": 0.67
+    },
+    {
+      "source": "private-secretary",
+      "target": "sergeant",
+      "weight": 0.71
+    },
+    {
+      "source": "economic-advisor-government",
+      "target": "platoon-sergeant",
+      "weight": 0.46
+    },
+    {
+      "source": "economic-advisor-government",
+      "target": "company-commander",
+      "weight": 0.52
+    },
+    {
+      "source": "children-s-librarian",
+      "target": "intelligence-analyst-government",
+      "weight": 0.68
+    },
+    {
+      "source": "service-staff-analyst",
+      "target": "planning-officer",
+      "weight": 0.82
+    },
+    {
+      "source": "service-staff-analyst",
+      "target": "intelligence-analyst-government",
+      "weight": 0.56
+    },
+    {
+      "source": "grants-specialist-government",
+      "target": "company-commander",
+      "weight": 0.68
+    },
+    {
+      "source": "plans-examiner-government",
+      "target": "sergeant",
+      "weight": 0.74
+    },
+    {
+      "source": "plans-examiner-government",
+      "target": "company-commander",
+      "weight": 0.83
+    },
+    {
+      "source": "epidemiologist-government",
+      "target": "platoon-sergeant",
+      "weight": 0.91
+    },
+    {
+      "source": "trial-counsel",
+      "target": "executive-officer",
+      "weight": 0.47
+    },
+    {
+      "source": "squadron-superintendent-government",
+      "target": "planning-officer",
+      "weight": 0.82
+    },
+    {
+      "source": "squadron-superintendent-government",
+      "target": "company-commander",
+      "weight": 0.7
+    },
+    {
+      "source": "fire-inspector",
+      "target": "company-commander",
+      "weight": 0.52
+    },
+    {
+      "source": "associate-information-systems-analyst",
+      "target": "non-commissioned-officer",
+      "weight": 0.71
+    },
+    {
+      "source": "social-worker-iii-government",
+      "target": "company-commander",
+      "weight": 0.46
+    },
+    {
+      "source": "environmental-health-specialist",
+      "target": "executive-officer",
+      "weight": 0.86
+    },
+    {
+      "source": "environmental-health-specialist",
+      "target": "planning-officer",
+      "weight": 0.74
+    },
+    {
+      "source": "platoon-leader",
+      "target": "executive-officer",
+      "weight": 0.94
+    },
+    {
+      "source": "platoon-leader",
+      "target": "police-officer",
+      "weight": 0.91
+    },
+    {
+      "source": "platoon-leader",
+      "target": "non-commissioned-officer",
+      "weight": 0.64
+    },
+    {
+      "source": "executive-officer",
+      "target": "platoon-sergeant",
+      "weight": 0.8
+    },
+    {
+      "source": "executive-officer",
+      "target": "police-officer",
+      "weight": 0.9
+    },
+    {
+      "source": "executive-officer",
+      "target": "planning-officer",
+      "weight": 0.73
+    },
+    {
+      "source": "executive-officer",
+      "target": "non-commissioned-officer",
+      "weight": 0.65
+    },
+    {
+      "source": "executive-officer",
+      "target": "sergeant",
+      "weight": 0.82
+    },
+    {
+      "source": "executive-officer",
+      "target": "operation-officer",
+      "weight": 0.65
+    },
+    {
+      "source": "executive-officer",
+      "target": "company-commander",
+      "weight": 0.94
+    },
+    {
+      "source": "platoon-sergeant",
+      "target": "planning-officer",
+      "weight": 0.81
+    },
+    {
+      "source": "platoon-sergeant",
+      "target": "non-commissioned-officer",
+      "weight": 0.96
+    },
+    {
+      "source": "platoon-sergeant",
+      "target": "intelligence-analyst-government",
+      "weight": 0.91
+    },
+    {
+      "source": "platoon-sergeant",
+      "target": "sergeant",
+      "weight": 0.68
+    },
+    {
+      "source": "platoon-sergeant",
+      "target": "operation-officer",
+      "weight": 0.91
+    },
+    {
+      "source": "platoon-sergeant",
+      "target": "company-commander",
+      "weight": 0.68
+    },
+    {
+      "source": "police-officer",
+      "target": "non-commissioned-officer",
+      "weight": 0.83
+    },
+    {
+      "source": "police-officer",
+      "target": "intelligence-analyst-government",
+      "weight": 0.95
+    },
+    {
+      "source": "police-officer",
+      "target": "sergeant",
+      "weight": 0.9
+    },
+    {
+      "source": "police-officer",
+      "target": "operation-officer",
+      "weight": 0.89
+    },
+    {
+      "source": "police-officer",
+      "target": "company-commander",
+      "weight": 0.72
+    },
+    {
+      "source": "planning-officer",
+      "target": "intelligence-analyst-government",
+      "weight": 0.68
+    },
+    {
+      "source": "planning-officer",
+      "target": "sergeant",
+      "weight": 0.66
+    },
+    {
+      "source": "planning-officer",
+      "target": "operation-officer",
+      "weight": 0.73
+    },
+    {
+      "source": "planning-officer",
+      "target": "company-commander",
+      "weight": 0.75
+    },
+    {
+      "source": "non-commissioned-officer",
+      "target": "intelligence-analyst-government",
+      "weight": 0.78
+    },
+    {
+      "source": "non-commissioned-officer",
+      "target": "sergeant",
+      "weight": 0.76
+    },
+    {
+      "source": "non-commissioned-officer",
+      "target": "operation-officer",
+      "weight": 0.99
+    },
+    {
+      "source": "non-commissioned-officer",
+      "target": "company-commander",
+      "weight": 0.63
+    },
+    {
+      "source": "intelligence-analyst-government",
+      "target": "sergeant",
+      "weight": 0.74
+    },
+    {
+      "source": "intelligence-analyst-government",
+      "target": "operation-officer",
+      "weight": 0.85
+    },
+    {
+      "source": "intelligence-analyst-government",
+      "target": "company-commander",
+      "weight": 0.98
+    },
+    {
+      "source": "sergeant",
+      "target": "operation-officer",
+      "weight": 0.81
+    },
+    {
+      "source": "sergeant",
+      "target": "company-commander",
+      "weight": 0.96
+    },
+    {
+      "source": "operation-officer",
+      "target": "company-commander",
+      "weight": 0.62
+    },
+    {
+      "source": "planning-officer",
+      "target": "weapons-officer-government",
+      "weight": 0.7
+    },
+    {
+      "source": "planning-officer",
+      "target": "combat-systems-officer-government",
+      "weight": 0.7
+    },
+    {
+      "source": "planning-officer",
+      "target": "mission-commander-government",
+      "weight": 0.7
+    },
+    {
+      "source": "planning-officer",
+      "target": "signal-officer",
+      "weight": 0.7
+    },
+    {
+      "source": "weapons-officer-government",
+      "target": "combat-systems-officer-government",
+      "weight": 0.7
+    },
+    {
+      "source": "weapons-officer-government",
+      "target": "mission-commander-government",
+      "weight": 0.7
+    },
+    {
+      "source": "weapons-officer-government",
+      "target": "signal-officer",
+      "weight": 0.7
+    },
+    {
+      "source": "combat-systems-officer-government",
+      "target": "mission-commander-government",
+      "weight": 0.7
+    },
+    {
+      "source": "combat-systems-officer-government",
+      "target": "signal-officer",
+      "weight": 0.7
+    },
+    {
+      "source": "mission-commander-government",
+      "target": "signal-officer",
+      "weight": 0.7
+    },
+    {
+      "source": "special-agent",
+      "target": "deputy-commander-government",
+      "weight": 0.7
+    },
+    {
+      "source": "investigator",
+      "target": "detective-inspector",
+      "weight": 0.7
+    },
+    {
+      "source": "investigator",
+      "target": "chief-inspector-government",
+      "weight": 0.7
+    },
+    {
+      "source": "investigator",
+      "target": "fire-inspector",
+      "weight": 0.7
+    },
+    {
+      "source": "detective-inspector",
+      "target": "chief-inspector-government",
+      "weight": 0.7
+    },
+    {
+      "source": "detective-inspector",
+      "target": "fire-inspector",
+      "weight": 0.7
+    },
+    {
+      "source": "chief-inspector-government",
+      "target": "fire-inspector",
+      "weight": 0.7
+    },
+    {
+      "source": "patrol-officer",
+      "target": "contract-specialist",
+      "weight": 0.7
+    },
+    {
+      "source": "patrol-officer",
+      "target": "management-analyst",
+      "weight": 0.7
+    },
+    {
+      "source": "patrol-officer",
+      "target": "contract-specialist-ii",
+      "weight": 0.7
+    },
+    {
+      "source": "contract-specialist",
+      "target": "management-analyst",
+      "weight": 0.7
+    },
+    {
+      "source": "contract-specialist",
+      "target": "contract-specialist-ii",
+      "weight": 0.7
+    },
+    {
+      "source": "management-analyst",
+      "target": "contract-specialist-ii",
+      "weight": 0.7
+    },
+    {
+      "source": "program-analyst-government",
+      "target": "geographic-information-systems-analyst-government",
+      "weight": 0.7
+    },
+    {
+      "source": "program-analyst-government",
+      "target": "geographic-information-systems-specialist-government",
+      "weight": 0.7
+    },
+    {
+      "source": "geographic-information-systems-analyst-government",
+      "target": "geographic-information-systems-specialist-government",
+      "weight": 0.7
+    },
+    {
+      "source": "budget-analyst",
+      "target": "legislative-analyst-government",
+      "weight": 0.7
+    },
+    {
+      "source": "budget-analyst",
+      "target": "budget-analyst-ii",
+      "weight": 0.7
+    },
+    {
+      "source": "budget-analyst",
+      "target": "service-staff-analyst",
+      "weight": 0.7
+    },
+    {
+      "source": "budget-analyst",
+      "target": "plans-examiner-government",
+      "weight": 0.7
+    },
+    {
+      "source": "legislative-analyst-government",
+      "target": "budget-analyst-ii",
+      "weight": 0.7
+    },
+    {
+      "source": "legislative-analyst-government",
+      "target": "service-staff-analyst",
+      "weight": 0.7
+    },
+    {
+      "source": "legislative-analyst-government",
+      "target": "plans-examiner-government",
+      "weight": 0.7
+    },
+    {
+      "source": "budget-analyst-ii",
+      "target": "service-staff-analyst",
+      "weight": 0.7
+    },
+    {
+      "source": "budget-analyst-ii",
+      "target": "plans-examiner-government",
+      "weight": 0.7
+    },
+    {
+      "source": "service-staff-analyst",
+      "target": "plans-examiner-government",
+      "weight": 0.7
+    },
+    {
+      "source": "legislative-assistant-government",
+      "target": "legislative-aide-government",
+      "weight": 0.7
+    },
+    {
+      "source": "legislative-assistant-government",
+      "target": "senior-legislative-assistant-government",
+      "weight": 0.7
+    },
+    {
+      "source": "legislative-aide-government",
+      "target": "senior-legislative-assistant-government",
+      "weight": 0.7
+    },
+    {
+      "source": "park-ranger-government",
+      "target": "detective-constable",
+      "weight": 0.7
+    },
+    {
+      "source": "reference-librarian",
+      "target": "assistant-librarian",
+      "weight": 0.7
+    },
+    {
+      "source": "reference-librarian",
+      "target": "librarian-ii",
+      "weight": 0.7
+    },
+    {
+      "source": "reference-librarian",
+      "target": "children-s-librarian",
+      "weight": 0.7
+    },
+    {
+      "source": "assistant-librarian",
+      "target": "librarian-ii",
+      "weight": 0.7
+    },
+    {
+      "source": "assistant-librarian",
+      "target": "children-s-librarian",
+      "weight": 0.7
+    },
+    {
+      "source": "librarian-ii",
+      "target": "children-s-librarian",
+      "weight": 0.7
+    },
+    {
+      "source": "emergency-medical-technician-government",
+      "target": "associate-information-systems-analyst",
+      "weight": 0.7
+    },
+    {
+      "source": "supply-officer-government",
+      "target": "global-information-security-manager-government",
+      "weight": 0.7
+    },
+    {
+      "source": "supply-officer-government",
+      "target": "city-administrator",
+      "weight": 0.7
+    },
+    {
+      "source": "global-information-security-manager-government",
+      "target": "city-administrator",
+      "weight": 0.7
+    },
+    {
+      "source": "management-analyst-ii",
+      "target": "grants-specialist-government",
+      "weight": 0.7
+    },
+    {
+      "source": "community-development-director-government",
+      "target": "housing-manager-government",
+      "weight": 0.7
+    },
+    {
+      "source": "public-works-director",
+      "target": "legislative-director-government",
+      "weight": 0.7
+    },
+    {
+      "source": "legislative-correspondent-government",
+      "target": "public-affairs-specialist",
+      "weight": 0.7
+    }
+  ]
+}

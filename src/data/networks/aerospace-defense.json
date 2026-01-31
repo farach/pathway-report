@@ -1,0 +1,2823 @@
+{
+  "sector": "Aerospace & Defense",
+  "metadata": {
+    "nodeCount": 150,
+    "edgeCount": 264,
+    "generatedAt": "2026-01-31T16:46:32Z"
+  },
+  "nodes": [
+    {
+      "id": "associate-engineer",
+      "label": "Associate Engineer",
+      "soc": "17-2071",
+      "ptr": 0.5826,
+      "nfc": 0.6827,
+      "quadrant": "LH",
+      "size": 26.55,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "principal-engineer",
+      "label": "Principal Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6445,
+      "nfc": 0.6821,
+      "quadrant": "LH",
+      "size": 25.87,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "design-engineer-aerospace-defense",
+      "label": "Design Engineer",
+      "soc": "17-2121",
+      "ptr": 0,
+      "nfc": 0.4779,
+      "quadrant": "LH",
+      "size": 15.62,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "systems-engineer-aerospace-defense",
+      "label": "Systems Engineer",
+      "soc": "17-2071",
+      "ptr": 0.4445,
+      "nfc": 0.681,
+      "quadrant": "LH",
+      "size": 15.19,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "manufacturing-engineer-aerospace-defense",
+      "label": "Manufacturing Engineer",
+      "soc": "17-2071",
+      "ptr": 0.5033,
+      "nfc": 0.6805,
+      "quadrant": "LH",
+      "size": 10.55,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-systems-engineer-aerospace-defense",
+      "label": "Senior Systems Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6205,
+      "nfc": 0.6799,
+      "quadrant": "LH",
+      "size": 9.86,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "quality-engineer-aerospace-defense",
+      "label": "Quality Engineer",
+      "soc": "17-2121",
+      "ptr": 0.4085,
+      "nfc": 0.4764,
+      "quadrant": "LH",
+      "size": 9.57,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "mechanical-engineer-aerospace-defense",
+      "label": "Mechanical Engineer",
+      "soc": "17-2071",
+      "ptr": 0.4612,
+      "nfc": 0.6788,
+      "quadrant": "LH",
+      "size": 9.46,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "captain",
+      "label": "Captain",
+      "soc": "35-3011",
+      "ptr": 0.193,
+      "nfc": 0.2006,
+      "quadrant": "LH",
+      "size": 9.43,
+      "aiExposure": 0.1864
+    },
+    {
+      "id": "test-engineer-aerospace-defense",
+      "label": "Test Engineer",
+      "soc": "17-2121",
+      "ptr": 0.3458,
+      "nfc": 0.4752,
+      "quadrant": "LH",
+      "size": 8.85,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "pilot",
+      "label": "Pilot",
+      "soc": "53-3032",
+      "ptr": 0.2358,
+      "nfc": 0.2434,
+      "quadrant": "LH",
+      "size": 7.61,
+      "aiExposure": 0.2084
+    },
+    {
+      "id": "senior-design-engineer-aerospace-defense",
+      "label": "Senior Design Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6081,
+      "nfc": 0.6766,
+      "quadrant": "LH",
+      "size": 7.21,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "industrial-engineer-aerospace-defense",
+      "label": "Industrial Engineer",
+      "soc": "17-2071",
+      "ptr": 0.5869,
+      "nfc": 0.6761,
+      "quadrant": "LH",
+      "size": 7,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "lead-engineer-aerospace-defense",
+      "label": "Lead Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6081,
+      "nfc": 0.6755,
+      "quadrant": "LH",
+      "size": 6.96,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-manufacturing-engineer-aerospace-defense",
+      "label": "Senior Manufacturing Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6638,
+      "nfc": 0.675,
+      "quadrant": "HH",
+      "size": 6.92,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-electrical-engineer-aerospace-defense",
+      "label": "Senior Electrical Engineer",
+      "soc": "17-2071",
+      "ptr": 0.66,
+      "nfc": 0.6744,
+      "quadrant": "LH",
+      "size": 6.49,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-development-engineer-aerospace-defense",
+      "label": "Senior Development Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6523,
+      "nfc": 0.6739,
+      "quadrant": "LH",
+      "size": 6.2,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "engineering-manager",
+      "label": "Engineering Manager",
+      "soc": "11-9041",
+      "ptr": 0.5005,
+      "nfc": 0.5197,
+      "quadrant": "LH",
+      "size": 6.18,
+      "aiExposure": 0.303
+    },
+    {
+      "id": "mechanic",
+      "label": "Mechanic",
+      "soc": "17-3024",
+      "ptr": 0.3448,
+      "nfc": 0.3474,
+      "quadrant": "LH",
+      "size": 5.93,
+      "aiExposure": 0.2778
+    },
+    {
+      "id": "mechanical-design-engineer-aerospace-defense",
+      "label": "Mechanical Design Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6286,
+      "nfc": 0.6722,
+      "quadrant": "LH",
+      "size": 5.9,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "clinical-nurse-consultant-programmer-aerospace-defense",
+      "label": "Clinical Nurse Consultant Programmer",
+      "soc": "29-1141",
+      "ptr": 0.3385,
+      "nfc": 0.3386,
+      "quadrant": "LH",
+      "size": 5.83,
+      "aiExposure": 0.251
+    },
+    {
+      "id": "mechanical-designer-aerospace-defense",
+      "label": "Mechanical Designer",
+      "soc": "17-2121",
+      "ptr": 0.4655,
+      "nfc": 0.4706,
+      "quadrant": "LH",
+      "size": 5.79,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "development-engineer-aerospace-defense",
+      "label": "Development Engineer",
+      "soc": "17-2071",
+      "ptr": 0.5373,
+      "nfc": 0.6706,
+      "quadrant": "LH",
+      "size": 5.78,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "reliability-engineer-aerospace-defense",
+      "label": "Reliability Engineer",
+      "soc": "17-2071",
+      "ptr": 0.66,
+      "nfc": 0.67,
+      "quadrant": "LH",
+      "size": 5.72,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-program-manager",
+      "label": "Senior Program Manager",
+      "soc": "11-9151",
+      "ptr": 0.3494,
+      "nfc": 0.3484,
+      "quadrant": "LH",
+      "size": 5.67,
+      "aiExposure": 0.2743
+    },
+    {
+      "id": "senior-mechanical-engineer-aerospace-defense",
+      "label": "Senior Mechanical Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6484,
+      "nfc": 0.6689,
+      "quadrant": "LH",
+      "size": 5.65,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "principal-software-engineer-aerospace-defense",
+      "label": "Principal Software Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6445,
+      "nfc": 0.6683,
+      "quadrant": "LH",
+      "size": 5.61,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "engineering-intern-aerospace-defense",
+      "label": "Engineering Intern",
+      "soc": "17-2141",
+      "ptr": 0.4881,
+      "nfc": 0.6232,
+      "quadrant": "LH",
+      "size": 5.61,
+      "aiExposure": 0.3943
+    },
+    {
+      "id": "senior-quality-engineer-aerospace-defense",
+      "label": "Senior Quality Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6638,
+      "nfc": 0.6672,
+      "quadrant": "HH",
+      "size": 5.6,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "engineer-iii-aerospace-defense",
+      "label": "Engineer III",
+      "soc": "17-2071",
+      "ptr": 0.6638,
+      "nfc": 0.6667,
+      "quadrant": "HH",
+      "size": 5.6,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "stress-engineer",
+      "label": "Stress Engineer",
+      "soc": "17-2071",
+      "ptr": 0.66,
+      "nfc": 0.6661,
+      "quadrant": "LH",
+      "size": 5.57,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "hardware-engineer-aerospace-defense",
+      "label": "Hardware Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6405,
+      "nfc": 0.6655,
+      "quadrant": "LH",
+      "size": 5.51,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "staff-engineer-aerospace-defense",
+      "label": "Staff Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6523,
+      "nfc": 0.665,
+      "quadrant": "LH",
+      "size": 5.5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "embedded-software-engineer-aerospace-defense",
+      "label": "Embedded Software Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6677,
+      "nfc": 0.6644,
+      "quadrant": "HH",
+      "size": 5.48,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "material-engineer-aerospace-defense",
+      "label": "Material Engineer",
+      "soc": "17-2071",
+      "ptr": 0.66,
+      "nfc": 0.6639,
+      "quadrant": "LH",
+      "size": 5.48,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-research-engineer-aerospace-defense",
+      "label": "Senior Research Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6677,
+      "nfc": 0.6633,
+      "quadrant": "HH",
+      "size": 5.38,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "electronics-engineer",
+      "label": "Electronics Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6523,
+      "nfc": 0.6627,
+      "quadrant": "LH",
+      "size": 5.35,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "crew-chief",
+      "label": "Crew Chief",
+      "soc": "45-1011",
+      "ptr": 0.2452,
+      "nfc": 0.2418,
+      "quadrant": "LH",
+      "size": 5.32,
+      "aiExposure": 0.1677
+    },
+    {
+      "id": "toolmaker-aerospace-defense",
+      "label": "Toolmaker",
+      "soc": "51-9198",
+      "ptr": 0.0872,
+      "nfc": 0.0854,
+      "quadrant": "LH",
+      "size": 5.29,
+      "aiExposure": 0.0552
+    },
+    {
+      "id": "clinical-nurse-consultant-machinist-aerospace-defense",
+      "label": "Clinical Nurse Consultant Machinist",
+      "soc": "29-1141",
+      "ptr": 0.3423,
+      "nfc": 0.3333,
+      "quadrant": "LH",
+      "size": 5.29,
+      "aiExposure": 0.251
+    },
+    {
+      "id": "senior-safety-engineer-aerospace-defense",
+      "label": "Senior Safety Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6789,
+      "nfc": 0.6605,
+      "quadrant": "HH",
+      "size": 5.29,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "software-engineer-ii-aerospace-defense",
+      "label": "Software Engineer II",
+      "soc": "17-2071",
+      "ptr": 0.6638,
+      "nfc": 0.6599,
+      "quadrant": "HH",
+      "size": 5.29,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-hardware-engineer-aerospace-defense",
+      "label": "Senior Hardware Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6714,
+      "nfc": 0.6594,
+      "quadrant": "HH",
+      "size": 5.26,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "staff-software-engineer-aerospace-defense",
+      "label": "Staff Software Engineer",
+      "soc": "17-2071",
+      "ptr": 0.66,
+      "nfc": 0.6588,
+      "quadrant": "LH",
+      "size": 5.24,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "research-engineer",
+      "label": "Research Engineer",
+      "soc": "17-2121",
+      "ptr": 0.4175,
+      "nfc": 0.4615,
+      "quadrant": "LH",
+      "size": 5.24,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "manufacturing-engineering-manager-aerospace-defense",
+      "label": "Manufacturing Engineering Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.21,
+      "aiExposure": 0
+    },
+    {
+      "id": "continuous-improvement-manager-aerospace-defense",
+      "label": "Continuous Improvement Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.2,
+      "aiExposure": 0
+    },
+    {
+      "id": "senior-test-engineer-aerospace-defense",
+      "label": "Senior Test Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6714,
+      "nfc": 0.6565,
+      "quadrant": "HH",
+      "size": 5.2,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "systems-engineering-manager",
+      "label": "Systems Engineering Manager",
+      "soc": "11-3021",
+      "ptr": 0.6286,
+      "nfc": 0.6107,
+      "quadrant": "LH",
+      "size": 5.19,
+      "aiExposure": 0.3411
+    },
+    {
+      "id": "mechanical-engineer-iii-aerospace-defense",
+      "label": "Mechanical Engineer III",
+      "soc": "17-2071",
+      "ptr": 0.6752,
+      "nfc": 0.6554,
+      "quadrant": "HH",
+      "size": 5.19,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "engineering-specialist",
+      "label": "Engineering Specialist",
+      "soc": "17-2121",
+      "ptr": 0.4734,
+      "nfc": 0.4592,
+      "quadrant": "LH",
+      "size": 5.19,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "advisor-engineer-aerospace-defense",
+      "label": "Advisor Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6789,
+      "nfc": 0.6457,
+      "quadrant": "HH",
+      "size": 5.19,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "systems-engineer-iii-aerospace-defense",
+      "label": "Systems Engineer III",
+      "soc": "17-2071",
+      "ptr": 0.6789,
+      "nfc": 0.6457,
+      "quadrant": "HH",
+      "size": 5.19,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "logistics-engineer-aerospace-defense",
+      "label": "Logistics Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6789,
+      "nfc": 0.6457,
+      "quadrant": "HH",
+      "size": 5.19,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "liaison-engineer",
+      "label": "Liaison Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6789,
+      "nfc": 0.6457,
+      "quadrant": "HH",
+      "size": 5.19,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "tooling-engineer-aerospace-defense",
+      "label": "Tooling Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6789,
+      "nfc": 0.6457,
+      "quadrant": "HH",
+      "size": 5.19,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "thermal-engineer-aerospace-defense",
+      "label": "Thermal Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6789,
+      "nfc": 0.6457,
+      "quadrant": "HH",
+      "size": 5.19,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "component-engineer-aerospace-defense",
+      "label": "Component Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6789,
+      "nfc": 0.6457,
+      "quadrant": "HH",
+      "size": 5.19,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "program-engineer",
+      "label": "Program Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6789,
+      "nfc": 0.6457,
+      "quadrant": "HH",
+      "size": 5.19,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "information-assurance-engineer",
+      "label": "Information Assurance Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6789,
+      "nfc": 0.6457,
+      "quadrant": "HH",
+      "size": 5.19,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "electronics-design-engineer-aerospace-defense",
+      "label": "Electronics Design Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6752,
+      "nfc": 0.6457,
+      "quadrant": "HH",
+      "size": 5.19,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "product-support-engineer",
+      "label": "Product Support Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6752,
+      "nfc": 0.6457,
+      "quadrant": "HH",
+      "size": 5.19,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "technical-service-engineer",
+      "label": "Technical Service Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6752,
+      "nfc": 0.6457,
+      "quadrant": "HH",
+      "size": 5.19,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "structural-analysis-engineer",
+      "label": "Structural Analysis Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6752,
+      "nfc": 0.6457,
+      "quadrant": "HH",
+      "size": 5.19,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "structural-analyst",
+      "label": "Structural Analyst",
+      "soc": "13-2054",
+      "ptr": 0.6396,
+      "nfc": 0.6083,
+      "quadrant": "LH",
+      "size": 5.19,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "printed-circuit-board-designer-aerospace-defense",
+      "label": "Printed Circuit Board Designer",
+      "soc": "17-2121",
+      "ptr": 0.4761,
+      "nfc": 0.4527,
+      "quadrant": "LH",
+      "size": 5.19,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "product-team-lead",
+      "label": "Product Team Lead",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.19,
+      "aiExposure": 0
+    },
+    {
+      "id": "quality-engineer-ii-aerospace-defense",
+      "label": "Quality Engineer II",
+      "soc": "17-2071",
+      "ptr": 0.6752,
+      "nfc": 0.6434,
+      "quadrant": "HH",
+      "size": 5.19,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "advanced-manufacturing-engineer-aerospace-defense",
+      "label": "Advanced Manufacturing Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6752,
+      "nfc": 0.6434,
+      "quadrant": "HH",
+      "size": 5.19,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "systems-integration-engineer-aerospace-defense",
+      "label": "Systems Integration Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6752,
+      "nfc": 0.6434,
+      "quadrant": "HH",
+      "size": 5.19,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "systems-test-engineer-aerospace-defense",
+      "label": "Systems Test Engineer",
+      "soc": "17-2071",
+      "ptr": 0.66,
+      "nfc": 0.6434,
+      "quadrant": "LH",
+      "size": 5.19,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "technical-staff-member-aerospace-defense",
+      "label": "Technical Staff Member",
+      "soc": "19-4031",
+      "ptr": 0.3271,
+      "nfc": 0.3345,
+      "quadrant": "LH",
+      "size": 5.18,
+      "aiExposure": 0.2663
+    },
+    {
+      "id": "first-officer",
+      "label": "First Officer",
+      "soc": "53-5021",
+      "ptr": 0.2252,
+      "nfc": 0.2154,
+      "quadrant": "LH",
+      "size": 5.17,
+      "aiExposure": 0.1971
+    },
+    {
+      "id": "flight-instructor",
+      "label": "Flight Instructor",
+      "soc": "25-1071",
+      "ptr": 0.5197,
+      "nfc": 0.5271,
+      "quadrant": "LH",
+      "size": 5.16,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "product-development-engineer-aerospace-defense",
+      "label": "Product Development Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6523,
+      "nfc": 0.641,
+      "quadrant": "LH",
+      "size": 5.16,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "certified-flight-instructor",
+      "label": "Certified Flight Instructor",
+      "soc": "25-1071",
+      "ptr": 0.5454,
+      "nfc": 0.5262,
+      "quadrant": "LH",
+      "size": 5.15,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "graduate-engineer-aerospace-defense",
+      "label": "Graduate Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6122,
+      "nfc": 0.6399,
+      "quadrant": "LH",
+      "size": 5.12,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "supplier-quality-engineer-aerospace-defense",
+      "label": "Supplier Quality Engineer",
+      "soc": "17-2121",
+      "ptr": 0.4655,
+      "nfc": 0.4483,
+      "quadrant": "LH",
+      "size": 5.11,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "senior-reliability-engineer-aerospace-defense",
+      "label": "Senior Reliability Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6752,
+      "nfc": 0.6387,
+      "quadrant": "HH",
+      "size": 5.08,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "engineer-ii-aerospace-defense",
+      "label": "Engineer II",
+      "soc": "17-2071",
+      "ptr": 0.6677,
+      "nfc": 0.6381,
+      "quadrant": "HH",
+      "size": 5.07,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "product-design-engineer-aerospace-defense",
+      "label": "Product Design Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6562,
+      "nfc": 0.6375,
+      "quadrant": "LH",
+      "size": 5.07,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "engineering-project-manager",
+      "label": "Engineering Project Manager",
+      "soc": "15-1299",
+      "ptr": 0.9755,
+      "nfc": 0.9203,
+      "quadrant": "HH",
+      "size": 5.05,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "manufacturing-manager-aerospace-defense",
+      "label": "Manufacturing Manager",
+      "soc": "11-9199",
+      "ptr": 0.6041,
+      "nfc": 0.5662,
+      "quadrant": "LH",
+      "size": 5.05,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "commander-aerospace-defense",
+      "label": "Commander",
+      "soc": "33-1012",
+      "ptr": 0.2578,
+      "nfc": 0.2428,
+      "quadrant": "LH",
+      "size": 5.04,
+      "aiExposure": 0.2058
+    },
+    {
+      "id": "aircraft-mechanic",
+      "label": "Aircraft Mechanic",
+      "soc": "49-3053",
+      "ptr": 0.1594,
+      "nfc": 0.1534,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.1099
+    },
+    {
+      "id": "pilot-instructor-aerospace-defense",
+      "label": "Pilot Instructor",
+      "soc": "25-1071",
+      "ptr": 0.5547,
+      "nfc": 0.5214,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "flight-commander-aerospace-defense",
+      "label": "Flight Commander",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.03,
+      "aiExposure": 0
+    },
+    {
+      "id": "division-officer-aerospace-defense",
+      "label": "Division Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.03,
+      "aiExposure": 0
+    },
+    {
+      "id": "lieutenant-colonel-aerospace-defense",
+      "label": "Lieutenant Colonel",
+      "soc": "33-1012",
+      "ptr": 0.2593,
+      "nfc": 0.2417,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.2058
+    },
+    {
+      "id": "software-manager-aerospace-defense",
+      "label": "Software Manager",
+      "soc": "15-1244",
+      "ptr": 0.9707,
+      "nfc": 0.9089,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.4911
+    },
+    {
+      "id": "software-engineering-manager-aerospace-defense",
+      "label": "Software Engineering Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.02,
+      "aiExposure": 0
+    },
+    {
+      "id": "aircraft-commander-aerospace-defense",
+      "label": "Aircraft Commander",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.02,
+      "aiExposure": 0
+    },
+    {
+      "id": "deputy-commander-aerospace-defense",
+      "label": "Deputy Commander",
+      "soc": "33-3051",
+      "ptr": 0.2825,
+      "nfc": 0.2638,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.2473
+    },
+    {
+      "id": "assistant-operation-officer-aerospace-defense",
+      "label": "Assistant Operation Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.01,
+      "aiExposure": 0
+    },
+    {
+      "id": "value-stream-manager-aerospace-defense",
+      "label": "Value Stream Manager",
+      "soc": "11-3051",
+      "ptr": 0.3895,
+      "nfc": 0.3611,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.263
+    },
+    {
+      "id": "branch-chief-aerospace-defense",
+      "label": "Branch Chief",
+      "soc": "33-1021",
+      "ptr": 0.3993,
+      "nfc": 0.3697,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.212
+    },
+    {
+      "id": "systems-engineer-ii-aerospace-defense",
+      "label": "Systems Engineer II",
+      "soc": "17-2071",
+      "ptr": 0.6714,
+      "nfc": 0.6281,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "electrical-design-engineer-aerospace-defense",
+      "label": "Electrical Design Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6562,
+      "nfc": 0.6275,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "structures-engineer",
+      "label": "Structures Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6752,
+      "nfc": 0.6264,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "customer-service-agent",
+      "label": "Customer Service Agent",
+      "soc": "13-1011",
+      "ptr": 0.647,
+      "nfc": 0.6105,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.4062
+    },
+    {
+      "id": "hardware-design-engineer-aerospace-defense",
+      "label": "Hardware Design Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6638,
+      "nfc": 0.6258,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "aircraft-technician",
+      "label": "Aircraft Technician",
+      "soc": "19-4099",
+      "ptr": 0.653,
+      "nfc": 0.6074,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3492
+    },
+    {
+      "id": "industrial-engineering-manager-aerospace-defense",
+      "label": "Industrial Engineering Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.01,
+      "aiExposure": 0
+    },
+    {
+      "id": "aerospace-engineer",
+      "label": "Aerospace Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6752,
+      "nfc": 0.6222,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "air-traffic-controller",
+      "label": "Air Traffic Controller",
+      "soc": "11-3031",
+      "ptr": 0.5815,
+      "nfc": 0.5388,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3169
+    },
+    {
+      "id": "flight-chief-aerospace-defense",
+      "label": "Flight Chief",
+      "soc": "33-1021",
+      "ptr": 0.3971,
+      "nfc": 0.3659,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.212
+    },
+    {
+      "id": "production-superintendent-aerospace-defense",
+      "label": "Production Superintendent",
+      "soc": "11-9013",
+      "ptr": 0.3309,
+      "nfc": 0.3032,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.2217
+    },
+    {
+      "id": "master-scheduler-aerospace-defense",
+      "label": "Master Scheduler",
+      "soc": "43-6013",
+      "ptr": 0.9741,
+      "nfc": 0.8875,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4243
+    },
+    {
+      "id": "continuous-improvement-engineer-aerospace-defense",
+      "label": "Continuous Improvement Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6789,
+      "nfc": 0.6186,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "helicopter-pilot",
+      "label": "Helicopter Pilot",
+      "soc": "53-2011",
+      "ptr": 0.2874,
+      "nfc": 0.2618,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.2259
+    },
+    {
+      "id": "flight-attendant",
+      "label": "Flight Attendant",
+      "soc": "53-6031",
+      "ptr": 0.0975,
+      "nfc": 0.0893,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.0873
+    },
+    {
+      "id": "cabin-crew",
+      "label": "Cabin Crew",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "subcontracts-manager",
+      "label": "Subcontracts Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "mission-commander-aerospace-defense",
+      "label": "Mission Commander",
+      "soc": "55-1019",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "commodity-manager-aerospace-defense",
+      "label": "Commodity Manager",
+      "soc": "11-3061",
+      "ptr": 0.9661,
+      "nfc": 0.8717,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3456
+    },
+    {
+      "id": "propulsion-engineer",
+      "label": "Propulsion Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6789,
+      "nfc": 0.6125,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "cyber-security-engineer",
+      "label": "Cyber Security Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6789,
+      "nfc": 0.6125,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "aircraft-maintenance-engineer",
+      "label": "Aircraft Maintenance Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6789,
+      "nfc": 0.6125,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "airport-manager",
+      "label": "Airport Manager",
+      "soc": "11-3071",
+      "ptr": 0.5945,
+      "nfc": 0.5363,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "engineering-technician-iii",
+      "label": "Engineering Technician III",
+      "soc": "17-2121",
+      "ptr": 0.4761,
+      "nfc": 0.4295,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "senior-supplier-quality-engineer-aerospace-defense",
+      "label": "Senior Supplier Quality Engineer",
+      "soc": "17-2121",
+      "ptr": 0.4734,
+      "nfc": 0.4295,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "intelligence-analyst-aerospace-defense",
+      "label": "Intelligence Analyst",
+      "soc": "55-2013",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "weapons-officer-aerospace-defense",
+      "label": "Weapons Officer",
+      "soc": "55-1014",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "senior-staff-engineer-aerospace-defense",
+      "label": "Senior Staff Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6752,
+      "nfc": 0.6119,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "manufacturing-engineer-ii-aerospace-defense",
+      "label": "Manufacturing Engineer II",
+      "soc": "17-2071",
+      "ptr": 0.6752,
+      "nfc": 0.6113,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-systems-engineer-ii",
+      "label": "Senior Systems Engineer II",
+      "soc": "17-2071",
+      "ptr": 0.6789,
+      "nfc": 0.6107,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "line-pilot",
+      "label": "Line Pilot",
+      "soc": "53-2011",
+      "ptr": 0.2842,
+      "nfc": 0.2582,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.2259
+    },
+    {
+      "id": "senior-technical-writer-aerospace-defense",
+      "label": "Senior Technical Writer",
+      "soc": "43-9081",
+      "ptr": 0.9981,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.672
+    },
+    {
+      "id": "technical-writer-iii-aerospace-defense",
+      "label": "Technical Writer III",
+      "soc": "43-9081",
+      "ptr": 0.9981,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.672
+    },
+    {
+      "id": "senior-program-analyst-aerospace-defense",
+      "label": "Senior Program Analyst",
+      "soc": "15-1251",
+      "ptr": 0.9961,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.63
+    },
+    {
+      "id": "senior-technical-author",
+      "label": "Senior Technical Author",
+      "soc": "27-3043",
+      "ptr": 0.9942,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.6657
+    },
+    {
+      "id": "senior-aerodynamicist-aerospace-defense",
+      "label": "Senior Aerodynamicist",
+      "soc": "19-2012",
+      "ptr": 0.9912,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4923
+    },
+    {
+      "id": "senior-physicist",
+      "label": "Senior Physicist",
+      "soc": "19-2012",
+      "ptr": 0.9912,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4923
+    },
+    {
+      "id": "technical-author",
+      "label": "Technical Author",
+      "soc": "27-3043",
+      "ptr": 0.9887,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.6657
+    },
+    {
+      "id": "technical-writer-ii-aerospace-defense",
+      "label": "Technical Writer II",
+      "soc": "43-9081",
+      "ptr": 0.9871,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.672
+    },
+    {
+      "id": "intelligence-specialist-aerospace-defense",
+      "label": "Intelligence Specialist",
+      "soc": "15-1299",
+      "ptr": 0.9863,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "software-project-manager-aerospace-defense",
+      "label": "Software Project Manager",
+      "soc": "15-1299",
+      "ptr": 0.9863,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "senior-cyber-security-analyst",
+      "label": "Senior Cyber Security Analyst",
+      "soc": "15-1299",
+      "ptr": 0.9863,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "aerodynamicist-aerospace-defense",
+      "label": "Aerodynamicist",
+      "soc": "19-2012",
+      "ptr": 0.9858,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4923
+    },
+    {
+      "id": "program-analyst-aerospace-defense",
+      "label": "Program Analyst",
+      "soc": "15-1251",
+      "ptr": 0.9852,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.63
+    },
+    {
+      "id": "contract-administrator-iii",
+      "label": "Contract Administrator III",
+      "soc": "15-1244",
+      "ptr": 0.9814,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4911
+    },
+    {
+      "id": "cyber-security-analyst",
+      "label": "Cyber Security Analyst",
+      "soc": "15-1299",
+      "ptr": 0.9809,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "senior-master-scheduler",
+      "label": "Senior Master Scheduler",
+      "soc": "43-6013",
+      "ptr": 0.9794,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4243
+    },
+    {
+      "id": "senior-information-assurance-analyst-aerospace-defense",
+      "label": "Senior Information Assurance Analyst",
+      "soc": "15-1212",
+      "ptr": 0.9764,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4371
+    },
+    {
+      "id": "senior-subcontracts-administrator",
+      "label": "Senior Subcontracts Administrator",
+      "soc": "15-1244",
+      "ptr": 0.976,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4911
+    },
+    {
+      "id": "contract-administrator-ii",
+      "label": "Contract Administrator II",
+      "soc": "15-1244",
+      "ptr": 0.976,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4911
+    },
+    {
+      "id": "senior-field-service-representative",
+      "label": "Senior Field Service Representative",
+      "soc": "41-4012",
+      "ptr": 0.9734,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4628
+    },
+    {
+      "id": "senior-commodity-manager",
+      "label": "Senior Commodity Manager",
+      "soc": "11-3061",
+      "ptr": 0.9714,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3456
+    },
+    {
+      "id": "cyber-security",
+      "label": "Cyber Security",
+      "soc": "15-1212",
+      "ptr": 0.9711,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4371
+    },
+    {
+      "id": "information-assurance-analyst-aerospace-defense",
+      "label": "Information Assurance Analyst",
+      "soc": "15-1212",
+      "ptr": 0.9711,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4371
+    }
+  ],
+  "edges": [
+    {
+      "source": "pilot",
+      "target": "manufacturing-engineer-aerospace-defense",
+      "weight": 0.57
+    },
+    {
+      "source": "senior-design-engineer-aerospace-defense",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.71
+    },
+    {
+      "source": "industrial-engineer-aerospace-defense",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.82
+    },
+    {
+      "source": "industrial-engineer-aerospace-defense",
+      "target": "associate-engineer",
+      "weight": 0.67
+    },
+    {
+      "source": "lead-engineer-aerospace-defense",
+      "target": "quality-engineer-aerospace-defense",
+      "weight": 0.68
+    },
+    {
+      "source": "lead-engineer-aerospace-defense",
+      "target": "systems-engineer-aerospace-defense",
+      "weight": 0.96
+    },
+    {
+      "source": "senior-manufacturing-engineer-aerospace-defense",
+      "target": "systems-engineer-aerospace-defense",
+      "weight": 0.94
+    },
+    {
+      "source": "senior-manufacturing-engineer-aerospace-defense",
+      "target": "principal-engineer",
+      "weight": 0.48
+    },
+    {
+      "source": "senior-electrical-engineer-aerospace-defense",
+      "target": "captain",
+      "weight": 0.45
+    },
+    {
+      "source": "senior-development-engineer-aerospace-defense",
+      "target": "manufacturing-engineer-aerospace-defense",
+      "weight": 0.84
+    },
+    {
+      "source": "senior-development-engineer-aerospace-defense",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.89
+    },
+    {
+      "source": "engineering-manager",
+      "target": "mechanical-engineer-aerospace-defense",
+      "weight": 0.9
+    },
+    {
+      "source": "engineering-manager",
+      "target": "design-engineer-aerospace-defense",
+      "weight": 0.4
+    },
+    {
+      "source": "mechanic",
+      "target": "mechanical-engineer-aerospace-defense",
+      "weight": 0.98
+    },
+    {
+      "source": "mechanic",
+      "target": "senior-systems-engineer-aerospace-defense",
+      "weight": 0.66
+    },
+    {
+      "source": "mechanical-design-engineer-aerospace-defense",
+      "target": "systems-engineer-aerospace-defense",
+      "weight": 0.98
+    },
+    {
+      "source": "mechanical-design-engineer-aerospace-defense",
+      "target": "senior-systems-engineer-aerospace-defense",
+      "weight": 0.77
+    },
+    {
+      "source": "clinical-nurse-consultant-programmer-aerospace-defense",
+      "target": "manufacturing-engineer-aerospace-defense",
+      "weight": 0.87
+    },
+    {
+      "source": "clinical-nurse-consultant-programmer-aerospace-defense",
+      "target": "systems-engineer-aerospace-defense",
+      "weight": 0.42
+    },
+    {
+      "source": "mechanical-designer-aerospace-defense",
+      "target": "design-engineer-aerospace-defense",
+      "weight": 0.56
+    },
+    {
+      "source": "mechanical-designer-aerospace-defense",
+      "target": "mechanical-engineer-aerospace-defense",
+      "weight": 0.71
+    },
+    {
+      "source": "development-engineer-aerospace-defense",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.86
+    },
+    {
+      "source": "reliability-engineer-aerospace-defense",
+      "target": "senior-systems-engineer-aerospace-defense",
+      "weight": 0.56
+    },
+    {
+      "source": "reliability-engineer-aerospace-defense",
+      "target": "principal-engineer",
+      "weight": 0.9
+    },
+    {
+      "source": "senior-program-manager",
+      "target": "manufacturing-engineer-aerospace-defense",
+      "weight": 0.48
+    },
+    {
+      "source": "senior-program-manager",
+      "target": "principal-engineer",
+      "weight": 0.53
+    },
+    {
+      "source": "senior-mechanical-engineer-aerospace-defense",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.4
+    },
+    {
+      "source": "senior-mechanical-engineer-aerospace-defense",
+      "target": "mechanical-engineer-aerospace-defense",
+      "weight": 0.63
+    },
+    {
+      "source": "principal-software-engineer-aerospace-defense",
+      "target": "quality-engineer-aerospace-defense",
+      "weight": 0.75
+    },
+    {
+      "source": "engineering-intern-aerospace-defense",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.79
+    },
+    {
+      "source": "senior-quality-engineer-aerospace-defense",
+      "target": "systems-engineer-aerospace-defense",
+      "weight": 0.45
+    },
+    {
+      "source": "engineer-iii-aerospace-defense",
+      "target": "design-engineer-aerospace-defense",
+      "weight": 0.8
+    },
+    {
+      "source": "stress-engineer",
+      "target": "manufacturing-engineer-aerospace-defense",
+      "weight": 0.84
+    },
+    {
+      "source": "stress-engineer",
+      "target": "mechanical-engineer-aerospace-defense",
+      "weight": 0.6
+    },
+    {
+      "source": "hardware-engineer-aerospace-defense",
+      "target": "senior-systems-engineer-aerospace-defense",
+      "weight": 0.78
+    },
+    {
+      "source": "hardware-engineer-aerospace-defense",
+      "target": "principal-engineer",
+      "weight": 0.53
+    },
+    {
+      "source": "staff-engineer-aerospace-defense",
+      "target": "principal-engineer",
+      "weight": 0.97
+    },
+    {
+      "source": "embedded-software-engineer-aerospace-defense",
+      "target": "mechanical-engineer-aerospace-defense",
+      "weight": 0.72
+    },
+    {
+      "source": "embedded-software-engineer-aerospace-defense",
+      "target": "quality-engineer-aerospace-defense",
+      "weight": 0.4
+    },
+    {
+      "source": "material-engineer-aerospace-defense",
+      "target": "captain",
+      "weight": 0.67
+    },
+    {
+      "source": "material-engineer-aerospace-defense",
+      "target": "systems-engineer-aerospace-defense",
+      "weight": 0.72
+    },
+    {
+      "source": "senior-research-engineer-aerospace-defense",
+      "target": "manufacturing-engineer-aerospace-defense",
+      "weight": 0.61
+    },
+    {
+      "source": "senior-research-engineer-aerospace-defense",
+      "target": "senior-systems-engineer-aerospace-defense",
+      "weight": 0.65
+    },
+    {
+      "source": "electronics-engineer",
+      "target": "senior-systems-engineer-aerospace-defense",
+      "weight": 0.98
+    },
+    {
+      "source": "electronics-engineer",
+      "target": "associate-engineer",
+      "weight": 0.54
+    },
+    {
+      "source": "crew-chief",
+      "target": "manufacturing-engineer-aerospace-defense",
+      "weight": 0.76
+    },
+    {
+      "source": "toolmaker-aerospace-defense",
+      "target": "captain",
+      "weight": 0.91
+    },
+    {
+      "source": "clinical-nurse-consultant-machinist-aerospace-defense",
+      "target": "mechanical-engineer-aerospace-defense",
+      "weight": 0.77
+    },
+    {
+      "source": "clinical-nurse-consultant-machinist-aerospace-defense",
+      "target": "quality-engineer-aerospace-defense",
+      "weight": 0.49
+    },
+    {
+      "source": "senior-safety-engineer-aerospace-defense",
+      "target": "manufacturing-engineer-aerospace-defense",
+      "weight": 0.84
+    },
+    {
+      "source": "software-engineer-ii-aerospace-defense",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.58
+    },
+    {
+      "source": "senior-hardware-engineer-aerospace-defense",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.87
+    },
+    {
+      "source": "senior-hardware-engineer-aerospace-defense",
+      "target": "mechanical-engineer-aerospace-defense",
+      "weight": 0.64
+    },
+    {
+      "source": "staff-software-engineer-aerospace-defense",
+      "target": "captain",
+      "weight": 0.42
+    },
+    {
+      "source": "research-engineer",
+      "target": "associate-engineer",
+      "weight": 0.73
+    },
+    {
+      "source": "manufacturing-engineering-manager-aerospace-defense",
+      "target": "senior-systems-engineer-aerospace-defense",
+      "weight": 0.67
+    },
+    {
+      "source": "manufacturing-engineering-manager-aerospace-defense",
+      "target": "mechanical-engineer-aerospace-defense",
+      "weight": 0.59
+    },
+    {
+      "source": "continuous-improvement-manager-aerospace-defense",
+      "target": "manufacturing-engineer-aerospace-defense",
+      "weight": 0.65
+    },
+    {
+      "source": "continuous-improvement-manager-aerospace-defense",
+      "target": "associate-engineer",
+      "weight": 0.69
+    },
+    {
+      "source": "senior-test-engineer-aerospace-defense",
+      "target": "principal-engineer",
+      "weight": 0.89
+    },
+    {
+      "source": "systems-engineering-manager",
+      "target": "senior-systems-engineer-aerospace-defense",
+      "weight": 0.59
+    },
+    {
+      "source": "systems-engineering-manager",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.56
+    },
+    {
+      "source": "mechanical-engineer-iii-aerospace-defense",
+      "target": "systems-engineer-aerospace-defense",
+      "weight": 0.57
+    },
+    {
+      "source": "mechanical-engineer-iii-aerospace-defense",
+      "target": "principal-engineer",
+      "weight": 0.52
+    },
+    {
+      "source": "engineering-specialist",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.47
+    },
+    {
+      "source": "engineering-specialist",
+      "target": "captain",
+      "weight": 0.85
+    },
+    {
+      "source": "advisor-engineer-aerospace-defense",
+      "target": "mechanical-engineer-aerospace-defense",
+      "weight": 0.91
+    },
+    {
+      "source": "advisor-engineer-aerospace-defense",
+      "target": "principal-engineer",
+      "weight": 0.67
+    },
+    {
+      "source": "systems-engineer-iii-aerospace-defense",
+      "target": "principal-engineer",
+      "weight": 0.56
+    },
+    {
+      "source": "logistics-engineer-aerospace-defense",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.74
+    },
+    {
+      "source": "logistics-engineer-aerospace-defense",
+      "target": "captain",
+      "weight": 0.61
+    },
+    {
+      "source": "liaison-engineer",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.69
+    },
+    {
+      "source": "tooling-engineer-aerospace-defense",
+      "target": "manufacturing-engineer-aerospace-defense",
+      "weight": 0.98
+    },
+    {
+      "source": "thermal-engineer-aerospace-defense",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.55
+    },
+    {
+      "source": "thermal-engineer-aerospace-defense",
+      "target": "associate-engineer",
+      "weight": 0.61
+    },
+    {
+      "source": "component-engineer-aerospace-defense",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.73
+    },
+    {
+      "source": "component-engineer-aerospace-defense",
+      "target": "systems-engineer-aerospace-defense",
+      "weight": 0.65
+    },
+    {
+      "source": "program-engineer",
+      "target": "systems-engineer-aerospace-defense",
+      "weight": 0.69
+    },
+    {
+      "source": "information-assurance-engineer",
+      "target": "associate-engineer",
+      "weight": 0.6
+    },
+    {
+      "source": "information-assurance-engineer",
+      "target": "captain",
+      "weight": 0.51
+    },
+    {
+      "source": "electronics-design-engineer-aerospace-defense",
+      "target": "associate-engineer",
+      "weight": 0.74
+    },
+    {
+      "source": "product-support-engineer",
+      "target": "associate-engineer",
+      "weight": 0.59
+    },
+    {
+      "source": "product-support-engineer",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.97
+    },
+    {
+      "source": "technical-service-engineer",
+      "target": "mechanical-engineer-aerospace-defense",
+      "weight": 0.48
+    },
+    {
+      "source": "technical-service-engineer",
+      "target": "design-engineer-aerospace-defense",
+      "weight": 0.87
+    },
+    {
+      "source": "structural-analysis-engineer",
+      "target": "associate-engineer",
+      "weight": 0.59
+    },
+    {
+      "source": "structural-analysis-engineer",
+      "target": "design-engineer-aerospace-defense",
+      "weight": 0.64
+    },
+    {
+      "source": "structural-analyst",
+      "target": "mechanical-engineer-aerospace-defense",
+      "weight": 0.43
+    },
+    {
+      "source": "printed-circuit-board-designer-aerospace-defense",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.5
+    },
+    {
+      "source": "product-team-lead",
+      "target": "captain",
+      "weight": 0.6
+    },
+    {
+      "source": "quality-engineer-ii-aerospace-defense",
+      "target": "design-engineer-aerospace-defense",
+      "weight": 0.84
+    },
+    {
+      "source": "advanced-manufacturing-engineer-aerospace-defense",
+      "target": "captain",
+      "weight": 0.42
+    },
+    {
+      "source": "systems-integration-engineer-aerospace-defense",
+      "target": "senior-systems-engineer-aerospace-defense",
+      "weight": 0.6
+    },
+    {
+      "source": "systems-test-engineer-aerospace-defense",
+      "target": "senior-systems-engineer-aerospace-defense",
+      "weight": 0.5
+    },
+    {
+      "source": "technical-staff-member-aerospace-defense",
+      "target": "senior-systems-engineer-aerospace-defense",
+      "weight": 0.46
+    },
+    {
+      "source": "first-officer",
+      "target": "senior-systems-engineer-aerospace-defense",
+      "weight": 0.53
+    },
+    {
+      "source": "first-officer",
+      "target": "systems-engineer-aerospace-defense",
+      "weight": 0.96
+    },
+    {
+      "source": "flight-instructor",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.94
+    },
+    {
+      "source": "product-development-engineer-aerospace-defense",
+      "target": "manufacturing-engineer-aerospace-defense",
+      "weight": 0.57
+    },
+    {
+      "source": "certified-flight-instructor",
+      "target": "senior-systems-engineer-aerospace-defense",
+      "weight": 0.62
+    },
+    {
+      "source": "graduate-engineer-aerospace-defense",
+      "target": "associate-engineer",
+      "weight": 0.64
+    },
+    {
+      "source": "graduate-engineer-aerospace-defense",
+      "target": "principal-engineer",
+      "weight": 0.81
+    },
+    {
+      "source": "supplier-quality-engineer-aerospace-defense",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.89
+    },
+    {
+      "source": "supplier-quality-engineer-aerospace-defense",
+      "target": "systems-engineer-aerospace-defense",
+      "weight": 0.58
+    },
+    {
+      "source": "senior-reliability-engineer-aerospace-defense",
+      "target": "quality-engineer-aerospace-defense",
+      "weight": 0.88
+    },
+    {
+      "source": "engineer-ii-aerospace-defense",
+      "target": "manufacturing-engineer-aerospace-defense",
+      "weight": 0.97
+    },
+    {
+      "source": "product-design-engineer-aerospace-defense",
+      "target": "principal-engineer",
+      "weight": 0.75
+    },
+    {
+      "source": "product-design-engineer-aerospace-defense",
+      "target": "captain",
+      "weight": 0.44
+    },
+    {
+      "source": "engineering-project-manager",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.81
+    },
+    {
+      "source": "engineering-project-manager",
+      "target": "captain",
+      "weight": 0.97
+    },
+    {
+      "source": "manufacturing-manager-aerospace-defense",
+      "target": "design-engineer-aerospace-defense",
+      "weight": 0.79
+    },
+    {
+      "source": "manufacturing-manager-aerospace-defense",
+      "target": "captain",
+      "weight": 0.57
+    },
+    {
+      "source": "commander-aerospace-defense",
+      "target": "manufacturing-engineer-aerospace-defense",
+      "weight": 0.77
+    },
+    {
+      "source": "commander-aerospace-defense",
+      "target": "systems-engineer-aerospace-defense",
+      "weight": 0.96
+    },
+    {
+      "source": "aircraft-mechanic",
+      "target": "senior-systems-engineer-aerospace-defense",
+      "weight": 0.45
+    },
+    {
+      "source": "pilot-instructor-aerospace-defense",
+      "target": "manufacturing-engineer-aerospace-defense",
+      "weight": 0.98
+    },
+    {
+      "source": "flight-commander-aerospace-defense",
+      "target": "senior-systems-engineer-aerospace-defense",
+      "weight": 0.43
+    },
+    {
+      "source": "division-officer-aerospace-defense",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.68
+    },
+    {
+      "source": "lieutenant-colonel-aerospace-defense",
+      "target": "quality-engineer-aerospace-defense",
+      "weight": 0.89
+    },
+    {
+      "source": "lieutenant-colonel-aerospace-defense",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.46
+    },
+    {
+      "source": "software-manager-aerospace-defense",
+      "target": "design-engineer-aerospace-defense",
+      "weight": 0.45
+    },
+    {
+      "source": "software-engineering-manager-aerospace-defense",
+      "target": "captain",
+      "weight": 0.79
+    },
+    {
+      "source": "aircraft-commander-aerospace-defense",
+      "target": "design-engineer-aerospace-defense",
+      "weight": 0.98
+    },
+    {
+      "source": "aircraft-commander-aerospace-defense",
+      "target": "principal-engineer",
+      "weight": 0.94
+    },
+    {
+      "source": "deputy-commander-aerospace-defense",
+      "target": "systems-engineer-aerospace-defense",
+      "weight": 0.78
+    },
+    {
+      "source": "assistant-operation-officer-aerospace-defense",
+      "target": "mechanical-engineer-aerospace-defense",
+      "weight": 0.46
+    },
+    {
+      "source": "value-stream-manager-aerospace-defense",
+      "target": "manufacturing-engineer-aerospace-defense",
+      "weight": 0.63
+    },
+    {
+      "source": "value-stream-manager-aerospace-defense",
+      "target": "systems-engineer-aerospace-defense",
+      "weight": 0.47
+    },
+    {
+      "source": "branch-chief-aerospace-defense",
+      "target": "associate-engineer",
+      "weight": 0.56
+    },
+    {
+      "source": "systems-engineer-ii-aerospace-defense",
+      "target": "senior-systems-engineer-aerospace-defense",
+      "weight": 0.99
+    },
+    {
+      "source": "systems-engineer-ii-aerospace-defense",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.89
+    },
+    {
+      "source": "electrical-design-engineer-aerospace-defense",
+      "target": "quality-engineer-aerospace-defense",
+      "weight": 0.68
+    },
+    {
+      "source": "structures-engineer",
+      "target": "principal-engineer",
+      "weight": 0.73
+    },
+    {
+      "source": "customer-service-agent",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.96
+    },
+    {
+      "source": "hardware-design-engineer-aerospace-defense",
+      "target": "principal-engineer",
+      "weight": 0.69
+    },
+    {
+      "source": "hardware-design-engineer-aerospace-defense",
+      "target": "design-engineer-aerospace-defense",
+      "weight": 0.79
+    },
+    {
+      "source": "aircraft-technician",
+      "target": "systems-engineer-aerospace-defense",
+      "weight": 0.91
+    },
+    {
+      "source": "industrial-engineering-manager-aerospace-defense",
+      "target": "senior-systems-engineer-aerospace-defense",
+      "weight": 0.49
+    },
+    {
+      "source": "aerospace-engineer",
+      "target": "design-engineer-aerospace-defense",
+      "weight": 0.44
+    },
+    {
+      "source": "air-traffic-controller",
+      "target": "captain",
+      "weight": 0.58
+    },
+    {
+      "source": "air-traffic-controller",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.55
+    },
+    {
+      "source": "flight-chief-aerospace-defense",
+      "target": "quality-engineer-aerospace-defense",
+      "weight": 0.64
+    },
+    {
+      "source": "flight-chief-aerospace-defense",
+      "target": "design-engineer-aerospace-defense",
+      "weight": 0.45
+    },
+    {
+      "source": "production-superintendent-aerospace-defense",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.78
+    },
+    {
+      "source": "production-superintendent-aerospace-defense",
+      "target": "principal-engineer",
+      "weight": 0.59
+    },
+    {
+      "source": "master-scheduler-aerospace-defense",
+      "target": "design-engineer-aerospace-defense",
+      "weight": 0.4
+    },
+    {
+      "source": "master-scheduler-aerospace-defense",
+      "target": "associate-engineer",
+      "weight": 0.95
+    },
+    {
+      "source": "continuous-improvement-engineer-aerospace-defense",
+      "target": "principal-engineer",
+      "weight": 0.76
+    },
+    {
+      "source": "helicopter-pilot",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.87
+    },
+    {
+      "source": "flight-attendant",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.48
+    },
+    {
+      "source": "flight-attendant",
+      "target": "systems-engineer-aerospace-defense",
+      "weight": 0.94
+    },
+    {
+      "source": "cabin-crew",
+      "target": "quality-engineer-aerospace-defense",
+      "weight": 0.55
+    },
+    {
+      "source": "subcontracts-manager",
+      "target": "systems-engineer-aerospace-defense",
+      "weight": 0.69
+    },
+    {
+      "source": "subcontracts-manager",
+      "target": "senior-systems-engineer-aerospace-defense",
+      "weight": 0.91
+    },
+    {
+      "source": "mission-commander-aerospace-defense",
+      "target": "senior-systems-engineer-aerospace-defense",
+      "weight": 0.51
+    },
+    {
+      "source": "commodity-manager-aerospace-defense",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.42
+    },
+    {
+      "source": "propulsion-engineer",
+      "target": "captain",
+      "weight": 0.71
+    },
+    {
+      "source": "cyber-security-engineer",
+      "target": "captain",
+      "weight": 0.75
+    },
+    {
+      "source": "cyber-security-engineer",
+      "target": "mechanical-engineer-aerospace-defense",
+      "weight": 0.49
+    },
+    {
+      "source": "aircraft-maintenance-engineer",
+      "target": "manufacturing-engineer-aerospace-defense",
+      "weight": 0.49
+    },
+    {
+      "source": "airport-manager",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.6
+    },
+    {
+      "source": "airport-manager",
+      "target": "associate-engineer",
+      "weight": 0.49
+    },
+    {
+      "source": "engineering-technician-iii",
+      "target": "senior-systems-engineer-aerospace-defense",
+      "weight": 0.89
+    },
+    {
+      "source": "senior-supplier-quality-engineer-aerospace-defense",
+      "target": "captain",
+      "weight": 0.48
+    },
+    {
+      "source": "intelligence-analyst-aerospace-defense",
+      "target": "manufacturing-engineer-aerospace-defense",
+      "weight": 0.95
+    },
+    {
+      "source": "weapons-officer-aerospace-defense",
+      "target": "manufacturing-engineer-aerospace-defense",
+      "weight": 0.54
+    },
+    {
+      "source": "senior-staff-engineer-aerospace-defense",
+      "target": "systems-engineer-aerospace-defense",
+      "weight": 0.46
+    },
+    {
+      "source": "senior-staff-engineer-aerospace-defense",
+      "target": "principal-engineer",
+      "weight": 0.4
+    },
+    {
+      "source": "manufacturing-engineer-ii-aerospace-defense",
+      "target": "captain",
+      "weight": 0.53
+    },
+    {
+      "source": "senior-systems-engineer-ii",
+      "target": "design-engineer-aerospace-defense",
+      "weight": 0.86
+    },
+    {
+      "source": "line-pilot",
+      "target": "principal-engineer",
+      "weight": 0.61
+    },
+    {
+      "source": "senior-technical-writer-aerospace-defense",
+      "target": "mechanical-engineer-aerospace-defense",
+      "weight": 0.52
+    },
+    {
+      "source": "technical-writer-iii-aerospace-defense",
+      "target": "manufacturing-engineer-aerospace-defense",
+      "weight": 0.46
+    },
+    {
+      "source": "technical-writer-iii-aerospace-defense",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.95
+    },
+    {
+      "source": "senior-program-analyst-aerospace-defense",
+      "target": "systems-engineer-aerospace-defense",
+      "weight": 0.52
+    },
+    {
+      "source": "senior-program-analyst-aerospace-defense",
+      "target": "captain",
+      "weight": 0.43
+    },
+    {
+      "source": "senior-technical-author",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.86
+    },
+    {
+      "source": "senior-technical-author",
+      "target": "quality-engineer-aerospace-defense",
+      "weight": 0.78
+    },
+    {
+      "source": "senior-aerodynamicist-aerospace-defense",
+      "target": "captain",
+      "weight": 0.78
+    },
+    {
+      "source": "senior-aerodynamicist-aerospace-defense",
+      "target": "principal-engineer",
+      "weight": 0.41
+    },
+    {
+      "source": "senior-physicist",
+      "target": "associate-engineer",
+      "weight": 0.95
+    },
+    {
+      "source": "technical-author",
+      "target": "design-engineer-aerospace-defense",
+      "weight": 0.69
+    },
+    {
+      "source": "technical-writer-ii-aerospace-defense",
+      "target": "senior-systems-engineer-aerospace-defense",
+      "weight": 0.83
+    },
+    {
+      "source": "intelligence-specialist-aerospace-defense",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 1
+    },
+    {
+      "source": "software-project-manager-aerospace-defense",
+      "target": "associate-engineer",
+      "weight": 0.57
+    },
+    {
+      "source": "software-project-manager-aerospace-defense",
+      "target": "mechanical-engineer-aerospace-defense",
+      "weight": 0.87
+    },
+    {
+      "source": "senior-cyber-security-analyst",
+      "target": "systems-engineer-aerospace-defense",
+      "weight": 0.67
+    },
+    {
+      "source": "senior-cyber-security-analyst",
+      "target": "mechanical-engineer-aerospace-defense",
+      "weight": 0.71
+    },
+    {
+      "source": "aerodynamicist-aerospace-defense",
+      "target": "design-engineer-aerospace-defense",
+      "weight": 0.46
+    },
+    {
+      "source": "aerodynamicist-aerospace-defense",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.52
+    },
+    {
+      "source": "program-analyst-aerospace-defense",
+      "target": "quality-engineer-aerospace-defense",
+      "weight": 0.68
+    },
+    {
+      "source": "contract-administrator-iii",
+      "target": "manufacturing-engineer-aerospace-defense",
+      "weight": 0.82
+    },
+    {
+      "source": "contract-administrator-iii",
+      "target": "quality-engineer-aerospace-defense",
+      "weight": 0.56
+    },
+    {
+      "source": "cyber-security-analyst",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.68
+    },
+    {
+      "source": "senior-master-scheduler",
+      "target": "mechanical-engineer-aerospace-defense",
+      "weight": 0.74
+    },
+    {
+      "source": "senior-master-scheduler",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.83
+    },
+    {
+      "source": "senior-information-assurance-analyst-aerospace-defense",
+      "target": "design-engineer-aerospace-defense",
+      "weight": 0.91
+    },
+    {
+      "source": "senior-subcontracts-administrator",
+      "target": "principal-engineer",
+      "weight": 0.47
+    },
+    {
+      "source": "contract-administrator-ii",
+      "target": "manufacturing-engineer-aerospace-defense",
+      "weight": 0.82
+    },
+    {
+      "source": "contract-administrator-ii",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-field-service-representative",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.52
+    },
+    {
+      "source": "senior-commodity-manager",
+      "target": "senior-systems-engineer-aerospace-defense",
+      "weight": 0.71
+    },
+    {
+      "source": "cyber-security",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.46
+    },
+    {
+      "source": "information-assurance-analyst-aerospace-defense",
+      "target": "principal-engineer",
+      "weight": 0.86
+    },
+    {
+      "source": "information-assurance-analyst-aerospace-defense",
+      "target": "manufacturing-engineer-aerospace-defense",
+      "weight": 0.74
+    },
+    {
+      "source": "associate-engineer",
+      "target": "principal-engineer",
+      "weight": 0.94
+    },
+    {
+      "source": "associate-engineer",
+      "target": "systems-engineer-aerospace-defense",
+      "weight": 0.91
+    },
+    {
+      "source": "associate-engineer",
+      "target": "senior-systems-engineer-aerospace-defense",
+      "weight": 0.64
+    },
+    {
+      "source": "principal-engineer",
+      "target": "design-engineer-aerospace-defense",
+      "weight": 0.8
+    },
+    {
+      "source": "principal-engineer",
+      "target": "systems-engineer-aerospace-defense",
+      "weight": 0.9
+    },
+    {
+      "source": "principal-engineer",
+      "target": "manufacturing-engineer-aerospace-defense",
+      "weight": 0.73
+    },
+    {
+      "source": "principal-engineer",
+      "target": "senior-systems-engineer-aerospace-defense",
+      "weight": 0.65
+    },
+    {
+      "source": "principal-engineer",
+      "target": "mechanical-engineer-aerospace-defense",
+      "weight": 0.82
+    },
+    {
+      "source": "principal-engineer",
+      "target": "captain",
+      "weight": 0.65
+    },
+    {
+      "source": "principal-engineer",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.94
+    },
+    {
+      "source": "design-engineer-aerospace-defense",
+      "target": "manufacturing-engineer-aerospace-defense",
+      "weight": 0.81
+    },
+    {
+      "source": "design-engineer-aerospace-defense",
+      "target": "senior-systems-engineer-aerospace-defense",
+      "weight": 0.96
+    },
+    {
+      "source": "design-engineer-aerospace-defense",
+      "target": "quality-engineer-aerospace-defense",
+      "weight": 0.91
+    },
+    {
+      "source": "design-engineer-aerospace-defense",
+      "target": "mechanical-engineer-aerospace-defense",
+      "weight": 0.68
+    },
+    {
+      "source": "design-engineer-aerospace-defense",
+      "target": "captain",
+      "weight": 0.91
+    },
+    {
+      "source": "design-engineer-aerospace-defense",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.68
+    },
+    {
+      "source": "systems-engineer-aerospace-defense",
+      "target": "senior-systems-engineer-aerospace-defense",
+      "weight": 0.83
+    },
+    {
+      "source": "systems-engineer-aerospace-defense",
+      "target": "quality-engineer-aerospace-defense",
+      "weight": 0.95
+    },
+    {
+      "source": "systems-engineer-aerospace-defense",
+      "target": "mechanical-engineer-aerospace-defense",
+      "weight": 0.9
+    },
+    {
+      "source": "systems-engineer-aerospace-defense",
+      "target": "captain",
+      "weight": 0.89
+    },
+    {
+      "source": "systems-engineer-aerospace-defense",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.72
+    },
+    {
+      "source": "manufacturing-engineer-aerospace-defense",
+      "target": "quality-engineer-aerospace-defense",
+      "weight": 0.68
+    },
+    {
+      "source": "manufacturing-engineer-aerospace-defense",
+      "target": "mechanical-engineer-aerospace-defense",
+      "weight": 0.66
+    },
+    {
+      "source": "manufacturing-engineer-aerospace-defense",
+      "target": "captain",
+      "weight": 0.73
+    },
+    {
+      "source": "manufacturing-engineer-aerospace-defense",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.75
+    },
+    {
+      "source": "senior-systems-engineer-aerospace-defense",
+      "target": "quality-engineer-aerospace-defense",
+      "weight": 0.78
+    },
+    {
+      "source": "senior-systems-engineer-aerospace-defense",
+      "target": "mechanical-engineer-aerospace-defense",
+      "weight": 0.76
+    },
+    {
+      "source": "senior-systems-engineer-aerospace-defense",
+      "target": "captain",
+      "weight": 0.99
+    },
+    {
+      "source": "senior-systems-engineer-aerospace-defense",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.63
+    },
+    {
+      "source": "quality-engineer-aerospace-defense",
+      "target": "mechanical-engineer-aerospace-defense",
+      "weight": 0.74
+    },
+    {
+      "source": "quality-engineer-aerospace-defense",
+      "target": "captain",
+      "weight": 0.85
+    },
+    {
+      "source": "quality-engineer-aerospace-defense",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.98
+    },
+    {
+      "source": "mechanical-engineer-aerospace-defense",
+      "target": "captain",
+      "weight": 0.81
+    },
+    {
+      "source": "mechanical-engineer-aerospace-defense",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.96
+    },
+    {
+      "source": "captain",
+      "target": "test-engineer-aerospace-defense",
+      "weight": 0.62
+    },
+    {
+      "source": "engineering-manager",
+      "target": "production-superintendent-aerospace-defense",
+      "weight": 0.7
+    },
+    {
+      "source": "clinical-nurse-consultant-programmer-aerospace-defense",
+      "target": "clinical-nurse-consultant-machinist-aerospace-defense",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-program-manager",
+      "target": "manufacturing-manager-aerospace-defense",
+      "weight": 0.7
+    },
+    {
+      "source": "technical-staff-member-aerospace-defense",
+      "target": "aircraft-technician",
+      "weight": 0.7
+    },
+    {
+      "source": "flight-instructor",
+      "target": "certified-flight-instructor",
+      "weight": 0.7
+    },
+    {
+      "source": "flight-instructor",
+      "target": "pilot-instructor-aerospace-defense",
+      "weight": 0.7
+    },
+    {
+      "source": "certified-flight-instructor",
+      "target": "pilot-instructor-aerospace-defense",
+      "weight": 0.7
+    },
+    {
+      "source": "commander-aerospace-defense",
+      "target": "lieutenant-colonel-aerospace-defense",
+      "weight": 0.7
+    },
+    {
+      "source": "commander-aerospace-defense",
+      "target": "branch-chief-aerospace-defense",
+      "weight": 0.7
+    },
+    {
+      "source": "commander-aerospace-defense",
+      "target": "flight-chief-aerospace-defense",
+      "weight": 0.7
+    },
+    {
+      "source": "lieutenant-colonel-aerospace-defense",
+      "target": "branch-chief-aerospace-defense",
+      "weight": 0.7
+    },
+    {
+      "source": "lieutenant-colonel-aerospace-defense",
+      "target": "flight-chief-aerospace-defense",
+      "weight": 0.7
+    },
+    {
+      "source": "branch-chief-aerospace-defense",
+      "target": "flight-chief-aerospace-defense",
+      "weight": 0.7
+    },
+    {
+      "source": "division-officer-aerospace-defense",
+      "target": "assistant-operation-officer-aerospace-defense",
+      "weight": 0.7
+    },
+    {
+      "source": "master-scheduler-aerospace-defense",
+      "target": "senior-master-scheduler",
+      "weight": 0.7
+    },
+    {
+      "source": "helicopter-pilot",
+      "target": "line-pilot",
+      "weight": 0.7
+    },
+    {
+      "source": "mission-commander-aerospace-defense",
+      "target": "weapons-officer-aerospace-defense",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-technical-writer-aerospace-defense",
+      "target": "technical-writer-iii-aerospace-defense",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-technical-writer-aerospace-defense",
+      "target": "technical-writer-ii-aerospace-defense",
+      "weight": 0.7
+    },
+    {
+      "source": "technical-writer-iii-aerospace-defense",
+      "target": "technical-writer-ii-aerospace-defense",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-technical-author",
+      "target": "technical-author",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-aerodynamicist-aerospace-defense",
+      "target": "senior-physicist",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-aerodynamicist-aerospace-defense",
+      "target": "aerodynamicist-aerospace-defense",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-physicist",
+      "target": "aerodynamicist-aerospace-defense",
+      "weight": 0.7
+    }
+  ]
+}

@@ -1,0 +1,2818 @@
+{
+  "sector": "Finance",
+  "metadata": {
+    "nodeCount": 150,
+    "edgeCount": 265,
+    "generatedAt": "2026-01-31T16:46:31Z"
+  },
+  "nodes": [
+    {
+      "id": "assistant-vice-president-finance",
+      "label": "Assistant Vice President",
+      "soc": "11-1011",
+      "ptr": 0.4639,
+      "nfc": 0.6478,
+      "quadrant": "LH",
+      "size": 19.46,
+      "aiExposure": 0.3316
+    },
+    {
+      "id": "financial-advisor",
+      "label": "Financial Advisor",
+      "soc": "21-1012",
+      "ptr": 0.1283,
+      "nfc": 0.218,
+      "quadrant": "LH",
+      "size": 17.63,
+      "aiExposure": 0.3073
+    },
+    {
+      "id": "assistant-branch-manager",
+      "label": "Assistant Branch Manager",
+      "soc": "41-1011",
+      "ptr": 0.4994,
+      "nfc": 0.5836,
+      "quadrant": "LH",
+      "size": 16.45,
+      "aiExposure": 0.3083
+    },
+    {
+      "id": "financial-consultant",
+      "label": "Financial Consultant",
+      "soc": "13-2052",
+      "ptr": 0.5158,
+      "nfc": 0.6079,
+      "quadrant": "LH",
+      "size": 15.55,
+      "aiExposure": 0.4276
+    },
+    {
+      "id": "credit-analyst",
+      "label": "Credit Analyst",
+      "soc": "43-4041",
+      "ptr": 0.6516,
+      "nfc": 0.9442,
+      "quadrant": "LH",
+      "size": 13.85,
+      "aiExposure": 0.4174
+    },
+    {
+      "id": "mortgage-advisor",
+      "label": "Mortgage Advisor",
+      "soc": "21-1012",
+      "ptr": 0.2095,
+      "nfc": 0.2175,
+      "quadrant": "LH",
+      "size": 13.27,
+      "aiExposure": 0.3073
+    },
+    {
+      "id": "investment-analyst",
+      "label": "Investment Analyst",
+      "soc": "13-2054",
+      "ptr": 0.5985,
+      "nfc": 0.6803,
+      "quadrant": "LH",
+      "size": 12.87,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "loan-officer",
+      "label": "Loan Officer",
+      "soc": "43-4131",
+      "ptr": 0.634,
+      "nfc": 0.9051,
+      "quadrant": "LH",
+      "size": 10.91,
+      "aiExposure": 0.4384
+    },
+    {
+      "id": "mortgage-banker",
+      "label": "Mortgage Banker",
+      "soc": "43-3071",
+      "ptr": 0.7571,
+      "nfc": 0.7848,
+      "quadrant": "HH",
+      "size": 10.77,
+      "aiExposure": 0.3957
+    },
+    {
+      "id": "senior-vice-president",
+      "label": "Senior Vice President",
+      "soc": "11-1011",
+      "ptr": 0.6003,
+      "nfc": 0.6447,
+      "quadrant": "LH",
+      "size": 10.15,
+      "aiExposure": 0.3316
+    },
+    {
+      "id": "private-banker",
+      "label": "Private Banker",
+      "soc": "43-3071",
+      "ptr": 0.7727,
+      "nfc": 0.784,
+      "quadrant": "HH",
+      "size": 9.76,
+      "aiExposure": 0.3957
+    },
+    {
+      "id": "compliance-analyst",
+      "label": "Compliance Analyst",
+      "soc": "13-1041",
+      "ptr": 0.6377,
+      "nfc": 0.6693,
+      "quadrant": "LH",
+      "size": 9.59,
+      "aiExposure": 0.3627
+    },
+    {
+      "id": "senior-banker",
+      "label": "Senior Banker",
+      "soc": "43-3071",
+      "ptr": 0.783,
+      "nfc": 0.7831,
+      "quadrant": "HH",
+      "size": 9.51,
+      "aiExposure": 0.3957
+    },
+    {
+      "id": "relationship-manager",
+      "label": "Relationship Manager",
+      "soc": "11-2022",
+      "ptr": 0.4225,
+      "nfc": 0.4669,
+      "quadrant": "LH",
+      "size": 9.38,
+      "aiExposure": 0.3071
+    },
+    {
+      "id": "risk-analyst-finance",
+      "label": "Risk Analyst",
+      "soc": "19-5011",
+      "ptr": 0.2806,
+      "nfc": 0.315,
+      "quadrant": "LH",
+      "size": 9.22,
+      "aiExposure": 0.2396
+    },
+    {
+      "id": "investment-specialist",
+      "label": "Investment Specialist",
+      "soc": "41-3031",
+      "ptr": 0.9033,
+      "nfc": 0.9203,
+      "quadrant": "HH",
+      "size": 8.32,
+      "aiExposure": 0.4188
+    },
+    {
+      "id": "mortgage-consultant",
+      "label": "Mortgage Consultant",
+      "soc": "13-2072",
+      "ptr": 0.7988,
+      "nfc": 0.8745,
+      "quadrant": "HH",
+      "size": 8.23,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "portfolio-manager",
+      "label": "Portfolio Manager",
+      "soc": "41-9021",
+      "ptr": 0.5557,
+      "nfc": 0.6034,
+      "quadrant": "LH",
+      "size": 7.93,
+      "aiExposure": 0.3747
+    },
+    {
+      "id": "investment-banking-analyst",
+      "label": "Investment Banking Analyst",
+      "soc": "13-2054",
+      "ptr": 0.623,
+      "nfc": 0.6761,
+      "quadrant": "LH",
+      "size": 7.7,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "personal-banker",
+      "label": "Personal Banker",
+      "soc": "43-4141",
+      "ptr": 0,
+      "nfc": 0.8222,
+      "quadrant": "LH",
+      "size": 7.41,
+      "aiExposure": 0.4328
+    },
+    {
+      "id": "equity-research-analyst",
+      "label": "Equity Research Analyst",
+      "soc": "19-3011",
+      "ptr": 0.7902,
+      "nfc": 0.8083,
+      "quadrant": "HH",
+      "size": 7.29,
+      "aiExposure": 0.4402
+    },
+    {
+      "id": "investment-banking-summer-analyst",
+      "label": "Investment Banking Summer Analyst",
+      "soc": "13-2054",
+      "ptr": 0.6736,
+      "nfc": 0.675,
+      "quadrant": "HH",
+      "size": 7.28,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "quantitative-analyst",
+      "label": "Quantitative Analyst",
+      "soc": "13-2099",
+      "ptr": 0.8113,
+      "nfc": 0.8528,
+      "quadrant": "HH",
+      "size": 6.71,
+      "aiExposure": 0.4145
+    },
+    {
+      "id": "trader",
+      "label": "Trader",
+      "soc": "13-2099",
+      "ptr": 0.8113,
+      "nfc": 0.8523,
+      "quadrant": "HH",
+      "size": 6.69,
+      "aiExposure": 0.4145
+    },
+    {
+      "id": "banking-officer",
+      "label": "Banking Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 6.64,
+      "aiExposure": 0
+    },
+    {
+      "id": "financial-sales-consultant",
+      "label": "Financial Sales Consultant",
+      "soc": "41-4012",
+      "ptr": 0.9161,
+      "nfc": 0.9221,
+      "quadrant": "HH",
+      "size": 6.34,
+      "aiExposure": 0.4628
+    },
+    {
+      "id": "home-mortgage-consultant",
+      "label": "Home Mortgage Consultant",
+      "soc": "13-2072",
+      "ptr": 0.8531,
+      "nfc": 0.87,
+      "quadrant": "HH",
+      "size": 6.33,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "financial-associate",
+      "label": "Financial Associate",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 6.29,
+      "aiExposure": 0
+    },
+    {
+      "id": "financial-planner",
+      "label": "Financial Planner",
+      "soc": "19-3051",
+      "ptr": 0.5084,
+      "nfc": 0.5251,
+      "quadrant": "LH",
+      "size": 6.27,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "mortgage-broker",
+      "label": "Mortgage Broker",
+      "soc": "43-4131",
+      "ptr": 0.8356,
+      "nfc": 0.8947,
+      "quadrant": "HH",
+      "size": 6.19,
+      "aiExposure": 0.4384
+    },
+    {
+      "id": "investment-associate",
+      "label": "Investment Associate",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 6.1,
+      "aiExposure": 0
+    },
+    {
+      "id": "teller-supervisor",
+      "label": "Teller Supervisor",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 6.08,
+      "aiExposure": 0
+    },
+    {
+      "id": "financial-adviser-finance",
+      "label": "Financial Adviser",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.97,
+      "aiExposure": 0
+    },
+    {
+      "id": "risk-manager-finance",
+      "label": "Risk Manager",
+      "soc": "11-9199",
+      "ptr": 0.5698,
+      "nfc": 0.587,
+      "quadrant": "LH",
+      "size": 5.95,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "internal-wholesaler-finance",
+      "label": "Internal Wholesaler",
+      "soc": "13-1022",
+      "ptr": 0.4657,
+      "nfc": 0.4762,
+      "quadrant": "LH",
+      "size": 5.91,
+      "aiExposure": 0.2333
+    },
+    {
+      "id": "investment-officer",
+      "label": "Investment Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.82,
+      "aiExposure": 0
+    },
+    {
+      "id": "equity-analyst",
+      "label": "Equity Analyst",
+      "soc": "13-2099",
+      "ptr": 0.823,
+      "nfc": 0.8465,
+      "quadrant": "HH",
+      "size": 5.73,
+      "aiExposure": 0.4145
+    },
+    {
+      "id": "senior-investment-analyst",
+      "label": "Senior Investment Analyst",
+      "soc": "13-2054",
+      "ptr": 0.6647,
+      "nfc": 0.6693,
+      "quadrant": "LH",
+      "size": 5.68,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "equity-research-associate",
+      "label": "Equity Research Associate",
+      "soc": "19-4099",
+      "ptr": 0.7406,
+      "nfc": 0.7664,
+      "quadrant": "HH",
+      "size": 5.67,
+      "aiExposure": 0.3492
+    },
+    {
+      "id": "fund-accountant-finance",
+      "label": "Fund Accountant",
+      "soc": "13-2011",
+      "ptr": 0.758,
+      "nfc": 0.8135,
+      "quadrant": "HH",
+      "size": 5.64,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "compliance-officer",
+      "label": "Compliance Officer",
+      "soc": "13-2081",
+      "ptr": 0.816,
+      "nfc": 0.8375,
+      "quadrant": "HH",
+      "size": 5.64,
+      "aiExposure": 0.4603
+    },
+    {
+      "id": "paraplanner",
+      "label": "Paraplanner",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.59,
+      "aiExposure": 0
+    },
+    {
+      "id": "summer-analyst",
+      "label": "Summer Analyst",
+      "soc": "13-2054",
+      "ptr": 0.623,
+      "nfc": 0.6675,
+      "quadrant": "LH",
+      "size": 5.57,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "loan-processor",
+      "label": "Loan Processor",
+      "soc": "43-4131",
+      "ptr": 0.79,
+      "nfc": 0.8881,
+      "quadrant": "HH",
+      "size": 5.56,
+      "aiExposure": 0.4384
+    },
+    {
+      "id": "investment-vice-president",
+      "label": "Investment Vice President",
+      "soc": "11-1011",
+      "ptr": 0.6309,
+      "nfc": 0.6329,
+      "quadrant": "LH",
+      "size": 5.54,
+      "aiExposure": 0.3316
+    },
+    {
+      "id": "senior-credit-analyst",
+      "label": "Senior Credit Analyst",
+      "soc": "43-4041",
+      "ptr": 0.857,
+      "nfc": 0.9239,
+      "quadrant": "HH",
+      "size": 5.52,
+      "aiExposure": 0.4174
+    },
+    {
+      "id": "banking-center-manager",
+      "label": "Banking Center Manager",
+      "soc": "11-3031",
+      "ptr": 0.5256,
+      "nfc": 0.534,
+      "quadrant": "LH",
+      "size": 5.5,
+      "aiExposure": 0.3169
+    },
+    {
+      "id": "loan-specialist",
+      "label": "Loan Specialist",
+      "soc": "43-4121",
+      "ptr": 0.7657,
+      "nfc": 0.7618,
+      "quadrant": "HH",
+      "size": 5.49,
+      "aiExposure": 0.342
+    },
+    {
+      "id": "investment-consultant",
+      "label": "Investment Consultant",
+      "soc": "13-2052",
+      "ptr": 0.597,
+      "nfc": 0.5936,
+      "quadrant": "LH",
+      "size": 5.48,
+      "aiExposure": 0.4276
+    },
+    {
+      "id": "financial-representative-finance",
+      "label": "Financial Representative",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.45,
+      "aiExposure": 0
+    },
+    {
+      "id": "bank-examiner",
+      "label": "Bank Examiner",
+      "soc": "13-2061",
+      "ptr": 0.593,
+      "nfc": 0.5929,
+      "quadrant": "LH",
+      "size": 5.45,
+      "aiExposure": 0.3196
+    },
+    {
+      "id": "branch-sales-manager",
+      "label": "Branch Sales Manager",
+      "soc": "11-2021",
+      "ptr": 0.593,
+      "nfc": 0.5926,
+      "quadrant": "LH",
+      "size": 5.42,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "senior-loan-officer",
+      "label": "Senior Loan Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.41,
+      "aiExposure": 0
+    },
+    {
+      "id": "commercial-lender",
+      "label": "Commercial Lender",
+      "soc": "13-2072",
+      "ptr": 0.8647,
+      "nfc": 0.8575,
+      "quadrant": "HH",
+      "size": 5.4,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "mortgage-adviser",
+      "label": "Mortgage Adviser",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.37,
+      "aiExposure": 0
+    },
+    {
+      "id": "mortgage-loan-officer",
+      "label": "Mortgage Loan Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.36,
+      "aiExposure": 0
+    },
+    {
+      "id": "small-business-specialist",
+      "label": "Small Business Specialist",
+      "soc": "43-4061",
+      "ptr": 0.9095,
+      "nfc": 0.932,
+      "quadrant": "HH",
+      "size": 5.36,
+      "aiExposure": 0.4816
+    },
+    {
+      "id": "consumer-loan-underwriter",
+      "label": "Consumer Loan Underwriter",
+      "soc": "13-2072",
+      "ptr": 0.8647,
+      "nfc": 0.8556,
+      "quadrant": "HH",
+      "size": 5.36,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "investment-manager",
+      "label": "Investment Manager",
+      "soc": "11-3031",
+      "ptr": 0.5293,
+      "nfc": 0.5305,
+      "quadrant": "LH",
+      "size": 5.34,
+      "aiExposure": 0.3169
+    },
+    {
+      "id": "senior-trader",
+      "label": "Senior Trader",
+      "soc": "13-1022",
+      "ptr": 0.4785,
+      "nfc": 0.4698,
+      "quadrant": "LH",
+      "size": 5.33,
+      "aiExposure": 0.2333
+    },
+    {
+      "id": "fund-manager",
+      "label": "Fund Manager",
+      "soc": "11-3031",
+      "ptr": 0.5329,
+      "nfc": 0.5299,
+      "quadrant": "LH",
+      "size": 5.33,
+      "aiExposure": 0.3169
+    },
+    {
+      "id": "work-director",
+      "label": "Work Director",
+      "soc": "11-9199",
+      "ptr": 0.5934,
+      "nfc": 0.5782,
+      "quadrant": "LH",
+      "size": 5.33,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "operational-risk-analyst",
+      "label": "Operational Risk Analyst",
+      "soc": "19-5011",
+      "ptr": 0.3153,
+      "nfc": 0.307,
+      "quadrant": "LH",
+      "size": 5.33,
+      "aiExposure": 0.2396
+    },
+    {
+      "id": "associate-relationship-manager",
+      "label": "Associate Relationship Manager",
+      "soc": "11-2032",
+      "ptr": 0.7899,
+      "nfc": 0.779,
+      "quadrant": "HH",
+      "size": 5.32,
+      "aiExposure": 0.386
+    },
+    {
+      "id": "senior-examiner-finance",
+      "label": "Senior Examiner",
+      "soc": "13-2061",
+      "ptr": 0.597,
+      "nfc": 0.5884,
+      "quadrant": "LH",
+      "size": 5.31,
+      "aiExposure": 0.3196
+    },
+    {
+      "id": "banking-associate-finance",
+      "label": "Banking Associate",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.31,
+      "aiExposure": 0
+    },
+    {
+      "id": "credit-officer",
+      "label": "Credit Officer",
+      "soc": "43-4041",
+      "ptr": 0.9153,
+      "nfc": 0.9134,
+      "quadrant": "HH",
+      "size": 5.31,
+      "aiExposure": 0.4174
+    },
+    {
+      "id": "mortgage-specialist",
+      "label": "Mortgage Specialist",
+      "soc": "13-2072",
+      "ptr": 0.8647,
+      "nfc": 0.8509,
+      "quadrant": "HH",
+      "size": 5.31,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "trading-assistant",
+      "label": "Trading Assistant",
+      "soc": "43-4011",
+      "ptr": 0.9589,
+      "nfc": 0.9494,
+      "quadrant": "HH",
+      "size": 5.3,
+      "aiExposure": 0.5582
+    },
+    {
+      "id": "loan-servicing-specialist",
+      "label": "Loan Servicing Specialist",
+      "soc": "13-2072",
+      "ptr": 0.8531,
+      "nfc": 0.85,
+      "quadrant": "HH",
+      "size": 5.3,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "securities-analyst",
+      "label": "Securities Analyst",
+      "soc": "13-2054",
+      "ptr": 0.6647,
+      "nfc": 0.657,
+      "quadrant": "LH",
+      "size": 5.3,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "portfolio-analyst",
+      "label": "Portfolio Analyst",
+      "soc": "13-2054",
+      "ptr": 0.6511,
+      "nfc": 0.657,
+      "quadrant": "LH",
+      "size": 5.3,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "senior-operation-analyst",
+      "label": "Senior Operation Analyst",
+      "soc": "13-2054",
+      "ptr": 0.6736,
+      "nfc": 0.6563,
+      "quadrant": "HH",
+      "size": 5.3,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "stockbroker",
+      "label": "Stockbroker",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.3,
+      "aiExposure": 0
+    },
+    {
+      "id": "business-banker",
+      "label": "Business Banker",
+      "soc": "43-3071",
+      "ptr": 0.7303,
+      "nfc": 0.7574,
+      "quadrant": "HH",
+      "size": 5.28,
+      "aiExposure": 0.3957
+    },
+    {
+      "id": "head-trader",
+      "label": "Head Trader",
+      "soc": "13-1022",
+      "ptr": 0.4753,
+      "nfc": 0.4657,
+      "quadrant": "LH",
+      "size": 5.26,
+      "aiExposure": 0.2333
+    },
+    {
+      "id": "investment-advisor",
+      "label": "Investment Advisor",
+      "soc": "21-1012",
+      "ptr": 0.2138,
+      "nfc": 0.2094,
+      "quadrant": "LH",
+      "size": 5.24,
+      "aiExposure": 0.3073
+    },
+    {
+      "id": "investment-representative",
+      "label": "Investment Representative",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.21,
+      "aiExposure": 0
+    },
+    {
+      "id": "teller",
+      "label": "Teller",
+      "soc": "41-2011",
+      "ptr": 0.0855,
+      "nfc": 0.1479,
+      "quadrant": "LH",
+      "size": 5.21,
+      "aiExposure": 0.2536
+    },
+    {
+      "id": "relationship-banker",
+      "label": "Relationship Banker",
+      "soc": "43-4141",
+      "ptr": 0.781,
+      "nfc": 0.7959,
+      "quadrant": "HH",
+      "size": 5.21,
+      "aiExposure": 0.4328
+    },
+    {
+      "id": "loan-originator",
+      "label": "Loan Originator",
+      "soc": "43-4131",
+      "ptr": 0.8605,
+      "nfc": 0.8702,
+      "quadrant": "HH",
+      "size": 5.2,
+      "aiExposure": 0.4384
+    },
+    {
+      "id": "senior-fund-accountant-finance",
+      "label": "Senior Fund Accountant",
+      "soc": "13-2011",
+      "ptr": 0.8033,
+      "nfc": 0.795,
+      "quadrant": "HH",
+      "size": 5.2,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "head-teller",
+      "label": "Head Teller",
+      "soc": "41-2011",
+      "ptr": 0.1471,
+      "nfc": 0.1475,
+      "quadrant": "LH",
+      "size": 5.2,
+      "aiExposure": 0.2536
+    },
+    {
+      "id": "mortgage-loan-processor",
+      "label": "Mortgage Loan Processor",
+      "soc": "43-4131",
+      "ptr": 0.8728,
+      "nfc": 0.8687,
+      "quadrant": "HH",
+      "size": 5.2,
+      "aiExposure": 0.4384
+    },
+    {
+      "id": "bank-teller",
+      "label": "Bank Teller",
+      "soc": "41-2011",
+      "ptr": 0.1283,
+      "nfc": 0.1474,
+      "quadrant": "LH",
+      "size": 5.2,
+      "aiExposure": 0.2536
+    },
+    {
+      "id": "senior-relationship-manager",
+      "label": "Senior Relationship Manager",
+      "soc": "11-2032",
+      "ptr": 0.7952,
+      "nfc": 0.7695,
+      "quadrant": "HH",
+      "size": 5.19,
+      "aiExposure": 0.386
+    },
+    {
+      "id": "financial-service-representative",
+      "label": "Financial Service Representative",
+      "soc": "41-9099",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.19,
+      "aiExposure": 0
+    },
+    {
+      "id": "client-service-associate",
+      "label": "Client Service Associate",
+      "soc": "43-4011",
+      "ptr": 0.926,
+      "nfc": 0.9394,
+      "quadrant": "HH",
+      "size": 5.18,
+      "aiExposure": 0.5582
+    },
+    {
+      "id": "mortgage-underwriter",
+      "label": "Mortgage Underwriter",
+      "soc": "13-2072",
+      "ptr": 0.8647,
+      "nfc": 0.841,
+      "quadrant": "HH",
+      "size": 5.18,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "business-relationship-manager",
+      "label": "Business Relationship Manager",
+      "soc": "11-2032",
+      "ptr": 0.7793,
+      "nfc": 0.7678,
+      "quadrant": "HH",
+      "size": 5.18,
+      "aiExposure": 0.386
+    },
+    {
+      "id": "investment-executive",
+      "label": "Investment Executive",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.18,
+      "aiExposure": 0
+    },
+    {
+      "id": "business-banking-specialist",
+      "label": "Business Banking Specialist",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.17,
+      "aiExposure": 0
+    },
+    {
+      "id": "risk-consultant-finance",
+      "label": "Risk Consultant",
+      "soc": "13-1199",
+      "ptr": 0.8395,
+      "nfc": 0.8141,
+      "quadrant": "HH",
+      "size": 5.17,
+      "aiExposure": 0.4007
+    },
+    {
+      "id": "compliance-consultant-finance",
+      "label": "Compliance Consultant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.17,
+      "aiExposure": 0
+    },
+    {
+      "id": "loan-administration-manager",
+      "label": "Loan Administration Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.17,
+      "aiExposure": 0
+    },
+    {
+      "id": "mortgage-officer",
+      "label": "Mortgage Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.16,
+      "aiExposure": 0
+    },
+    {
+      "id": "lending-manager",
+      "label": "Lending Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.16,
+      "aiExposure": 0
+    },
+    {
+      "id": "consumer-loan-underwriter-ii",
+      "label": "Consumer Loan Underwriter II",
+      "soc": "13-2072",
+      "ptr": 0.8762,
+      "nfc": 0.8367,
+      "quadrant": "HH",
+      "size": 5.16,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "assistant-relationship-manager",
+      "label": "Assistant Relationship Manager",
+      "soc": "11-2032",
+      "ptr": 0.7686,
+      "nfc": 0.7639,
+      "quadrant": "HH",
+      "size": 5.16,
+      "aiExposure": 0.386
+    },
+    {
+      "id": "internal-sales-consultant",
+      "label": "Internal Sales Consultant",
+      "soc": "41-4012",
+      "ptr": 0.9282,
+      "nfc": 0.8833,
+      "quadrant": "HH",
+      "size": 5.16,
+      "aiExposure": 0.4628
+    },
+    {
+      "id": "operational-risk-manager-finance",
+      "label": "Operational Risk Manager",
+      "soc": "11-9199",
+      "ptr": 0.5934,
+      "nfc": 0.5647,
+      "quadrant": "LH",
+      "size": 5.16,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "branch-manager-ii",
+      "label": "Branch Manager II",
+      "soc": "41-1011",
+      "ptr": 0.5804,
+      "nfc": 0.5524,
+      "quadrant": "LH",
+      "size": 5.16,
+      "aiExposure": 0.3083
+    },
+    {
+      "id": "bank-manager",
+      "label": "Bank Manager",
+      "soc": "11-3031",
+      "ptr": 0.5436,
+      "nfc": 0.5173,
+      "quadrant": "LH",
+      "size": 5.16,
+      "aiExposure": 0.3169
+    },
+    {
+      "id": "loan-manager",
+      "label": "Loan Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.16,
+      "aiExposure": 0
+    },
+    {
+      "id": "mortgage-originator",
+      "label": "Mortgage Originator",
+      "soc": "13-2072",
+      "ptr": 0.8647,
+      "nfc": 0.8333,
+      "quadrant": "HH",
+      "size": 5.16,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "quantitative-researcher",
+      "label": "Quantitative Researcher",
+      "soc": "15-2051",
+      "ptr": 0.956,
+      "nfc": 0.904,
+      "quadrant": "HH",
+      "size": 5.16,
+      "aiExposure": 0.526
+    },
+    {
+      "id": "credit-specialist",
+      "label": "Credit Specialist",
+      "soc": "13-2071",
+      "ptr": 0.9349,
+      "nfc": 0.884,
+      "quadrant": "HH",
+      "size": 5.16,
+      "aiExposure": 0.4568
+    },
+    {
+      "id": "clients-relationship-manager",
+      "label": "Clients Relationship Manager",
+      "soc": "11-2032",
+      "ptr": 0.7952,
+      "nfc": 0.7569,
+      "quadrant": "HH",
+      "size": 5.16,
+      "aiExposure": 0.386
+    },
+    {
+      "id": "compliance-associate",
+      "label": "Compliance Associate",
+      "soc": "13-1041",
+      "ptr": 0.6557,
+      "nfc": 0.6325,
+      "quadrant": "LH",
+      "size": 5.16,
+      "aiExposure": 0.3627
+    },
+    {
+      "id": "wealth-manager",
+      "label": "Wealth Manager",
+      "soc": "13-2052",
+      "ptr": 0.6049,
+      "nfc": 0.572,
+      "quadrant": "LH",
+      "size": 5.16,
+      "aiExposure": 0.4276
+    },
+    {
+      "id": "business-banking-manager",
+      "label": "Business Banking Manager",
+      "soc": "11-3031",
+      "ptr": 0.5436,
+      "nfc": 0.514,
+      "quadrant": "LH",
+      "size": 5.16,
+      "aiExposure": 0.3169
+    },
+    {
+      "id": "mortgage-planner",
+      "label": "Mortgage Planner",
+      "soc": "19-3051",
+      "ptr": 0.5294,
+      "nfc": 0.5006,
+      "quadrant": "LH",
+      "size": 5.16,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "client-advisor-finance",
+      "label": "Client Advisor",
+      "soc": "21-1012",
+      "ptr": 0.2153,
+      "nfc": 0.2049,
+      "quadrant": "LH",
+      "size": 5.16,
+      "aiExposure": 0.3073
+    },
+    {
+      "id": "retirement-consultant-finance",
+      "label": "Retirement Consultant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.16,
+      "aiExposure": 0
+    },
+    {
+      "id": "lending-officer",
+      "label": "Lending Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.16,
+      "aiExposure": 0
+    },
+    {
+      "id": "credit-underwriter",
+      "label": "Credit Underwriter",
+      "soc": "13-2072",
+      "ptr": 0.8705,
+      "nfc": 0.8275,
+      "quadrant": "HH",
+      "size": 5.16,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "relationship-officer",
+      "label": "Relationship Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.16,
+      "aiExposure": 0
+    },
+    {
+      "id": "mortgage-processor",
+      "label": "Mortgage Processor",
+      "soc": "43-4131",
+      "ptr": 0.8788,
+      "nfc": 0.852,
+      "quadrant": "HH",
+      "size": 5.16,
+      "aiExposure": 0.4384
+    },
+    {
+      "id": "trust-officer",
+      "label": "Trust Officer",
+      "soc": "11-3031",
+      "ptr": 0.5256,
+      "nfc": 0.5128,
+      "quadrant": "LH",
+      "size": 5.16,
+      "aiExposure": 0.3169
+    },
+    {
+      "id": "investment-banking-associate",
+      "label": "Investment Banking Associate",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.15,
+      "aiExposure": 0
+    },
+    {
+      "id": "associate-advisor",
+      "label": "Associate Advisor",
+      "soc": "21-1012",
+      "ptr": 0.2153,
+      "nfc": 0.2042,
+      "quadrant": "LH",
+      "size": 5.15,
+      "aiExposure": 0.3073
+    },
+    {
+      "id": "fund-accounting-manager",
+      "label": "Fund Accounting Manager",
+      "soc": "11-3031",
+      "ptr": 0.54,
+      "nfc": 0.5119,
+      "quadrant": "LH",
+      "size": 5.15,
+      "aiExposure": 0.3169
+    },
+    {
+      "id": "finance-associate-finance",
+      "label": "Finance Associate",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.15,
+      "aiExposure": 0
+    },
+    {
+      "id": "pension-administrator-finance",
+      "label": "Pension Administrator",
+      "soc": "15-1244",
+      "ptr": 0.9499,
+      "nfc": 0.9114,
+      "quadrant": "HH",
+      "size": 5.15,
+      "aiExposure": 0.4911
+    },
+    {
+      "id": "investment-professional",
+      "label": "Investment Professional",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.15,
+      "aiExposure": 0
+    },
+    {
+      "id": "associate-national-bank-examiner",
+      "label": "Associate National Bank Examiner",
+      "soc": "13-2061",
+      "ptr": 0.6049,
+      "nfc": 0.5683,
+      "quadrant": "LH",
+      "size": 5.15,
+      "aiExposure": 0.3196
+    },
+    {
+      "id": "financial-examiner-finance",
+      "label": "Financial Examiner",
+      "soc": "13-2061",
+      "ptr": 0.6049,
+      "nfc": 0.568,
+      "quadrant": "LH",
+      "size": 5.15,
+      "aiExposure": 0.3196
+    },
+    {
+      "id": "client-service-analyst",
+      "label": "Client Service Analyst",
+      "soc": "13-2054",
+      "ptr": 0.6692,
+      "nfc": 0.6363,
+      "quadrant": "LH",
+      "size": 5.15,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "business-service-officer",
+      "label": "Business Service Officer",
+      "soc": "21-1019",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.15,
+      "aiExposure": 0
+    },
+    {
+      "id": "commercial-relationship-manager",
+      "label": "Commercial Relationship Manager",
+      "soc": "11-2032",
+      "ptr": 0.8004,
+      "nfc": 0.7502,
+      "quadrant": "HH",
+      "size": 5.15,
+      "aiExposure": 0.386
+    },
+    {
+      "id": "financial-center-manager",
+      "label": "Financial Center Manager",
+      "soc": "11-3031",
+      "ptr": 0.5436,
+      "nfc": 0.5092,
+      "quadrant": "LH",
+      "size": 5.15,
+      "aiExposure": 0.3169
+    },
+    {
+      "id": "assistant-portfolio-manager",
+      "label": "Assistant Portfolio Manager",
+      "soc": "13-2099",
+      "ptr": 0.8458,
+      "nfc": 0.8024,
+      "quadrant": "HH",
+      "size": 5.14,
+      "aiExposure": 0.4145
+    },
+    {
+      "id": "financial-service-associate",
+      "label": "Financial Service Associate",
+      "soc": "43-5051",
+      "ptr": 0.3024,
+      "nfc": 0.2867,
+      "quadrant": "LH",
+      "size": 5.12,
+      "aiExposure": 0.2668
+    },
+    {
+      "id": "senior-banking-manager",
+      "label": "Senior Banking Manager",
+      "soc": "11-3031",
+      "ptr": 0.54,
+      "nfc": 0.5083,
+      "quadrant": "LH",
+      "size": 5.11,
+      "aiExposure": 0.3169
+    },
+    {
+      "id": "equity-trader",
+      "label": "Equity Trader",
+      "soc": "13-1022",
+      "ptr": 0.4493,
+      "nfc": 0.4501,
+      "quadrant": "LH",
+      "size": 5.1,
+      "aiExposure": 0.2333
+    },
+    {
+      "id": "associate-portfolio-manager",
+      "label": "Associate Portfolio Manager",
+      "soc": "13-2099",
+      "ptr": 0.8515,
+      "nfc": 0.8004,
+      "quadrant": "HH",
+      "size": 5.07,
+      "aiExposure": 0.4145
+    },
+    {
+      "id": "fund-administrator",
+      "label": "Fund Administrator",
+      "soc": "11-3012",
+      "ptr": 0.3475,
+      "nfc": 0.3309,
+      "quadrant": "LH",
+      "size": 5.07,
+      "aiExposure": 0.2392
+    },
+    {
+      "id": "financial-service-professional-finance",
+      "label": "Financial Service Professional",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.06,
+      "aiExposure": 0
+    },
+    {
+      "id": "fraud-analyst",
+      "label": "Fraud Analyst",
+      "soc": "13-2099",
+      "ptr": 0.8287,
+      "nfc": 0.799,
+      "quadrant": "HH",
+      "size": 5.06,
+      "aiExposure": 0.4145
+    },
+    {
+      "id": "mortgage-loan-originator",
+      "label": "Mortgage Loan Originator",
+      "soc": "43-4131",
+      "ptr": 0.8908,
+      "nfc": 0.8409,
+      "quadrant": "HH",
+      "size": 5.06,
+      "aiExposure": 0.4384
+    },
+    {
+      "id": "member-service-representative",
+      "label": "Member Service Representative",
+      "soc": "41-9099",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.05,
+      "aiExposure": 0
+    },
+    {
+      "id": "commercial-credit-analyst",
+      "label": "Commercial Credit Analyst",
+      "soc": "43-4041",
+      "ptr": 0.8703,
+      "nfc": 0.8748,
+      "quadrant": "HH",
+      "size": 5.05,
+      "aiExposure": 0.4174
+    },
+    {
+      "id": "loan-analyst",
+      "label": "Loan Analyst",
+      "soc": "43-4131",
+      "ptr": 0.8908,
+      "nfc": 0.8394,
+      "quadrant": "HH",
+      "size": 5.04,
+      "aiExposure": 0.4384
+    },
+    {
+      "id": "business-banking-officer",
+      "label": "Business Banking Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.04,
+      "aiExposure": 0
+    },
+    {
+      "id": "financial-analyst-intern",
+      "label": "Financial Analyst Intern",
+      "soc": "15-2041",
+      "ptr": 0.9379,
+      "nfc": 0.8948,
+      "quadrant": "HH",
+      "size": 5.04,
+      "aiExposure": 0.5199
+    },
+    {
+      "id": "senior-compliance-analyst-finance",
+      "label": "Senior Compliance Analyst",
+      "soc": "13-1041",
+      "ptr": 0.6645,
+      "nfc": 0.6209,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.3627
+    },
+    {
+      "id": "senior-investment-associate",
+      "label": "Senior Investment Associate",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.03,
+      "aiExposure": 0
+    },
+    {
+      "id": "loan-assistant",
+      "label": "Loan Assistant",
+      "soc": "43-4131",
+      "ptr": 0.8848,
+      "nfc": 0.8369,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.4384
+    },
+    {
+      "id": "client-associate",
+      "label": "Client Associate",
+      "soc": "43-4011",
+      "ptr": 0.9654,
+      "nfc": 0.9065,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.5582
+    },
+    {
+      "id": "senior-credit-officer",
+      "label": "Senior Credit Officer",
+      "soc": "43-4041",
+      "ptr": 0.94,
+      "nfc": 0.8706,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.4174
+    }
+  ],
+  "edges": [
+    {
+      "source": "private-banker",
+      "target": "credit-analyst",
+      "weight": 0.57
+    },
+    {
+      "source": "compliance-analyst",
+      "target": "senior-vice-president",
+      "weight": 0.71
+    },
+    {
+      "source": "senior-banker",
+      "target": "senior-vice-president",
+      "weight": 0.82
+    },
+    {
+      "source": "senior-banker",
+      "target": "assistant-vice-president-finance",
+      "weight": 0.67
+    },
+    {
+      "source": "relationship-manager",
+      "target": "investment-analyst",
+      "weight": 0.68
+    },
+    {
+      "source": "relationship-manager",
+      "target": "financial-consultant",
+      "weight": 0.96
+    },
+    {
+      "source": "risk-analyst-finance",
+      "target": "financial-consultant",
+      "weight": 0.94
+    },
+    {
+      "source": "risk-analyst-finance",
+      "target": "financial-advisor",
+      "weight": 0.48
+    },
+    {
+      "source": "investment-specialist",
+      "target": "mortgage-banker",
+      "weight": 0.45
+    },
+    {
+      "source": "mortgage-consultant",
+      "target": "credit-analyst",
+      "weight": 0.84
+    },
+    {
+      "source": "mortgage-consultant",
+      "target": "senior-vice-president",
+      "weight": 0.89
+    },
+    {
+      "source": "portfolio-manager",
+      "target": "loan-officer",
+      "weight": 0.9
+    },
+    {
+      "source": "portfolio-manager",
+      "target": "assistant-branch-manager",
+      "weight": 0.4
+    },
+    {
+      "source": "investment-banking-analyst",
+      "target": "loan-officer",
+      "weight": 0.98
+    },
+    {
+      "source": "investment-banking-analyst",
+      "target": "mortgage-advisor",
+      "weight": 0.66
+    },
+    {
+      "source": "personal-banker",
+      "target": "financial-consultant",
+      "weight": 0.98
+    },
+    {
+      "source": "personal-banker",
+      "target": "mortgage-advisor",
+      "weight": 0.77
+    },
+    {
+      "source": "equity-research-analyst",
+      "target": "credit-analyst",
+      "weight": 0.87
+    },
+    {
+      "source": "equity-research-analyst",
+      "target": "financial-consultant",
+      "weight": 0.42
+    },
+    {
+      "source": "investment-banking-summer-analyst",
+      "target": "assistant-branch-manager",
+      "weight": 0.56
+    },
+    {
+      "source": "investment-banking-summer-analyst",
+      "target": "loan-officer",
+      "weight": 0.71
+    },
+    {
+      "source": "quantitative-analyst",
+      "target": "senior-vice-president",
+      "weight": 0.86
+    },
+    {
+      "source": "trader",
+      "target": "mortgage-advisor",
+      "weight": 0.56
+    },
+    {
+      "source": "trader",
+      "target": "financial-advisor",
+      "weight": 0.9
+    },
+    {
+      "source": "banking-officer",
+      "target": "credit-analyst",
+      "weight": 0.48
+    },
+    {
+      "source": "banking-officer",
+      "target": "financial-advisor",
+      "weight": 0.53
+    },
+    {
+      "source": "financial-sales-consultant",
+      "target": "senior-vice-president",
+      "weight": 0.4
+    },
+    {
+      "source": "financial-sales-consultant",
+      "target": "loan-officer",
+      "weight": 0.63
+    },
+    {
+      "source": "home-mortgage-consultant",
+      "target": "investment-analyst",
+      "weight": 0.75
+    },
+    {
+      "source": "financial-associate",
+      "target": "senior-vice-president",
+      "weight": 0.79
+    },
+    {
+      "source": "financial-planner",
+      "target": "financial-consultant",
+      "weight": 0.45
+    },
+    {
+      "source": "mortgage-broker",
+      "target": "assistant-branch-manager",
+      "weight": 0.8
+    },
+    {
+      "source": "investment-associate",
+      "target": "credit-analyst",
+      "weight": 0.84
+    },
+    {
+      "source": "investment-associate",
+      "target": "loan-officer",
+      "weight": 0.6
+    },
+    {
+      "source": "teller-supervisor",
+      "target": "mortgage-advisor",
+      "weight": 0.78
+    },
+    {
+      "source": "teller-supervisor",
+      "target": "financial-advisor",
+      "weight": 0.53
+    },
+    {
+      "source": "financial-adviser-finance",
+      "target": "financial-advisor",
+      "weight": 0.97
+    },
+    {
+      "source": "risk-manager-finance",
+      "target": "loan-officer",
+      "weight": 0.72
+    },
+    {
+      "source": "risk-manager-finance",
+      "target": "investment-analyst",
+      "weight": 0.4
+    },
+    {
+      "source": "internal-wholesaler-finance",
+      "target": "mortgage-banker",
+      "weight": 0.67
+    },
+    {
+      "source": "internal-wholesaler-finance",
+      "target": "financial-consultant",
+      "weight": 0.72
+    },
+    {
+      "source": "investment-officer",
+      "target": "credit-analyst",
+      "weight": 0.61
+    },
+    {
+      "source": "investment-officer",
+      "target": "mortgage-advisor",
+      "weight": 0.65
+    },
+    {
+      "source": "equity-analyst",
+      "target": "mortgage-advisor",
+      "weight": 0.98
+    },
+    {
+      "source": "equity-analyst",
+      "target": "assistant-vice-president-finance",
+      "weight": 0.54
+    },
+    {
+      "source": "senior-investment-analyst",
+      "target": "credit-analyst",
+      "weight": 0.76
+    },
+    {
+      "source": "equity-research-associate",
+      "target": "mortgage-banker",
+      "weight": 0.91
+    },
+    {
+      "source": "fund-accountant-finance",
+      "target": "loan-officer",
+      "weight": 0.77
+    },
+    {
+      "source": "fund-accountant-finance",
+      "target": "investment-analyst",
+      "weight": 0.49
+    },
+    {
+      "source": "compliance-officer",
+      "target": "credit-analyst",
+      "weight": 0.84
+    },
+    {
+      "source": "paraplanner",
+      "target": "senior-vice-president",
+      "weight": 0.58
+    },
+    {
+      "source": "summer-analyst",
+      "target": "senior-vice-president",
+      "weight": 0.87
+    },
+    {
+      "source": "summer-analyst",
+      "target": "loan-officer",
+      "weight": 0.64
+    },
+    {
+      "source": "loan-processor",
+      "target": "mortgage-banker",
+      "weight": 0.42
+    },
+    {
+      "source": "investment-vice-president",
+      "target": "assistant-vice-president-finance",
+      "weight": 0.73
+    },
+    {
+      "source": "senior-credit-analyst",
+      "target": "mortgage-advisor",
+      "weight": 0.67
+    },
+    {
+      "source": "senior-credit-analyst",
+      "target": "loan-officer",
+      "weight": 0.59
+    },
+    {
+      "source": "banking-center-manager",
+      "target": "credit-analyst",
+      "weight": 0.65
+    },
+    {
+      "source": "banking-center-manager",
+      "target": "assistant-vice-president-finance",
+      "weight": 0.69
+    },
+    {
+      "source": "loan-specialist",
+      "target": "financial-advisor",
+      "weight": 0.89
+    },
+    {
+      "source": "investment-consultant",
+      "target": "mortgage-advisor",
+      "weight": 0.59
+    },
+    {
+      "source": "investment-consultant",
+      "target": "senior-vice-president",
+      "weight": 0.56
+    },
+    {
+      "source": "financial-representative-finance",
+      "target": "financial-consultant",
+      "weight": 0.57
+    },
+    {
+      "source": "financial-representative-finance",
+      "target": "financial-advisor",
+      "weight": 0.52
+    },
+    {
+      "source": "bank-examiner",
+      "target": "senior-vice-president",
+      "weight": 0.47
+    },
+    {
+      "source": "bank-examiner",
+      "target": "mortgage-banker",
+      "weight": 0.85
+    },
+    {
+      "source": "branch-sales-manager",
+      "target": "loan-officer",
+      "weight": 0.91
+    },
+    {
+      "source": "branch-sales-manager",
+      "target": "financial-advisor",
+      "weight": 0.67
+    },
+    {
+      "source": "senior-loan-officer",
+      "target": "financial-advisor",
+      "weight": 0.56
+    },
+    {
+      "source": "commercial-lender",
+      "target": "senior-vice-president",
+      "weight": 0.74
+    },
+    {
+      "source": "commercial-lender",
+      "target": "mortgage-banker",
+      "weight": 0.61
+    },
+    {
+      "source": "mortgage-adviser",
+      "target": "senior-vice-president",
+      "weight": 0.69
+    },
+    {
+      "source": "mortgage-loan-officer",
+      "target": "credit-analyst",
+      "weight": 0.98
+    },
+    {
+      "source": "small-business-specialist",
+      "target": "senior-vice-president",
+      "weight": 0.55
+    },
+    {
+      "source": "small-business-specialist",
+      "target": "assistant-vice-president-finance",
+      "weight": 0.61
+    },
+    {
+      "source": "consumer-loan-underwriter",
+      "target": "senior-vice-president",
+      "weight": 0.73
+    },
+    {
+      "source": "consumer-loan-underwriter",
+      "target": "financial-consultant",
+      "weight": 0.65
+    },
+    {
+      "source": "investment-manager",
+      "target": "financial-consultant",
+      "weight": 0.69
+    },
+    {
+      "source": "senior-trader",
+      "target": "assistant-vice-president-finance",
+      "weight": 0.6
+    },
+    {
+      "source": "senior-trader",
+      "target": "mortgage-banker",
+      "weight": 0.51
+    },
+    {
+      "source": "fund-manager",
+      "target": "assistant-vice-president-finance",
+      "weight": 0.74
+    },
+    {
+      "source": "work-director",
+      "target": "assistant-vice-president-finance",
+      "weight": 0.59
+    },
+    {
+      "source": "work-director",
+      "target": "senior-vice-president",
+      "weight": 0.97
+    },
+    {
+      "source": "operational-risk-analyst",
+      "target": "loan-officer",
+      "weight": 0.48
+    },
+    {
+      "source": "operational-risk-analyst",
+      "target": "assistant-branch-manager",
+      "weight": 0.87
+    },
+    {
+      "source": "associate-relationship-manager",
+      "target": "assistant-vice-president-finance",
+      "weight": 0.59
+    },
+    {
+      "source": "associate-relationship-manager",
+      "target": "assistant-branch-manager",
+      "weight": 0.64
+    },
+    {
+      "source": "senior-examiner-finance",
+      "target": "loan-officer",
+      "weight": 0.43
+    },
+    {
+      "source": "banking-associate-finance",
+      "target": "senior-vice-president",
+      "weight": 0.5
+    },
+    {
+      "source": "credit-officer",
+      "target": "mortgage-banker",
+      "weight": 0.6
+    },
+    {
+      "source": "mortgage-specialist",
+      "target": "assistant-branch-manager",
+      "weight": 0.84
+    },
+    {
+      "source": "trading-assistant",
+      "target": "mortgage-banker",
+      "weight": 0.42
+    },
+    {
+      "source": "loan-servicing-specialist",
+      "target": "mortgage-advisor",
+      "weight": 0.6
+    },
+    {
+      "source": "securities-analyst",
+      "target": "mortgage-advisor",
+      "weight": 0.5
+    },
+    {
+      "source": "portfolio-analyst",
+      "target": "mortgage-advisor",
+      "weight": 0.46
+    },
+    {
+      "source": "senior-operation-analyst",
+      "target": "mortgage-advisor",
+      "weight": 0.53
+    },
+    {
+      "source": "senior-operation-analyst",
+      "target": "financial-consultant",
+      "weight": 0.96
+    },
+    {
+      "source": "stockbroker",
+      "target": "senior-vice-president",
+      "weight": 0.94
+    },
+    {
+      "source": "business-banker",
+      "target": "credit-analyst",
+      "weight": 0.57
+    },
+    {
+      "source": "head-trader",
+      "target": "mortgage-advisor",
+      "weight": 0.62
+    },
+    {
+      "source": "investment-advisor",
+      "target": "assistant-vice-president-finance",
+      "weight": 0.64
+    },
+    {
+      "source": "investment-advisor",
+      "target": "financial-advisor",
+      "weight": 0.81
+    },
+    {
+      "source": "investment-representative",
+      "target": "senior-vice-president",
+      "weight": 0.89
+    },
+    {
+      "source": "investment-representative",
+      "target": "financial-consultant",
+      "weight": 0.58
+    },
+    {
+      "source": "teller",
+      "target": "investment-analyst",
+      "weight": 0.88
+    },
+    {
+      "source": "relationship-banker",
+      "target": "credit-analyst",
+      "weight": 0.97
+    },
+    {
+      "source": "loan-originator",
+      "target": "financial-advisor",
+      "weight": 0.75
+    },
+    {
+      "source": "loan-originator",
+      "target": "mortgage-banker",
+      "weight": 0.44
+    },
+    {
+      "source": "senior-fund-accountant-finance",
+      "target": "senior-vice-president",
+      "weight": 0.81
+    },
+    {
+      "source": "senior-fund-accountant-finance",
+      "target": "mortgage-banker",
+      "weight": 0.97
+    },
+    {
+      "source": "head-teller",
+      "target": "assistant-branch-manager",
+      "weight": 0.79
+    },
+    {
+      "source": "head-teller",
+      "target": "mortgage-banker",
+      "weight": 0.57
+    },
+    {
+      "source": "mortgage-loan-processor",
+      "target": "credit-analyst",
+      "weight": 0.77
+    },
+    {
+      "source": "mortgage-loan-processor",
+      "target": "financial-consultant",
+      "weight": 0.96
+    },
+    {
+      "source": "bank-teller",
+      "target": "mortgage-advisor",
+      "weight": 0.45
+    },
+    {
+      "source": "senior-relationship-manager",
+      "target": "credit-analyst",
+      "weight": 0.98
+    },
+    {
+      "source": "financial-service-representative",
+      "target": "mortgage-advisor",
+      "weight": 0.43
+    },
+    {
+      "source": "client-service-associate",
+      "target": "senior-vice-president",
+      "weight": 0.68
+    },
+    {
+      "source": "mortgage-underwriter",
+      "target": "investment-analyst",
+      "weight": 0.89
+    },
+    {
+      "source": "mortgage-underwriter",
+      "target": "senior-vice-president",
+      "weight": 0.46
+    },
+    {
+      "source": "business-relationship-manager",
+      "target": "assistant-branch-manager",
+      "weight": 0.45
+    },
+    {
+      "source": "investment-executive",
+      "target": "mortgage-banker",
+      "weight": 0.79
+    },
+    {
+      "source": "business-banking-specialist",
+      "target": "assistant-branch-manager",
+      "weight": 0.98
+    },
+    {
+      "source": "business-banking-specialist",
+      "target": "financial-advisor",
+      "weight": 0.94
+    },
+    {
+      "source": "risk-consultant-finance",
+      "target": "financial-consultant",
+      "weight": 0.78
+    },
+    {
+      "source": "compliance-consultant-finance",
+      "target": "loan-officer",
+      "weight": 0.46
+    },
+    {
+      "source": "loan-administration-manager",
+      "target": "credit-analyst",
+      "weight": 0.63
+    },
+    {
+      "source": "loan-administration-manager",
+      "target": "financial-consultant",
+      "weight": 0.47
+    },
+    {
+      "source": "mortgage-officer",
+      "target": "assistant-vice-president-finance",
+      "weight": 0.56
+    },
+    {
+      "source": "lending-manager",
+      "target": "mortgage-advisor",
+      "weight": 0.99
+    },
+    {
+      "source": "lending-manager",
+      "target": "senior-vice-president",
+      "weight": 0.89
+    },
+    {
+      "source": "consumer-loan-underwriter-ii",
+      "target": "investment-analyst",
+      "weight": 0.68
+    },
+    {
+      "source": "assistant-relationship-manager",
+      "target": "financial-advisor",
+      "weight": 0.73
+    },
+    {
+      "source": "internal-sales-consultant",
+      "target": "senior-vice-president",
+      "weight": 0.96
+    },
+    {
+      "source": "operational-risk-manager-finance",
+      "target": "financial-advisor",
+      "weight": 0.69
+    },
+    {
+      "source": "operational-risk-manager-finance",
+      "target": "assistant-branch-manager",
+      "weight": 0.79
+    },
+    {
+      "source": "branch-manager-ii",
+      "target": "financial-consultant",
+      "weight": 0.91
+    },
+    {
+      "source": "bank-manager",
+      "target": "mortgage-advisor",
+      "weight": 0.49
+    },
+    {
+      "source": "loan-manager",
+      "target": "assistant-branch-manager",
+      "weight": 0.44
+    },
+    {
+      "source": "mortgage-originator",
+      "target": "mortgage-banker",
+      "weight": 0.58
+    },
+    {
+      "source": "mortgage-originator",
+      "target": "senior-vice-president",
+      "weight": 0.55
+    },
+    {
+      "source": "quantitative-researcher",
+      "target": "investment-analyst",
+      "weight": 0.64
+    },
+    {
+      "source": "quantitative-researcher",
+      "target": "assistant-branch-manager",
+      "weight": 0.45
+    },
+    {
+      "source": "credit-specialist",
+      "target": "senior-vice-president",
+      "weight": 0.78
+    },
+    {
+      "source": "credit-specialist",
+      "target": "financial-advisor",
+      "weight": 0.59
+    },
+    {
+      "source": "clients-relationship-manager",
+      "target": "assistant-branch-manager",
+      "weight": 0.4
+    },
+    {
+      "source": "clients-relationship-manager",
+      "target": "assistant-vice-president-finance",
+      "weight": 0.95
+    },
+    {
+      "source": "compliance-associate",
+      "target": "financial-advisor",
+      "weight": 0.76
+    },
+    {
+      "source": "wealth-manager",
+      "target": "senior-vice-president",
+      "weight": 0.87
+    },
+    {
+      "source": "business-banking-manager",
+      "target": "senior-vice-president",
+      "weight": 0.48
+    },
+    {
+      "source": "business-banking-manager",
+      "target": "financial-consultant",
+      "weight": 0.94
+    },
+    {
+      "source": "mortgage-planner",
+      "target": "investment-analyst",
+      "weight": 0.55
+    },
+    {
+      "source": "client-advisor-finance",
+      "target": "financial-consultant",
+      "weight": 0.69
+    },
+    {
+      "source": "client-advisor-finance",
+      "target": "mortgage-advisor",
+      "weight": 0.91
+    },
+    {
+      "source": "retirement-consultant-finance",
+      "target": "mortgage-advisor",
+      "weight": 0.51
+    },
+    {
+      "source": "lending-officer",
+      "target": "senior-vice-president",
+      "weight": 0.42
+    },
+    {
+      "source": "credit-underwriter",
+      "target": "mortgage-banker",
+      "weight": 0.71
+    },
+    {
+      "source": "relationship-officer",
+      "target": "mortgage-banker",
+      "weight": 0.75
+    },
+    {
+      "source": "relationship-officer",
+      "target": "loan-officer",
+      "weight": 0.49
+    },
+    {
+      "source": "mortgage-processor",
+      "target": "credit-analyst",
+      "weight": 0.49
+    },
+    {
+      "source": "trust-officer",
+      "target": "senior-vice-president",
+      "weight": 0.6
+    },
+    {
+      "source": "trust-officer",
+      "target": "assistant-vice-president-finance",
+      "weight": 0.49
+    },
+    {
+      "source": "investment-banking-associate",
+      "target": "mortgage-advisor",
+      "weight": 0.89
+    },
+    {
+      "source": "associate-advisor",
+      "target": "mortgage-banker",
+      "weight": 0.48
+    },
+    {
+      "source": "fund-accounting-manager",
+      "target": "credit-analyst",
+      "weight": 0.95
+    },
+    {
+      "source": "finance-associate-finance",
+      "target": "credit-analyst",
+      "weight": 0.54
+    },
+    {
+      "source": "pension-administrator-finance",
+      "target": "financial-consultant",
+      "weight": 0.46
+    },
+    {
+      "source": "pension-administrator-finance",
+      "target": "financial-advisor",
+      "weight": 0.4
+    },
+    {
+      "source": "investment-professional",
+      "target": "mortgage-banker",
+      "weight": 0.53
+    },
+    {
+      "source": "associate-national-bank-examiner",
+      "target": "assistant-branch-manager",
+      "weight": 0.86
+    },
+    {
+      "source": "financial-examiner-finance",
+      "target": "financial-advisor",
+      "weight": 0.61
+    },
+    {
+      "source": "client-service-analyst",
+      "target": "loan-officer",
+      "weight": 0.52
+    },
+    {
+      "source": "business-service-officer",
+      "target": "credit-analyst",
+      "weight": 0.46
+    },
+    {
+      "source": "business-service-officer",
+      "target": "senior-vice-president",
+      "weight": 0.95
+    },
+    {
+      "source": "commercial-relationship-manager",
+      "target": "financial-consultant",
+      "weight": 0.52
+    },
+    {
+      "source": "commercial-relationship-manager",
+      "target": "mortgage-banker",
+      "weight": 0.43
+    },
+    {
+      "source": "financial-center-manager",
+      "target": "senior-vice-president",
+      "weight": 0.86
+    },
+    {
+      "source": "financial-center-manager",
+      "target": "investment-analyst",
+      "weight": 0.78
+    },
+    {
+      "source": "assistant-portfolio-manager",
+      "target": "mortgage-banker",
+      "weight": 0.78
+    },
+    {
+      "source": "assistant-portfolio-manager",
+      "target": "financial-advisor",
+      "weight": 0.41
+    },
+    {
+      "source": "financial-service-associate",
+      "target": "assistant-vice-president-finance",
+      "weight": 0.95
+    },
+    {
+      "source": "senior-banking-manager",
+      "target": "assistant-branch-manager",
+      "weight": 0.69
+    },
+    {
+      "source": "equity-trader",
+      "target": "mortgage-advisor",
+      "weight": 0.83
+    },
+    {
+      "source": "associate-portfolio-manager",
+      "target": "senior-vice-president",
+      "weight": 1
+    },
+    {
+      "source": "fund-administrator",
+      "target": "assistant-vice-president-finance",
+      "weight": 0.57
+    },
+    {
+      "source": "fund-administrator",
+      "target": "loan-officer",
+      "weight": 0.87
+    },
+    {
+      "source": "financial-service-professional-finance",
+      "target": "financial-consultant",
+      "weight": 0.67
+    },
+    {
+      "source": "financial-service-professional-finance",
+      "target": "loan-officer",
+      "weight": 0.71
+    },
+    {
+      "source": "fraud-analyst",
+      "target": "assistant-branch-manager",
+      "weight": 0.46
+    },
+    {
+      "source": "fraud-analyst",
+      "target": "senior-vice-president",
+      "weight": 0.52
+    },
+    {
+      "source": "mortgage-loan-originator",
+      "target": "investment-analyst",
+      "weight": 0.68
+    },
+    {
+      "source": "member-service-representative",
+      "target": "credit-analyst",
+      "weight": 0.82
+    },
+    {
+      "source": "member-service-representative",
+      "target": "investment-analyst",
+      "weight": 0.56
+    },
+    {
+      "source": "commercial-credit-analyst",
+      "target": "senior-vice-president",
+      "weight": 0.68
+    },
+    {
+      "source": "loan-analyst",
+      "target": "loan-officer",
+      "weight": 0.74
+    },
+    {
+      "source": "loan-analyst",
+      "target": "senior-vice-president",
+      "weight": 0.83
+    },
+    {
+      "source": "business-banking-officer",
+      "target": "assistant-branch-manager",
+      "weight": 0.91
+    },
+    {
+      "source": "financial-analyst-intern",
+      "target": "financial-advisor",
+      "weight": 0.47
+    },
+    {
+      "source": "senior-compliance-analyst-finance",
+      "target": "credit-analyst",
+      "weight": 0.82
+    },
+    {
+      "source": "senior-compliance-analyst-finance",
+      "target": "senior-vice-president",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-investment-associate",
+      "target": "senior-vice-president",
+      "weight": 0.52
+    },
+    {
+      "source": "loan-assistant",
+      "target": "mortgage-advisor",
+      "weight": 0.71
+    },
+    {
+      "source": "client-associate",
+      "target": "senior-vice-president",
+      "weight": 0.46
+    },
+    {
+      "source": "senior-credit-officer",
+      "target": "financial-advisor",
+      "weight": 0.86
+    },
+    {
+      "source": "senior-credit-officer",
+      "target": "credit-analyst",
+      "weight": 0.74
+    },
+    {
+      "source": "assistant-vice-president-finance",
+      "target": "financial-advisor",
+      "weight": 0.94
+    },
+    {
+      "source": "assistant-vice-president-finance",
+      "target": "financial-consultant",
+      "weight": 0.91
+    },
+    {
+      "source": "assistant-vice-president-finance",
+      "target": "mortgage-advisor",
+      "weight": 0.64
+    },
+    {
+      "source": "financial-advisor",
+      "target": "assistant-branch-manager",
+      "weight": 0.8
+    },
+    {
+      "source": "financial-advisor",
+      "target": "financial-consultant",
+      "weight": 0.9
+    },
+    {
+      "source": "financial-advisor",
+      "target": "credit-analyst",
+      "weight": 0.73
+    },
+    {
+      "source": "financial-advisor",
+      "target": "mortgage-advisor",
+      "weight": 0.65
+    },
+    {
+      "source": "financial-advisor",
+      "target": "loan-officer",
+      "weight": 0.82
+    },
+    {
+      "source": "financial-advisor",
+      "target": "mortgage-banker",
+      "weight": 0.65
+    },
+    {
+      "source": "financial-advisor",
+      "target": "senior-vice-president",
+      "weight": 0.94
+    },
+    {
+      "source": "assistant-branch-manager",
+      "target": "credit-analyst",
+      "weight": 0.81
+    },
+    {
+      "source": "assistant-branch-manager",
+      "target": "mortgage-advisor",
+      "weight": 0.96
+    },
+    {
+      "source": "assistant-branch-manager",
+      "target": "investment-analyst",
+      "weight": 0.91
+    },
+    {
+      "source": "assistant-branch-manager",
+      "target": "loan-officer",
+      "weight": 0.68
+    },
+    {
+      "source": "assistant-branch-manager",
+      "target": "mortgage-banker",
+      "weight": 0.91
+    },
+    {
+      "source": "assistant-branch-manager",
+      "target": "senior-vice-president",
+      "weight": 0.68
+    },
+    {
+      "source": "financial-consultant",
+      "target": "mortgage-advisor",
+      "weight": 0.83
+    },
+    {
+      "source": "financial-consultant",
+      "target": "investment-analyst",
+      "weight": 0.95
+    },
+    {
+      "source": "financial-consultant",
+      "target": "loan-officer",
+      "weight": 0.9
+    },
+    {
+      "source": "financial-consultant",
+      "target": "mortgage-banker",
+      "weight": 0.89
+    },
+    {
+      "source": "financial-consultant",
+      "target": "senior-vice-president",
+      "weight": 0.72
+    },
+    {
+      "source": "credit-analyst",
+      "target": "investment-analyst",
+      "weight": 0.68
+    },
+    {
+      "source": "credit-analyst",
+      "target": "loan-officer",
+      "weight": 0.66
+    },
+    {
+      "source": "credit-analyst",
+      "target": "mortgage-banker",
+      "weight": 0.73
+    },
+    {
+      "source": "credit-analyst",
+      "target": "senior-vice-president",
+      "weight": 0.75
+    },
+    {
+      "source": "mortgage-advisor",
+      "target": "investment-analyst",
+      "weight": 0.78
+    },
+    {
+      "source": "mortgage-advisor",
+      "target": "loan-officer",
+      "weight": 0.76
+    },
+    {
+      "source": "mortgage-advisor",
+      "target": "mortgage-banker",
+      "weight": 0.99
+    },
+    {
+      "source": "mortgage-advisor",
+      "target": "senior-vice-president",
+      "weight": 0.63
+    },
+    {
+      "source": "investment-analyst",
+      "target": "loan-officer",
+      "weight": 0.74
+    },
+    {
+      "source": "investment-analyst",
+      "target": "mortgage-banker",
+      "weight": 0.85
+    },
+    {
+      "source": "investment-analyst",
+      "target": "senior-vice-president",
+      "weight": 0.98
+    },
+    {
+      "source": "loan-officer",
+      "target": "mortgage-banker",
+      "weight": 0.81
+    },
+    {
+      "source": "loan-officer",
+      "target": "senior-vice-president",
+      "weight": 0.96
+    },
+    {
+      "source": "mortgage-banker",
+      "target": "senior-vice-president",
+      "weight": 0.62
+    },
+    {
+      "source": "assistant-vice-president-finance",
+      "target": "senior-vice-president",
+      "weight": 0.7
+    },
+    {
+      "source": "assistant-vice-president-finance",
+      "target": "investment-vice-president",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-vice-president",
+      "target": "investment-vice-president",
+      "weight": 0.7
+    },
+    {
+      "source": "assistant-branch-manager",
+      "target": "branch-manager-ii",
+      "weight": 0.7
+    },
+    {
+      "source": "mortgage-banker",
+      "target": "private-banker",
+      "weight": 0.7
+    },
+    {
+      "source": "mortgage-banker",
+      "target": "senior-banker",
+      "weight": 0.7
+    },
+    {
+      "source": "mortgage-banker",
+      "target": "business-banker",
+      "weight": 0.7
+    },
+    {
+      "source": "private-banker",
+      "target": "senior-banker",
+      "weight": 0.7
+    },
+    {
+      "source": "private-banker",
+      "target": "business-banker",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-banker",
+      "target": "business-banker",
+      "weight": 0.7
+    },
+    {
+      "source": "risk-analyst-finance",
+      "target": "operational-risk-analyst",
+      "weight": 0.7
+    },
+    {
+      "source": "portfolio-manager",
+      "target": "financial-service-representative",
+      "weight": 0.7
+    },
+    {
+      "source": "portfolio-manager",
+      "target": "member-service-representative",
+      "weight": 0.7
+    },
+    {
+      "source": "financial-service-representative",
+      "target": "member-service-representative",
+      "weight": 0.7
+    },
+    {
+      "source": "equity-research-analyst",
+      "target": "financial-planner",
+      "weight": 0.7
+    },
+    {
+      "source": "equity-research-analyst",
+      "target": "mortgage-planner",
+      "weight": 0.7
+    },
+    {
+      "source": "financial-planner",
+      "target": "mortgage-planner",
+      "weight": 0.7
+    },
+    {
+      "source": "financial-sales-consultant",
+      "target": "internal-sales-consultant",
+      "weight": 0.7
+    },
+    {
+      "source": "risk-manager-finance",
+      "target": "work-director",
+      "weight": 0.7
+    },
+    {
+      "source": "risk-manager-finance",
+      "target": "operational-risk-manager-finance",
+      "weight": 0.7
+    },
+    {
+      "source": "work-director",
+      "target": "operational-risk-manager-finance",
+      "weight": 0.7
+    },
+    {
+      "source": "teller",
+      "target": "head-teller",
+      "weight": 0.7
+    },
+    {
+      "source": "teller",
+      "target": "bank-teller",
+      "weight": 0.7
+    },
+    {
+      "source": "head-teller",
+      "target": "bank-teller",
+      "weight": 0.7
+    },
+    {
+      "source": "quantitative-researcher",
+      "target": "financial-analyst-intern",
+      "weight": 0.7
+    }
+  ]
+}

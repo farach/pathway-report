@@ -1,0 +1,2885 @@
+{
+  "sector": "Insurance",
+  "metadata": {
+    "nodeCount": 150,
+    "edgeCount": 277,
+    "generatedAt": "2026-01-31T16:46:34Z"
+  },
+  "nodes": [
+    {
+      "id": "underwriter",
+      "label": "Underwriter",
+      "soc": "11-2033",
+      "ptr": 0.4642,
+      "nfc": 0.856,
+      "quadrant": "LH",
+      "size": 9.9,
+      "aiExposure": 0.3528
+    },
+    {
+      "id": "risk-analyst-insurance",
+      "label": "Risk Analyst",
+      "soc": "19-5011",
+      "ptr": 0.175,
+      "nfc": 0.2224,
+      "quadrant": "LH",
+      "size": 7.3,
+      "aiExposure": 0.2396
+    },
+    {
+      "id": "actuarial-analyst",
+      "label": "Actuarial Analyst",
+      "soc": "13-2054",
+      "ptr": 0.5495,
+      "nfc": 0.7535,
+      "quadrant": "LH",
+      "size": 7.17,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "claims-representative",
+      "label": "Claims Representative",
+      "soc": "13-1031",
+      "ptr": 0,
+      "nfc": 0.7115,
+      "quadrant": "LH",
+      "size": 6.96,
+      "aiExposure": 0.3635
+    },
+    {
+      "id": "claims-adjuster",
+      "label": "Claims Adjuster",
+      "soc": "51-9061",
+      "ptr": 0.2388,
+      "nfc": 0.418,
+      "quadrant": "LH",
+      "size": 6.92,
+      "aiExposure": 0.2548
+    },
+    {
+      "id": "account-handler",
+      "label": "Account Handler",
+      "soc": "39-2011",
+      "ptr": 0.081,
+      "nfc": 0.0904,
+      "quadrant": "LH",
+      "size": 6.9,
+      "aiExposure": 0.0806
+    },
+    {
+      "id": "insurance-agent",
+      "label": "Insurance Agent",
+      "soc": "13-1011",
+      "ptr": 0.5613,
+      "nfc": 0.8127,
+      "quadrant": "LH",
+      "size": 6.9,
+      "aiExposure": 0.4062
+    },
+    {
+      "id": "senior-underwriter",
+      "label": "Senior Underwriter",
+      "soc": "13-2072",
+      "ptr": 0.7065,
+      "nfc": 0.8713,
+      "quadrant": "HH",
+      "size": 6.46,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "claims-handler",
+      "label": "Claims Handler",
+      "soc": "39-2011",
+      "ptr": 0.0731,
+      "nfc": 0.0901,
+      "quadrant": "LH",
+      "size": 6.42,
+      "aiExposure": 0.0806
+    },
+    {
+      "id": "risk-manager-insurance",
+      "label": "Risk Manager",
+      "soc": "11-9199",
+      "ptr": 0.5071,
+      "nfc": 0.6103,
+      "quadrant": "LH",
+      "size": 6.34,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "assistant-vice-president-insurance",
+      "label": "Assistant Vice President",
+      "soc": "11-1011",
+      "ptr": 0.6357,
+      "nfc": 0.6806,
+      "quadrant": "LH",
+      "size": 6.31,
+      "aiExposure": 0.3316
+    },
+    {
+      "id": "insurance-advisor",
+      "label": "Insurance Advisor",
+      "soc": "21-1012",
+      "ptr": 0.161,
+      "nfc": 0.1639,
+      "quadrant": "LH",
+      "size": 6.12,
+      "aiExposure": 0.3073
+    },
+    {
+      "id": "claims-supervisor",
+      "label": "Claims Supervisor",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 6.09,
+      "aiExposure": 0
+    },
+    {
+      "id": "assistant-underwriter",
+      "label": "Assistant Underwriter",
+      "soc": "13-2072",
+      "ptr": 0.7531,
+      "nfc": 0.8654,
+      "quadrant": "HH",
+      "size": 5.98,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "claims-specialist",
+      "label": "Claims Specialist",
+      "soc": "13-1031",
+      "ptr": 0.6243,
+      "nfc": 0.7026,
+      "quadrant": "LH",
+      "size": 5.96,
+      "aiExposure": 0.3635
+    },
+    {
+      "id": "commercial-underwriter",
+      "label": "Commercial Underwriter",
+      "soc": "13-2072",
+      "ptr": 0.7379,
+      "nfc": 0.8634,
+      "quadrant": "HH",
+      "size": 5.77,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "senior-claims-representative",
+      "label": "Senior Claims Representative",
+      "soc": "13-1031",
+      "ptr": 0.6362,
+      "nfc": 0.701,
+      "quadrant": "LH",
+      "size": 5.76,
+      "aiExposure": 0.3635
+    },
+    {
+      "id": "underwriting-assistant",
+      "label": "Underwriting Assistant",
+      "soc": "43-9041",
+      "ptr": 0.7921,
+      "nfc": 0.9658,
+      "quadrant": "HH",
+      "size": 5.53,
+      "aiExposure": 0.5701
+    },
+    {
+      "id": "claims-processor",
+      "label": "Claims Processor",
+      "soc": "51-9151",
+      "ptr": 0.2694,
+      "nfc": 0.2909,
+      "quadrant": "LH",
+      "size": 5.39,
+      "aiExposure": 0.244
+    },
+    {
+      "id": "associate-underwriter",
+      "label": "Associate Underwriter",
+      "soc": "13-2072",
+      "ptr": 0.797,
+      "nfc": 0.8594,
+      "quadrant": "HH",
+      "size": 5.35,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "claims-manager",
+      "label": "Claims Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.3,
+      "aiExposure": 0
+    },
+    {
+      "id": "broker",
+      "label": "Broker",
+      "soc": "41-4012",
+      "ptr": 0.9077,
+      "nfc": 0.9279,
+      "quadrant": "HH",
+      "size": 5.29,
+      "aiExposure": 0.4628
+    },
+    {
+      "id": "claims-examiner",
+      "label": "Claims Examiner",
+      "soc": "13-1031",
+      "ptr": 0.5872,
+      "nfc": 0.6961,
+      "quadrant": "LH",
+      "size": 5.28,
+      "aiExposure": 0.3635
+    },
+    {
+      "id": "regional-vice-president",
+      "label": "Regional Vice President",
+      "soc": "11-1011",
+      "ptr": 0.6782,
+      "nfc": 0.6704,
+      "quadrant": "HH",
+      "size": 5.25,
+      "aiExposure": 0.3316
+    },
+    {
+      "id": "personal-lines-underwriter",
+      "label": "Personal Lines Underwriter",
+      "soc": "13-2072",
+      "ptr": 0.8111,
+      "nfc": 0.8543,
+      "quadrant": "HH",
+      "size": 5.22,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "benefits-analyst",
+      "label": "Benefits Analyst",
+      "soc": "13-1141",
+      "ptr": 0.5218,
+      "nfc": 0.5397,
+      "quadrant": "LH",
+      "size": 5.22,
+      "aiExposure": 0.3204
+    },
+    {
+      "id": "insurance-consultant",
+      "label": "Insurance Consultant",
+      "soc": "13-2052",
+      "ptr": 0.6014,
+      "nfc": 0.6112,
+      "quadrant": "LH",
+      "size": 5.2,
+      "aiExposure": 0.4276
+    },
+    {
+      "id": "underwriting-manager",
+      "label": "Underwriting Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.2,
+      "aiExposure": 0
+    },
+    {
+      "id": "client-advisor-insurance",
+      "label": "Client Advisor",
+      "soc": "21-1012",
+      "ptr": 0.1585,
+      "nfc": 0.1607,
+      "quadrant": "LH",
+      "size": 5.17,
+      "aiExposure": 0.3073
+    },
+    {
+      "id": "commercial-account-executive",
+      "label": "Commercial Account Executive",
+      "soc": "11-2011",
+      "ptr": 0.5601,
+      "nfc": 0.5583,
+      "quadrant": "LH",
+      "size": 5.16,
+      "aiExposure": 0.3326
+    },
+    {
+      "id": "commercial-account-manager",
+      "label": "Commercial Account Manager",
+      "soc": "11-2022",
+      "ptr": 0.4906,
+      "nfc": 0.4809,
+      "quadrant": "LH",
+      "size": 5.16,
+      "aiExposure": 0.3071
+    },
+    {
+      "id": "commercial-lines-underwriter",
+      "label": "Commercial Lines Underwriter",
+      "soc": "13-2072",
+      "ptr": 0.8386,
+      "nfc": 0.8472,
+      "quadrant": "HH",
+      "size": 5.15,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "client-executive",
+      "label": "Client Executive",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.14,
+      "aiExposure": 0
+    },
+    {
+      "id": "production-underwriter",
+      "label": "Production Underwriter",
+      "soc": "13-2072",
+      "ptr": 0.8653,
+      "nfc": 0.8451,
+      "quadrant": "HH",
+      "size": 5.14,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "risk-consultant-insurance",
+      "label": "Risk Consultant",
+      "soc": "13-1199",
+      "ptr": 0.8505,
+      "nfc": 0.8406,
+      "quadrant": "HH",
+      "size": 5.12,
+      "aiExposure": 0.4007
+    },
+    {
+      "id": "risk-management-consultant",
+      "label": "Risk Management Consultant",
+      "soc": "13-2054",
+      "ptr": 0.744,
+      "nfc": 0.724,
+      "quadrant": "HH",
+      "size": 5.12,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "risk-advisor",
+      "label": "Risk Advisor",
+      "soc": "21-1012",
+      "ptr": 0.1635,
+      "nfc": 0.1591,
+      "quadrant": "LH",
+      "size": 5.12,
+      "aiExposure": 0.3073
+    },
+    {
+      "id": "senior-claims-adjuster",
+      "label": "Senior Claims Adjuster",
+      "soc": "51-9061",
+      "ptr": 0.3944,
+      "nfc": 0.4021,
+      "quadrant": "LH",
+      "size": 5.12,
+      "aiExposure": 0.2548
+    },
+    {
+      "id": "commercial-account-handler",
+      "label": "Commercial Account Handler",
+      "soc": "39-2011",
+      "ptr": 0.0882,
+      "nfc": 0.087,
+      "quadrant": "LH",
+      "size": 5.1,
+      "aiExposure": 0.0806
+    },
+    {
+      "id": "assistant-actuary",
+      "label": "Assistant Actuary",
+      "soc": "15-2011",
+      "ptr": 0.6014,
+      "nfc": 0.6017,
+      "quadrant": "LH",
+      "size": 5.1,
+      "aiExposure": 0.3291
+    },
+    {
+      "id": "senior-actuarial-analyst",
+      "label": "Senior Actuarial Analyst",
+      "soc": "13-2054",
+      "ptr": 0.6853,
+      "nfc": 0.7205,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "underwriting-associate",
+      "label": "Underwriting Associate",
+      "soc": "13-2053",
+      "ptr": 0.8351,
+      "nfc": 0.8203,
+      "quadrant": "HH",
+      "size": 5.08,
+      "aiExposure": 0.3662
+    },
+    {
+      "id": "underwriting-specialist",
+      "label": "Underwriting Specialist",
+      "soc": "13-2053",
+      "ptr": 0.8086,
+      "nfc": 0.8193,
+      "quadrant": "HH",
+      "size": 5.07,
+      "aiExposure": 0.3662
+    },
+    {
+      "id": "actuarial-manager",
+      "label": "Actuarial Manager",
+      "soc": "11-3031",
+      "ptr": 0.5761,
+      "nfc": 0.5645,
+      "quadrant": "LH",
+      "size": 5.07,
+      "aiExposure": 0.3169
+    },
+    {
+      "id": "claims-consultant",
+      "label": "Claims Consultant",
+      "soc": "13-1031",
+      "ptr": 0.6817,
+      "nfc": 0.6778,
+      "quadrant": "HH",
+      "size": 5.06,
+      "aiExposure": 0.3635
+    },
+    {
+      "id": "regional-underwriting-manager",
+      "label": "Regional Underwriting Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.06,
+      "aiExposure": 0
+    },
+    {
+      "id": "property-underwriter",
+      "label": "Property Underwriter",
+      "soc": "13-2072",
+      "ptr": 0.852,
+      "nfc": 0.8317,
+      "quadrant": "HH",
+      "size": 5.05,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "consulting-actuary",
+      "label": "Consulting Actuary",
+      "soc": "15-2011",
+      "ptr": 0.6205,
+      "nfc": 0.5957,
+      "quadrant": "LH",
+      "size": 5.05,
+      "aiExposure": 0.3291
+    },
+    {
+      "id": "senior-business-systems-analyst-insurance",
+      "label": "Senior Business Systems Analyst",
+      "soc": "17-3027",
+      "ptr": 0.2652,
+      "nfc": 0.262,
+      "quadrant": "LH",
+      "size": 5.05,
+      "aiExposure": 0.3019
+    },
+    {
+      "id": "agency-field-specialist",
+      "label": "Agency Field Specialist",
+      "soc": "47-5071",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LH",
+      "size": 5.05,
+      "aiExposure": 0.0043
+    },
+    {
+      "id": "insurance-specialist",
+      "label": "Insurance Specialist",
+      "soc": "41-3021",
+      "ptr": 0.8591,
+      "nfc": 0.8154,
+      "quadrant": "HH",
+      "size": 5.04,
+      "aiExposure": 0.4018
+    },
+    {
+      "id": "claims-analyst",
+      "label": "Claims Analyst",
+      "soc": "13-1031",
+      "ptr": 0.6706,
+      "nfc": 0.6676,
+      "quadrant": "LH",
+      "size": 5.04,
+      "aiExposure": 0.3635
+    },
+    {
+      "id": "agency-manager",
+      "label": "Agency Manager",
+      "soc": "11-2011",
+      "ptr": 0.5601,
+      "nfc": 0.5399,
+      "quadrant": "LH",
+      "size": 5.04,
+      "aiExposure": 0.3326
+    },
+    {
+      "id": "loss-adjuster",
+      "label": "Loss Adjuster",
+      "soc": "51-9061",
+      "ptr": 0.4137,
+      "nfc": 0.3926,
+      "quadrant": "LH",
+      "size": 5.04,
+      "aiExposure": 0.2548
+    },
+    {
+      "id": "adjuster",
+      "label": "Adjuster",
+      "soc": "51-9061",
+      "ptr": 0.4009,
+      "nfc": 0.3926,
+      "quadrant": "LH",
+      "size": 5.04,
+      "aiExposure": 0.2548
+    },
+    {
+      "id": "claims-negotiator",
+      "label": "Claims Negotiator",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.04,
+      "aiExposure": 0
+    },
+    {
+      "id": "litigation-specialist-insurance",
+      "label": "Litigation Specialist",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.04,
+      "aiExposure": 0
+    },
+    {
+      "id": "associate-actuary",
+      "label": "Associate Actuary",
+      "soc": "15-2011",
+      "ptr": 0.611,
+      "nfc": 0.5882,
+      "quadrant": "LH",
+      "size": 5.04,
+      "aiExposure": 0.3291
+    },
+    {
+      "id": "underwriting-director",
+      "label": "Underwriting Director",
+      "soc": "27-2012",
+      "ptr": 0.5171,
+      "nfc": 0.4895,
+      "quadrant": "LH",
+      "size": 5.04,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "benefits-consultant",
+      "label": "Benefits Consultant",
+      "soc": "13-1141",
+      "ptr": 0.5472,
+      "nfc": 0.5161,
+      "quadrant": "LH",
+      "size": 5.04,
+      "aiExposure": 0.3204
+    },
+    {
+      "id": "claims-technician",
+      "label": "Claims Technician",
+      "soc": "17-3023",
+      "ptr": 0.3528,
+      "nfc": 0.3379,
+      "quadrant": "LH",
+      "size": 5.04,
+      "aiExposure": 0.3042
+    },
+    {
+      "id": "benefits-operation-manager-insurance",
+      "label": "Benefits Operation Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.04,
+      "aiExposure": 0
+    },
+    {
+      "id": "claims-specialist-ii",
+      "label": "Claims Specialist II",
+      "soc": "13-1031",
+      "ptr": 0.7033,
+      "nfc": 0.6616,
+      "quadrant": "HH",
+      "size": 5.04,
+      "aiExposure": 0.3635
+    },
+    {
+      "id": "actuarial-specialist",
+      "label": "Actuarial Specialist",
+      "soc": "15-2011",
+      "ptr": 0.6205,
+      "nfc": 0.5837,
+      "quadrant": "LH",
+      "size": 5.04,
+      "aiExposure": 0.3291
+    },
+    {
+      "id": "special-investigator-insurance",
+      "label": "Special Investigator",
+      "soc": "43-4131",
+      "ptr": 0.9221,
+      "nfc": 0.8639,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.4384
+    },
+    {
+      "id": "field-adjuster",
+      "label": "Field Adjuster",
+      "soc": "51-9061",
+      "ptr": 0.4137,
+      "nfc": 0.3876,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.2548
+    },
+    {
+      "id": "property-adjuster",
+      "label": "Property Adjuster",
+      "soc": "51-9061",
+      "ptr": 0.4137,
+      "nfc": 0.3876,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.2548
+    },
+    {
+      "id": "actuarial-assistant",
+      "label": "Actuarial Assistant",
+      "soc": "43-9111",
+      "ptr": 0.8563,
+      "nfc": 0.9206,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.6046
+    },
+    {
+      "id": "internal-wholesaler-insurance",
+      "label": "Internal Wholesaler",
+      "soc": "13-1022",
+      "ptr": 0.4799,
+      "nfc": 0.4783,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.2333
+    },
+    {
+      "id": "senior-risk-analyst-insurance",
+      "label": "Senior Risk Analyst",
+      "soc": "19-5011",
+      "ptr": 0.2126,
+      "nfc": 0.2047,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.2396
+    },
+    {
+      "id": "actuarial-consultant-insurance",
+      "label": "Actuarial Consultant",
+      "soc": "15-2011",
+      "ptr": 0.611,
+      "nfc": 0.5783,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3291
+    },
+    {
+      "id": "senior-actuarial-associate",
+      "label": "Senior Actuarial Associate",
+      "soc": "15-2011",
+      "ptr": 0.611,
+      "nfc": 0.5768,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3291
+    },
+    {
+      "id": "claims-team-manager",
+      "label": "Claims Team Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.01,
+      "aiExposure": 0
+    },
+    {
+      "id": "commercial-lines-customer-service-representative",
+      "label": "Commercial Lines Customer Service Representative",
+      "soc": "41-3091",
+      "ptr": 0.9464,
+      "nfc": 0.8774,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.541
+    },
+    {
+      "id": "insurance-manager",
+      "label": "Insurance Manager",
+      "soc": "11-3031",
+      "ptr": 0.5761,
+      "nfc": 0.5423,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3169
+    },
+    {
+      "id": "claims-associate",
+      "label": "Claims Associate",
+      "soc": "43-9041",
+      "ptr": 0.925,
+      "nfc": 0.8981,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5701
+    },
+    {
+      "id": "regional-claims-manager",
+      "label": "Regional Claims Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "benefits-specialist",
+      "label": "Benefits Specialist",
+      "soc": "43-3051",
+      "ptr": 0.9496,
+      "nfc": 0.8947,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5281
+    },
+    {
+      "id": "regional-sales-coordinator",
+      "label": "Regional Sales Coordinator",
+      "soc": "41-4012",
+      "ptr": 0.9365,
+      "nfc": 0.8552,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4628
+    },
+    {
+      "id": "underwriting-consultant",
+      "label": "Underwriting Consultant",
+      "soc": "13-2053",
+      "ptr": 0.8481,
+      "nfc": 0.7745,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3662
+    },
+    {
+      "id": "account-engineer",
+      "label": "Account Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8433,
+      "nfc": 0.7701,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "pension-consultant-insurance",
+      "label": "Pension Consultant",
+      "soc": "13-2052",
+      "ptr": 0.6205,
+      "nfc": 0.5666,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.4276
+    },
+    {
+      "id": "account-service-manager",
+      "label": "Account Service Manager",
+      "soc": "11-2022",
+      "ptr": 0.4906,
+      "nfc": 0.448,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3071
+    },
+    {
+      "id": "compliance-consultant-insurance",
+      "label": "Compliance Consultant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "agency-field-consultant",
+      "label": "Agency Field Consultant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "retirement-specialist-insurance",
+      "label": "Retirement Specialist",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "actuarial-associate",
+      "label": "Actuarial Associate",
+      "soc": "15-2011",
+      "ptr": 0.611,
+      "nfc": 0.5659,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3291
+    },
+    {
+      "id": "casualty-claims-adjuster",
+      "label": "Casualty Claims Adjuster",
+      "soc": "51-9061",
+      "ptr": 0.4074,
+      "nfc": 0.3767,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.2548
+    },
+    {
+      "id": "underwriting-supervisor",
+      "label": "Underwriting Supervisor",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "auto-claims-representative",
+      "label": "Auto Claims Representative",
+      "soc": "13-1031",
+      "ptr": 0.6926,
+      "nfc": 0.6387,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3635
+    },
+    {
+      "id": "senior-benefits-specialist",
+      "label": "Senior Benefits Specialist",
+      "soc": "43-3051",
+      "ptr": 0.9945,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5281
+    },
+    {
+      "id": "senior-underwriting-assistant",
+      "label": "Senior Underwriting Assistant",
+      "soc": "43-9041",
+      "ptr": 0.9847,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5701
+    },
+    {
+      "id": "senior-claims-associate",
+      "label": "Senior Claims Associate",
+      "soc": "43-9041",
+      "ptr": 0.9847,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5701
+    },
+    {
+      "id": "informatics-analyst-insurance",
+      "label": "Informatics Analyst",
+      "soc": "15-2099",
+      "ptr": 0.9825,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.6013
+    },
+    {
+      "id": "senior-business-consultant-analyst-insurance",
+      "label": "Senior Business Consultant Analyst",
+      "soc": "15-1299",
+      "ptr": 0.9777,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "credentialing-manager-insurance",
+      "label": "Credentialing Manager",
+      "soc": "15-1299",
+      "ptr": 0.9777,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "senior-pension-administrator-insurance",
+      "label": "Senior Pension Administrator",
+      "soc": "15-1244",
+      "ptr": 0.9749,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4911
+    },
+    {
+      "id": "senior-enrollment-specialist",
+      "label": "Senior Enrollment Specialist",
+      "soc": "43-4061",
+      "ptr": 0.9706,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4816
+    },
+    {
+      "id": "claims-coordinator",
+      "label": "Claims Coordinator",
+      "soc": "43-9041",
+      "ptr": 0.9701,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5701
+    },
+    {
+      "id": "insurance-coordinator",
+      "label": "Insurance Coordinator",
+      "soc": "43-9041",
+      "ptr": 0.9701,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5701
+    },
+    {
+      "id": "senior-actuarial-assistant",
+      "label": "Senior Actuarial Assistant",
+      "soc": "43-9111",
+      "ptr": 0.9688,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.6046
+    },
+    {
+      "id": "broker-assistant",
+      "label": "Broker Assistant",
+      "soc": "43-4011",
+      "ptr": 0.9688,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5582
+    },
+    {
+      "id": "senior-placement-specialist",
+      "label": "Senior Placement Specialist",
+      "soc": "13-1071",
+      "ptr": 0.9664,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4226
+    },
+    {
+      "id": "business-consultant-analyst-insurance",
+      "label": "Business Consultant Analyst",
+      "soc": "15-1299",
+      "ptr": 0.9632,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "credentialing-coordinator-insurance",
+      "label": "Credentialing Coordinator",
+      "soc": "15-1299",
+      "ptr": 0.9632,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "customer-service-representative-iii",
+      "label": "Customer Service Representative III",
+      "soc": "41-3091",
+      "ptr": 0.9607,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.541
+    },
+    {
+      "id": "enrollment-specialist",
+      "label": "Enrollment Specialist",
+      "soc": "43-4061",
+      "ptr": 0.9563,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4816
+    },
+    {
+      "id": "enrollment-coordinator-insurance",
+      "label": "Enrollment Coordinator",
+      "soc": "43-4061",
+      "ptr": 0.9563,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4816
+    },
+    {
+      "id": "risk-specialist",
+      "label": "Risk Specialist",
+      "soc": "15-1212",
+      "ptr": 0.9549,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4371
+    },
+    {
+      "id": "credentialing-specialist-insurance",
+      "label": "Credentialing Specialist",
+      "soc": "13-1071",
+      "ptr": 0.9521,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4226
+    },
+    {
+      "id": "state-sales-coordinator",
+      "label": "State Sales Coordinator",
+      "soc": "41-4012",
+      "ptr": 0.9506,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4628
+    },
+    {
+      "id": "senior-group-sales-representative",
+      "label": "Senior Group Sales Representative",
+      "soc": "41-4012",
+      "ptr": 0.9506,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4628
+    },
+    {
+      "id": "associate-financial-representative-insurance",
+      "label": "Associate Financial Representative",
+      "soc": "41-3031",
+      "ptr": 0.9477,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4188
+    },
+    {
+      "id": "customer-service-representative-ii",
+      "label": "Customer Service Representative II",
+      "soc": "41-3091",
+      "ptr": 0.9464,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.541
+    },
+    {
+      "id": "personal-lines-customer-service-representative",
+      "label": "Personal Lines Customer Service Representative",
+      "soc": "41-3091",
+      "ptr": 0.9464,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.541
+    },
+    {
+      "id": "group-sales-representative",
+      "label": "Group Sales Representative",
+      "soc": "41-4012",
+      "ptr": 0.9365,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4628
+    },
+    {
+      "id": "senior-fraud-investigator-insurance",
+      "label": "Senior Fraud Investigator",
+      "soc": "43-4131",
+      "ptr": 0.936,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4384
+    },
+    {
+      "id": "senior-special-investigator",
+      "label": "Senior Special Investigator",
+      "soc": "43-4131",
+      "ptr": 0.936,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4384
+    },
+    {
+      "id": "senior-field-investigator",
+      "label": "Senior Field Investigator",
+      "soc": "43-4131",
+      "ptr": 0.936,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4384
+    },
+    {
+      "id": "senior-fire-investigator",
+      "label": "Senior Fire Investigator",
+      "soc": "43-4131",
+      "ptr": 0.936,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4384
+    },
+    {
+      "id": "pension-administrator-insurance",
+      "label": "Pension Administrator",
+      "soc": "15-1244",
+      "ptr": 0.9309,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4911
+    },
+    {
+      "id": "account-technician",
+      "label": "Account Technician",
+      "soc": "41-4012",
+      "ptr": 0.9222,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4628
+    },
+    {
+      "id": "district-sales-coordinator",
+      "label": "District Sales Coordinator",
+      "soc": "41-4012",
+      "ptr": 0.9222,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4628
+    },
+    {
+      "id": "fraud-investigator-insurance",
+      "label": "Fraud Investigator",
+      "soc": "43-4131",
+      "ptr": 0.9221,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4384
+    },
+    {
+      "id": "field-investigator",
+      "label": "Field Investigator",
+      "soc": "43-4131",
+      "ptr": 0.9221,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4384
+    },
+    {
+      "id": "fire-investigator-insurance",
+      "label": "Fire Investigator",
+      "soc": "43-4131",
+      "ptr": 0.9221,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4384
+    },
+    {
+      "id": "senior-group-underwriter",
+      "label": "Senior Group Underwriter",
+      "soc": "13-2072",
+      "ptr": 0.8783,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "executive-underwriter",
+      "label": "Executive Underwriter",
+      "soc": "13-2072",
+      "ptr": 0.8783,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "underwriter-iii-insurance",
+      "label": "Underwriter III",
+      "soc": "13-2072",
+      "ptr": 0.8783,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "contract-underwriter-insurance",
+      "label": "Contract Underwriter",
+      "soc": "13-2072",
+      "ptr": 0.8783,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "lead-underwriter",
+      "label": "Lead Underwriter",
+      "soc": "13-2072",
+      "ptr": 0.8783,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "senior-commercial-underwriter",
+      "label": "Senior Commercial Underwriter",
+      "soc": "13-2072",
+      "ptr": 0.8783,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "field-underwriter",
+      "label": "Field Underwriter",
+      "soc": "13-2072",
+      "ptr": 0.8783,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "senior-commercial-lines-underwriter",
+      "label": "Senior Commercial Lines Underwriter",
+      "soc": "13-2072",
+      "ptr": 0.8783,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "senior-assistant-underwriter",
+      "label": "Senior Assistant Underwriter",
+      "soc": "13-2072",
+      "ptr": 0.8783,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "senior-production-underwriter",
+      "label": "Senior Production Underwriter",
+      "soc": "13-2072",
+      "ptr": 0.8783,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "senior-associate-underwriter",
+      "label": "Senior Associate Underwriter",
+      "soc": "13-2072",
+      "ptr": 0.8783,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "senior-surety-underwriter",
+      "label": "Senior Surety Underwriter",
+      "soc": "13-2072",
+      "ptr": 0.8783,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "senior-casualty-underwriter",
+      "label": "Senior Casualty Underwriter",
+      "soc": "13-2072",
+      "ptr": 0.8783,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "senior-financial-underwriter",
+      "label": "Senior Financial Underwriter",
+      "soc": "13-2072",
+      "ptr": 0.8783,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "senior-property-underwriter",
+      "label": "Senior Property Underwriter",
+      "soc": "13-2072",
+      "ptr": 0.8783,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "senior-bond-underwriter",
+      "label": "Senior Bond Underwriter",
+      "soc": "13-2072",
+      "ptr": 0.8783,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "claims-assistant",
+      "label": "Claims Assistant",
+      "soc": "43-9041",
+      "ptr": 0.8775,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5701
+    },
+    {
+      "id": "registered-representative-insurance",
+      "label": "Registered Representative",
+      "soc": "41-3031",
+      "ptr": 0.8752,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4188
+    },
+    {
+      "id": "senior-insurance-specialist",
+      "label": "Senior Insurance Specialist",
+      "soc": "41-3021",
+      "ptr": 0.872,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4018
+    },
+    {
+      "id": "development-underwriter",
+      "label": "Development Underwriter",
+      "soc": "13-2072",
+      "ptr": 0.8653,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "life-underwriter",
+      "label": "Life Underwriter",
+      "soc": "13-2072",
+      "ptr": 0.8653,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "middle-market-underwriter",
+      "label": "Middle Market Underwriter",
+      "soc": "13-2072",
+      "ptr": 0.8653,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "insurance-underwriter",
+      "label": "Insurance Underwriter",
+      "soc": "13-2072",
+      "ptr": 0.8653,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.419
+    },
+    {
+      "id": "financial-underwriter",
+      "label": "Financial Underwriter",
+      "soc": "13-2072",
+      "ptr": 0.8653,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.419
+    }
+  ],
+  "edges": [
+    {
+      "source": "assistant-vice-president-insurance",
+      "target": "claims-adjuster",
+      "weight": 0.57
+    },
+    {
+      "source": "insurance-advisor",
+      "target": "risk-manager-insurance",
+      "weight": 0.71
+    },
+    {
+      "source": "claims-supervisor",
+      "target": "risk-manager-insurance",
+      "weight": 0.82
+    },
+    {
+      "source": "claims-supervisor",
+      "target": "underwriter",
+      "weight": 0.67
+    },
+    {
+      "source": "assistant-underwriter",
+      "target": "insurance-agent",
+      "weight": 0.68
+    },
+    {
+      "source": "assistant-underwriter",
+      "target": "claims-representative",
+      "weight": 0.96
+    },
+    {
+      "source": "claims-specialist",
+      "target": "claims-representative",
+      "weight": 0.94
+    },
+    {
+      "source": "claims-specialist",
+      "target": "risk-analyst-insurance",
+      "weight": 0.48
+    },
+    {
+      "source": "commercial-underwriter",
+      "target": "claims-handler",
+      "weight": 0.45
+    },
+    {
+      "source": "senior-claims-representative",
+      "target": "claims-adjuster",
+      "weight": 0.84
+    },
+    {
+      "source": "senior-claims-representative",
+      "target": "risk-manager-insurance",
+      "weight": 0.89
+    },
+    {
+      "source": "underwriting-assistant",
+      "target": "senior-underwriter",
+      "weight": 0.9
+    },
+    {
+      "source": "underwriting-assistant",
+      "target": "actuarial-analyst",
+      "weight": 0.4
+    },
+    {
+      "source": "claims-processor",
+      "target": "senior-underwriter",
+      "weight": 0.98
+    },
+    {
+      "source": "claims-processor",
+      "target": "account-handler",
+      "weight": 0.66
+    },
+    {
+      "source": "associate-underwriter",
+      "target": "claims-representative",
+      "weight": 0.98
+    },
+    {
+      "source": "associate-underwriter",
+      "target": "account-handler",
+      "weight": 0.77
+    },
+    {
+      "source": "claims-manager",
+      "target": "claims-adjuster",
+      "weight": 0.87
+    },
+    {
+      "source": "claims-manager",
+      "target": "claims-representative",
+      "weight": 0.42
+    },
+    {
+      "source": "broker",
+      "target": "actuarial-analyst",
+      "weight": 0.56
+    },
+    {
+      "source": "broker",
+      "target": "senior-underwriter",
+      "weight": 0.71
+    },
+    {
+      "source": "claims-examiner",
+      "target": "risk-manager-insurance",
+      "weight": 0.86
+    },
+    {
+      "source": "regional-vice-president",
+      "target": "account-handler",
+      "weight": 0.56
+    },
+    {
+      "source": "regional-vice-president",
+      "target": "risk-analyst-insurance",
+      "weight": 0.9
+    },
+    {
+      "source": "personal-lines-underwriter",
+      "target": "claims-adjuster",
+      "weight": 0.48
+    },
+    {
+      "source": "personal-lines-underwriter",
+      "target": "risk-analyst-insurance",
+      "weight": 0.53
+    },
+    {
+      "source": "benefits-analyst",
+      "target": "risk-manager-insurance",
+      "weight": 0.4
+    },
+    {
+      "source": "benefits-analyst",
+      "target": "senior-underwriter",
+      "weight": 0.63
+    },
+    {
+      "source": "insurance-consultant",
+      "target": "insurance-agent",
+      "weight": 0.75
+    },
+    {
+      "source": "underwriting-manager",
+      "target": "risk-manager-insurance",
+      "weight": 0.79
+    },
+    {
+      "source": "client-advisor-insurance",
+      "target": "claims-representative",
+      "weight": 0.45
+    },
+    {
+      "source": "commercial-account-executive",
+      "target": "actuarial-analyst",
+      "weight": 0.8
+    },
+    {
+      "source": "commercial-account-manager",
+      "target": "claims-adjuster",
+      "weight": 0.84
+    },
+    {
+      "source": "commercial-account-manager",
+      "target": "senior-underwriter",
+      "weight": 0.6
+    },
+    {
+      "source": "commercial-lines-underwriter",
+      "target": "account-handler",
+      "weight": 0.78
+    },
+    {
+      "source": "commercial-lines-underwriter",
+      "target": "risk-analyst-insurance",
+      "weight": 0.53
+    },
+    {
+      "source": "client-executive",
+      "target": "risk-analyst-insurance",
+      "weight": 0.97
+    },
+    {
+      "source": "production-underwriter",
+      "target": "senior-underwriter",
+      "weight": 0.72
+    },
+    {
+      "source": "production-underwriter",
+      "target": "insurance-agent",
+      "weight": 0.4
+    },
+    {
+      "source": "risk-consultant-insurance",
+      "target": "claims-handler",
+      "weight": 0.67
+    },
+    {
+      "source": "risk-consultant-insurance",
+      "target": "claims-representative",
+      "weight": 0.72
+    },
+    {
+      "source": "risk-management-consultant",
+      "target": "claims-adjuster",
+      "weight": 0.61
+    },
+    {
+      "source": "risk-management-consultant",
+      "target": "account-handler",
+      "weight": 0.65
+    },
+    {
+      "source": "risk-advisor",
+      "target": "account-handler",
+      "weight": 0.98
+    },
+    {
+      "source": "risk-advisor",
+      "target": "underwriter",
+      "weight": 0.54
+    },
+    {
+      "source": "senior-claims-adjuster",
+      "target": "claims-adjuster",
+      "weight": 0.76
+    },
+    {
+      "source": "commercial-account-handler",
+      "target": "claims-handler",
+      "weight": 0.91
+    },
+    {
+      "source": "assistant-actuary",
+      "target": "senior-underwriter",
+      "weight": 0.77
+    },
+    {
+      "source": "assistant-actuary",
+      "target": "insurance-agent",
+      "weight": 0.49
+    },
+    {
+      "source": "senior-actuarial-analyst",
+      "target": "claims-adjuster",
+      "weight": 0.84
+    },
+    {
+      "source": "underwriting-associate",
+      "target": "risk-manager-insurance",
+      "weight": 0.58
+    },
+    {
+      "source": "underwriting-specialist",
+      "target": "risk-manager-insurance",
+      "weight": 0.87
+    },
+    {
+      "source": "underwriting-specialist",
+      "target": "senior-underwriter",
+      "weight": 0.64
+    },
+    {
+      "source": "actuarial-manager",
+      "target": "claims-handler",
+      "weight": 0.42
+    },
+    {
+      "source": "claims-consultant",
+      "target": "underwriter",
+      "weight": 0.73
+    },
+    {
+      "source": "regional-underwriting-manager",
+      "target": "account-handler",
+      "weight": 0.67
+    },
+    {
+      "source": "regional-underwriting-manager",
+      "target": "senior-underwriter",
+      "weight": 0.59
+    },
+    {
+      "source": "property-underwriter",
+      "target": "claims-adjuster",
+      "weight": 0.65
+    },
+    {
+      "source": "property-underwriter",
+      "target": "underwriter",
+      "weight": 0.69
+    },
+    {
+      "source": "consulting-actuary",
+      "target": "risk-analyst-insurance",
+      "weight": 0.89
+    },
+    {
+      "source": "senior-business-systems-analyst-insurance",
+      "target": "account-handler",
+      "weight": 0.59
+    },
+    {
+      "source": "senior-business-systems-analyst-insurance",
+      "target": "risk-manager-insurance",
+      "weight": 0.56
+    },
+    {
+      "source": "agency-field-specialist",
+      "target": "claims-representative",
+      "weight": 0.57
+    },
+    {
+      "source": "agency-field-specialist",
+      "target": "risk-analyst-insurance",
+      "weight": 0.52
+    },
+    {
+      "source": "insurance-specialist",
+      "target": "risk-manager-insurance",
+      "weight": 0.47
+    },
+    {
+      "source": "insurance-specialist",
+      "target": "claims-handler",
+      "weight": 0.85
+    },
+    {
+      "source": "claims-analyst",
+      "target": "senior-underwriter",
+      "weight": 0.91
+    },
+    {
+      "source": "claims-analyst",
+      "target": "risk-analyst-insurance",
+      "weight": 0.67
+    },
+    {
+      "source": "agency-manager",
+      "target": "risk-analyst-insurance",
+      "weight": 0.56
+    },
+    {
+      "source": "loss-adjuster",
+      "target": "risk-manager-insurance",
+      "weight": 0.74
+    },
+    {
+      "source": "loss-adjuster",
+      "target": "claims-handler",
+      "weight": 0.61
+    },
+    {
+      "source": "adjuster",
+      "target": "risk-manager-insurance",
+      "weight": 0.69
+    },
+    {
+      "source": "claims-negotiator",
+      "target": "claims-adjuster",
+      "weight": 0.98
+    },
+    {
+      "source": "litigation-specialist-insurance",
+      "target": "risk-manager-insurance",
+      "weight": 0.55
+    },
+    {
+      "source": "litigation-specialist-insurance",
+      "target": "underwriter",
+      "weight": 0.61
+    },
+    {
+      "source": "associate-actuary",
+      "target": "risk-manager-insurance",
+      "weight": 0.73
+    },
+    {
+      "source": "associate-actuary",
+      "target": "claims-representative",
+      "weight": 0.65
+    },
+    {
+      "source": "underwriting-director",
+      "target": "claims-representative",
+      "weight": 0.69
+    },
+    {
+      "source": "benefits-consultant",
+      "target": "underwriter",
+      "weight": 0.6
+    },
+    {
+      "source": "benefits-consultant",
+      "target": "claims-handler",
+      "weight": 0.51
+    },
+    {
+      "source": "claims-technician",
+      "target": "underwriter",
+      "weight": 0.74
+    },
+    {
+      "source": "benefits-operation-manager-insurance",
+      "target": "underwriter",
+      "weight": 0.59
+    },
+    {
+      "source": "benefits-operation-manager-insurance",
+      "target": "risk-manager-insurance",
+      "weight": 0.97
+    },
+    {
+      "source": "claims-specialist-ii",
+      "target": "senior-underwriter",
+      "weight": 0.48
+    },
+    {
+      "source": "claims-specialist-ii",
+      "target": "actuarial-analyst",
+      "weight": 0.87
+    },
+    {
+      "source": "actuarial-specialist",
+      "target": "underwriter",
+      "weight": 0.59
+    },
+    {
+      "source": "actuarial-specialist",
+      "target": "actuarial-analyst",
+      "weight": 0.64
+    },
+    {
+      "source": "special-investigator-insurance",
+      "target": "senior-underwriter",
+      "weight": 0.43
+    },
+    {
+      "source": "field-adjuster",
+      "target": "risk-manager-insurance",
+      "weight": 0.5
+    },
+    {
+      "source": "property-adjuster",
+      "target": "claims-handler",
+      "weight": 0.6
+    },
+    {
+      "source": "actuarial-assistant",
+      "target": "actuarial-analyst",
+      "weight": 0.84
+    },
+    {
+      "source": "internal-wholesaler-insurance",
+      "target": "claims-handler",
+      "weight": 0.42
+    },
+    {
+      "source": "senior-risk-analyst-insurance",
+      "target": "account-handler",
+      "weight": 0.6
+    },
+    {
+      "source": "actuarial-consultant-insurance",
+      "target": "account-handler",
+      "weight": 0.5
+    },
+    {
+      "source": "senior-actuarial-associate",
+      "target": "account-handler",
+      "weight": 0.46
+    },
+    {
+      "source": "claims-team-manager",
+      "target": "account-handler",
+      "weight": 0.53
+    },
+    {
+      "source": "claims-team-manager",
+      "target": "claims-representative",
+      "weight": 0.96
+    },
+    {
+      "source": "commercial-lines-customer-service-representative",
+      "target": "risk-manager-insurance",
+      "weight": 0.94
+    },
+    {
+      "source": "insurance-manager",
+      "target": "claims-adjuster",
+      "weight": 0.57
+    },
+    {
+      "source": "claims-associate",
+      "target": "account-handler",
+      "weight": 0.62
+    },
+    {
+      "source": "regional-claims-manager",
+      "target": "underwriter",
+      "weight": 0.64
+    },
+    {
+      "source": "regional-claims-manager",
+      "target": "risk-analyst-insurance",
+      "weight": 0.81
+    },
+    {
+      "source": "benefits-specialist",
+      "target": "risk-manager-insurance",
+      "weight": 0.89
+    },
+    {
+      "source": "benefits-specialist",
+      "target": "claims-representative",
+      "weight": 0.58
+    },
+    {
+      "source": "regional-sales-coordinator",
+      "target": "insurance-agent",
+      "weight": 0.88
+    },
+    {
+      "source": "underwriting-consultant",
+      "target": "claims-adjuster",
+      "weight": 0.97
+    },
+    {
+      "source": "account-engineer",
+      "target": "risk-analyst-insurance",
+      "weight": 0.75
+    },
+    {
+      "source": "account-engineer",
+      "target": "claims-handler",
+      "weight": 0.44
+    },
+    {
+      "source": "pension-consultant-insurance",
+      "target": "risk-manager-insurance",
+      "weight": 0.81
+    },
+    {
+      "source": "pension-consultant-insurance",
+      "target": "claims-handler",
+      "weight": 0.97
+    },
+    {
+      "source": "account-service-manager",
+      "target": "actuarial-analyst",
+      "weight": 0.79
+    },
+    {
+      "source": "account-service-manager",
+      "target": "claims-handler",
+      "weight": 0.57
+    },
+    {
+      "source": "compliance-consultant-insurance",
+      "target": "claims-adjuster",
+      "weight": 0.77
+    },
+    {
+      "source": "compliance-consultant-insurance",
+      "target": "claims-representative",
+      "weight": 0.96
+    },
+    {
+      "source": "agency-field-consultant",
+      "target": "account-handler",
+      "weight": 0.45
+    },
+    {
+      "source": "retirement-specialist-insurance",
+      "target": "claims-adjuster",
+      "weight": 0.98
+    },
+    {
+      "source": "actuarial-associate",
+      "target": "account-handler",
+      "weight": 0.43
+    },
+    {
+      "source": "casualty-claims-adjuster",
+      "target": "risk-manager-insurance",
+      "weight": 0.68
+    },
+    {
+      "source": "underwriting-supervisor",
+      "target": "insurance-agent",
+      "weight": 0.89
+    },
+    {
+      "source": "underwriting-supervisor",
+      "target": "risk-manager-insurance",
+      "weight": 0.46
+    },
+    {
+      "source": "auto-claims-representative",
+      "target": "actuarial-analyst",
+      "weight": 0.45
+    },
+    {
+      "source": "senior-benefits-specialist",
+      "target": "claims-handler",
+      "weight": 0.79
+    },
+    {
+      "source": "senior-underwriting-assistant",
+      "target": "actuarial-analyst",
+      "weight": 0.98
+    },
+    {
+      "source": "senior-underwriting-assistant",
+      "target": "risk-analyst-insurance",
+      "weight": 0.94
+    },
+    {
+      "source": "senior-claims-associate",
+      "target": "claims-representative",
+      "weight": 0.78
+    },
+    {
+      "source": "informatics-analyst-insurance",
+      "target": "senior-underwriter",
+      "weight": 0.46
+    },
+    {
+      "source": "senior-business-consultant-analyst-insurance",
+      "target": "claims-adjuster",
+      "weight": 0.63
+    },
+    {
+      "source": "senior-business-consultant-analyst-insurance",
+      "target": "claims-representative",
+      "weight": 0.47
+    },
+    {
+      "source": "credentialing-manager-insurance",
+      "target": "underwriter",
+      "weight": 0.56
+    },
+    {
+      "source": "senior-pension-administrator-insurance",
+      "target": "account-handler",
+      "weight": 0.99
+    },
+    {
+      "source": "senior-pension-administrator-insurance",
+      "target": "risk-manager-insurance",
+      "weight": 0.89
+    },
+    {
+      "source": "senior-enrollment-specialist",
+      "target": "insurance-agent",
+      "weight": 0.68
+    },
+    {
+      "source": "claims-coordinator",
+      "target": "risk-analyst-insurance",
+      "weight": 0.73
+    },
+    {
+      "source": "insurance-coordinator",
+      "target": "risk-manager-insurance",
+      "weight": 0.96
+    },
+    {
+      "source": "senior-actuarial-assistant",
+      "target": "risk-analyst-insurance",
+      "weight": 0.69
+    },
+    {
+      "source": "senior-actuarial-assistant",
+      "target": "actuarial-analyst",
+      "weight": 0.79
+    },
+    {
+      "source": "broker-assistant",
+      "target": "claims-representative",
+      "weight": 0.91
+    },
+    {
+      "source": "senior-placement-specialist",
+      "target": "account-handler",
+      "weight": 0.49
+    },
+    {
+      "source": "business-consultant-analyst-insurance",
+      "target": "actuarial-analyst",
+      "weight": 0.44
+    },
+    {
+      "source": "credentialing-coordinator-insurance",
+      "target": "claims-handler",
+      "weight": 0.58
+    },
+    {
+      "source": "credentialing-coordinator-insurance",
+      "target": "risk-manager-insurance",
+      "weight": 0.55
+    },
+    {
+      "source": "customer-service-representative-iii",
+      "target": "insurance-agent",
+      "weight": 0.64
+    },
+    {
+      "source": "customer-service-representative-iii",
+      "target": "actuarial-analyst",
+      "weight": 0.45
+    },
+    {
+      "source": "enrollment-specialist",
+      "target": "risk-manager-insurance",
+      "weight": 0.78
+    },
+    {
+      "source": "enrollment-specialist",
+      "target": "risk-analyst-insurance",
+      "weight": 0.59
+    },
+    {
+      "source": "enrollment-coordinator-insurance",
+      "target": "actuarial-analyst",
+      "weight": 0.4
+    },
+    {
+      "source": "enrollment-coordinator-insurance",
+      "target": "underwriter",
+      "weight": 0.95
+    },
+    {
+      "source": "risk-specialist",
+      "target": "risk-analyst-insurance",
+      "weight": 0.76
+    },
+    {
+      "source": "credentialing-specialist-insurance",
+      "target": "risk-manager-insurance",
+      "weight": 0.87
+    },
+    {
+      "source": "state-sales-coordinator",
+      "target": "risk-manager-insurance",
+      "weight": 0.48
+    },
+    {
+      "source": "state-sales-coordinator",
+      "target": "claims-representative",
+      "weight": 0.94
+    },
+    {
+      "source": "senior-group-sales-representative",
+      "target": "insurance-agent",
+      "weight": 0.55
+    },
+    {
+      "source": "associate-financial-representative-insurance",
+      "target": "claims-representative",
+      "weight": 0.69
+    },
+    {
+      "source": "associate-financial-representative-insurance",
+      "target": "account-handler",
+      "weight": 0.91
+    },
+    {
+      "source": "customer-service-representative-ii",
+      "target": "account-handler",
+      "weight": 0.51
+    },
+    {
+      "source": "personal-lines-customer-service-representative",
+      "target": "risk-manager-insurance",
+      "weight": 0.42
+    },
+    {
+      "source": "group-sales-representative",
+      "target": "claims-handler",
+      "weight": 0.71
+    },
+    {
+      "source": "senior-fraud-investigator-insurance",
+      "target": "claims-handler",
+      "weight": 0.75
+    },
+    {
+      "source": "senior-fraud-investigator-insurance",
+      "target": "senior-underwriter",
+      "weight": 0.49
+    },
+    {
+      "source": "senior-special-investigator",
+      "target": "claims-adjuster",
+      "weight": 0.49
+    },
+    {
+      "source": "senior-field-investigator",
+      "target": "risk-manager-insurance",
+      "weight": 0.6
+    },
+    {
+      "source": "senior-field-investigator",
+      "target": "underwriter",
+      "weight": 0.49
+    },
+    {
+      "source": "senior-fire-investigator",
+      "target": "account-handler",
+      "weight": 0.89
+    },
+    {
+      "source": "pension-administrator-insurance",
+      "target": "claims-handler",
+      "weight": 0.48
+    },
+    {
+      "source": "account-technician",
+      "target": "claims-adjuster",
+      "weight": 0.95
+    },
+    {
+      "source": "district-sales-coordinator",
+      "target": "claims-adjuster",
+      "weight": 0.54
+    },
+    {
+      "source": "fraud-investigator-insurance",
+      "target": "claims-representative",
+      "weight": 0.46
+    },
+    {
+      "source": "fraud-investigator-insurance",
+      "target": "risk-analyst-insurance",
+      "weight": 0.4
+    },
+    {
+      "source": "field-investigator",
+      "target": "claims-handler",
+      "weight": 0.53
+    },
+    {
+      "source": "fire-investigator-insurance",
+      "target": "actuarial-analyst",
+      "weight": 0.86
+    },
+    {
+      "source": "senior-group-underwriter",
+      "target": "risk-analyst-insurance",
+      "weight": 0.61
+    },
+    {
+      "source": "executive-underwriter",
+      "target": "senior-underwriter",
+      "weight": 0.52
+    },
+    {
+      "source": "underwriter-iii-insurance",
+      "target": "claims-adjuster",
+      "weight": 0.46
+    },
+    {
+      "source": "underwriter-iii-insurance",
+      "target": "risk-manager-insurance",
+      "weight": 0.95
+    },
+    {
+      "source": "contract-underwriter-insurance",
+      "target": "claims-representative",
+      "weight": 0.52
+    },
+    {
+      "source": "contract-underwriter-insurance",
+      "target": "claims-handler",
+      "weight": 0.43
+    },
+    {
+      "source": "lead-underwriter",
+      "target": "risk-manager-insurance",
+      "weight": 0.86
+    },
+    {
+      "source": "lead-underwriter",
+      "target": "insurance-agent",
+      "weight": 0.78
+    },
+    {
+      "source": "senior-commercial-underwriter",
+      "target": "claims-handler",
+      "weight": 0.78
+    },
+    {
+      "source": "senior-commercial-underwriter",
+      "target": "risk-analyst-insurance",
+      "weight": 0.41
+    },
+    {
+      "source": "field-underwriter",
+      "target": "underwriter",
+      "weight": 0.95
+    },
+    {
+      "source": "senior-commercial-lines-underwriter",
+      "target": "actuarial-analyst",
+      "weight": 0.69
+    },
+    {
+      "source": "senior-assistant-underwriter",
+      "target": "account-handler",
+      "weight": 0.83
+    },
+    {
+      "source": "senior-production-underwriter",
+      "target": "risk-manager-insurance",
+      "weight": 1
+    },
+    {
+      "source": "senior-associate-underwriter",
+      "target": "underwriter",
+      "weight": 0.57
+    },
+    {
+      "source": "senior-associate-underwriter",
+      "target": "senior-underwriter",
+      "weight": 0.87
+    },
+    {
+      "source": "senior-surety-underwriter",
+      "target": "claims-representative",
+      "weight": 0.67
+    },
+    {
+      "source": "senior-surety-underwriter",
+      "target": "senior-underwriter",
+      "weight": 0.71
+    },
+    {
+      "source": "senior-casualty-underwriter",
+      "target": "actuarial-analyst",
+      "weight": 0.46
+    },
+    {
+      "source": "senior-casualty-underwriter",
+      "target": "risk-manager-insurance",
+      "weight": 0.52
+    },
+    {
+      "source": "senior-financial-underwriter",
+      "target": "insurance-agent",
+      "weight": 0.68
+    },
+    {
+      "source": "senior-property-underwriter",
+      "target": "claims-adjuster",
+      "weight": 0.82
+    },
+    {
+      "source": "senior-property-underwriter",
+      "target": "insurance-agent",
+      "weight": 0.56
+    },
+    {
+      "source": "senior-bond-underwriter",
+      "target": "risk-manager-insurance",
+      "weight": 0.68
+    },
+    {
+      "source": "claims-assistant",
+      "target": "senior-underwriter",
+      "weight": 0.74
+    },
+    {
+      "source": "claims-assistant",
+      "target": "risk-manager-insurance",
+      "weight": 0.83
+    },
+    {
+      "source": "registered-representative-insurance",
+      "target": "actuarial-analyst",
+      "weight": 0.91
+    },
+    {
+      "source": "senior-insurance-specialist",
+      "target": "risk-analyst-insurance",
+      "weight": 0.47
+    },
+    {
+      "source": "development-underwriter",
+      "target": "claims-adjuster",
+      "weight": 0.82
+    },
+    {
+      "source": "development-underwriter",
+      "target": "risk-manager-insurance",
+      "weight": 0.7
+    },
+    {
+      "source": "life-underwriter",
+      "target": "risk-manager-insurance",
+      "weight": 0.52
+    },
+    {
+      "source": "middle-market-underwriter",
+      "target": "account-handler",
+      "weight": 0.71
+    },
+    {
+      "source": "insurance-underwriter",
+      "target": "risk-manager-insurance",
+      "weight": 0.46
+    },
+    {
+      "source": "financial-underwriter",
+      "target": "risk-analyst-insurance",
+      "weight": 0.86
+    },
+    {
+      "source": "financial-underwriter",
+      "target": "claims-adjuster",
+      "weight": 0.74
+    },
+    {
+      "source": "underwriter",
+      "target": "risk-analyst-insurance",
+      "weight": 0.94
+    },
+    {
+      "source": "underwriter",
+      "target": "claims-representative",
+      "weight": 0.91
+    },
+    {
+      "source": "underwriter",
+      "target": "account-handler",
+      "weight": 0.64
+    },
+    {
+      "source": "risk-analyst-insurance",
+      "target": "actuarial-analyst",
+      "weight": 0.8
+    },
+    {
+      "source": "risk-analyst-insurance",
+      "target": "claims-representative",
+      "weight": 0.9
+    },
+    {
+      "source": "risk-analyst-insurance",
+      "target": "claims-adjuster",
+      "weight": 0.73
+    },
+    {
+      "source": "risk-analyst-insurance",
+      "target": "account-handler",
+      "weight": 0.65
+    },
+    {
+      "source": "risk-analyst-insurance",
+      "target": "senior-underwriter",
+      "weight": 0.82
+    },
+    {
+      "source": "risk-analyst-insurance",
+      "target": "claims-handler",
+      "weight": 0.65
+    },
+    {
+      "source": "risk-analyst-insurance",
+      "target": "risk-manager-insurance",
+      "weight": 0.94
+    },
+    {
+      "source": "actuarial-analyst",
+      "target": "claims-adjuster",
+      "weight": 0.81
+    },
+    {
+      "source": "actuarial-analyst",
+      "target": "account-handler",
+      "weight": 0.96
+    },
+    {
+      "source": "actuarial-analyst",
+      "target": "insurance-agent",
+      "weight": 0.91
+    },
+    {
+      "source": "actuarial-analyst",
+      "target": "senior-underwriter",
+      "weight": 0.68
+    },
+    {
+      "source": "actuarial-analyst",
+      "target": "claims-handler",
+      "weight": 0.91
+    },
+    {
+      "source": "actuarial-analyst",
+      "target": "risk-manager-insurance",
+      "weight": 0.68
+    },
+    {
+      "source": "claims-representative",
+      "target": "account-handler",
+      "weight": 0.83
+    },
+    {
+      "source": "claims-representative",
+      "target": "insurance-agent",
+      "weight": 0.95
+    },
+    {
+      "source": "claims-representative",
+      "target": "senior-underwriter",
+      "weight": 0.9
+    },
+    {
+      "source": "claims-representative",
+      "target": "claims-handler",
+      "weight": 0.89
+    },
+    {
+      "source": "claims-representative",
+      "target": "risk-manager-insurance",
+      "weight": 0.72
+    },
+    {
+      "source": "claims-adjuster",
+      "target": "insurance-agent",
+      "weight": 0.68
+    },
+    {
+      "source": "claims-adjuster",
+      "target": "senior-underwriter",
+      "weight": 0.66
+    },
+    {
+      "source": "claims-adjuster",
+      "target": "claims-handler",
+      "weight": 0.73
+    },
+    {
+      "source": "claims-adjuster",
+      "target": "risk-manager-insurance",
+      "weight": 0.75
+    },
+    {
+      "source": "account-handler",
+      "target": "insurance-agent",
+      "weight": 0.78
+    },
+    {
+      "source": "account-handler",
+      "target": "senior-underwriter",
+      "weight": 0.76
+    },
+    {
+      "source": "account-handler",
+      "target": "claims-handler",
+      "weight": 0.99
+    },
+    {
+      "source": "account-handler",
+      "target": "risk-manager-insurance",
+      "weight": 0.63
+    },
+    {
+      "source": "insurance-agent",
+      "target": "senior-underwriter",
+      "weight": 0.74
+    },
+    {
+      "source": "insurance-agent",
+      "target": "claims-handler",
+      "weight": 0.85
+    },
+    {
+      "source": "insurance-agent",
+      "target": "risk-manager-insurance",
+      "weight": 0.98
+    },
+    {
+      "source": "senior-underwriter",
+      "target": "claims-handler",
+      "weight": 0.81
+    },
+    {
+      "source": "senior-underwriter",
+      "target": "risk-manager-insurance",
+      "weight": 0.96
+    },
+    {
+      "source": "claims-handler",
+      "target": "risk-manager-insurance",
+      "weight": 0.62
+    },
+    {
+      "source": "underwriter",
+      "target": "commercial-account-executive",
+      "weight": 0.7
+    },
+    {
+      "source": "underwriter",
+      "target": "commercial-account-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "underwriter",
+      "target": "agency-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "underwriter",
+      "target": "account-service-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "commercial-account-executive",
+      "target": "commercial-account-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "commercial-account-executive",
+      "target": "agency-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "commercial-account-executive",
+      "target": "account-service-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "commercial-account-manager",
+      "target": "agency-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "commercial-account-manager",
+      "target": "account-service-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "agency-manager",
+      "target": "account-service-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "risk-analyst-insurance",
+      "target": "senior-risk-analyst-insurance",
+      "weight": 0.7
+    },
+    {
+      "source": "account-handler",
+      "target": "commercial-account-handler",
+      "weight": 0.7
+    },
+    {
+      "source": "claims-handler",
+      "target": "commercial-account-handler",
+      "weight": 0.7
+    },
+    {
+      "source": "assistant-vice-president-insurance",
+      "target": "regional-vice-president",
+      "weight": 0.7
+    },
+    {
+      "source": "insurance-advisor",
+      "target": "claims-supervisor",
+      "weight": 0.7
+    },
+    {
+      "source": "insurance-advisor",
+      "target": "client-advisor-insurance",
+      "weight": 0.7
+    },
+    {
+      "source": "insurance-advisor",
+      "target": "risk-advisor",
+      "weight": 0.7
+    },
+    {
+      "source": "insurance-advisor",
+      "target": "underwriting-supervisor",
+      "weight": 0.7
+    },
+    {
+      "source": "claims-supervisor",
+      "target": "client-advisor-insurance",
+      "weight": 0.7
+    },
+    {
+      "source": "claims-supervisor",
+      "target": "risk-advisor",
+      "weight": 0.7
+    },
+    {
+      "source": "claims-supervisor",
+      "target": "underwriting-supervisor",
+      "weight": 0.7
+    },
+    {
+      "source": "client-advisor-insurance",
+      "target": "risk-advisor",
+      "weight": 0.7
+    },
+    {
+      "source": "client-advisor-insurance",
+      "target": "underwriting-supervisor",
+      "weight": 0.7
+    },
+    {
+      "source": "risk-advisor",
+      "target": "underwriting-supervisor",
+      "weight": 0.7
+    },
+    {
+      "source": "benefits-analyst",
+      "target": "risk-consultant-insurance",
+      "weight": 0.7
+    },
+    {
+      "source": "benefits-analyst",
+      "target": "benefits-consultant",
+      "weight": 0.7
+    },
+    {
+      "source": "risk-consultant-insurance",
+      "target": "benefits-consultant",
+      "weight": 0.7
+    },
+    {
+      "source": "actuarial-manager",
+      "target": "insurance-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-business-systems-analyst-insurance",
+      "target": "claims-technician",
+      "weight": 0.7
+    },
+    {
+      "source": "actuarial-assistant",
+      "target": "senior-actuarial-assistant",
+      "weight": 0.7
+    },
+    {
+      "source": "benefits-specialist",
+      "target": "senior-benefits-specialist",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-enrollment-specialist",
+      "target": "broker-assistant",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-enrollment-specialist",
+      "target": "enrollment-specialist",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-enrollment-specialist",
+      "target": "enrollment-coordinator-insurance",
+      "weight": 0.7
+    },
+    {
+      "source": "broker-assistant",
+      "target": "enrollment-specialist",
+      "weight": 0.7
+    },
+    {
+      "source": "broker-assistant",
+      "target": "enrollment-coordinator-insurance",
+      "weight": 0.7
+    },
+    {
+      "source": "enrollment-specialist",
+      "target": "enrollment-coordinator-insurance",
+      "weight": 0.7
+    }
+  ]
+}

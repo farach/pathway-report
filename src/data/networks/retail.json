@@ -1,0 +1,2796 @@
+{
+  "sector": "Retail",
+  "metadata": {
+    "nodeCount": 150,
+    "edgeCount": 262,
+    "generatedAt": "2026-01-31T16:46:33Z"
+  },
+  "nodes": [
+    {
+      "id": "store-manager",
+      "label": "Store Manager",
+      "soc": "41-1011",
+      "ptr": 0,
+      "nfc": 0.7214,
+      "quadrant": "LH",
+      "size": 27.82,
+      "aiExposure": 0.3083
+    },
+    {
+      "id": "assistant-buyer",
+      "label": "Assistant Buyer",
+      "soc": "13-1023",
+      "ptr": 0.427,
+      "nfc": 0.6542,
+      "quadrant": "LH",
+      "size": 15.1,
+      "aiExposure": 0.2368
+    },
+    {
+      "id": "merchandiser",
+      "label": "Merchandiser",
+      "soc": "13-1199",
+      "ptr": 0.7955,
+      "nfc": 0.9481,
+      "quadrant": "HH",
+      "size": 11.43,
+      "aiExposure": 0.4007
+    },
+    {
+      "id": "assistant-store-manager",
+      "label": "Assistant Store Manager",
+      "soc": "41-1011",
+      "ptr": 0.4706,
+      "nfc": 0.7199,
+      "quadrant": "LH",
+      "size": 10.4,
+      "aiExposure": 0.3083
+    },
+    {
+      "id": "merchandise-manager",
+      "label": "Merchandise Manager",
+      "soc": "41-1011",
+      "ptr": 0.6655,
+      "nfc": 0.7194,
+      "quadrant": "LH",
+      "size": 9.62,
+      "aiExposure": 0.3083
+    },
+    {
+      "id": "category-manager",
+      "label": "Category Manager",
+      "soc": "11-2021",
+      "ptr": 0.7318,
+      "nfc": 0.822,
+      "quadrant": "HH",
+      "size": 8.41,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "merchandising-assistant",
+      "label": "Merchandising Assistant",
+      "soc": "41-2022",
+      "ptr": 0.2403,
+      "nfc": 0.2662,
+      "quadrant": "LH",
+      "size": 8.03,
+      "aiExposure": 0.2933
+    },
+    {
+      "id": "allocator",
+      "label": "Allocator",
+      "soc": "43-9061",
+      "ptr": 0.8185,
+      "nfc": 0.944,
+      "quadrant": "HH",
+      "size": 7.83,
+      "aiExposure": 0.4088
+    },
+    {
+      "id": "merchandise-planner",
+      "label": "Merchandise Planner",
+      "soc": "19-3051",
+      "ptr": 0.6457,
+      "nfc": 0.6876,
+      "quadrant": "LH",
+      "size": 7.82,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "assistant-merchandiser",
+      "label": "Assistant Merchandiser",
+      "soc": "13-1199",
+      "ptr": 0.8075,
+      "nfc": 0.9436,
+      "quadrant": "HH",
+      "size": 7.06,
+      "aiExposure": 0.4007
+    },
+    {
+      "id": "internet-sales-manager",
+      "label": "Internet Sales Manager",
+      "soc": "11-2021",
+      "ptr": 0.7609,
+      "nfc": 0.8192,
+      "quadrant": "HH",
+      "size": 6.77,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "merchandise-analyst",
+      "label": "Merchandise Analyst",
+      "soc": "13-2054",
+      "ptr": 0.8153,
+      "nfc": 0.8664,
+      "quadrant": "HH",
+      "size": 6.7,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "stylist",
+      "label": "Stylist",
+      "soc": "27-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 6.56,
+      "aiExposure": 0
+    },
+    {
+      "id": "visual-merchandiser",
+      "label": "Visual Merchandiser",
+      "soc": "13-1199",
+      "ptr": 0.5875,
+      "nfc": 0.941,
+      "quadrant": "LH",
+      "size": 6.45,
+      "aiExposure": 0.4007
+    },
+    {
+      "id": "loss-prevention-manager",
+      "label": "Loss Prevention Manager",
+      "soc": "11-9199",
+      "ptr": 0.7265,
+      "nfc": 0.79,
+      "quadrant": "HH",
+      "size": 6.39,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "visual-manager",
+      "label": "Visual Manager",
+      "soc": "17-2072",
+      "ptr": 0.9091,
+      "nfc": 0.9754,
+      "quadrant": "HH",
+      "size": 6.32,
+      "aiExposure": 0.447
+    },
+    {
+      "id": "merchandising-manager",
+      "label": "Merchandising Manager",
+      "soc": "11-3061",
+      "ptr": 0.9217,
+      "nfc": 0.9644,
+      "quadrant": "HH",
+      "size": 6.32,
+      "aiExposure": 0.3456
+    },
+    {
+      "id": "visual-merchandising-manager",
+      "label": "Visual Merchandising Manager",
+      "soc": "11-3061",
+      "ptr": 0.9434,
+      "nfc": 0.9638,
+      "quadrant": "HH",
+      "size": 6.05,
+      "aiExposure": 0.3456
+    },
+    {
+      "id": "executive-team-leader",
+      "label": "Executive Team Leader",
+      "soc": "11-9199",
+      "ptr": 0.6783,
+      "nfc": 0.7878,
+      "quadrant": "LH",
+      "size": 6.04,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "retail-manager",
+      "label": "Retail Manager",
+      "soc": "41-1011",
+      "ptr": 0.6571,
+      "nfc": 0.7121,
+      "quadrant": "LH",
+      "size": 6,
+      "aiExposure": 0.3083
+    },
+    {
+      "id": "associate-buyer",
+      "label": "Associate Buyer",
+      "soc": "13-1023",
+      "ptr": 0.6262,
+      "nfc": 0.6458,
+      "quadrant": "LH",
+      "size": 5.96,
+      "aiExposure": 0.2368
+    },
+    {
+      "id": "allocation-analyst",
+      "label": "Allocation Analyst",
+      "soc": "13-2054",
+      "ptr": 0.8153,
+      "nfc": 0.8604,
+      "quadrant": "HH",
+      "size": 5.85,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "product-developer",
+      "label": "Product Developer",
+      "soc": "51-9151",
+      "ptr": 0.3065,
+      "nfc": 0.312,
+      "quadrant": "LH",
+      "size": 5.65,
+      "aiExposure": 0.244
+    },
+    {
+      "id": "replenishment-analyst-retail",
+      "label": "Replenishment Analyst",
+      "soc": "13-2054",
+      "ptr": 0.8446,
+      "nfc": 0.8592,
+      "quadrant": "HH",
+      "size": 5.62,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "assistant-designer",
+      "label": "Assistant Designer",
+      "soc": "17-2121",
+      "ptr": 0.3764,
+      "nfc": 0.4713,
+      "quadrant": "LH",
+      "size": 5.6,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "co-manager",
+      "label": "Co Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.56,
+      "aiExposure": 0
+    },
+    {
+      "id": "showroom-manager",
+      "label": "Showroom Manager",
+      "soc": "41-1011",
+      "ptr": 0.7137,
+      "nfc": 0.7086,
+      "quadrant": "HH",
+      "size": 5.52,
+      "aiExposure": 0.3083
+    },
+    {
+      "id": "merchant",
+      "label": "Merchant",
+      "soc": "41-4012",
+      "ptr": 0.9651,
+      "nfc": 0.9682,
+      "quadrant": "HH",
+      "size": 5.49,
+      "aiExposure": 0.4628
+    },
+    {
+      "id": "executive-team-leader-asset-protection",
+      "label": "Executive Team Leader Asset Protection",
+      "soc": "11-9199",
+      "ptr": 0.7449,
+      "nfc": 0.7823,
+      "quadrant": "HH",
+      "size": 5.47,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "service-advisor",
+      "label": "Service Advisor",
+      "soc": "49-3031",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LH",
+      "size": 5.44,
+      "aiExposure": 0.0497
+    },
+    {
+      "id": "buying-assistant",
+      "label": "Buying Assistant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.43,
+      "aiExposure": 0
+    },
+    {
+      "id": "retail-operation-manager",
+      "label": "Retail Operation Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.42,
+      "aiExposure": 0
+    },
+    {
+      "id": "merchandise-planning-manager",
+      "label": "Merchandise Planning Manager",
+      "soc": "11-3071",
+      "ptr": 0.7699,
+      "nfc": 0.7696,
+      "quadrant": "HH",
+      "size": 5.42,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "merchandising-specialist",
+      "label": "Merchandising Specialist",
+      "soc": "41-9011",
+      "ptr": 0.1739,
+      "nfc": 0.1757,
+      "quadrant": "LH",
+      "size": 5.41,
+      "aiExposure": 0.2186
+    },
+    {
+      "id": "product-engineer-retail",
+      "label": "Product Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7345,
+      "nfc": 0.8835,
+      "quadrant": "HH",
+      "size": 5.4,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "product-designer-retail",
+      "label": "Product Designer",
+      "soc": "17-2121",
+      "ptr": 0.4475,
+      "nfc": 0.4677,
+      "quadrant": "LH",
+      "size": 5.39,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "store-planner",
+      "label": "Store Planner",
+      "soc": "19-3051",
+      "ptr": 0.6764,
+      "nfc": 0.6743,
+      "quadrant": "LH",
+      "size": 5.36,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "senior-assistant-buyer",
+      "label": "Senior Assistant Buyer",
+      "soc": "13-1023",
+      "ptr": 0.6189,
+      "nfc": 0.6381,
+      "quadrant": "LH",
+      "size": 5.35,
+      "aiExposure": 0.2368
+    },
+    {
+      "id": "executive-human-resources-team-leader",
+      "label": "Executive Human Resources Team Leader",
+      "soc": "11-9199",
+      "ptr": 0.7717,
+      "nfc": 0.7768,
+      "quadrant": "HH",
+      "size": 5.33,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "automotive-technician",
+      "label": "Automotive Technician",
+      "soc": "17-3023",
+      "ptr": 0.3273,
+      "nfc": 0.359,
+      "quadrant": "LH",
+      "size": 5.31,
+      "aiExposure": 0.3042
+    },
+    {
+      "id": "quality-engineer-retail",
+      "label": "Quality Engineer",
+      "soc": "17-2121",
+      "ptr": 0.3954,
+      "nfc": 0.466,
+      "quadrant": "LH",
+      "size": 5.3,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "grocery-manager",
+      "label": "Grocery Manager",
+      "soc": "41-1011",
+      "ptr": 0.69,
+      "nfc": 0.7012,
+      "quadrant": "HH",
+      "size": 5.3,
+      "aiExposure": 0.3083
+    },
+    {
+      "id": "merchandise-presentation-manager",
+      "label": "Merchandise Presentation Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.29,
+      "aiExposure": 0
+    },
+    {
+      "id": "junior-merchandiser",
+      "label": "Junior Merchandiser",
+      "soc": "13-1199",
+      "ptr": 0.9186,
+      "nfc": 0.9214,
+      "quadrant": "HH",
+      "size": 5.29,
+      "aiExposure": 0.4007
+    },
+    {
+      "id": "associate-planner-retail",
+      "label": "Associate Planner",
+      "soc": "19-3051",
+      "ptr": 0.6612,
+      "nfc": 0.6705,
+      "quadrant": "LH",
+      "size": 5.27,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "senior-merchandiser",
+      "label": "Senior Merchandiser",
+      "soc": "13-1199",
+      "ptr": 0.8975,
+      "nfc": 0.9201,
+      "quadrant": "HH",
+      "size": 5.26,
+      "aiExposure": 0.4007
+    },
+    {
+      "id": "design-assistant-retail",
+      "label": "Design Assistant",
+      "soc": "17-1012",
+      "ptr": 0.4135,
+      "nfc": 0.464,
+      "quadrant": "LH",
+      "size": 5.25,
+      "aiExposure": 0.3197
+    },
+    {
+      "id": "assistant-merchandise-manager",
+      "label": "Assistant Merchandise Manager",
+      "soc": "41-1011",
+      "ptr": 0.7059,
+      "nfc": 0.6981,
+      "quadrant": "HH",
+      "size": 5.24,
+      "aiExposure": 0.3083
+    },
+    {
+      "id": "information-technology-service-professional-retail",
+      "label": "Information Technology Service Professional",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.22,
+      "aiExposure": 0
+    },
+    {
+      "id": "key-holder",
+      "label": "Key Holder",
+      "soc": "41-1011",
+      "ptr": 0.6487,
+      "nfc": 0.6971,
+      "quadrant": "LH",
+      "size": 5.22,
+      "aiExposure": 0.3083
+    },
+    {
+      "id": "garment-technologist",
+      "label": "Garment Technologist",
+      "soc": "17-3023",
+      "ptr": 0.3649,
+      "nfc": 0.3562,
+      "quadrant": "LH",
+      "size": 5.22,
+      "aiExposure": 0.3042
+    },
+    {
+      "id": "parts-manager",
+      "label": "Parts Manager",
+      "soc": "41-1011",
+      "ptr": 0.7137,
+      "nfc": 0.6961,
+      "quadrant": "HH",
+      "size": 5.22,
+      "aiExposure": 0.3083
+    },
+    {
+      "id": "retail-store-manager-retail",
+      "label": "Retail Store Manager",
+      "soc": "41-1011",
+      "ptr": 0.7059,
+      "nfc": 0.6956,
+      "quadrant": "HH",
+      "size": 5.22,
+      "aiExposure": 0.3083
+    },
+    {
+      "id": "general-sales-manager",
+      "label": "General Sales Manager",
+      "soc": "11-2021",
+      "ptr": 0.816,
+      "nfc": 0.7947,
+      "quadrant": "HH",
+      "size": 5.21,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "used-car-manager",
+      "label": "Used Car Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.21,
+      "aiExposure": 0
+    },
+    {
+      "id": "pre-owned-sales-manager",
+      "label": "Pre Owned Sales Manager",
+      "soc": "11-2021",
+      "ptr": 0.816,
+      "nfc": 0.793,
+      "quadrant": "HH",
+      "size": 5.21,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "inventory-planner-retail",
+      "label": "Inventory Planner",
+      "soc": "19-3051",
+      "ptr": 0.6839,
+      "nfc": 0.6647,
+      "quadrant": "HH",
+      "size": 5.21,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "buying-manager",
+      "label": "Buying Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.21,
+      "aiExposure": 0
+    },
+    {
+      "id": "retail-planner",
+      "label": "Retail Planner",
+      "soc": "19-3051",
+      "ptr": 0.6839,
+      "nfc": 0.6632,
+      "quadrant": "HH",
+      "size": 5.21,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "merchandising-director",
+      "label": "Merchandising Director",
+      "soc": "27-2012",
+      "ptr": 0.612,
+      "nfc": 0.5935,
+      "quadrant": "LH",
+      "size": 5.21,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "replenishment-manager-retail",
+      "label": "Replenishment Manager",
+      "soc": "11-3071",
+      "ptr": 0.7699,
+      "nfc": 0.7543,
+      "quadrant": "HH",
+      "size": 5.21,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "merchandising-assistant-store-manager",
+      "label": "Merchandising Assistant Store Manager",
+      "soc": "41-2022",
+      "ptr": 0.2615,
+      "nfc": 0.256,
+      "quadrant": "LH",
+      "size": 5.21,
+      "aiExposure": 0.2933
+    },
+    {
+      "id": "associate-designer-retail",
+      "label": "Associate Designer",
+      "soc": "17-2121",
+      "ptr": 0.4475,
+      "nfc": 0.4587,
+      "quadrant": "LH",
+      "size": 5.2,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "retail-coordinator",
+      "label": "Retail Coordinator",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.19,
+      "aiExposure": 0
+    },
+    {
+      "id": "merchandise-assistant",
+      "label": "Merchandise Assistant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.18,
+      "aiExposure": 0
+    },
+    {
+      "id": "loss-prevention-supervisor",
+      "label": "Loss Prevention Supervisor",
+      "soc": "11-9199",
+      "ptr": 0.7717,
+      "nfc": 0.7612,
+      "quadrant": "HH",
+      "size": 5.16,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "asset-protection-specialist",
+      "label": "Asset Protection Specialist",
+      "soc": "33-9099",
+      "ptr": 0.2877,
+      "nfc": 0.2838,
+      "quadrant": "LH",
+      "size": 5.16,
+      "aiExposure": 0.2143
+    },
+    {
+      "id": "assistant-merchant",
+      "label": "Assistant Merchant",
+      "soc": "13-1022",
+      "ptr": 0.5837,
+      "nfc": 0.5754,
+      "quadrant": "LH",
+      "size": 5.15,
+      "aiExposure": 0.2333
+    },
+    {
+      "id": "executive-team-lead",
+      "label": "Executive Team Lead",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.15,
+      "aiExposure": 0
+    },
+    {
+      "id": "assistant-grocery-manager",
+      "label": "Assistant Grocery Manager",
+      "soc": "41-1011",
+      "ptr": 0.7059,
+      "nfc": 0.6865,
+      "quadrant": "HH",
+      "size": 5.15,
+      "aiExposure": 0.3083
+    },
+    {
+      "id": "merchandise-presentation-supervisor",
+      "label": "Merchandise Presentation Supervisor",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.15,
+      "aiExposure": 0
+    },
+    {
+      "id": "bakery-manager",
+      "label": "Bakery Manager",
+      "soc": "41-1011",
+      "ptr": 0.7059,
+      "nfc": 0.6855,
+      "quadrant": "HH",
+      "size": 5.15,
+      "aiExposure": 0.3083
+    },
+    {
+      "id": "concessions-manager",
+      "label": "Concessions Manager",
+      "soc": "41-1011",
+      "ptr": 0.698,
+      "nfc": 0.6855,
+      "quadrant": "HH",
+      "size": 5.15,
+      "aiExposure": 0.3083
+    },
+    {
+      "id": "counter-manager",
+      "label": "Counter Manager",
+      "soc": "51-9061",
+      "ptr": 0.4601,
+      "nfc": 0.4454,
+      "quadrant": "LH",
+      "size": 5.15,
+      "aiExposure": 0.2548
+    },
+    {
+      "id": "category-supervisor",
+      "label": "Category Supervisor",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.15,
+      "aiExposure": 0
+    },
+    {
+      "id": "full-time-assistant-manager",
+      "label": "Full Time Assistant Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.15,
+      "aiExposure": 0
+    },
+    {
+      "id": "selling-manager",
+      "label": "Selling Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.15,
+      "aiExposure": 0
+    },
+    {
+      "id": "internet-manager",
+      "label": "Internet Manager",
+      "soc": "11-3021",
+      "ptr": 0.8597,
+      "nfc": 0.8226,
+      "quadrant": "HH",
+      "size": 5.1,
+      "aiExposure": 0.3411
+    },
+    {
+      "id": "product-design-engineer-retail",
+      "label": "Product Design Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8651,
+      "nfc": 0.8555,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-allocation-analyst",
+      "label": "Senior Allocation Analyst",
+      "soc": "13-2054",
+      "ptr": 0.8446,
+      "nfc": 0.825,
+      "quadrant": "HH",
+      "size": 5.07,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "technical-designer",
+      "label": "Technical Designer",
+      "soc": "17-2121",
+      "ptr": 0.4583,
+      "nfc": 0.4526,
+      "quadrant": "LH",
+      "size": 5.06,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "senior-merchandise-planner",
+      "label": "Senior Merchandise Planner",
+      "soc": "19-3051",
+      "ptr": 0.6839,
+      "nfc": 0.6524,
+      "quadrant": "HH",
+      "size": 5.06,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "merchandise-coordinator",
+      "label": "Merchandise Coordinator",
+      "soc": "41-1011",
+      "ptr": 0.6571,
+      "nfc": 0.6803,
+      "quadrant": "LH",
+      "size": 5.05,
+      "aiExposure": 0.3083
+    },
+    {
+      "id": "supplier-quality-manager-retail",
+      "label": "Supplier Quality Manager",
+      "soc": "11-3051",
+      "ptr": 0.3933,
+      "nfc": 0.3788,
+      "quadrant": "LH",
+      "size": 5.05,
+      "aiExposure": 0.263
+    },
+    {
+      "id": "international-assistant-merchandiser",
+      "label": "International Assistant Merchandiser",
+      "soc": "13-1199",
+      "ptr": 0.9392,
+      "nfc": 0.894,
+      "quadrant": "HH",
+      "size": 5.05,
+      "aiExposure": 0.4007
+    },
+    {
+      "id": "product-development-engineer-retail",
+      "label": "Product Development Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8751,
+      "nfc": 0.851,
+      "quadrant": "HH",
+      "size": 5.04,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "assistant-merchandise-planner",
+      "label": "Assistant Merchandise Planner",
+      "soc": "19-3051",
+      "ptr": 0.6689,
+      "nfc": 0.6499,
+      "quadrant": "LH",
+      "size": 5.04,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "associate-merchant",
+      "label": "Associate Merchant",
+      "soc": "13-1022",
+      "ptr": 0.5968,
+      "nfc": 0.5668,
+      "quadrant": "LH",
+      "size": 5.04,
+      "aiExposure": 0.2333
+    },
+    {
+      "id": "pattern-maker",
+      "label": "Pattern Maker",
+      "soc": "51-6092",
+      "ptr": 0.5837,
+      "nfc": 0.5729,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.2787
+    },
+    {
+      "id": "apparel-department-manager",
+      "label": "Apparel Department Manager",
+      "soc": "41-1011",
+      "ptr": 0.7137,
+      "nfc": 0.6767,
+      "quadrant": "HH",
+      "size": 5.03,
+      "aiExposure": 0.3083
+    },
+    {
+      "id": "supplier-quality-engineer-retail",
+      "label": "Supplier Quality Engineer",
+      "soc": "17-2121",
+      "ptr": 0.4636,
+      "nfc": 0.4491,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "technical-design-manager",
+      "label": "Technical Design Manager",
+      "soc": "27-1011",
+      "ptr": 0.807,
+      "nfc": 0.7725,
+      "quadrant": "HH",
+      "size": 5.03,
+      "aiExposure": 0.3714
+    },
+    {
+      "id": "advanced-quality-engineer-retail",
+      "label": "Advanced Quality Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8948,
+      "nfc": 0.8458,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "regional-loss-prevention-manager",
+      "label": "Regional Loss Prevention Manager",
+      "soc": "11-9199",
+      "ptr": 0.7804,
+      "nfc": 0.7458,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "product-engineering-manager-retail",
+      "label": "Product Engineering Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.02,
+      "aiExposure": 0
+    },
+    {
+      "id": "manufacturing-engineering-manager-retail",
+      "label": "Manufacturing Engineering Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.02,
+      "aiExposure": 0
+    },
+    {
+      "id": "merchandising-coordinator",
+      "label": "Merchandising Coordinator",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.02,
+      "aiExposure": 0
+    },
+    {
+      "id": "supplier-development-engineer-retail",
+      "label": "Supplier Development Engineer",
+      "soc": "17-2071",
+      "ptr": 0.885,
+      "nfc": 0.8432,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-product-engineer-retail",
+      "label": "Senior Product Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8751,
+      "nfc": 0.8425,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "new-product-development-engineer-retail",
+      "label": "New Product Development Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8948,
+      "nfc": 0.8406,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "customer-quality-engineer-retail",
+      "label": "Customer Quality Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8948,
+      "nfc": 0.8406,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "advanced-manufacturing-engineer-retail",
+      "label": "Advanced Manufacturing Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8948,
+      "nfc": 0.8406,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "textile-designer-retail",
+      "label": "Textile Designer",
+      "soc": "17-2121",
+      "ptr": 0.4636,
+      "nfc": 0.445,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "pattern-cutter",
+      "label": "Pattern Cutter",
+      "soc": "47-4091",
+      "ptr": 0.1056,
+      "nfc": 0.1012,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.0208
+    },
+    {
+      "id": "store-team-leader",
+      "label": "Store Team Leader",
+      "soc": "11-9199",
+      "ptr": 0.7804,
+      "nfc": 0.7394,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "buying-intern",
+      "label": "Buying Intern",
+      "soc": "29-1229",
+      "ptr": 0.3956,
+      "nfc": 0.3877,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "apparel-designer-retail",
+      "label": "Apparel Designer",
+      "soc": "17-2121",
+      "ptr": 0.474,
+      "nfc": 0.4432,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "fashion-designer",
+      "label": "Fashion Designer",
+      "soc": "17-2121",
+      "ptr": 0.4689,
+      "nfc": 0.4432,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "sweater-designer",
+      "label": "Sweater Designer",
+      "soc": "17-2121",
+      "ptr": 0.474,
+      "nfc": 0.4429,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "print-designer-retail",
+      "label": "Print Designer",
+      "soc": "17-2121",
+      "ptr": 0.4636,
+      "nfc": 0.4425,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "womenswear-designer-retail",
+      "label": "Womenswear Designer",
+      "soc": "17-2121",
+      "ptr": 0.474,
+      "nfc": 0.4418,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "menswear-designer-retail",
+      "label": "Menswear Designer",
+      "soc": "17-2121",
+      "ptr": 0.4689,
+      "nfc": 0.4418,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "product-development-coordinator",
+      "label": "Product Development Coordinator",
+      "soc": "13-1151",
+      "ptr": 0.8795,
+      "nfc": 0.8281,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3972
+    },
+    {
+      "id": "stock-supervisor",
+      "label": "Stock Supervisor",
+      "soc": "51-1011",
+      "ptr": 0.358,
+      "nfc": 0.3331,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3251
+    },
+    {
+      "id": "district-loss-prevention-manager",
+      "label": "District Loss Prevention Manager",
+      "soc": "11-9199",
+      "ptr": 0.789,
+      "nfc": 0.733,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "associate-technical-designer",
+      "label": "Associate Technical Designer",
+      "soc": "17-2121",
+      "ptr": 0.474,
+      "nfc": 0.4404,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "knitwear-designer-retail",
+      "label": "Knitwear Designer",
+      "soc": "17-2121",
+      "ptr": 0.4636,
+      "nfc": 0.4397,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "assistant-boutique-manager",
+      "label": "Assistant Boutique Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "assistant-service-manager",
+      "label": "Assistant Service Manager",
+      "soc": "11-2022",
+      "ptr": 0.5884,
+      "nfc": 0.5454,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3071
+    },
+    {
+      "id": "family-room-specialist",
+      "label": "Family Room Specialist",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "assistant-technical-designer",
+      "label": "Assistant Technical Designer",
+      "soc": "17-2121",
+      "ptr": 0.4636,
+      "nfc": 0.4386,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "footwear-designer-retail",
+      "label": "Footwear Designer",
+      "soc": "17-2121",
+      "ptr": 0.4689,
+      "nfc": 0.4379,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "master-technician",
+      "label": "Master Technician",
+      "soc": "17-3023",
+      "ptr": 0.3649,
+      "nfc": 0.3371,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3042
+    },
+    {
+      "id": "senior-allocator",
+      "label": "Senior Allocator",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "retail-marketing-manager",
+      "label": "Retail Marketing Manager",
+      "soc": "11-2021",
+      "ptr": 0.798,
+      "nfc": 0.7502,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "vehicle-technician",
+      "label": "Vehicle Technician",
+      "soc": "17-3023",
+      "ptr": 0.3609,
+      "nfc": 0.3355,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3042
+    },
+    {
+      "id": "trading-manager",
+      "label": "Trading Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "e-commerce-manager",
+      "label": "E Commerce Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "commerce-manager",
+      "label": "Commerce Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "freelance-assistant-designer-retail",
+      "label": "Freelance Assistant Designer",
+      "soc": "17-2121",
+      "ptr": 0.474,
+      "nfc": 0.4355,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "technical-genius-retail",
+      "label": "Technical Genius",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "visual-supervisor",
+      "label": "Visual Supervisor",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "buyer-s-assistant",
+      "label": "Buyer's Assistant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "fashion-editor-retail",
+      "label": "Fashion Editor",
+      "soc": "27-3041",
+      "ptr": 0.98,
+      "nfc": 0.8914,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5073
+    },
+    {
+      "id": "tooling-engineer-retail",
+      "label": "Tooling Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8948,
+      "nfc": 0.8139,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "service-support-manager-retail",
+      "label": "Service Support Manager",
+      "soc": "43-1011",
+      "ptr": 0.7858,
+      "nfc": 0.7148,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3675
+    },
+    {
+      "id": "store-planning-manager",
+      "label": "Store Planning Manager",
+      "soc": "11-3071",
+      "ptr": 0.7784,
+      "nfc": 0.708,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "footwear-buyer",
+      "label": "Footwear Buyer",
+      "soc": "13-1023",
+      "ptr": 0.6477,
+      "nfc": 0.5891,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.2368
+    },
+    {
+      "id": "jewelry-designer",
+      "label": "Jewelry Designer",
+      "soc": "17-2121",
+      "ptr": 0.474,
+      "nfc": 0.4312,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "accessories-designer-retail",
+      "label": "Accessories Designer",
+      "soc": "17-2121",
+      "ptr": 0.4689,
+      "nfc": 0.4312,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "fashion-assistant-retail",
+      "label": "Fashion Assistant",
+      "soc": "39-3092",
+      "ptr": 0.204,
+      "nfc": 0.1855,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.1821
+    },
+    {
+      "id": "product-development-assistant",
+      "label": "Product Development Assistant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "assistant-store-director",
+      "label": "Assistant Store Director",
+      "soc": "27-2012",
+      "ptr": 0.612,
+      "nfc": 0.5562,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "mac-genius",
+      "label": "Mac Genius",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "junior-garment-technologist",
+      "label": "Junior Garment Technologist",
+      "soc": "17-3023",
+      "ptr": 0.3609,
+      "nfc": 0.3308,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3042
+    },
+    {
+      "id": "technical-design-assistant",
+      "label": "Technical Design Assistant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "associate-store-manager",
+      "label": "Associate Store Manager",
+      "soc": "41-1011",
+      "ptr": 0.7059,
+      "nfc": 0.6464,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3083
+    },
+    {
+      "id": "assistant-category-manager",
+      "label": "Assistant Category Manager",
+      "soc": "11-2021",
+      "ptr": 0.7889,
+      "nfc": 0.7385,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "senior-aerodynamicist-retail",
+      "label": "Senior Aerodynamicist",
+      "soc": "19-2012",
+      "ptr": 0.9974,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4923
+    },
+    {
+      "id": "technical-design-director",
+      "label": "Technical Design Director",
+      "soc": "15-1255",
+      "ptr": 0.9974,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.522
+    }
+  ],
+  "edges": [
+    {
+      "source": "internet-sales-manager",
+      "target": "merchandise-manager",
+      "weight": 0.57
+    },
+    {
+      "source": "merchandise-analyst",
+      "target": "assistant-merchandiser",
+      "weight": 0.71
+    },
+    {
+      "source": "stylist",
+      "target": "assistant-merchandiser",
+      "weight": 0.82
+    },
+    {
+      "source": "stylist",
+      "target": "store-manager",
+      "weight": 0.67
+    },
+    {
+      "source": "visual-merchandiser",
+      "target": "merchandising-assistant",
+      "weight": 0.68
+    },
+    {
+      "source": "visual-merchandiser",
+      "target": "assistant-store-manager",
+      "weight": 0.96
+    },
+    {
+      "source": "loss-prevention-manager",
+      "target": "assistant-store-manager",
+      "weight": 0.94
+    },
+    {
+      "source": "loss-prevention-manager",
+      "target": "assistant-buyer",
+      "weight": 0.48
+    },
+    {
+      "source": "visual-manager",
+      "target": "merchandise-planner",
+      "weight": 0.45
+    },
+    {
+      "source": "merchandising-manager",
+      "target": "merchandise-manager",
+      "weight": 0.84
+    },
+    {
+      "source": "merchandising-manager",
+      "target": "assistant-merchandiser",
+      "weight": 0.89
+    },
+    {
+      "source": "visual-merchandising-manager",
+      "target": "allocator",
+      "weight": 0.9
+    },
+    {
+      "source": "visual-merchandising-manager",
+      "target": "merchandiser",
+      "weight": 0.4
+    },
+    {
+      "source": "executive-team-leader",
+      "target": "allocator",
+      "weight": 0.98
+    },
+    {
+      "source": "executive-team-leader",
+      "target": "category-manager",
+      "weight": 0.66
+    },
+    {
+      "source": "retail-manager",
+      "target": "assistant-store-manager",
+      "weight": 0.98
+    },
+    {
+      "source": "retail-manager",
+      "target": "category-manager",
+      "weight": 0.77
+    },
+    {
+      "source": "associate-buyer",
+      "target": "merchandise-manager",
+      "weight": 0.87
+    },
+    {
+      "source": "associate-buyer",
+      "target": "assistant-store-manager",
+      "weight": 0.42
+    },
+    {
+      "source": "allocation-analyst",
+      "target": "merchandiser",
+      "weight": 0.56
+    },
+    {
+      "source": "allocation-analyst",
+      "target": "allocator",
+      "weight": 0.71
+    },
+    {
+      "source": "product-developer",
+      "target": "assistant-merchandiser",
+      "weight": 0.86
+    },
+    {
+      "source": "replenishment-analyst-retail",
+      "target": "category-manager",
+      "weight": 0.56
+    },
+    {
+      "source": "replenishment-analyst-retail",
+      "target": "assistant-buyer",
+      "weight": 0.9
+    },
+    {
+      "source": "assistant-designer",
+      "target": "merchandise-manager",
+      "weight": 0.48
+    },
+    {
+      "source": "assistant-designer",
+      "target": "assistant-buyer",
+      "weight": 0.53
+    },
+    {
+      "source": "co-manager",
+      "target": "assistant-merchandiser",
+      "weight": 0.4
+    },
+    {
+      "source": "co-manager",
+      "target": "allocator",
+      "weight": 0.63
+    },
+    {
+      "source": "showroom-manager",
+      "target": "merchandising-assistant",
+      "weight": 0.75
+    },
+    {
+      "source": "merchant",
+      "target": "assistant-merchandiser",
+      "weight": 0.79
+    },
+    {
+      "source": "executive-team-leader-asset-protection",
+      "target": "assistant-store-manager",
+      "weight": 0.45
+    },
+    {
+      "source": "service-advisor",
+      "target": "merchandiser",
+      "weight": 0.8
+    },
+    {
+      "source": "buying-assistant",
+      "target": "merchandise-manager",
+      "weight": 0.84
+    },
+    {
+      "source": "buying-assistant",
+      "target": "allocator",
+      "weight": 0.6
+    },
+    {
+      "source": "retail-operation-manager",
+      "target": "category-manager",
+      "weight": 0.78
+    },
+    {
+      "source": "retail-operation-manager",
+      "target": "assistant-buyer",
+      "weight": 0.53
+    },
+    {
+      "source": "merchandise-planning-manager",
+      "target": "assistant-buyer",
+      "weight": 0.97
+    },
+    {
+      "source": "merchandising-specialist",
+      "target": "allocator",
+      "weight": 0.72
+    },
+    {
+      "source": "merchandising-specialist",
+      "target": "merchandising-assistant",
+      "weight": 0.4
+    },
+    {
+      "source": "product-engineer-retail",
+      "target": "merchandise-planner",
+      "weight": 0.67
+    },
+    {
+      "source": "product-engineer-retail",
+      "target": "assistant-store-manager",
+      "weight": 0.72
+    },
+    {
+      "source": "product-designer-retail",
+      "target": "merchandise-manager",
+      "weight": 0.61
+    },
+    {
+      "source": "product-designer-retail",
+      "target": "category-manager",
+      "weight": 0.65
+    },
+    {
+      "source": "store-planner",
+      "target": "category-manager",
+      "weight": 0.98
+    },
+    {
+      "source": "store-planner",
+      "target": "store-manager",
+      "weight": 0.54
+    },
+    {
+      "source": "senior-assistant-buyer",
+      "target": "merchandise-manager",
+      "weight": 0.76
+    },
+    {
+      "source": "executive-human-resources-team-leader",
+      "target": "merchandise-planner",
+      "weight": 0.91
+    },
+    {
+      "source": "automotive-technician",
+      "target": "allocator",
+      "weight": 0.77
+    },
+    {
+      "source": "automotive-technician",
+      "target": "merchandising-assistant",
+      "weight": 0.49
+    },
+    {
+      "source": "quality-engineer-retail",
+      "target": "merchandise-manager",
+      "weight": 0.84
+    },
+    {
+      "source": "grocery-manager",
+      "target": "assistant-merchandiser",
+      "weight": 0.58
+    },
+    {
+      "source": "merchandise-presentation-manager",
+      "target": "assistant-merchandiser",
+      "weight": 0.87
+    },
+    {
+      "source": "merchandise-presentation-manager",
+      "target": "allocator",
+      "weight": 0.64
+    },
+    {
+      "source": "junior-merchandiser",
+      "target": "merchandise-planner",
+      "weight": 0.42
+    },
+    {
+      "source": "associate-planner-retail",
+      "target": "store-manager",
+      "weight": 0.73
+    },
+    {
+      "source": "senior-merchandiser",
+      "target": "category-manager",
+      "weight": 0.67
+    },
+    {
+      "source": "senior-merchandiser",
+      "target": "allocator",
+      "weight": 0.59
+    },
+    {
+      "source": "design-assistant-retail",
+      "target": "merchandise-manager",
+      "weight": 0.65
+    },
+    {
+      "source": "design-assistant-retail",
+      "target": "store-manager",
+      "weight": 0.69
+    },
+    {
+      "source": "assistant-merchandise-manager",
+      "target": "assistant-buyer",
+      "weight": 0.89
+    },
+    {
+      "source": "information-technology-service-professional-retail",
+      "target": "category-manager",
+      "weight": 0.59
+    },
+    {
+      "source": "information-technology-service-professional-retail",
+      "target": "assistant-merchandiser",
+      "weight": 0.56
+    },
+    {
+      "source": "key-holder",
+      "target": "assistant-store-manager",
+      "weight": 0.57
+    },
+    {
+      "source": "key-holder",
+      "target": "assistant-buyer",
+      "weight": 0.52
+    },
+    {
+      "source": "garment-technologist",
+      "target": "assistant-merchandiser",
+      "weight": 0.47
+    },
+    {
+      "source": "garment-technologist",
+      "target": "merchandise-planner",
+      "weight": 0.85
+    },
+    {
+      "source": "parts-manager",
+      "target": "allocator",
+      "weight": 0.91
+    },
+    {
+      "source": "parts-manager",
+      "target": "assistant-buyer",
+      "weight": 0.67
+    },
+    {
+      "source": "retail-store-manager-retail",
+      "target": "assistant-buyer",
+      "weight": 0.56
+    },
+    {
+      "source": "general-sales-manager",
+      "target": "assistant-merchandiser",
+      "weight": 0.74
+    },
+    {
+      "source": "general-sales-manager",
+      "target": "merchandise-planner",
+      "weight": 0.61
+    },
+    {
+      "source": "used-car-manager",
+      "target": "assistant-merchandiser",
+      "weight": 0.69
+    },
+    {
+      "source": "pre-owned-sales-manager",
+      "target": "merchandise-manager",
+      "weight": 0.98
+    },
+    {
+      "source": "inventory-planner-retail",
+      "target": "assistant-merchandiser",
+      "weight": 0.55
+    },
+    {
+      "source": "inventory-planner-retail",
+      "target": "store-manager",
+      "weight": 0.61
+    },
+    {
+      "source": "buying-manager",
+      "target": "assistant-merchandiser",
+      "weight": 0.73
+    },
+    {
+      "source": "buying-manager",
+      "target": "assistant-store-manager",
+      "weight": 0.65
+    },
+    {
+      "source": "retail-planner",
+      "target": "assistant-store-manager",
+      "weight": 0.69
+    },
+    {
+      "source": "merchandising-director",
+      "target": "store-manager",
+      "weight": 0.6
+    },
+    {
+      "source": "merchandising-director",
+      "target": "merchandise-planner",
+      "weight": 0.51
+    },
+    {
+      "source": "replenishment-manager-retail",
+      "target": "store-manager",
+      "weight": 0.74
+    },
+    {
+      "source": "merchandising-assistant-store-manager",
+      "target": "store-manager",
+      "weight": 0.59
+    },
+    {
+      "source": "merchandising-assistant-store-manager",
+      "target": "assistant-merchandiser",
+      "weight": 0.97
+    },
+    {
+      "source": "associate-designer-retail",
+      "target": "allocator",
+      "weight": 0.48
+    },
+    {
+      "source": "associate-designer-retail",
+      "target": "merchandiser",
+      "weight": 0.87
+    },
+    {
+      "source": "retail-coordinator",
+      "target": "store-manager",
+      "weight": 0.59
+    },
+    {
+      "source": "retail-coordinator",
+      "target": "merchandiser",
+      "weight": 0.64
+    },
+    {
+      "source": "merchandise-assistant",
+      "target": "allocator",
+      "weight": 0.43
+    },
+    {
+      "source": "loss-prevention-supervisor",
+      "target": "assistant-merchandiser",
+      "weight": 0.5
+    },
+    {
+      "source": "asset-protection-specialist",
+      "target": "merchandise-planner",
+      "weight": 0.6
+    },
+    {
+      "source": "assistant-merchant",
+      "target": "merchandiser",
+      "weight": 0.84
+    },
+    {
+      "source": "executive-team-lead",
+      "target": "merchandise-planner",
+      "weight": 0.42
+    },
+    {
+      "source": "assistant-grocery-manager",
+      "target": "category-manager",
+      "weight": 0.6
+    },
+    {
+      "source": "merchandise-presentation-supervisor",
+      "target": "category-manager",
+      "weight": 0.5
+    },
+    {
+      "source": "bakery-manager",
+      "target": "category-manager",
+      "weight": 0.46
+    },
+    {
+      "source": "concessions-manager",
+      "target": "category-manager",
+      "weight": 0.53
+    },
+    {
+      "source": "concessions-manager",
+      "target": "assistant-store-manager",
+      "weight": 0.96
+    },
+    {
+      "source": "counter-manager",
+      "target": "assistant-merchandiser",
+      "weight": 0.94
+    },
+    {
+      "source": "category-supervisor",
+      "target": "merchandise-manager",
+      "weight": 0.57
+    },
+    {
+      "source": "full-time-assistant-manager",
+      "target": "category-manager",
+      "weight": 0.62
+    },
+    {
+      "source": "selling-manager",
+      "target": "store-manager",
+      "weight": 0.64
+    },
+    {
+      "source": "selling-manager",
+      "target": "assistant-buyer",
+      "weight": 0.81
+    },
+    {
+      "source": "internet-manager",
+      "target": "assistant-merchandiser",
+      "weight": 0.89
+    },
+    {
+      "source": "internet-manager",
+      "target": "assistant-store-manager",
+      "weight": 0.58
+    },
+    {
+      "source": "product-design-engineer-retail",
+      "target": "merchandising-assistant",
+      "weight": 0.88
+    },
+    {
+      "source": "senior-allocation-analyst",
+      "target": "merchandise-manager",
+      "weight": 0.97
+    },
+    {
+      "source": "technical-designer",
+      "target": "assistant-buyer",
+      "weight": 0.75
+    },
+    {
+      "source": "technical-designer",
+      "target": "merchandise-planner",
+      "weight": 0.44
+    },
+    {
+      "source": "senior-merchandise-planner",
+      "target": "assistant-merchandiser",
+      "weight": 0.81
+    },
+    {
+      "source": "senior-merchandise-planner",
+      "target": "merchandise-planner",
+      "weight": 0.97
+    },
+    {
+      "source": "merchandise-coordinator",
+      "target": "merchandiser",
+      "weight": 0.79
+    },
+    {
+      "source": "merchandise-coordinator",
+      "target": "merchandise-planner",
+      "weight": 0.57
+    },
+    {
+      "source": "supplier-quality-manager-retail",
+      "target": "merchandise-manager",
+      "weight": 0.77
+    },
+    {
+      "source": "supplier-quality-manager-retail",
+      "target": "assistant-store-manager",
+      "weight": 0.96
+    },
+    {
+      "source": "international-assistant-merchandiser",
+      "target": "category-manager",
+      "weight": 0.45
+    },
+    {
+      "source": "product-development-engineer-retail",
+      "target": "merchandise-manager",
+      "weight": 0.98
+    },
+    {
+      "source": "assistant-merchandise-planner",
+      "target": "category-manager",
+      "weight": 0.43
+    },
+    {
+      "source": "associate-merchant",
+      "target": "assistant-merchandiser",
+      "weight": 0.68
+    },
+    {
+      "source": "pattern-maker",
+      "target": "merchandising-assistant",
+      "weight": 0.89
+    },
+    {
+      "source": "pattern-maker",
+      "target": "assistant-merchandiser",
+      "weight": 0.46
+    },
+    {
+      "source": "apparel-department-manager",
+      "target": "merchandiser",
+      "weight": 0.45
+    },
+    {
+      "source": "supplier-quality-engineer-retail",
+      "target": "merchandise-planner",
+      "weight": 0.79
+    },
+    {
+      "source": "technical-design-manager",
+      "target": "merchandiser",
+      "weight": 0.98
+    },
+    {
+      "source": "technical-design-manager",
+      "target": "assistant-buyer",
+      "weight": 0.94
+    },
+    {
+      "source": "advanced-quality-engineer-retail",
+      "target": "assistant-store-manager",
+      "weight": 0.78
+    },
+    {
+      "source": "regional-loss-prevention-manager",
+      "target": "allocator",
+      "weight": 0.46
+    },
+    {
+      "source": "product-engineering-manager-retail",
+      "target": "merchandise-manager",
+      "weight": 0.63
+    },
+    {
+      "source": "product-engineering-manager-retail",
+      "target": "assistant-store-manager",
+      "weight": 0.47
+    },
+    {
+      "source": "manufacturing-engineering-manager-retail",
+      "target": "store-manager",
+      "weight": 0.56
+    },
+    {
+      "source": "merchandising-coordinator",
+      "target": "category-manager",
+      "weight": 0.99
+    },
+    {
+      "source": "merchandising-coordinator",
+      "target": "assistant-merchandiser",
+      "weight": 0.89
+    },
+    {
+      "source": "supplier-development-engineer-retail",
+      "target": "merchandising-assistant",
+      "weight": 0.68
+    },
+    {
+      "source": "senior-product-engineer-retail",
+      "target": "assistant-buyer",
+      "weight": 0.73
+    },
+    {
+      "source": "new-product-development-engineer-retail",
+      "target": "assistant-merchandiser",
+      "weight": 0.96
+    },
+    {
+      "source": "customer-quality-engineer-retail",
+      "target": "assistant-buyer",
+      "weight": 0.69
+    },
+    {
+      "source": "customer-quality-engineer-retail",
+      "target": "merchandiser",
+      "weight": 0.79
+    },
+    {
+      "source": "advanced-manufacturing-engineer-retail",
+      "target": "assistant-store-manager",
+      "weight": 0.91
+    },
+    {
+      "source": "textile-designer-retail",
+      "target": "category-manager",
+      "weight": 0.49
+    },
+    {
+      "source": "pattern-cutter",
+      "target": "merchandiser",
+      "weight": 0.44
+    },
+    {
+      "source": "store-team-leader",
+      "target": "merchandise-planner",
+      "weight": 0.58
+    },
+    {
+      "source": "store-team-leader",
+      "target": "assistant-merchandiser",
+      "weight": 0.55
+    },
+    {
+      "source": "buying-intern",
+      "target": "merchandising-assistant",
+      "weight": 0.64
+    },
+    {
+      "source": "buying-intern",
+      "target": "merchandiser",
+      "weight": 0.45
+    },
+    {
+      "source": "apparel-designer-retail",
+      "target": "assistant-merchandiser",
+      "weight": 0.78
+    },
+    {
+      "source": "apparel-designer-retail",
+      "target": "assistant-buyer",
+      "weight": 0.59
+    },
+    {
+      "source": "fashion-designer",
+      "target": "merchandiser",
+      "weight": 0.4
+    },
+    {
+      "source": "fashion-designer",
+      "target": "store-manager",
+      "weight": 0.95
+    },
+    {
+      "source": "sweater-designer",
+      "target": "assistant-buyer",
+      "weight": 0.76
+    },
+    {
+      "source": "print-designer-retail",
+      "target": "assistant-merchandiser",
+      "weight": 0.87
+    },
+    {
+      "source": "womenswear-designer-retail",
+      "target": "assistant-merchandiser",
+      "weight": 0.48
+    },
+    {
+      "source": "womenswear-designer-retail",
+      "target": "assistant-store-manager",
+      "weight": 0.94
+    },
+    {
+      "source": "menswear-designer-retail",
+      "target": "merchandising-assistant",
+      "weight": 0.55
+    },
+    {
+      "source": "product-development-coordinator",
+      "target": "assistant-store-manager",
+      "weight": 0.69
+    },
+    {
+      "source": "product-development-coordinator",
+      "target": "category-manager",
+      "weight": 0.91
+    },
+    {
+      "source": "stock-supervisor",
+      "target": "category-manager",
+      "weight": 0.51
+    },
+    {
+      "source": "district-loss-prevention-manager",
+      "target": "assistant-merchandiser",
+      "weight": 0.42
+    },
+    {
+      "source": "associate-technical-designer",
+      "target": "merchandise-planner",
+      "weight": 0.71
+    },
+    {
+      "source": "knitwear-designer-retail",
+      "target": "merchandise-planner",
+      "weight": 0.75
+    },
+    {
+      "source": "knitwear-designer-retail",
+      "target": "allocator",
+      "weight": 0.49
+    },
+    {
+      "source": "assistant-boutique-manager",
+      "target": "merchandise-manager",
+      "weight": 0.49
+    },
+    {
+      "source": "assistant-service-manager",
+      "target": "assistant-merchandiser",
+      "weight": 0.6
+    },
+    {
+      "source": "assistant-service-manager",
+      "target": "store-manager",
+      "weight": 0.49
+    },
+    {
+      "source": "family-room-specialist",
+      "target": "category-manager",
+      "weight": 0.89
+    },
+    {
+      "source": "assistant-technical-designer",
+      "target": "merchandise-planner",
+      "weight": 0.48
+    },
+    {
+      "source": "footwear-designer-retail",
+      "target": "merchandise-manager",
+      "weight": 0.95
+    },
+    {
+      "source": "master-technician",
+      "target": "merchandise-manager",
+      "weight": 0.54
+    },
+    {
+      "source": "senior-allocator",
+      "target": "assistant-store-manager",
+      "weight": 0.46
+    },
+    {
+      "source": "senior-allocator",
+      "target": "assistant-buyer",
+      "weight": 0.4
+    },
+    {
+      "source": "retail-marketing-manager",
+      "target": "merchandise-planner",
+      "weight": 0.53
+    },
+    {
+      "source": "vehicle-technician",
+      "target": "merchandiser",
+      "weight": 0.86
+    },
+    {
+      "source": "trading-manager",
+      "target": "assistant-buyer",
+      "weight": 0.61
+    },
+    {
+      "source": "e-commerce-manager",
+      "target": "allocator",
+      "weight": 0.52
+    },
+    {
+      "source": "commerce-manager",
+      "target": "merchandise-manager",
+      "weight": 0.46
+    },
+    {
+      "source": "commerce-manager",
+      "target": "assistant-merchandiser",
+      "weight": 0.95
+    },
+    {
+      "source": "freelance-assistant-designer-retail",
+      "target": "assistant-store-manager",
+      "weight": 0.52
+    },
+    {
+      "source": "freelance-assistant-designer-retail",
+      "target": "merchandise-planner",
+      "weight": 0.43
+    },
+    {
+      "source": "technical-genius-retail",
+      "target": "assistant-merchandiser",
+      "weight": 0.86
+    },
+    {
+      "source": "technical-genius-retail",
+      "target": "merchandising-assistant",
+      "weight": 0.78
+    },
+    {
+      "source": "visual-supervisor",
+      "target": "merchandise-planner",
+      "weight": 0.78
+    },
+    {
+      "source": "visual-supervisor",
+      "target": "assistant-buyer",
+      "weight": 0.41
+    },
+    {
+      "source": "buyer-s-assistant",
+      "target": "store-manager",
+      "weight": 0.95
+    },
+    {
+      "source": "fashion-editor-retail",
+      "target": "merchandiser",
+      "weight": 0.69
+    },
+    {
+      "source": "tooling-engineer-retail",
+      "target": "category-manager",
+      "weight": 0.83
+    },
+    {
+      "source": "service-support-manager-retail",
+      "target": "assistant-merchandiser",
+      "weight": 1
+    },
+    {
+      "source": "store-planning-manager",
+      "target": "store-manager",
+      "weight": 0.57
+    },
+    {
+      "source": "store-planning-manager",
+      "target": "allocator",
+      "weight": 0.87
+    },
+    {
+      "source": "footwear-buyer",
+      "target": "assistant-store-manager",
+      "weight": 0.67
+    },
+    {
+      "source": "footwear-buyer",
+      "target": "allocator",
+      "weight": 0.71
+    },
+    {
+      "source": "jewelry-designer",
+      "target": "merchandiser",
+      "weight": 0.46
+    },
+    {
+      "source": "jewelry-designer",
+      "target": "assistant-merchandiser",
+      "weight": 0.52
+    },
+    {
+      "source": "accessories-designer-retail",
+      "target": "merchandising-assistant",
+      "weight": 0.68
+    },
+    {
+      "source": "fashion-assistant-retail",
+      "target": "merchandise-manager",
+      "weight": 0.82
+    },
+    {
+      "source": "fashion-assistant-retail",
+      "target": "merchandising-assistant",
+      "weight": 0.56
+    },
+    {
+      "source": "product-development-assistant",
+      "target": "assistant-merchandiser",
+      "weight": 0.68
+    },
+    {
+      "source": "assistant-store-director",
+      "target": "allocator",
+      "weight": 0.74
+    },
+    {
+      "source": "assistant-store-director",
+      "target": "assistant-merchandiser",
+      "weight": 0.83
+    },
+    {
+      "source": "mac-genius",
+      "target": "merchandiser",
+      "weight": 0.91
+    },
+    {
+      "source": "junior-garment-technologist",
+      "target": "assistant-buyer",
+      "weight": 0.47
+    },
+    {
+      "source": "technical-design-assistant",
+      "target": "merchandise-manager",
+      "weight": 0.82
+    },
+    {
+      "source": "technical-design-assistant",
+      "target": "assistant-merchandiser",
+      "weight": 0.7
+    },
+    {
+      "source": "associate-store-manager",
+      "target": "assistant-merchandiser",
+      "weight": 0.52
+    },
+    {
+      "source": "assistant-category-manager",
+      "target": "category-manager",
+      "weight": 0.71
+    },
+    {
+      "source": "senior-aerodynamicist-retail",
+      "target": "assistant-merchandiser",
+      "weight": 0.46
+    },
+    {
+      "source": "technical-design-director",
+      "target": "assistant-buyer",
+      "weight": 0.86
+    },
+    {
+      "source": "technical-design-director",
+      "target": "merchandise-manager",
+      "weight": 0.74
+    },
+    {
+      "source": "store-manager",
+      "target": "assistant-buyer",
+      "weight": 0.94
+    },
+    {
+      "source": "store-manager",
+      "target": "assistant-store-manager",
+      "weight": 0.91
+    },
+    {
+      "source": "store-manager",
+      "target": "category-manager",
+      "weight": 0.64
+    },
+    {
+      "source": "assistant-buyer",
+      "target": "merchandiser",
+      "weight": 0.8
+    },
+    {
+      "source": "assistant-buyer",
+      "target": "assistant-store-manager",
+      "weight": 0.9
+    },
+    {
+      "source": "assistant-buyer",
+      "target": "merchandise-manager",
+      "weight": 0.73
+    },
+    {
+      "source": "assistant-buyer",
+      "target": "category-manager",
+      "weight": 0.65
+    },
+    {
+      "source": "assistant-buyer",
+      "target": "allocator",
+      "weight": 0.82
+    },
+    {
+      "source": "assistant-buyer",
+      "target": "merchandise-planner",
+      "weight": 0.65
+    },
+    {
+      "source": "assistant-buyer",
+      "target": "assistant-merchandiser",
+      "weight": 0.94
+    },
+    {
+      "source": "merchandiser",
+      "target": "merchandise-manager",
+      "weight": 0.81
+    },
+    {
+      "source": "merchandiser",
+      "target": "category-manager",
+      "weight": 0.96
+    },
+    {
+      "source": "merchandiser",
+      "target": "merchandising-assistant",
+      "weight": 0.91
+    },
+    {
+      "source": "merchandiser",
+      "target": "allocator",
+      "weight": 0.68
+    },
+    {
+      "source": "merchandiser",
+      "target": "merchandise-planner",
+      "weight": 0.91
+    },
+    {
+      "source": "merchandiser",
+      "target": "assistant-merchandiser",
+      "weight": 0.68
+    },
+    {
+      "source": "assistant-store-manager",
+      "target": "category-manager",
+      "weight": 0.83
+    },
+    {
+      "source": "assistant-store-manager",
+      "target": "merchandising-assistant",
+      "weight": 0.95
+    },
+    {
+      "source": "assistant-store-manager",
+      "target": "allocator",
+      "weight": 0.9
+    },
+    {
+      "source": "assistant-store-manager",
+      "target": "merchandise-planner",
+      "weight": 0.89
+    },
+    {
+      "source": "assistant-store-manager",
+      "target": "assistant-merchandiser",
+      "weight": 0.72
+    },
+    {
+      "source": "merchandise-manager",
+      "target": "merchandising-assistant",
+      "weight": 0.68
+    },
+    {
+      "source": "merchandise-manager",
+      "target": "allocator",
+      "weight": 0.66
+    },
+    {
+      "source": "merchandise-manager",
+      "target": "merchandise-planner",
+      "weight": 0.73
+    },
+    {
+      "source": "merchandise-manager",
+      "target": "assistant-merchandiser",
+      "weight": 0.75
+    },
+    {
+      "source": "category-manager",
+      "target": "merchandising-assistant",
+      "weight": 0.78
+    },
+    {
+      "source": "category-manager",
+      "target": "allocator",
+      "weight": 0.76
+    },
+    {
+      "source": "category-manager",
+      "target": "merchandise-planner",
+      "weight": 0.99
+    },
+    {
+      "source": "category-manager",
+      "target": "assistant-merchandiser",
+      "weight": 0.63
+    },
+    {
+      "source": "merchandising-assistant",
+      "target": "allocator",
+      "weight": 0.74
+    },
+    {
+      "source": "merchandising-assistant",
+      "target": "merchandise-planner",
+      "weight": 0.85
+    },
+    {
+      "source": "merchandising-assistant",
+      "target": "assistant-merchandiser",
+      "weight": 0.98
+    },
+    {
+      "source": "allocator",
+      "target": "merchandise-planner",
+      "weight": 0.81
+    },
+    {
+      "source": "allocator",
+      "target": "assistant-merchandiser",
+      "weight": 0.96
+    },
+    {
+      "source": "merchandise-planner",
+      "target": "assistant-merchandiser",
+      "weight": 0.62
+    },
+    {
+      "source": "merchandising-assistant",
+      "target": "merchandising-assistant-store-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "merchandise-analyst",
+      "target": "allocation-analyst",
+      "weight": 0.7
+    },
+    {
+      "source": "merchandise-analyst",
+      "target": "replenishment-analyst-retail",
+      "weight": 0.7
+    },
+    {
+      "source": "merchandise-analyst",
+      "target": "senior-allocation-analyst",
+      "weight": 0.7
+    },
+    {
+      "source": "allocation-analyst",
+      "target": "replenishment-analyst-retail",
+      "weight": 0.7
+    },
+    {
+      "source": "allocation-analyst",
+      "target": "senior-allocation-analyst",
+      "weight": 0.7
+    },
+    {
+      "source": "replenishment-analyst-retail",
+      "target": "senior-allocation-analyst",
+      "weight": 0.7
+    },
+    {
+      "source": "stylist",
+      "target": "technical-design-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "automotive-technician",
+      "target": "garment-technologist",
+      "weight": 0.7
+    },
+    {
+      "source": "automotive-technician",
+      "target": "master-technician",
+      "weight": 0.7
+    },
+    {
+      "source": "automotive-technician",
+      "target": "vehicle-technician",
+      "weight": 0.7
+    },
+    {
+      "source": "automotive-technician",
+      "target": "junior-garment-technologist",
+      "weight": 0.7
+    },
+    {
+      "source": "garment-technologist",
+      "target": "master-technician",
+      "weight": 0.7
+    },
+    {
+      "source": "garment-technologist",
+      "target": "vehicle-technician",
+      "weight": 0.7
+    },
+    {
+      "source": "garment-technologist",
+      "target": "junior-garment-technologist",
+      "weight": 0.7
+    },
+    {
+      "source": "master-technician",
+      "target": "vehicle-technician",
+      "weight": 0.7
+    },
+    {
+      "source": "master-technician",
+      "target": "junior-garment-technologist",
+      "weight": 0.7
+    },
+    {
+      "source": "vehicle-technician",
+      "target": "junior-garment-technologist",
+      "weight": 0.7
+    },
+    {
+      "source": "merchandising-director",
+      "target": "assistant-store-director",
+      "weight": 0.7
+    },
+    {
+      "source": "merchandise-presentation-supervisor",
+      "target": "category-supervisor",
+      "weight": 0.7
+    },
+    {
+      "source": "merchandise-presentation-supervisor",
+      "target": "visual-supervisor",
+      "weight": 0.7
+    },
+    {
+      "source": "category-supervisor",
+      "target": "visual-supervisor",
+      "weight": 0.7
+    }
+  ]
+}

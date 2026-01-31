@@ -1,0 +1,2774 @@
+{
+  "sector": "Manufacturing",
+  "metadata": {
+    "nodeCount": 150,
+    "edgeCount": 254,
+    "generatedAt": "2026-01-31T16:46:31Z"
+  },
+  "nodes": [
+    {
+      "id": "design-engineer-manufacturing",
+      "label": "Design Engineer",
+      "soc": "17-2121",
+      "ptr": 0,
+      "nfc": 0.4737,
+      "quadrant": "LH",
+      "size": 12.36,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "electrical-engineer-manufacturing",
+      "label": "Electrical Engineer",
+      "soc": "17-2071",
+      "ptr": 0.5543,
+      "nfc": 0.7304,
+      "quadrant": "LH",
+      "size": 10.87,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "manufacturing-engineer-manufacturing",
+      "label": "Manufacturing Engineer",
+      "soc": "17-2071",
+      "ptr": 0.4445,
+      "nfc": 0.73,
+      "quadrant": "LH",
+      "size": 9.04,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "product-development-engineer-manufacturing",
+      "label": "Product Development Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6843,
+      "nfc": 0.7295,
+      "quadrant": "HH",
+      "size": 8.48,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "process-engineer-manufacturing",
+      "label": "Process Engineer",
+      "soc": "17-2071",
+      "ptr": 0.2095,
+      "nfc": 0.7291,
+      "quadrant": "LH",
+      "size": 8.47,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "quality-engineer-manufacturing",
+      "label": "Quality Engineer",
+      "soc": "17-2121",
+      "ptr": 0.3678,
+      "nfc": 0.4723,
+      "quadrant": "LH",
+      "size": 8.3,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "application-engineer",
+      "label": "Application Engineer",
+      "soc": "17-2071",
+      "ptr": 0.541,
+      "nfc": 0.7282,
+      "quadrant": "LH",
+      "size": 8.04,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "maintenance-engineer-manufacturing",
+      "label": "Maintenance Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6843,
+      "nfc": 0.7278,
+      "quadrant": "HH",
+      "size": 7.95,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "mechanical-design-engineer-manufacturing",
+      "label": "Mechanical Design Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6514,
+      "nfc": 0.7274,
+      "quadrant": "LH",
+      "size": 7.78,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "field-service-engineer",
+      "label": "Field Service Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6626,
+      "nfc": 0.7269,
+      "quadrant": "LH",
+      "size": 7.69,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "product-engineer-manufacturing",
+      "label": "Product Engineer",
+      "soc": "17-2071",
+      "ptr": 0.5864,
+      "nfc": 0.7265,
+      "quadrant": "LH",
+      "size": 6.96,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "mechanical-engineer-manufacturing",
+      "label": "Mechanical Engineer",
+      "soc": "17-2071",
+      "ptr": 0.4012,
+      "nfc": 0.7261,
+      "quadrant": "LH",
+      "size": 6.75,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "service-engineer",
+      "label": "Service Engineer",
+      "soc": "17-2121",
+      "ptr": 0.4538,
+      "nfc": 0.4703,
+      "quadrant": "LH",
+      "size": 6.59,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "production-engineer-manufacturing",
+      "label": "Production Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6048,
+      "nfc": 0.7252,
+      "quadrant": "LH",
+      "size": 6.56,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "development-engineer-manufacturing",
+      "label": "Development Engineer",
+      "soc": "17-2071",
+      "ptr": 0.5801,
+      "nfc": 0.7248,
+      "quadrant": "LH",
+      "size": 6.42,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "production-supervisor",
+      "label": "Production Supervisor",
+      "soc": "11-3013",
+      "ptr": 0.2829,
+      "nfc": 0.3291,
+      "quadrant": "LH",
+      "size": 6.3,
+      "aiExposure": 0.2309
+    },
+    {
+      "id": "senior-design-engineer-manufacturing",
+      "label": "Senior Design Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6626,
+      "nfc": 0.7239,
+      "quadrant": "LH",
+      "size": 6.19,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "industrial-engineer-manufacturing",
+      "label": "Industrial Engineer",
+      "soc": "17-2071",
+      "ptr": 0.5926,
+      "nfc": 0.7234,
+      "quadrant": "LH",
+      "size": 5.91,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "electrical-project-engineer-manufacturing",
+      "label": "Electrical Project Engineer",
+      "soc": "17-2121",
+      "ptr": 0.4705,
+      "nfc": 0.4686,
+      "quadrant": "LH",
+      "size": 5.79,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "sales-engineer",
+      "label": "Sales Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6896,
+      "nfc": 0.7226,
+      "quadrant": "HH",
+      "size": 5.73,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "product-design-engineer-manufacturing",
+      "label": "Product Design Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7054,
+      "nfc": 0.7221,
+      "quadrant": "HH",
+      "size": 5.69,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "packaging-engineer-manufacturing",
+      "label": "Packaging Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7002,
+      "nfc": 0.7217,
+      "quadrant": "HH",
+      "size": 5.55,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-manufacturing-engineer-manufacturing",
+      "label": "Senior Manufacturing Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7054,
+      "nfc": 0.7213,
+      "quadrant": "HH",
+      "size": 5.54,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-product-engineer-manufacturing",
+      "label": "Senior Product Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7054,
+      "nfc": 0.7208,
+      "quadrant": "HH",
+      "size": 5.5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-application-engineer-manufacturing",
+      "label": "Senior Application Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7054,
+      "nfc": 0.7204,
+      "quadrant": "HH",
+      "size": 5.49,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "plant-manager",
+      "label": "Plant Manager",
+      "soc": "11-3051",
+      "ptr": 0.3623,
+      "nfc": 0.3726,
+      "quadrant": "LH",
+      "size": 5.49,
+      "aiExposure": 0.263
+    },
+    {
+      "id": "electrical-design-engineer-manufacturing",
+      "label": "Electrical Design Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7105,
+      "nfc": 0.7195,
+      "quadrant": "HH",
+      "size": 5.48,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-process-engineer-manufacturing",
+      "label": "Senior Process Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7002,
+      "nfc": 0.7191,
+      "quadrant": "HH",
+      "size": 5.46,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "reliability-engineer-manufacturing",
+      "label": "Reliability Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7054,
+      "nfc": 0.7186,
+      "quadrant": "HH",
+      "size": 5.45,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "plant-engineer-manufacturing",
+      "label": "Plant Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6949,
+      "nfc": 0.7182,
+      "quadrant": "HH",
+      "size": 5.43,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "mechanical-designer-manufacturing",
+      "label": "Mechanical Designer",
+      "soc": "17-2121",
+      "ptr": 0.4538,
+      "nfc": 0.4652,
+      "quadrant": "LH",
+      "size": 5.4,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "manufacturing-manager-manufacturing",
+      "label": "Manufacturing Manager",
+      "soc": "11-9199",
+      "ptr": 0.6123,
+      "nfc": 0.632,
+      "quadrant": "LH",
+      "size": 5.38,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "senior-mechanical-engineer-manufacturing",
+      "label": "Senior Mechanical Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7002,
+      "nfc": 0.7169,
+      "quadrant": "HH",
+      "size": 5.38,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "technical-marketing-engineer-manufacturing",
+      "label": "Technical Marketing Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7208,
+      "nfc": 0.7164,
+      "quadrant": "HH",
+      "size": 5.38,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "clinical-nurse-consultant-machinist-manufacturing",
+      "label": "Clinical Nurse Consultant Machinist",
+      "soc": "29-1141",
+      "ptr": 0.2767,
+      "nfc": 0.2749,
+      "quadrant": "LH",
+      "size": 5.37,
+      "aiExposure": 0.251
+    },
+    {
+      "id": "biomedical-engineer-manufacturing",
+      "label": "Biomedical Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7157,
+      "nfc": 0.7155,
+      "quadrant": "HH",
+      "size": 5.35,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-quality-engineer-manufacturing",
+      "label": "Senior Quality Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7054,
+      "nfc": 0.7151,
+      "quadrant": "HH",
+      "size": 5.33,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "engineering-intern-manufacturing",
+      "label": "Engineering Intern",
+      "soc": "17-2141",
+      "ptr": 0.5462,
+      "nfc": 0.696,
+      "quadrant": "LH",
+      "size": 5.3,
+      "aiExposure": 0.3943
+    },
+    {
+      "id": "clinical-nurse-consultant-programmer-manufacturing",
+      "label": "Clinical Nurse Consultant Programmer",
+      "soc": "29-1141",
+      "ptr": 0.2748,
+      "nfc": 0.2742,
+      "quadrant": "LH",
+      "size": 5.26,
+      "aiExposure": 0.251
+    },
+    {
+      "id": "supplier-quality-manager-manufacturing",
+      "label": "Supplier Quality Manager",
+      "soc": "11-3051",
+      "ptr": 0.373,
+      "nfc": 0.3694,
+      "quadrant": "LH",
+      "size": 5.22,
+      "aiExposure": 0.263
+    },
+    {
+      "id": "manufacturing-engineering-manager-manufacturing",
+      "label": "Manufacturing Engineering Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.22,
+      "aiExposure": 0
+    },
+    {
+      "id": "quality-engineering-manager-manufacturing",
+      "label": "Quality Engineering Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.22,
+      "aiExposure": 0
+    },
+    {
+      "id": "product-engineering-manager-manufacturing",
+      "label": "Product Engineering Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.21,
+      "aiExposure": 0
+    },
+    {
+      "id": "design-engineering-manager-manufacturing",
+      "label": "Design Engineering Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.21,
+      "aiExposure": 0
+    },
+    {
+      "id": "quality-systems-manager-manufacturing",
+      "label": "Quality Systems Manager",
+      "soc": "11-3051",
+      "ptr": 0.373,
+      "nfc": 0.3682,
+      "quadrant": "LH",
+      "size": 5.2,
+      "aiExposure": 0.263
+    },
+    {
+      "id": "chemical-engineer-manufacturing",
+      "label": "Chemical Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6949,
+      "nfc": 0.7111,
+      "quadrant": "HH",
+      "size": 5.2,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "technical-marketing-manager",
+      "label": "Technical Marketing Manager",
+      "soc": "11-2021",
+      "ptr": 0.6411,
+      "nfc": 0.6321,
+      "quadrant": "LH",
+      "size": 5.19,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "firmware-engineer-manufacturing",
+      "label": "Firmware Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7208,
+      "nfc": 0.7093,
+      "quadrant": "HH",
+      "size": 5.19,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "mechanical-technician-manufacturing",
+      "label": "Mechanical Technician",
+      "soc": "17-3023",
+      "ptr": 0.3309,
+      "nfc": 0.328,
+      "quadrant": "LH",
+      "size": 5.19,
+      "aiExposure": 0.3042
+    },
+    {
+      "id": "test-engineering-manager-manufacturing",
+      "label": "Test Engineering Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.19,
+      "aiExposure": 0
+    },
+    {
+      "id": "mechanical-fitter-manufacturing",
+      "label": "Mechanical Fitter",
+      "soc": "47-2011",
+      "ptr": 0.0881,
+      "nfc": 0.0861,
+      "quadrant": "LH",
+      "size": 5.18,
+      "aiExposure": 0.0357
+    },
+    {
+      "id": "toolmaker-manufacturing",
+      "label": "Toolmaker",
+      "soc": "51-9198",
+      "ptr": 0.1003,
+      "nfc": 0.0993,
+      "quadrant": "LH",
+      "size": 5.18,
+      "aiExposure": 0.0552
+    },
+    {
+      "id": "process-control-engineer-manufacturing",
+      "label": "Process Control Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7208,
+      "nfc": 0.708,
+      "quadrant": "HH",
+      "size": 5.15,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "control-engineer-manufacturing",
+      "label": "Control Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7105,
+      "nfc": 0.7075,
+      "quadrant": "HH",
+      "size": 5.15,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "manufacturing-engineering-intern-manufacturing",
+      "label": "Manufacturing Engineering Intern",
+      "soc": "29-1229",
+      "ptr": 0.3926,
+      "nfc": 0.3965,
+      "quadrant": "LH",
+      "size": 5.15,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "automation-engineer",
+      "label": "Automation Engineer",
+      "soc": "17-2121",
+      "ptr": 0.4606,
+      "nfc": 0.458,
+      "quadrant": "LH",
+      "size": 5.14,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "control-systems-engineer-manufacturing",
+      "label": "Control Systems Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7157,
+      "nfc": 0.7062,
+      "quadrant": "HH",
+      "size": 5.14,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "mechanical-engineer-ii-manufacturing",
+      "label": "Mechanical Engineer II",
+      "soc": "17-2071",
+      "ptr": 0.7208,
+      "nfc": 0.7058,
+      "quadrant": "HH",
+      "size": 5.13,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "application-engineering-manager",
+      "label": "Application Engineering Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.12,
+      "aiExposure": 0
+    },
+    {
+      "id": "technical-sales",
+      "label": "Technical Sales",
+      "soc": "41-4011",
+      "ptr": 0.631,
+      "nfc": 0.626,
+      "quadrant": "LH",
+      "size": 5.12,
+      "aiExposure": 0.4059
+    },
+    {
+      "id": "process-engineering-manager-manufacturing",
+      "label": "Process Engineering Manager",
+      "soc": "11-9041",
+      "ptr": 0.5406,
+      "nfc": 0.5284,
+      "quadrant": "LH",
+      "size": 5.11,
+      "aiExposure": 0.303
+    },
+    {
+      "id": "principal-design-engineer-manufacturing",
+      "label": "Principal Design Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7258,
+      "nfc": 0.704,
+      "quadrant": "HH",
+      "size": 5.11,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "industrial-engineering-manager-manufacturing",
+      "label": "Industrial Engineering Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.1,
+      "aiExposure": 0
+    },
+    {
+      "id": "customer-quality-engineer-manufacturing",
+      "label": "Customer Quality Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7258,
+      "nfc": 0.7031,
+      "quadrant": "HH",
+      "size": 5.1,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "advanced-quality-engineer-manufacturing",
+      "label": "Advanced Quality Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7258,
+      "nfc": 0.7004,
+      "quadrant": "HH",
+      "size": 5.1,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "quality-systems-engineer-manufacturing",
+      "label": "Quality Systems Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7258,
+      "nfc": 0.7004,
+      "quadrant": "HH",
+      "size": 5.1,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "new-product-development-engineer-manufacturing",
+      "label": "New Product Development Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7258,
+      "nfc": 0.7004,
+      "quadrant": "HH",
+      "size": 5.1,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "compliance-engineer-manufacturing",
+      "label": "Compliance Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7258,
+      "nfc": 0.7004,
+      "quadrant": "HH",
+      "size": 5.1,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "supplier-development-engineer-manufacturing",
+      "label": "Supplier Development Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7208,
+      "nfc": 0.7004,
+      "quadrant": "HH",
+      "size": 5.1,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "advanced-manufacturing-engineer-manufacturing",
+      "label": "Advanced Manufacturing Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7208,
+      "nfc": 0.7004,
+      "quadrant": "HH",
+      "size": 5.1,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-reliability-engineer-manufacturing",
+      "label": "Senior Reliability Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7258,
+      "nfc": 0.6995,
+      "quadrant": "HH",
+      "size": 5.1,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "plumbing-designer",
+      "label": "Plumbing Designer",
+      "soc": "17-2121",
+      "ptr": 0.4705,
+      "nfc": 0.4534,
+      "quadrant": "LH",
+      "size": 5.1,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "field-application-engineer-manufacturing",
+      "label": "Field Application Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7105,
+      "nfc": 0.699,
+      "quadrant": "HH",
+      "size": 5.1,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "technical-sales-engineer",
+      "label": "Technical Sales Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7258,
+      "nfc": 0.6986,
+      "quadrant": "HH",
+      "size": 5.1,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "design-verification-engineer-manufacturing",
+      "label": "Design Verification Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7258,
+      "nfc": 0.6981,
+      "quadrant": "HH",
+      "size": 5.1,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "analog-design-engineer",
+      "label": "Analog Design Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7208,
+      "nfc": 0.6967,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "mechanical-engineer-iii-manufacturing",
+      "label": "Mechanical Engineer III",
+      "soc": "17-2071",
+      "ptr": 0.7208,
+      "nfc": 0.6967,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "maintenance-planner-manufacturing",
+      "label": "Maintenance Planner",
+      "soc": "19-3051",
+      "ptr": 0.6095,
+      "nfc": 0.5851,
+      "quadrant": "LH",
+      "size": 5.09,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "senior-development-engineer-manufacturing",
+      "label": "Senior Development Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7258,
+      "nfc": 0.6867,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "project-design-engineer-manufacturing",
+      "label": "Project Design Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7258,
+      "nfc": 0.6867,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "proposal-engineer-manufacturing",
+      "label": "Proposal Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7258,
+      "nfc": 0.6867,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "electrical-control-engineer",
+      "label": "Electrical Control Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7258,
+      "nfc": 0.6867,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "product-marketing-engineer",
+      "label": "Product Marketing Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7258,
+      "nfc": 0.6867,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "application-engineer-ii-manufacturing",
+      "label": "Application Engineer II",
+      "soc": "17-2071",
+      "ptr": 0.7258,
+      "nfc": 0.6867,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "product-engineer-ii",
+      "label": "Product Engineer II",
+      "soc": "17-2071",
+      "ptr": 0.7258,
+      "nfc": 0.6867,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "tooling-engineer-manufacturing",
+      "label": "Tooling Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7258,
+      "nfc": 0.6867,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "development-engineer-ii",
+      "label": "Development Engineer II",
+      "soc": "17-2071",
+      "ptr": 0.7258,
+      "nfc": 0.6867,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "field-service-engineer-ii",
+      "label": "Field Service Engineer II",
+      "soc": "17-2071",
+      "ptr": 0.7258,
+      "nfc": 0.6867,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "digital-design-engineer-manufacturing",
+      "label": "Digital Design Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7258,
+      "nfc": 0.6867,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "systems-application-engineer-manufacturing",
+      "label": "Systems Application Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7258,
+      "nfc": 0.6867,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "product-application-engineer",
+      "label": "Product Application Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7258,
+      "nfc": 0.6867,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "electronics-design-engineer-manufacturing",
+      "label": "Electronics Design Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7208,
+      "nfc": 0.6867,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "test-development-engineer-manufacturing",
+      "label": "Test Development Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7208,
+      "nfc": 0.6867,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "manufacturing-process-engineer-manufacturing",
+      "label": "Manufacturing Process Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7208,
+      "nfc": 0.6867,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "marketing-engineer",
+      "label": "Marketing Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7208,
+      "nfc": 0.6867,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "equipment-engineer-manufacturing",
+      "label": "Equipment Engineer",
+      "soc": "17-2121",
+      "ptr": 0.4672,
+      "nfc": 0.4451,
+      "quadrant": "LH",
+      "size": 5.09,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "mechanical-project-engineer-manufacturing",
+      "label": "Mechanical Project Engineer",
+      "soc": "17-2121",
+      "ptr": 0.4639,
+      "nfc": 0.4451,
+      "quadrant": "LH",
+      "size": 5.09,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "electrical-supervisor-manufacturing",
+      "label": "Electrical Supervisor",
+      "soc": "51-1011",
+      "ptr": 0.3074,
+      "nfc": 0.2908,
+      "quadrant": "LH",
+      "size": 5.09,
+      "aiExposure": 0.3251
+    },
+    {
+      "id": "manufacturing-supervisor-manufacturing",
+      "label": "Manufacturing Supervisor",
+      "soc": "51-1011",
+      "ptr": 0.3009,
+      "nfc": 0.2908,
+      "quadrant": "LH",
+      "size": 5.09,
+      "aiExposure": 0.3251
+    },
+    {
+      "id": "automation-specialist-manufacturing",
+      "label": "Automation Specialist",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.09,
+      "aiExposure": 0
+    },
+    {
+      "id": "supplier-quality-engineer-manufacturing",
+      "label": "Supplier Quality Engineer",
+      "soc": "17-2121",
+      "ptr": 0.4639,
+      "nfc": 0.4448,
+      "quadrant": "LH",
+      "size": 5.07,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "production-superintendent-manufacturing",
+      "label": "Production Superintendent",
+      "soc": "11-9013",
+      "ptr": 0.2449,
+      "nfc": 0.233,
+      "quadrant": "LH",
+      "size": 5.07,
+      "aiExposure": 0.2217
+    },
+    {
+      "id": "senior-hardware-engineer-manufacturing",
+      "label": "Senior Hardware Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7258,
+      "nfc": 0.6853,
+      "quadrant": "HH",
+      "size": 5.06,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "asic-design-engineer-manufacturing",
+      "label": "ASIC Design Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7157,
+      "nfc": 0.6848,
+      "quadrant": "HH",
+      "size": 5.04,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "hardware-design-engineer-manufacturing",
+      "label": "Hardware Design Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7105,
+      "nfc": 0.6844,
+      "quadrant": "HH",
+      "size": 5.04,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-industrial-engineer-manufacturing",
+      "label": "Senior Industrial Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7208,
+      "nfc": 0.6839,
+      "quadrant": "HH",
+      "size": 5.03,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "geologist-manufacturing",
+      "label": "Geologist",
+      "soc": "19-2042",
+      "ptr": 0.5459,
+      "nfc": 0.541,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.3202
+    },
+    {
+      "id": "senior-brand-manager-manufacturing",
+      "label": "Senior Brand Manager",
+      "soc": "11-2021",
+      "ptr": 0.632,
+      "nfc": 0.6075,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "design-engineering-intern-manufacturing",
+      "label": "Design Engineering Intern",
+      "soc": "29-1229",
+      "ptr": 0.407,
+      "nfc": 0.3828,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "manufacturing-engineer-ii-manufacturing",
+      "label": "Manufacturing Engineer II",
+      "soc": "17-2071",
+      "ptr": 0.7208,
+      "nfc": 0.6821,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "assistant-brand-manager",
+      "label": "Assistant Brand Manager",
+      "soc": "11-2021",
+      "ptr": 0.6087,
+      "nfc": 0.6063,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "process-quality-engineer",
+      "label": "Process Quality Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7258,
+      "nfc": 0.6811,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-geologist-manufacturing",
+      "label": "Senior Geologist",
+      "soc": "19-2042",
+      "ptr": 0.5624,
+      "nfc": 0.5388,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.3202
+    },
+    {
+      "id": "senior-sales-engineer-manufacturing",
+      "label": "Senior Sales Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7258,
+      "nfc": 0.6802,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "associate-brand-manager-manufacturing",
+      "label": "Associate Brand Manager",
+      "soc": "11-2021",
+      "ptr": 0.6366,
+      "nfc": 0.6046,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "global-marketing-manager-manufacturing",
+      "label": "Global Marketing Manager",
+      "soc": "11-2021",
+      "ptr": 0.632,
+      "nfc": 0.6042,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "manufacturing-director",
+      "label": "Manufacturing Director",
+      "soc": "27-2012",
+      "ptr": 0.5901,
+      "nfc": 0.5519,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "senior-packaging-engineer-manufacturing",
+      "label": "Senior Packaging Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7208,
+      "nfc": 0.6784,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "exploration-manager-manufacturing",
+      "label": "Exploration Manager",
+      "soc": "11-9121",
+      "ptr": 0.6928,
+      "nfc": 0.6502,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3216
+    },
+    {
+      "id": "global-brand-manager-manufacturing",
+      "label": "Global Brand Manager",
+      "soc": "11-2021",
+      "ptr": 0.6411,
+      "nfc": 0.6017,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "trade-marketing-manager",
+      "label": "Trade Marketing Manager",
+      "soc": "11-2021",
+      "ptr": 0.6274,
+      "nfc": 0.6017,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "plant-superintendent",
+      "label": "Plant Superintendent",
+      "soc": "11-3051",
+      "ptr": 0.373,
+      "nfc": 0.3501,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.263
+    },
+    {
+      "id": "quality-technician",
+      "label": "Quality Technician",
+      "soc": "51-9061",
+      "ptr": 0.4404,
+      "nfc": 0.4252,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.2548
+    },
+    {
+      "id": "factory-manager",
+      "label": "Factory Manager",
+      "soc": "11-3051",
+      "ptr": 0.3756,
+      "nfc": 0.3496,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.263
+    },
+    {
+      "id": "staff-design-engineer",
+      "label": "Staff Design Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7208,
+      "nfc": 0.6751,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "exploration-geologist-manufacturing",
+      "label": "Exploration Geologist",
+      "soc": "19-2042",
+      "ptr": 0.5665,
+      "nfc": 0.534,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3202
+    },
+    {
+      "id": "plant-controller-manufacturing",
+      "label": "Plant Controller",
+      "soc": "11-3031",
+      "ptr": 0.6242,
+      "nfc": 0.5798,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3169
+    },
+    {
+      "id": "associate-marketing-manager",
+      "label": "Associate Marketing Manager",
+      "soc": "11-2021",
+      "ptr": 0.632,
+      "nfc": 0.5992,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "senior-chemist-manufacturing",
+      "label": "Senior Chemist",
+      "soc": "19-2031",
+      "ptr": 0.2551,
+      "nfc": 0.2383,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3088
+    },
+    {
+      "id": "verification-engineer-manufacturing",
+      "label": "Verification Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7157,
+      "nfc": 0.6709,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "food-scientist",
+      "label": "Food Scientist",
+      "soc": "19-2032",
+      "ptr": 0.6169,
+      "nfc": 0.5702,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3641
+    },
+    {
+      "id": "demand-planner-manufacturing",
+      "label": "Demand Planner",
+      "soc": "19-3051",
+      "ptr": 0.601,
+      "nfc": 0.5633,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "food-technologist",
+      "label": "Food Technologist",
+      "soc": "19-1012",
+      "ptr": 0.2244,
+      "nfc": 0.2103,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3026
+    },
+    {
+      "id": "assistant-winemaker",
+      "label": "Assistant Winemaker",
+      "soc": "51-9012",
+      "ptr": 0.1279,
+      "nfc": 0.1199,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.1228
+    },
+    {
+      "id": "mechanical-engineering-manager-manufacturing",
+      "label": "Mechanical Engineering Manager",
+      "soc": "11-9041",
+      "ptr": 0.5444,
+      "nfc": 0.5029,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.303
+    },
+    {
+      "id": "mining-engineer",
+      "label": "Mining Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7258,
+      "nfc": 0.6666,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "new-product-development-manager",
+      "label": "New Product Development Manager",
+      "soc": "11-9121",
+      "ptr": 0.6928,
+      "nfc": 0.6407,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3216
+    },
+    {
+      "id": "export-sales-manager",
+      "label": "Export Sales Manager",
+      "soc": "11-2021",
+      "ptr": 0.6456,
+      "nfc": 0.5929,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "customer-marketing-manager",
+      "label": "Customer Marketing Manager",
+      "soc": "11-2021",
+      "ptr": 0.6411,
+      "nfc": 0.5929,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "demand-planning-manager-manufacturing",
+      "label": "Demand Planning Manager",
+      "soc": "11-3071",
+      "ptr": 0.6304,
+      "nfc": 0.5789,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "electrical-designer-manufacturing",
+      "label": "Electrical Designer",
+      "soc": "17-2121",
+      "ptr": 0.4705,
+      "nfc": 0.4321,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "senior-supplier-quality-engineer-manufacturing",
+      "label": "Senior Supplier Quality Engineer",
+      "soc": "17-2121",
+      "ptr": 0.4672,
+      "nfc": 0.4321,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "winemaker",
+      "label": "Winemaker",
+      "soc": "51-9012",
+      "ptr": 0.1297,
+      "nfc": 0.1191,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.1228
+    },
+    {
+      "id": "project-geologist-manufacturing",
+      "label": "Project Geologist",
+      "soc": "19-2042",
+      "ptr": 0.5705,
+      "nfc": 0.5273,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3202
+    },
+    {
+      "id": "associate-mechanical-engineer-manufacturing",
+      "label": "Associate Mechanical Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7208,
+      "nfc": 0.6657,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "on-premise-sales-representative",
+      "label": "On Premise Sales Representative",
+      "soc": "41-4012",
+      "ptr": 0.9892,
+      "nfc": 0.8962,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4628
+    },
+    {
+      "id": "continuous-improvement-engineer-manufacturing",
+      "label": "Continuous Improvement Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7258,
+      "nfc": 0.6575,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "field-sales-engineer",
+      "label": "Field Sales Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7258,
+      "nfc": 0.6575,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "mine-engineer",
+      "label": "Mine Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7258,
+      "nfc": 0.6575,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "embedded-systems-engineer-manufacturing",
+      "label": "Embedded Systems Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7258,
+      "nfc": 0.6575,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    }
+  ],
+  "edges": [
+    {
+      "source": "product-engineer-manufacturing",
+      "target": "process-engineer-manufacturing",
+      "weight": 0.57
+    },
+    {
+      "source": "mechanical-engineer-manufacturing",
+      "target": "field-service-engineer",
+      "weight": 0.71
+    },
+    {
+      "source": "service-engineer",
+      "target": "field-service-engineer",
+      "weight": 0.82
+    },
+    {
+      "source": "service-engineer",
+      "target": "design-engineer-manufacturing",
+      "weight": 0.67
+    },
+    {
+      "source": "production-engineer-manufacturing",
+      "target": "application-engineer",
+      "weight": 0.68
+    },
+    {
+      "source": "production-engineer-manufacturing",
+      "target": "product-development-engineer-manufacturing",
+      "weight": 0.96
+    },
+    {
+      "source": "development-engineer-manufacturing",
+      "target": "product-development-engineer-manufacturing",
+      "weight": 0.94
+    },
+    {
+      "source": "development-engineer-manufacturing",
+      "target": "electrical-engineer-manufacturing",
+      "weight": 0.48
+    },
+    {
+      "source": "production-supervisor",
+      "target": "mechanical-design-engineer-manufacturing",
+      "weight": 0.45
+    },
+    {
+      "source": "senior-design-engineer-manufacturing",
+      "target": "process-engineer-manufacturing",
+      "weight": 0.84
+    },
+    {
+      "source": "senior-design-engineer-manufacturing",
+      "target": "field-service-engineer",
+      "weight": 0.89
+    },
+    {
+      "source": "industrial-engineer-manufacturing",
+      "target": "maintenance-engineer-manufacturing",
+      "weight": 0.9
+    },
+    {
+      "source": "industrial-engineer-manufacturing",
+      "target": "manufacturing-engineer-manufacturing",
+      "weight": 0.4
+    },
+    {
+      "source": "electrical-project-engineer-manufacturing",
+      "target": "maintenance-engineer-manufacturing",
+      "weight": 0.98
+    },
+    {
+      "source": "electrical-project-engineer-manufacturing",
+      "target": "quality-engineer-manufacturing",
+      "weight": 0.66
+    },
+    {
+      "source": "sales-engineer",
+      "target": "product-development-engineer-manufacturing",
+      "weight": 0.98
+    },
+    {
+      "source": "sales-engineer",
+      "target": "quality-engineer-manufacturing",
+      "weight": 0.77
+    },
+    {
+      "source": "product-design-engineer-manufacturing",
+      "target": "process-engineer-manufacturing",
+      "weight": 0.87
+    },
+    {
+      "source": "product-design-engineer-manufacturing",
+      "target": "product-development-engineer-manufacturing",
+      "weight": 0.42
+    },
+    {
+      "source": "packaging-engineer-manufacturing",
+      "target": "manufacturing-engineer-manufacturing",
+      "weight": 0.56
+    },
+    {
+      "source": "packaging-engineer-manufacturing",
+      "target": "maintenance-engineer-manufacturing",
+      "weight": 0.71
+    },
+    {
+      "source": "senior-manufacturing-engineer-manufacturing",
+      "target": "field-service-engineer",
+      "weight": 0.86
+    },
+    {
+      "source": "senior-product-engineer-manufacturing",
+      "target": "quality-engineer-manufacturing",
+      "weight": 0.56
+    },
+    {
+      "source": "senior-product-engineer-manufacturing",
+      "target": "electrical-engineer-manufacturing",
+      "weight": 0.9
+    },
+    {
+      "source": "senior-application-engineer-manufacturing",
+      "target": "process-engineer-manufacturing",
+      "weight": 0.48
+    },
+    {
+      "source": "senior-application-engineer-manufacturing",
+      "target": "electrical-engineer-manufacturing",
+      "weight": 0.53
+    },
+    {
+      "source": "plant-manager",
+      "target": "field-service-engineer",
+      "weight": 0.4
+    },
+    {
+      "source": "plant-manager",
+      "target": "maintenance-engineer-manufacturing",
+      "weight": 0.63
+    },
+    {
+      "source": "electrical-design-engineer-manufacturing",
+      "target": "application-engineer",
+      "weight": 0.75
+    },
+    {
+      "source": "senior-process-engineer-manufacturing",
+      "target": "field-service-engineer",
+      "weight": 0.79
+    },
+    {
+      "source": "reliability-engineer-manufacturing",
+      "target": "product-development-engineer-manufacturing",
+      "weight": 0.45
+    },
+    {
+      "source": "plant-engineer-manufacturing",
+      "target": "manufacturing-engineer-manufacturing",
+      "weight": 0.8
+    },
+    {
+      "source": "mechanical-designer-manufacturing",
+      "target": "process-engineer-manufacturing",
+      "weight": 0.84
+    },
+    {
+      "source": "mechanical-designer-manufacturing",
+      "target": "maintenance-engineer-manufacturing",
+      "weight": 0.6
+    },
+    {
+      "source": "manufacturing-manager-manufacturing",
+      "target": "quality-engineer-manufacturing",
+      "weight": 0.78
+    },
+    {
+      "source": "manufacturing-manager-manufacturing",
+      "target": "electrical-engineer-manufacturing",
+      "weight": 0.53
+    },
+    {
+      "source": "senior-mechanical-engineer-manufacturing",
+      "target": "electrical-engineer-manufacturing",
+      "weight": 0.97
+    },
+    {
+      "source": "technical-marketing-engineer-manufacturing",
+      "target": "maintenance-engineer-manufacturing",
+      "weight": 0.72
+    },
+    {
+      "source": "technical-marketing-engineer-manufacturing",
+      "target": "application-engineer",
+      "weight": 0.4
+    },
+    {
+      "source": "clinical-nurse-consultant-machinist-manufacturing",
+      "target": "mechanical-design-engineer-manufacturing",
+      "weight": 0.67
+    },
+    {
+      "source": "clinical-nurse-consultant-machinist-manufacturing",
+      "target": "product-development-engineer-manufacturing",
+      "weight": 0.72
+    },
+    {
+      "source": "biomedical-engineer-manufacturing",
+      "target": "process-engineer-manufacturing",
+      "weight": 0.61
+    },
+    {
+      "source": "biomedical-engineer-manufacturing",
+      "target": "quality-engineer-manufacturing",
+      "weight": 0.65
+    },
+    {
+      "source": "senior-quality-engineer-manufacturing",
+      "target": "quality-engineer-manufacturing",
+      "weight": 0.98
+    },
+    {
+      "source": "senior-quality-engineer-manufacturing",
+      "target": "design-engineer-manufacturing",
+      "weight": 0.54
+    },
+    {
+      "source": "engineering-intern-manufacturing",
+      "target": "process-engineer-manufacturing",
+      "weight": 0.76
+    },
+    {
+      "source": "clinical-nurse-consultant-programmer-manufacturing",
+      "target": "mechanical-design-engineer-manufacturing",
+      "weight": 0.91
+    },
+    {
+      "source": "supplier-quality-manager-manufacturing",
+      "target": "maintenance-engineer-manufacturing",
+      "weight": 0.77
+    },
+    {
+      "source": "supplier-quality-manager-manufacturing",
+      "target": "application-engineer",
+      "weight": 0.49
+    },
+    {
+      "source": "manufacturing-engineering-manager-manufacturing",
+      "target": "process-engineer-manufacturing",
+      "weight": 0.84
+    },
+    {
+      "source": "quality-engineering-manager-manufacturing",
+      "target": "field-service-engineer",
+      "weight": 0.58
+    },
+    {
+      "source": "product-engineering-manager-manufacturing",
+      "target": "field-service-engineer",
+      "weight": 0.87
+    },
+    {
+      "source": "product-engineering-manager-manufacturing",
+      "target": "maintenance-engineer-manufacturing",
+      "weight": 0.64
+    },
+    {
+      "source": "design-engineering-manager-manufacturing",
+      "target": "mechanical-design-engineer-manufacturing",
+      "weight": 0.42
+    },
+    {
+      "source": "quality-systems-manager-manufacturing",
+      "target": "design-engineer-manufacturing",
+      "weight": 0.73
+    },
+    {
+      "source": "chemical-engineer-manufacturing",
+      "target": "quality-engineer-manufacturing",
+      "weight": 0.67
+    },
+    {
+      "source": "chemical-engineer-manufacturing",
+      "target": "maintenance-engineer-manufacturing",
+      "weight": 0.59
+    },
+    {
+      "source": "technical-marketing-manager",
+      "target": "process-engineer-manufacturing",
+      "weight": 0.65
+    },
+    {
+      "source": "technical-marketing-manager",
+      "target": "design-engineer-manufacturing",
+      "weight": 0.69
+    },
+    {
+      "source": "firmware-engineer-manufacturing",
+      "target": "electrical-engineer-manufacturing",
+      "weight": 0.89
+    },
+    {
+      "source": "mechanical-technician-manufacturing",
+      "target": "quality-engineer-manufacturing",
+      "weight": 0.59
+    },
+    {
+      "source": "mechanical-technician-manufacturing",
+      "target": "field-service-engineer",
+      "weight": 0.56
+    },
+    {
+      "source": "test-engineering-manager-manufacturing",
+      "target": "product-development-engineer-manufacturing",
+      "weight": 0.57
+    },
+    {
+      "source": "test-engineering-manager-manufacturing",
+      "target": "electrical-engineer-manufacturing",
+      "weight": 0.52
+    },
+    {
+      "source": "mechanical-fitter-manufacturing",
+      "target": "field-service-engineer",
+      "weight": 0.47
+    },
+    {
+      "source": "mechanical-fitter-manufacturing",
+      "target": "mechanical-design-engineer-manufacturing",
+      "weight": 0.85
+    },
+    {
+      "source": "toolmaker-manufacturing",
+      "target": "maintenance-engineer-manufacturing",
+      "weight": 0.91
+    },
+    {
+      "source": "toolmaker-manufacturing",
+      "target": "electrical-engineer-manufacturing",
+      "weight": 0.67
+    },
+    {
+      "source": "process-control-engineer-manufacturing",
+      "target": "electrical-engineer-manufacturing",
+      "weight": 0.56
+    },
+    {
+      "source": "control-engineer-manufacturing",
+      "target": "field-service-engineer",
+      "weight": 0.74
+    },
+    {
+      "source": "control-engineer-manufacturing",
+      "target": "mechanical-design-engineer-manufacturing",
+      "weight": 0.61
+    },
+    {
+      "source": "manufacturing-engineering-intern-manufacturing",
+      "target": "field-service-engineer",
+      "weight": 0.69
+    },
+    {
+      "source": "automation-engineer",
+      "target": "process-engineer-manufacturing",
+      "weight": 0.98
+    },
+    {
+      "source": "control-systems-engineer-manufacturing",
+      "target": "field-service-engineer",
+      "weight": 0.55
+    },
+    {
+      "source": "control-systems-engineer-manufacturing",
+      "target": "design-engineer-manufacturing",
+      "weight": 0.61
+    },
+    {
+      "source": "mechanical-engineer-ii-manufacturing",
+      "target": "field-service-engineer",
+      "weight": 0.73
+    },
+    {
+      "source": "mechanical-engineer-ii-manufacturing",
+      "target": "product-development-engineer-manufacturing",
+      "weight": 0.65
+    },
+    {
+      "source": "application-engineering-manager",
+      "target": "product-development-engineer-manufacturing",
+      "weight": 0.69
+    },
+    {
+      "source": "technical-sales",
+      "target": "design-engineer-manufacturing",
+      "weight": 0.6
+    },
+    {
+      "source": "technical-sales",
+      "target": "mechanical-design-engineer-manufacturing",
+      "weight": 0.51
+    },
+    {
+      "source": "process-engineering-manager-manufacturing",
+      "target": "design-engineer-manufacturing",
+      "weight": 0.74
+    },
+    {
+      "source": "principal-design-engineer-manufacturing",
+      "target": "design-engineer-manufacturing",
+      "weight": 0.59
+    },
+    {
+      "source": "principal-design-engineer-manufacturing",
+      "target": "field-service-engineer",
+      "weight": 0.97
+    },
+    {
+      "source": "industrial-engineering-manager-manufacturing",
+      "target": "maintenance-engineer-manufacturing",
+      "weight": 0.48
+    },
+    {
+      "source": "industrial-engineering-manager-manufacturing",
+      "target": "manufacturing-engineer-manufacturing",
+      "weight": 0.87
+    },
+    {
+      "source": "customer-quality-engineer-manufacturing",
+      "target": "design-engineer-manufacturing",
+      "weight": 0.59
+    },
+    {
+      "source": "customer-quality-engineer-manufacturing",
+      "target": "manufacturing-engineer-manufacturing",
+      "weight": 0.64
+    },
+    {
+      "source": "advanced-quality-engineer-manufacturing",
+      "target": "maintenance-engineer-manufacturing",
+      "weight": 0.43
+    },
+    {
+      "source": "quality-systems-engineer-manufacturing",
+      "target": "field-service-engineer",
+      "weight": 0.5
+    },
+    {
+      "source": "new-product-development-engineer-manufacturing",
+      "target": "mechanical-design-engineer-manufacturing",
+      "weight": 0.6
+    },
+    {
+      "source": "compliance-engineer-manufacturing",
+      "target": "manufacturing-engineer-manufacturing",
+      "weight": 0.84
+    },
+    {
+      "source": "supplier-development-engineer-manufacturing",
+      "target": "mechanical-design-engineer-manufacturing",
+      "weight": 0.42
+    },
+    {
+      "source": "advanced-manufacturing-engineer-manufacturing",
+      "target": "quality-engineer-manufacturing",
+      "weight": 0.6
+    },
+    {
+      "source": "senior-reliability-engineer-manufacturing",
+      "target": "quality-engineer-manufacturing",
+      "weight": 0.5
+    },
+    {
+      "source": "plumbing-designer",
+      "target": "quality-engineer-manufacturing",
+      "weight": 0.46
+    },
+    {
+      "source": "field-application-engineer-manufacturing",
+      "target": "quality-engineer-manufacturing",
+      "weight": 0.53
+    },
+    {
+      "source": "field-application-engineer-manufacturing",
+      "target": "product-development-engineer-manufacturing",
+      "weight": 0.96
+    },
+    {
+      "source": "technical-sales-engineer",
+      "target": "field-service-engineer",
+      "weight": 0.94
+    },
+    {
+      "source": "design-verification-engineer-manufacturing",
+      "target": "process-engineer-manufacturing",
+      "weight": 0.57
+    },
+    {
+      "source": "analog-design-engineer",
+      "target": "quality-engineer-manufacturing",
+      "weight": 0.62
+    },
+    {
+      "source": "mechanical-engineer-iii-manufacturing",
+      "target": "design-engineer-manufacturing",
+      "weight": 0.64
+    },
+    {
+      "source": "mechanical-engineer-iii-manufacturing",
+      "target": "electrical-engineer-manufacturing",
+      "weight": 0.81
+    },
+    {
+      "source": "maintenance-planner-manufacturing",
+      "target": "field-service-engineer",
+      "weight": 0.89
+    },
+    {
+      "source": "maintenance-planner-manufacturing",
+      "target": "product-development-engineer-manufacturing",
+      "weight": 0.58
+    },
+    {
+      "source": "senior-development-engineer-manufacturing",
+      "target": "application-engineer",
+      "weight": 0.88
+    },
+    {
+      "source": "project-design-engineer-manufacturing",
+      "target": "process-engineer-manufacturing",
+      "weight": 0.97
+    },
+    {
+      "source": "proposal-engineer-manufacturing",
+      "target": "electrical-engineer-manufacturing",
+      "weight": 0.75
+    },
+    {
+      "source": "proposal-engineer-manufacturing",
+      "target": "mechanical-design-engineer-manufacturing",
+      "weight": 0.44
+    },
+    {
+      "source": "electrical-control-engineer",
+      "target": "field-service-engineer",
+      "weight": 0.81
+    },
+    {
+      "source": "electrical-control-engineer",
+      "target": "mechanical-design-engineer-manufacturing",
+      "weight": 0.97
+    },
+    {
+      "source": "product-marketing-engineer",
+      "target": "manufacturing-engineer-manufacturing",
+      "weight": 0.79
+    },
+    {
+      "source": "product-marketing-engineer",
+      "target": "mechanical-design-engineer-manufacturing",
+      "weight": 0.57
+    },
+    {
+      "source": "application-engineer-ii-manufacturing",
+      "target": "process-engineer-manufacturing",
+      "weight": 0.77
+    },
+    {
+      "source": "application-engineer-ii-manufacturing",
+      "target": "product-development-engineer-manufacturing",
+      "weight": 0.96
+    },
+    {
+      "source": "product-engineer-ii",
+      "target": "quality-engineer-manufacturing",
+      "weight": 0.45
+    },
+    {
+      "source": "tooling-engineer-manufacturing",
+      "target": "process-engineer-manufacturing",
+      "weight": 0.98
+    },
+    {
+      "source": "development-engineer-ii",
+      "target": "quality-engineer-manufacturing",
+      "weight": 0.43
+    },
+    {
+      "source": "field-service-engineer-ii",
+      "target": "field-service-engineer",
+      "weight": 0.68
+    },
+    {
+      "source": "digital-design-engineer-manufacturing",
+      "target": "application-engineer",
+      "weight": 0.89
+    },
+    {
+      "source": "digital-design-engineer-manufacturing",
+      "target": "field-service-engineer",
+      "weight": 0.46
+    },
+    {
+      "source": "systems-application-engineer-manufacturing",
+      "target": "manufacturing-engineer-manufacturing",
+      "weight": 0.45
+    },
+    {
+      "source": "product-application-engineer",
+      "target": "mechanical-design-engineer-manufacturing",
+      "weight": 0.79
+    },
+    {
+      "source": "electronics-design-engineer-manufacturing",
+      "target": "manufacturing-engineer-manufacturing",
+      "weight": 0.98
+    },
+    {
+      "source": "electronics-design-engineer-manufacturing",
+      "target": "electrical-engineer-manufacturing",
+      "weight": 0.94
+    },
+    {
+      "source": "test-development-engineer-manufacturing",
+      "target": "product-development-engineer-manufacturing",
+      "weight": 0.78
+    },
+    {
+      "source": "manufacturing-process-engineer-manufacturing",
+      "target": "maintenance-engineer-manufacturing",
+      "weight": 0.46
+    },
+    {
+      "source": "marketing-engineer",
+      "target": "process-engineer-manufacturing",
+      "weight": 0.63
+    },
+    {
+      "source": "marketing-engineer",
+      "target": "product-development-engineer-manufacturing",
+      "weight": 0.47
+    },
+    {
+      "source": "equipment-engineer-manufacturing",
+      "target": "design-engineer-manufacturing",
+      "weight": 0.56
+    },
+    {
+      "source": "mechanical-project-engineer-manufacturing",
+      "target": "quality-engineer-manufacturing",
+      "weight": 0.99
+    },
+    {
+      "source": "mechanical-project-engineer-manufacturing",
+      "target": "field-service-engineer",
+      "weight": 0.89
+    },
+    {
+      "source": "electrical-supervisor-manufacturing",
+      "target": "application-engineer",
+      "weight": 0.68
+    },
+    {
+      "source": "manufacturing-supervisor-manufacturing",
+      "target": "electrical-engineer-manufacturing",
+      "weight": 0.73
+    },
+    {
+      "source": "automation-specialist-manufacturing",
+      "target": "field-service-engineer",
+      "weight": 0.96
+    },
+    {
+      "source": "supplier-quality-engineer-manufacturing",
+      "target": "electrical-engineer-manufacturing",
+      "weight": 0.69
+    },
+    {
+      "source": "supplier-quality-engineer-manufacturing",
+      "target": "manufacturing-engineer-manufacturing",
+      "weight": 0.79
+    },
+    {
+      "source": "production-superintendent-manufacturing",
+      "target": "product-development-engineer-manufacturing",
+      "weight": 0.91
+    },
+    {
+      "source": "senior-hardware-engineer-manufacturing",
+      "target": "quality-engineer-manufacturing",
+      "weight": 0.49
+    },
+    {
+      "source": "asic-design-engineer-manufacturing",
+      "target": "manufacturing-engineer-manufacturing",
+      "weight": 0.44
+    },
+    {
+      "source": "hardware-design-engineer-manufacturing",
+      "target": "mechanical-design-engineer-manufacturing",
+      "weight": 0.58
+    },
+    {
+      "source": "hardware-design-engineer-manufacturing",
+      "target": "field-service-engineer",
+      "weight": 0.55
+    },
+    {
+      "source": "senior-industrial-engineer-manufacturing",
+      "target": "application-engineer",
+      "weight": 0.64
+    },
+    {
+      "source": "senior-industrial-engineer-manufacturing",
+      "target": "manufacturing-engineer-manufacturing",
+      "weight": 0.45
+    },
+    {
+      "source": "geologist-manufacturing",
+      "target": "field-service-engineer",
+      "weight": 0.78
+    },
+    {
+      "source": "geologist-manufacturing",
+      "target": "electrical-engineer-manufacturing",
+      "weight": 0.59
+    },
+    {
+      "source": "senior-brand-manager-manufacturing",
+      "target": "manufacturing-engineer-manufacturing",
+      "weight": 0.4
+    },
+    {
+      "source": "senior-brand-manager-manufacturing",
+      "target": "design-engineer-manufacturing",
+      "weight": 0.95
+    },
+    {
+      "source": "design-engineering-intern-manufacturing",
+      "target": "electrical-engineer-manufacturing",
+      "weight": 0.76
+    },
+    {
+      "source": "manufacturing-engineer-ii-manufacturing",
+      "target": "field-service-engineer",
+      "weight": 0.87
+    },
+    {
+      "source": "assistant-brand-manager",
+      "target": "field-service-engineer",
+      "weight": 0.48
+    },
+    {
+      "source": "assistant-brand-manager",
+      "target": "product-development-engineer-manufacturing",
+      "weight": 0.94
+    },
+    {
+      "source": "process-quality-engineer",
+      "target": "application-engineer",
+      "weight": 0.55
+    },
+    {
+      "source": "senior-geologist-manufacturing",
+      "target": "product-development-engineer-manufacturing",
+      "weight": 0.69
+    },
+    {
+      "source": "senior-geologist-manufacturing",
+      "target": "quality-engineer-manufacturing",
+      "weight": 0.91
+    },
+    {
+      "source": "senior-sales-engineer-manufacturing",
+      "target": "quality-engineer-manufacturing",
+      "weight": 0.51
+    },
+    {
+      "source": "associate-brand-manager-manufacturing",
+      "target": "field-service-engineer",
+      "weight": 0.42
+    },
+    {
+      "source": "global-marketing-manager-manufacturing",
+      "target": "mechanical-design-engineer-manufacturing",
+      "weight": 0.71
+    },
+    {
+      "source": "manufacturing-director",
+      "target": "mechanical-design-engineer-manufacturing",
+      "weight": 0.75
+    },
+    {
+      "source": "manufacturing-director",
+      "target": "maintenance-engineer-manufacturing",
+      "weight": 0.49
+    },
+    {
+      "source": "senior-packaging-engineer-manufacturing",
+      "target": "process-engineer-manufacturing",
+      "weight": 0.49
+    },
+    {
+      "source": "exploration-manager-manufacturing",
+      "target": "field-service-engineer",
+      "weight": 0.6
+    },
+    {
+      "source": "exploration-manager-manufacturing",
+      "target": "design-engineer-manufacturing",
+      "weight": 0.49
+    },
+    {
+      "source": "global-brand-manager-manufacturing",
+      "target": "quality-engineer-manufacturing",
+      "weight": 0.89
+    },
+    {
+      "source": "trade-marketing-manager",
+      "target": "mechanical-design-engineer-manufacturing",
+      "weight": 0.48
+    },
+    {
+      "source": "plant-superintendent",
+      "target": "process-engineer-manufacturing",
+      "weight": 0.95
+    },
+    {
+      "source": "quality-technician",
+      "target": "process-engineer-manufacturing",
+      "weight": 0.54
+    },
+    {
+      "source": "factory-manager",
+      "target": "product-development-engineer-manufacturing",
+      "weight": 0.46
+    },
+    {
+      "source": "factory-manager",
+      "target": "electrical-engineer-manufacturing",
+      "weight": 0.4
+    },
+    {
+      "source": "staff-design-engineer",
+      "target": "mechanical-design-engineer-manufacturing",
+      "weight": 0.53
+    },
+    {
+      "source": "exploration-geologist-manufacturing",
+      "target": "manufacturing-engineer-manufacturing",
+      "weight": 0.86
+    },
+    {
+      "source": "plant-controller-manufacturing",
+      "target": "electrical-engineer-manufacturing",
+      "weight": 0.61
+    },
+    {
+      "source": "associate-marketing-manager",
+      "target": "maintenance-engineer-manufacturing",
+      "weight": 0.52
+    },
+    {
+      "source": "senior-chemist-manufacturing",
+      "target": "process-engineer-manufacturing",
+      "weight": 0.46
+    },
+    {
+      "source": "senior-chemist-manufacturing",
+      "target": "field-service-engineer",
+      "weight": 0.95
+    },
+    {
+      "source": "verification-engineer-manufacturing",
+      "target": "product-development-engineer-manufacturing",
+      "weight": 0.52
+    },
+    {
+      "source": "verification-engineer-manufacturing",
+      "target": "mechanical-design-engineer-manufacturing",
+      "weight": 0.43
+    },
+    {
+      "source": "food-scientist",
+      "target": "field-service-engineer",
+      "weight": 0.86
+    },
+    {
+      "source": "food-scientist",
+      "target": "application-engineer",
+      "weight": 0.78
+    },
+    {
+      "source": "demand-planner-manufacturing",
+      "target": "mechanical-design-engineer-manufacturing",
+      "weight": 0.78
+    },
+    {
+      "source": "demand-planner-manufacturing",
+      "target": "electrical-engineer-manufacturing",
+      "weight": 0.41
+    },
+    {
+      "source": "food-technologist",
+      "target": "design-engineer-manufacturing",
+      "weight": 0.95
+    },
+    {
+      "source": "assistant-winemaker",
+      "target": "manufacturing-engineer-manufacturing",
+      "weight": 0.69
+    },
+    {
+      "source": "mechanical-engineering-manager-manufacturing",
+      "target": "quality-engineer-manufacturing",
+      "weight": 0.83
+    },
+    {
+      "source": "mining-engineer",
+      "target": "field-service-engineer",
+      "weight": 1
+    },
+    {
+      "source": "new-product-development-manager",
+      "target": "design-engineer-manufacturing",
+      "weight": 0.57
+    },
+    {
+      "source": "new-product-development-manager",
+      "target": "maintenance-engineer-manufacturing",
+      "weight": 0.87
+    },
+    {
+      "source": "export-sales-manager",
+      "target": "product-development-engineer-manufacturing",
+      "weight": 0.67
+    },
+    {
+      "source": "export-sales-manager",
+      "target": "maintenance-engineer-manufacturing",
+      "weight": 0.71
+    },
+    {
+      "source": "customer-marketing-manager",
+      "target": "manufacturing-engineer-manufacturing",
+      "weight": 0.46
+    },
+    {
+      "source": "customer-marketing-manager",
+      "target": "field-service-engineer",
+      "weight": 0.52
+    },
+    {
+      "source": "demand-planning-manager-manufacturing",
+      "target": "application-engineer",
+      "weight": 0.68
+    },
+    {
+      "source": "electrical-designer-manufacturing",
+      "target": "process-engineer-manufacturing",
+      "weight": 0.82
+    },
+    {
+      "source": "electrical-designer-manufacturing",
+      "target": "application-engineer",
+      "weight": 0.56
+    },
+    {
+      "source": "senior-supplier-quality-engineer-manufacturing",
+      "target": "field-service-engineer",
+      "weight": 0.68
+    },
+    {
+      "source": "winemaker",
+      "target": "maintenance-engineer-manufacturing",
+      "weight": 0.74
+    },
+    {
+      "source": "winemaker",
+      "target": "field-service-engineer",
+      "weight": 0.83
+    },
+    {
+      "source": "project-geologist-manufacturing",
+      "target": "manufacturing-engineer-manufacturing",
+      "weight": 0.91
+    },
+    {
+      "source": "associate-mechanical-engineer-manufacturing",
+      "target": "electrical-engineer-manufacturing",
+      "weight": 0.47
+    },
+    {
+      "source": "on-premise-sales-representative",
+      "target": "process-engineer-manufacturing",
+      "weight": 0.82
+    },
+    {
+      "source": "on-premise-sales-representative",
+      "target": "field-service-engineer",
+      "weight": 0.7
+    },
+    {
+      "source": "continuous-improvement-engineer-manufacturing",
+      "target": "field-service-engineer",
+      "weight": 0.52
+    },
+    {
+      "source": "field-sales-engineer",
+      "target": "quality-engineer-manufacturing",
+      "weight": 0.71
+    },
+    {
+      "source": "mine-engineer",
+      "target": "field-service-engineer",
+      "weight": 0.46
+    },
+    {
+      "source": "embedded-systems-engineer-manufacturing",
+      "target": "electrical-engineer-manufacturing",
+      "weight": 0.86
+    },
+    {
+      "source": "embedded-systems-engineer-manufacturing",
+      "target": "process-engineer-manufacturing",
+      "weight": 0.74
+    },
+    {
+      "source": "design-engineer-manufacturing",
+      "target": "electrical-engineer-manufacturing",
+      "weight": 0.94
+    },
+    {
+      "source": "design-engineer-manufacturing",
+      "target": "product-development-engineer-manufacturing",
+      "weight": 0.91
+    },
+    {
+      "source": "design-engineer-manufacturing",
+      "target": "quality-engineer-manufacturing",
+      "weight": 0.64
+    },
+    {
+      "source": "electrical-engineer-manufacturing",
+      "target": "manufacturing-engineer-manufacturing",
+      "weight": 0.8
+    },
+    {
+      "source": "electrical-engineer-manufacturing",
+      "target": "product-development-engineer-manufacturing",
+      "weight": 0.9
+    },
+    {
+      "source": "electrical-engineer-manufacturing",
+      "target": "process-engineer-manufacturing",
+      "weight": 0.73
+    },
+    {
+      "source": "electrical-engineer-manufacturing",
+      "target": "quality-engineer-manufacturing",
+      "weight": 0.65
+    },
+    {
+      "source": "electrical-engineer-manufacturing",
+      "target": "maintenance-engineer-manufacturing",
+      "weight": 0.82
+    },
+    {
+      "source": "electrical-engineer-manufacturing",
+      "target": "mechanical-design-engineer-manufacturing",
+      "weight": 0.65
+    },
+    {
+      "source": "electrical-engineer-manufacturing",
+      "target": "field-service-engineer",
+      "weight": 0.94
+    },
+    {
+      "source": "manufacturing-engineer-manufacturing",
+      "target": "process-engineer-manufacturing",
+      "weight": 0.81
+    },
+    {
+      "source": "manufacturing-engineer-manufacturing",
+      "target": "quality-engineer-manufacturing",
+      "weight": 0.96
+    },
+    {
+      "source": "manufacturing-engineer-manufacturing",
+      "target": "application-engineer",
+      "weight": 0.91
+    },
+    {
+      "source": "manufacturing-engineer-manufacturing",
+      "target": "maintenance-engineer-manufacturing",
+      "weight": 0.68
+    },
+    {
+      "source": "manufacturing-engineer-manufacturing",
+      "target": "mechanical-design-engineer-manufacturing",
+      "weight": 0.91
+    },
+    {
+      "source": "manufacturing-engineer-manufacturing",
+      "target": "field-service-engineer",
+      "weight": 0.68
+    },
+    {
+      "source": "product-development-engineer-manufacturing",
+      "target": "quality-engineer-manufacturing",
+      "weight": 0.83
+    },
+    {
+      "source": "product-development-engineer-manufacturing",
+      "target": "application-engineer",
+      "weight": 0.95
+    },
+    {
+      "source": "product-development-engineer-manufacturing",
+      "target": "maintenance-engineer-manufacturing",
+      "weight": 0.9
+    },
+    {
+      "source": "product-development-engineer-manufacturing",
+      "target": "mechanical-design-engineer-manufacturing",
+      "weight": 0.89
+    },
+    {
+      "source": "product-development-engineer-manufacturing",
+      "target": "field-service-engineer",
+      "weight": 0.72
+    },
+    {
+      "source": "process-engineer-manufacturing",
+      "target": "application-engineer",
+      "weight": 0.68
+    },
+    {
+      "source": "process-engineer-manufacturing",
+      "target": "maintenance-engineer-manufacturing",
+      "weight": 0.66
+    },
+    {
+      "source": "process-engineer-manufacturing",
+      "target": "mechanical-design-engineer-manufacturing",
+      "weight": 0.73
+    },
+    {
+      "source": "process-engineer-manufacturing",
+      "target": "field-service-engineer",
+      "weight": 0.75
+    },
+    {
+      "source": "quality-engineer-manufacturing",
+      "target": "application-engineer",
+      "weight": 0.78
+    },
+    {
+      "source": "quality-engineer-manufacturing",
+      "target": "maintenance-engineer-manufacturing",
+      "weight": 0.76
+    },
+    {
+      "source": "quality-engineer-manufacturing",
+      "target": "mechanical-design-engineer-manufacturing",
+      "weight": 0.99
+    },
+    {
+      "source": "quality-engineer-manufacturing",
+      "target": "field-service-engineer",
+      "weight": 0.63
+    },
+    {
+      "source": "application-engineer",
+      "target": "maintenance-engineer-manufacturing",
+      "weight": 0.74
+    },
+    {
+      "source": "application-engineer",
+      "target": "mechanical-design-engineer-manufacturing",
+      "weight": 0.85
+    },
+    {
+      "source": "application-engineer",
+      "target": "field-service-engineer",
+      "weight": 0.98
+    },
+    {
+      "source": "maintenance-engineer-manufacturing",
+      "target": "mechanical-design-engineer-manufacturing",
+      "weight": 0.81
+    },
+    {
+      "source": "maintenance-engineer-manufacturing",
+      "target": "field-service-engineer",
+      "weight": 0.96
+    },
+    {
+      "source": "mechanical-design-engineer-manufacturing",
+      "target": "field-service-engineer",
+      "weight": 0.62
+    },
+    {
+      "source": "manufacturing-manager-manufacturing",
+      "target": "exploration-manager-manufacturing",
+      "weight": 0.7
+    },
+    {
+      "source": "manufacturing-manager-manufacturing",
+      "target": "new-product-development-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "exploration-manager-manufacturing",
+      "target": "new-product-development-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "clinical-nurse-consultant-machinist-manufacturing",
+      "target": "clinical-nurse-consultant-programmer-manufacturing",
+      "weight": 0.7
+    },
+    {
+      "source": "manufacturing-engineering-intern-manufacturing",
+      "target": "design-engineering-intern-manufacturing",
+      "weight": 0.7
+    },
+    {
+      "source": "technical-sales",
+      "target": "on-premise-sales-representative",
+      "weight": 0.7
+    },
+    {
+      "source": "process-engineering-manager-manufacturing",
+      "target": "production-superintendent-manufacturing",
+      "weight": 0.7
+    },
+    {
+      "source": "process-engineering-manager-manufacturing",
+      "target": "mechanical-engineering-manager-manufacturing",
+      "weight": 0.7
+    },
+    {
+      "source": "production-superintendent-manufacturing",
+      "target": "mechanical-engineering-manager-manufacturing",
+      "weight": 0.7
+    },
+    {
+      "source": "maintenance-planner-manufacturing",
+      "target": "demand-planner-manufacturing",
+      "weight": 0.7
+    },
+    {
+      "source": "electrical-supervisor-manufacturing",
+      "target": "manufacturing-supervisor-manufacturing",
+      "weight": 0.7
+    },
+    {
+      "source": "quality-technician",
+      "target": "assistant-winemaker",
+      "weight": 0.7
+    },
+    {
+      "source": "quality-technician",
+      "target": "winemaker",
+      "weight": 0.7
+    },
+    {
+      "source": "assistant-winemaker",
+      "target": "winemaker",
+      "weight": 0.7
+    }
+  ]
+}

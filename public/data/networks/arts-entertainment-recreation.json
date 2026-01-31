@@ -1,0 +1,2886 @@
+{
+  "sector": "Arts, Entertainment & Recreation",
+  "metadata": {
+    "nodeCount": 150,
+    "edgeCount": 278,
+    "generatedAt": "2026-01-31T16:46:34Z"
+  },
+  "nodes": [
+    {
+      "id": "photographer",
+      "label": "Photographer",
+      "soc": "43-9071",
+      "ptr": 0.3116,
+      "nfc": 0.6425,
+      "quadrant": "LH",
+      "size": 5.65,
+      "aiExposure": 0.2794
+    },
+    {
+      "id": "art-director-arts-entertainment-recreation",
+      "label": "Art Director",
+      "soc": "27-1011",
+      "ptr": 0.6747,
+      "nfc": 0.8788,
+      "quadrant": "HH",
+      "size": 5.6,
+      "aiExposure": 0.3714
+    },
+    {
+      "id": "personal-trainer-arts-entertainment-recreation",
+      "label": "Personal Trainer",
+      "soc": "13-1151",
+      "ptr": 0.5199,
+      "nfc": 0.9566,
+      "quadrant": "LH",
+      "size": 5.59,
+      "aiExposure": 0.3972
+    },
+    {
+      "id": "assistant-coach",
+      "label": "Assistant Coach",
+      "soc": "27-2022",
+      "ptr": 0,
+      "nfc": 0.3597,
+      "quadrant": "LH",
+      "size": 5.49,
+      "aiExposure": 0.2347
+    },
+    {
+      "id": "artist",
+      "label": "Artist",
+      "soc": "51-9151",
+      "ptr": 0.5032,
+      "nfc": 0.5965,
+      "quadrant": "LH",
+      "size": 5.29,
+      "aiExposure": 0.244
+    },
+    {
+      "id": "coach",
+      "label": "Coach",
+      "soc": "49-3031",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LH",
+      "size": 5.28,
+      "aiExposure": 0.0497
+    },
+    {
+      "id": "arts-teacher-arts-entertainment-recreation",
+      "label": "Arts Teacher",
+      "soc": "25-1071",
+      "ptr": 0.7915,
+      "nfc": 0.8374,
+      "quadrant": "HH",
+      "size": 5.27,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "assistant-athletic-trainer-arts-entertainment-recreation",
+      "label": "Assistant Athletic Trainer",
+      "soc": "13-1151",
+      "ptr": 0.7711,
+      "nfc": 0.9517,
+      "quadrant": "HH",
+      "size": 5.25,
+      "aiExposure": 0.3972
+    },
+    {
+      "id": "studio-manager-arts-entertainment-recreation",
+      "label": "Studio Manager",
+      "soc": "11-9179",
+      "ptr": 0.6637,
+      "nfc": 0.7834,
+      "quadrant": "HH",
+      "size": 5.24,
+      "aiExposure": 0.2992
+    },
+    {
+      "id": "assistant-football-coach-arts-entertainment-recreation",
+      "label": "Assistant Football Coach",
+      "soc": "27-2022",
+      "ptr": 0.2316,
+      "nfc": 0.3575,
+      "quadrant": "LH",
+      "size": 5.21,
+      "aiExposure": 0.2347
+    },
+    {
+      "id": "athletic-trainer-arts-entertainment-recreation",
+      "label": "Athletic Trainer",
+      "soc": "13-1151",
+      "ptr": 0.8054,
+      "nfc": 0.9487,
+      "quadrant": "HH",
+      "size": 5.2,
+      "aiExposure": 0.3972
+    },
+    {
+      "id": "senior-artist-arts-entertainment-recreation",
+      "label": "Senior Artist",
+      "soc": "27-1014",
+      "ptr": 0.8611,
+      "nfc": 0.9062,
+      "quadrant": "HH",
+      "size": 5.18,
+      "aiExposure": 0.3282
+    },
+    {
+      "id": "sports-editor-arts-entertainment-recreation",
+      "label": "Sports Editor",
+      "soc": "27-3041",
+      "ptr": 0.9195,
+      "nfc": 0.9667,
+      "quadrant": "HH",
+      "size": 5.14,
+      "aiExposure": 0.5073
+    },
+    {
+      "id": "head-coach",
+      "label": "Head Coach",
+      "soc": "27-2022",
+      "ptr": 0.3156,
+      "nfc": 0.356,
+      "quadrant": "LH",
+      "size": 5.14,
+      "aiExposure": 0.2347
+    },
+    {
+      "id": "assistant-athletic-director-arts-entertainment-recreation",
+      "label": "Assistant Athletic Director",
+      "soc": "11-9032",
+      "ptr": 0.6906,
+      "nfc": 0.7245,
+      "quadrant": "HH",
+      "size": 5.11,
+      "aiExposure": 0.2768
+    },
+    {
+      "id": "assistant-golf-professional",
+      "label": "Assistant Golf Professional",
+      "soc": "27-2021",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LH",
+      "size": 5.11,
+      "aiExposure": 0.1109
+    },
+    {
+      "id": "illustrator-arts-entertainment-recreation",
+      "label": "Illustrator",
+      "soc": "27-1014",
+      "ptr": 0.8893,
+      "nfc": 0.9014,
+      "quadrant": "HH",
+      "size": 5.1,
+      "aiExposure": 0.3282
+    },
+    {
+      "id": "studio-assistant",
+      "label": "Studio Assistant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.09,
+      "aiExposure": 0
+    },
+    {
+      "id": "photo-editor-arts-entertainment-recreation",
+      "label": "Photo Editor",
+      "soc": "27-3041",
+      "ptr": 0.856,
+      "nfc": 0.9606,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.5073
+    },
+    {
+      "id": "gallery-assistant",
+      "label": "Gallery Assistant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.08,
+      "aiExposure": 0
+    },
+    {
+      "id": "retoucher",
+      "label": "Retoucher",
+      "soc": "51-9151",
+      "ptr": 0.5435,
+      "nfc": 0.5865,
+      "quadrant": "LH",
+      "size": 5.08,
+      "aiExposure": 0.244
+    },
+    {
+      "id": "art-therapist-arts-entertainment-recreation",
+      "label": "Art Therapist",
+      "soc": "29-1125",
+      "ptr": 0.5157,
+      "nfc": 0.5199,
+      "quadrant": "LH",
+      "size": 5.07,
+      "aiExposure": 0.1917
+    },
+    {
+      "id": "conditioning-coach-arts-entertainment-recreation",
+      "label": "Conditioning Coach",
+      "soc": "27-2022",
+      "ptr": 0.3275,
+      "nfc": 0.3526,
+      "quadrant": "LH",
+      "size": 5.06,
+      "aiExposure": 0.2347
+    },
+    {
+      "id": "associate-athletic-director-arts-entertainment-recreation",
+      "label": "Associate Athletic Director",
+      "soc": "11-9032",
+      "ptr": 0.6906,
+      "nfc": 0.7176,
+      "quadrant": "HH",
+      "size": 5.06,
+      "aiExposure": 0.2768
+    },
+    {
+      "id": "graphic-artist-arts-entertainment-recreation",
+      "label": "Graphic Artist",
+      "soc": "27-1014",
+      "ptr": 0.7031,
+      "nfc": 0.8937,
+      "quadrant": "HH",
+      "size": 5.06,
+      "aiExposure": 0.3282
+    },
+    {
+      "id": "assistant-head-coach",
+      "label": "Assistant Head Coach",
+      "soc": "27-2022",
+      "ptr": 0.3156,
+      "nfc": 0.3514,
+      "quadrant": "LH",
+      "size": 5.06,
+      "aiExposure": 0.2347
+    },
+    {
+      "id": "photojournalist-arts-entertainment-recreation",
+      "label": "Photojournalist",
+      "soc": "27-4021",
+      "ptr": 0.5564,
+      "nfc": 0.5965,
+      "quadrant": "LH",
+      "size": 5.05,
+      "aiExposure": 0.3158
+    },
+    {
+      "id": "soccer-coach",
+      "label": "Soccer Coach",
+      "soc": "27-2022",
+      "ptr": 0.3275,
+      "nfc": 0.3507,
+      "quadrant": "LH",
+      "size": 5.04,
+      "aiExposure": 0.2347
+    },
+    {
+      "id": "physical-education-teacher-arts-entertainment-recreation",
+      "label": "Physical Education Teacher",
+      "soc": "25-1071",
+      "ptr": 0.708,
+      "nfc": 0.818,
+      "quadrant": "HH",
+      "size": 5.04,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "professional-football-player",
+      "label": "Professional Football Player",
+      "soc": "27-2021",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.1109
+    },
+    {
+      "id": "professional-athlete",
+      "label": "Professional Athlete",
+      "soc": "27-2021",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.1109
+    },
+    {
+      "id": "staff-photographer",
+      "label": "Staff Photographer",
+      "soc": "27-4021",
+      "ptr": 0.4932,
+      "nfc": 0.5932,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.3158
+    },
+    {
+      "id": "assistant-women-s-soccer-coach-arts-entertainment-recreation",
+      "label": "Assistant Women's Soccer Coach",
+      "soc": "27-2022",
+      "ptr": 0.339,
+      "nfc": 0.3488,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.2347
+    },
+    {
+      "id": "head-golf-professional-arts-entertainment-recreation",
+      "label": "Head Golf Professional",
+      "soc": "27-2021",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.1109
+    },
+    {
+      "id": "assistant-baseball-coach",
+      "label": "Assistant Baseball Coach",
+      "soc": "27-2022",
+      "ptr": 0.3156,
+      "nfc": 0.348,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.2347
+    },
+    {
+      "id": "pilates-instructor-arts-entertainment-recreation",
+      "label": "Pilates Instructor",
+      "soc": "25-1071",
+      "ptr": 0.8175,
+      "nfc": 0.8108,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "production-graphic-artist-head-golf-professional",
+      "label": "Production Graphic Artist Head Golf Professional",
+      "soc": "27-2021",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.1109
+    },
+    {
+      "id": "concept-artist-arts-entertainment-recreation",
+      "label": "Concept Artist",
+      "soc": "27-1014",
+      "ptr": 0.6288,
+      "nfc": 0.881,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.3282
+    },
+    {
+      "id": "production-graphic-artist-golf-professional",
+      "label": "Production Graphic Artist Golf Professional",
+      "soc": "27-2021",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.1109
+    },
+    {
+      "id": "art-department-assistant-arts-entertainment-recreation",
+      "label": "Art Department Assistant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.02,
+      "aiExposure": 0
+    },
+    {
+      "id": "head-professional",
+      "label": "Head Professional",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.02,
+      "aiExposure": 0
+    },
+    {
+      "id": "head-baseball-coach-arts-entertainment-recreation",
+      "label": "Head Baseball Coach",
+      "soc": "27-2022",
+      "ptr": 0.339,
+      "nfc": 0.3453,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.2347
+    },
+    {
+      "id": "head-athletic-trainer-arts-entertainment-recreation",
+      "label": "Head Athletic Trainer",
+      "soc": "13-1151",
+      "ptr": 0.93,
+      "nfc": 0.9162,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3972
+    },
+    {
+      "id": "offensive-coordinator-arts-entertainment-recreation",
+      "label": "Offensive Coordinator",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.02,
+      "aiExposure": 0
+    },
+    {
+      "id": "set-designer-arts-entertainment-recreation",
+      "label": "Set Designer",
+      "soc": "17-2121",
+      "ptr": 0.7031,
+      "nfc": 0.7129,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "sports-coordinator",
+      "label": "Sports Coordinator",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.01,
+      "aiExposure": 0
+    },
+    {
+      "id": "curator",
+      "label": "Curator",
+      "soc": "25-4012",
+      "ptr": 0.8264,
+      "nfc": 0.8351,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.374
+    },
+    {
+      "id": "first-assistant",
+      "label": "First Assistant",
+      "soc": "29-9093",
+      "ptr": 0.272,
+      "nfc": 0.2662,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.0255
+    },
+    {
+      "id": "gallery-manager",
+      "label": "Gallery Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.01,
+      "aiExposure": 0
+    },
+    {
+      "id": "recreation-coordinator",
+      "label": "Recreation Coordinator",
+      "soc": "39-1014",
+      "ptr": 0.5341,
+      "nfc": 0.5581,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3099
+    },
+    {
+      "id": "assistant-photo-editor-arts-entertainment-recreation",
+      "label": "Assistant Photo Editor",
+      "soc": "27-3041",
+      "ptr": 0.8883,
+      "nfc": 0.9271,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.5073
+    },
+    {
+      "id": "registrar-arts-entertainment-recreation",
+      "label": "Registrar",
+      "soc": "25-4011",
+      "ptr": 0.8535,
+      "nfc": 0.8284,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.388
+    },
+    {
+      "id": "assistant-art-director-arts-entertainment-recreation",
+      "label": "Assistant Art Director",
+      "soc": "27-1011",
+      "ptr": 0.7984,
+      "nfc": 0.8284,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3714
+    },
+    {
+      "id": "archaeologist",
+      "label": "Archaeologist",
+      "soc": "19-3091",
+      "ptr": 0.7347,
+      "nfc": 0.7365,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3189
+    },
+    {
+      "id": "basketball-coach",
+      "label": "Basketball Coach",
+      "soc": "27-2022",
+      "ptr": 0.3501,
+      "nfc": 0.3398,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.2347
+    },
+    {
+      "id": "dancer",
+      "label": "Dancer",
+      "soc": "39-9099",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.01,
+      "aiExposure": 0
+    },
+    {
+      "id": "recreation-supervisor",
+      "label": "Recreation Supervisor",
+      "soc": "11-9072",
+      "ptr": 0.5185,
+      "nfc": 0.5191,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3031
+    },
+    {
+      "id": "football-coach",
+      "label": "Football Coach",
+      "soc": "27-2022",
+      "ptr": 0.3275,
+      "nfc": 0.339,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.2347
+    },
+    {
+      "id": "production-artist-arts-entertainment-recreation",
+      "label": "Production Artist",
+      "soc": "27-1014",
+      "ptr": 0.7702,
+      "nfc": 0.8601,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3282
+    },
+    {
+      "id": "head-basketball-coach",
+      "label": "Head Basketball Coach",
+      "soc": "27-2022",
+      "ptr": 0.3501,
+      "nfc": 0.3382,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.2347
+    },
+    {
+      "id": "dance-instructor",
+      "label": "Dance Instructor",
+      "soc": "25-1071",
+      "ptr": 0.7915,
+      "nfc": 0.7842,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "assistant-golf-course-superintendent",
+      "label": "Assistant Golf Course Superintendent",
+      "soc": "11-9032",
+      "ptr": 0.7133,
+      "nfc": 0.6842,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.2768
+    },
+    {
+      "id": "curatorial-intern",
+      "label": "Curatorial Intern",
+      "soc": "29-1229",
+      "ptr": 0.6124,
+      "nfc": 0.6067,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "tennis-professional",
+      "label": "Tennis Professional",
+      "soc": "27-2021",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.1109
+    },
+    {
+      "id": "curatorial-assistant",
+      "label": "Curatorial Assistant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "art-assistant-arts-entertainment-recreation",
+      "label": "Art Assistant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "baseball-coach",
+      "label": "Baseball Coach",
+      "soc": "27-2022",
+      "ptr": 0.339,
+      "nfc": 0.335,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.2347
+    },
+    {
+      "id": "defensive-coordinator-arts-entertainment-recreation",
+      "label": "Defensive Coordinator",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "assistant-archivist-arts-entertainment-recreation",
+      "label": "Assistant Archivist",
+      "soc": "25-4011",
+      "ptr": 0.7984,
+      "nfc": 0.7979,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.388
+    },
+    {
+      "id": "conservator",
+      "label": "Conservator",
+      "soc": "23-1011",
+      "ptr": 0.7542,
+      "nfc": 0.7052,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3026
+    },
+    {
+      "id": "video-coordinator",
+      "label": "Video Coordinator",
+      "soc": "27-4031",
+      "ptr": 0.7496,
+      "nfc": 0.7008,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3146
+    },
+    {
+      "id": "fitness-manager-arts-entertainment-recreation",
+      "label": "Fitness Manager",
+      "soc": "11-9179",
+      "ptr": 0.7169,
+      "nfc": 0.7165,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.2992
+    },
+    {
+      "id": "lighting-designer-arts-entertainment-recreation",
+      "label": "Lighting Designer",
+      "soc": "17-2121",
+      "ptr": 0.7261,
+      "nfc": 0.6789,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "clubhouse-manager-arts-entertainment-recreation",
+      "label": "Clubhouse Manager",
+      "soc": "11-9051",
+      "ptr": 0.71,
+      "nfc": 0.6638,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.2538
+    },
+    {
+      "id": "camera-operator-arts-entertainment-recreation",
+      "label": "Camera Operator",
+      "soc": "51-9151",
+      "ptr": 0.5811,
+      "nfc": 0.5432,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.244
+    },
+    {
+      "id": "recreation-manager-arts-entertainment-recreation",
+      "label": "Recreation Manager",
+      "soc": "39-1014",
+      "ptr": 0.571,
+      "nfc": 0.5339,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3099
+    },
+    {
+      "id": "volleyball-coach",
+      "label": "Volleyball Coach",
+      "soc": "27-2022",
+      "ptr": 0.339,
+      "nfc": 0.3273,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.2347
+    },
+    {
+      "id": "education-assistant",
+      "label": "Education Assistant",
+      "soc": "25-9043",
+      "ptr": 0.3297,
+      "nfc": 0.3082,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.1333
+    },
+    {
+      "id": "exhibition-coordinator",
+      "label": "Exhibition Coordinator",
+      "soc": "25-4013",
+      "ptr": 0.3153,
+      "nfc": 0.2948,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.2147
+    },
+    {
+      "id": "sports-development-officer",
+      "label": "Sports Development Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "sponsorship-manager",
+      "label": "Sponsorship Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "table-games-supervisor",
+      "label": "Table Games Supervisor",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "photo-assistant",
+      "label": "Photo Assistant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "casting-assistant-arts-entertainment-recreation",
+      "label": "Casting Assistant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "assistant-park-manager",
+      "label": "Assistant Park Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "media-relations-coordinator",
+      "label": "Media Relations Coordinator",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "aquatics-manager",
+      "label": "Aquatics Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "athletic-intern",
+      "label": "Athletic Intern",
+      "soc": "29-1229",
+      "ptr": 0.5917,
+      "nfc": 0.5906,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "assistant-sports-information-director",
+      "label": "Assistant Sports Information Director",
+      "soc": "11-2032",
+      "ptr": 0.9275,
+      "nfc": 0.8628,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.386
+    },
+    {
+      "id": "sports-information-assistant",
+      "label": "Sports Information Assistant",
+      "soc": "43-4171",
+      "ptr": 0.892,
+      "nfc": 0.857,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.387
+    },
+    {
+      "id": "professional-baseball-player",
+      "label": "Professional Baseball Player",
+      "soc": "27-2021",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.1109
+    },
+    {
+      "id": "recreation-therapist-arts-entertainment-recreation",
+      "label": "Recreation Therapist",
+      "soc": "29-1125",
+      "ptr": 0.5157,
+      "nfc": 0.4791,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.1917
+    },
+    {
+      "id": "executive-casino-host-arts-entertainment-recreation",
+      "label": "Executive Casino Host",
+      "soc": "27-3011",
+      "ptr": 0.9926,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5296
+    },
+    {
+      "id": "senior-executive-host",
+      "label": "Senior Executive Host",
+      "soc": "27-3011",
+      "ptr": 0.9926,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5296
+    },
+    {
+      "id": "event-management-assistant-arts-entertainment-recreation",
+      "label": "Event Management Assistant",
+      "soc": "43-6011",
+      "ptr": 0.9914,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4549
+    },
+    {
+      "id": "picture-editor-arts-entertainment-recreation",
+      "label": "Picture Editor",
+      "soc": "27-3041",
+      "ptr": 0.9789,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5073
+    },
+    {
+      "id": "senior-photo-editor",
+      "label": "Senior Photo Editor",
+      "soc": "27-3041",
+      "ptr": 0.9789,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5073
+    },
+    {
+      "id": "ticket-office-assistant",
+      "label": "Ticket Office Assistant",
+      "soc": "43-9061",
+      "ptr": 0.9726,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4088
+    },
+    {
+      "id": "pit-manager",
+      "label": "Pit Manager",
+      "soc": "11-9071",
+      "ptr": 0.9688,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3795
+    },
+    {
+      "id": "casino-manager",
+      "label": "Casino Manager",
+      "soc": "11-9071",
+      "ptr": 0.9688,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3795
+    },
+    {
+      "id": "sports-anchor-arts-entertainment-recreation",
+      "label": "Sports Anchor",
+      "soc": "27-3011",
+      "ptr": 0.963,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5296
+    },
+    {
+      "id": "casino-host-arts-entertainment-recreation",
+      "label": "Casino Host",
+      "soc": "27-3011",
+      "ptr": 0.963,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5296
+    },
+    {
+      "id": "executive-host",
+      "label": "Executive Host",
+      "soc": "27-3011",
+      "ptr": 0.963,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5296
+    },
+    {
+      "id": "certified-athletic-trainer-arts-entertainment-recreation",
+      "label": "Certified Athletic Trainer",
+      "soc": "13-1151",
+      "ptr": 0.9586,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3972
+    },
+    {
+      "id": "associate-athletic-trainer-arts-entertainment-recreation",
+      "label": "Associate Athletic Trainer",
+      "soc": "13-1151",
+      "ptr": 0.9586,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3972
+    },
+    {
+      "id": "sports-information-director-arts-entertainment-recreation",
+      "label": "Sports Information Director",
+      "soc": "11-2032",
+      "ptr": 0.956,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.386
+    },
+    {
+      "id": "art-editor-arts-entertainment-recreation",
+      "label": "Art Editor",
+      "soc": "27-3041",
+      "ptr": 0.9497,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5073
+    },
+    {
+      "id": "assistant-picture-editor",
+      "label": "Assistant Picture Editor",
+      "soc": "27-3041",
+      "ptr": 0.9497,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5073
+    },
+    {
+      "id": "deputy-picture-editor",
+      "label": "Deputy Picture Editor",
+      "soc": "27-3041",
+      "ptr": 0.9497,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5073
+    },
+    {
+      "id": "assistant-sports-editor",
+      "label": "Assistant Sports Editor",
+      "soc": "27-3041",
+      "ptr": 0.9497,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5073
+    },
+    {
+      "id": "associate-photo-editor",
+      "label": "Associate Photo Editor",
+      "soc": "27-3041",
+      "ptr": 0.9497,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5073
+    },
+    {
+      "id": "performance-analyst",
+      "label": "Performance Analyst",
+      "soc": "13-2054",
+      "ptr": 0.9496,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "physical-education-specialist",
+      "label": "Physical Education Specialist",
+      "soc": "21-1091",
+      "ptr": 0.9483,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3491
+    },
+    {
+      "id": "table-games-dealer",
+      "label": "Table Games Dealer",
+      "soc": "41-3031",
+      "ptr": 0.946,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4188
+    },
+    {
+      "id": "casino-dealer-arts-entertainment-recreation",
+      "label": "Casino Dealer",
+      "soc": "41-3031",
+      "ptr": 0.946,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4188
+    },
+    {
+      "id": "sports-development-manager",
+      "label": "Sports Development Manager",
+      "soc": "11-9121",
+      "ptr": 0.9457,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3216
+    },
+    {
+      "id": "audience-development-manager-arts-entertainment-recreation",
+      "label": "Audience Development Manager",
+      "soc": "11-9121",
+      "ptr": 0.9457,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3216
+    },
+    {
+      "id": "box-office-assistant",
+      "label": "Box Office Assistant",
+      "soc": "43-9061",
+      "ptr": 0.9436,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4088
+    },
+    {
+      "id": "assistant-casino-manager",
+      "label": "Assistant Casino Manager",
+      "soc": "11-9071",
+      "ptr": 0.9399,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3795
+    },
+    {
+      "id": "sports-writer-arts-entertainment-recreation",
+      "label": "Sports Writer",
+      "soc": "27-3023",
+      "ptr": 0.9324,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5163
+    },
+    {
+      "id": "audience-development-coordinator-arts-entertainment-recreation",
+      "label": "Audience Development Coordinator",
+      "soc": "13-1151",
+      "ptr": 0.93,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3972
+    },
+    {
+      "id": "athlete",
+      "label": "Athlete",
+      "soc": "13-1011",
+      "ptr": 0.9262,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4062
+    },
+    {
+      "id": "performance-analyst-intern",
+      "label": "Performance Analyst Intern",
+      "soc": "13-2054",
+      "ptr": 0.9212,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "assistant-performance-analyst",
+      "label": "Assistant Performance Analyst",
+      "soc": "13-2054",
+      "ptr": 0.9212,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "dealer",
+      "label": "Dealer",
+      "soc": "41-4012",
+      "ptr": 0.9183,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4628
+    },
+    {
+      "id": "lead-artist-arts-entertainment-recreation",
+      "label": "Lead Artist",
+      "soc": "27-1014",
+      "ptr": 0.9167,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3282
+    },
+    {
+      "id": "head-makeup-artist-arts-entertainment-recreation",
+      "label": "Head Makeup Artist",
+      "soc": "27-1014",
+      "ptr": 0.9167,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3282
+    },
+    {
+      "id": "golf-production-graphic-artist-director",
+      "label": "Golf Production Graphic Artist Director",
+      "soc": "27-1014",
+      "ptr": 0.9167,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3282
+    },
+    {
+      "id": "production-graphic-artist",
+      "label": "Production Graphic Artist",
+      "soc": "27-1014",
+      "ptr": 0.9167,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3282
+    },
+    {
+      "id": "freelance-concept-artist-arts-entertainment-recreation",
+      "label": "Freelance Concept Artist",
+      "soc": "27-1014",
+      "ptr": 0.9167,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3282
+    },
+    {
+      "id": "production-graphic-artist-professional",
+      "label": "Production Graphic Artist Professional",
+      "soc": "27-1014",
+      "ptr": 0.9167,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3282
+    },
+    {
+      "id": "principal-artist",
+      "label": "Principal Artist",
+      "soc": "27-1014",
+      "ptr": 0.9167,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3282
+    },
+    {
+      "id": "freelance-production-artist-arts-entertainment-recreation",
+      "label": "Freelance Production Artist",
+      "soc": "27-1014",
+      "ptr": 0.9167,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3282
+    },
+    {
+      "id": "storyboard-artist-arts-entertainment-recreation",
+      "label": "Storyboard Artist",
+      "soc": "27-1014",
+      "ptr": 0.9167,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3282
+    },
+    {
+      "id": "associate-artist-arts-entertainment-recreation",
+      "label": "Associate Artist",
+      "soc": "27-1014",
+      "ptr": 0.9167,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3282
+    },
+    {
+      "id": "makeup-artist-arts-entertainment-recreation",
+      "label": "Makeup Artist",
+      "soc": "27-1014",
+      "ptr": 0.8893,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3282
+    },
+    {
+      "id": "studio-artist",
+      "label": "Studio Artist",
+      "soc": "27-1014",
+      "ptr": 0.8893,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3282
+    },
+    {
+      "id": "graphic-artist-intern-arts-entertainment-recreation",
+      "label": "Graphic Artist Intern",
+      "soc": "27-1014",
+      "ptr": 0.8893,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3282
+    },
+    {
+      "id": "assistant-artist-arts-entertainment-recreation",
+      "label": "Assistant Artist",
+      "soc": "27-1014",
+      "ptr": 0.8893,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3282
+    },
+    {
+      "id": "artist-assistant",
+      "label": "Artist Assistant",
+      "soc": "27-1014",
+      "ptr": 0.8893,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3282
+    },
+    {
+      "id": "associate-creative-director",
+      "label": "Associate Creative Director",
+      "soc": "27-1011",
+      "ptr": 0.8797,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3714
+    },
+    {
+      "id": "archivist-arts-entertainment-recreation",
+      "label": "Archivist",
+      "soc": "25-4011",
+      "ptr": 0.8797,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.388
+    },
+    {
+      "id": "creative-art-director",
+      "label": "Creative Art Director",
+      "soc": "27-1011",
+      "ptr": 0.8797,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3714
+    },
+    {
+      "id": "senior-curator",
+      "label": "Senior Curator",
+      "soc": "25-4012",
+      "ptr": 0.8797,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.374
+    },
+    {
+      "id": "senior-archivist-arts-entertainment-recreation",
+      "label": "Senior Archivist",
+      "soc": "25-4011",
+      "ptr": 0.8797,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.388
+    },
+    {
+      "id": "associate-registrar-arts-entertainment-recreation",
+      "label": "Associate Registrar",
+      "soc": "25-4011",
+      "ptr": 0.8797,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.388
+    },
+    {
+      "id": "associate-curator",
+      "label": "Associate Curator",
+      "soc": "25-4012",
+      "ptr": 0.8797,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.374
+    },
+    {
+      "id": "set-decorator",
+      "label": "Set Decorator",
+      "soc": "27-1025",
+      "ptr": 0.8797,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3533
+    },
+    {
+      "id": "ticket-sales-director",
+      "label": "Ticket Sales Director",
+      "soc": "11-2021",
+      "ptr": 0.8797,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "sports-marketing-manager",
+      "label": "Sports Marketing Manager",
+      "soc": "11-2021",
+      "ptr": 0.8797,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3446
+    }
+  ],
+  "edges": [
+    {
+      "source": "athletic-trainer-arts-entertainment-recreation",
+      "target": "artist",
+      "weight": 0.57
+    },
+    {
+      "source": "senior-artist-arts-entertainment-recreation",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.71
+    },
+    {
+      "source": "sports-editor-arts-entertainment-recreation",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.82
+    },
+    {
+      "source": "sports-editor-arts-entertainment-recreation",
+      "target": "photographer",
+      "weight": 0.67
+    },
+    {
+      "source": "head-coach",
+      "target": "arts-teacher-arts-entertainment-recreation",
+      "weight": 0.68
+    },
+    {
+      "source": "head-coach",
+      "target": "assistant-coach",
+      "weight": 0.96
+    },
+    {
+      "source": "assistant-athletic-director-arts-entertainment-recreation",
+      "target": "assistant-coach",
+      "weight": 0.94
+    },
+    {
+      "source": "assistant-athletic-director-arts-entertainment-recreation",
+      "target": "art-director-arts-entertainment-recreation",
+      "weight": 0.48
+    },
+    {
+      "source": "assistant-golf-professional",
+      "target": "studio-manager-arts-entertainment-recreation",
+      "weight": 0.45
+    },
+    {
+      "source": "illustrator-arts-entertainment-recreation",
+      "target": "artist",
+      "weight": 0.84
+    },
+    {
+      "source": "illustrator-arts-entertainment-recreation",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.89
+    },
+    {
+      "source": "studio-assistant",
+      "target": "assistant-athletic-trainer-arts-entertainment-recreation",
+      "weight": 0.9
+    },
+    {
+      "source": "studio-assistant",
+      "target": "personal-trainer-arts-entertainment-recreation",
+      "weight": 0.4
+    },
+    {
+      "source": "photo-editor-arts-entertainment-recreation",
+      "target": "assistant-athletic-trainer-arts-entertainment-recreation",
+      "weight": 0.98
+    },
+    {
+      "source": "photo-editor-arts-entertainment-recreation",
+      "target": "coach",
+      "weight": 0.66
+    },
+    {
+      "source": "gallery-assistant",
+      "target": "assistant-coach",
+      "weight": 0.98
+    },
+    {
+      "source": "gallery-assistant",
+      "target": "coach",
+      "weight": 0.77
+    },
+    {
+      "source": "retoucher",
+      "target": "artist",
+      "weight": 0.87
+    },
+    {
+      "source": "retoucher",
+      "target": "assistant-coach",
+      "weight": 0.42
+    },
+    {
+      "source": "art-therapist-arts-entertainment-recreation",
+      "target": "personal-trainer-arts-entertainment-recreation",
+      "weight": 0.56
+    },
+    {
+      "source": "art-therapist-arts-entertainment-recreation",
+      "target": "assistant-athletic-trainer-arts-entertainment-recreation",
+      "weight": 0.71
+    },
+    {
+      "source": "conditioning-coach-arts-entertainment-recreation",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.86
+    },
+    {
+      "source": "associate-athletic-director-arts-entertainment-recreation",
+      "target": "coach",
+      "weight": 0.56
+    },
+    {
+      "source": "associate-athletic-director-arts-entertainment-recreation",
+      "target": "art-director-arts-entertainment-recreation",
+      "weight": 0.9
+    },
+    {
+      "source": "graphic-artist-arts-entertainment-recreation",
+      "target": "artist",
+      "weight": 0.48
+    },
+    {
+      "source": "graphic-artist-arts-entertainment-recreation",
+      "target": "art-director-arts-entertainment-recreation",
+      "weight": 0.53
+    },
+    {
+      "source": "assistant-head-coach",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.4
+    },
+    {
+      "source": "assistant-head-coach",
+      "target": "assistant-athletic-trainer-arts-entertainment-recreation",
+      "weight": 0.63
+    },
+    {
+      "source": "photojournalist-arts-entertainment-recreation",
+      "target": "arts-teacher-arts-entertainment-recreation",
+      "weight": 0.75
+    },
+    {
+      "source": "soccer-coach",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.79
+    },
+    {
+      "source": "physical-education-teacher-arts-entertainment-recreation",
+      "target": "assistant-coach",
+      "weight": 0.45
+    },
+    {
+      "source": "professional-football-player",
+      "target": "personal-trainer-arts-entertainment-recreation",
+      "weight": 0.8
+    },
+    {
+      "source": "professional-athlete",
+      "target": "artist",
+      "weight": 0.84
+    },
+    {
+      "source": "professional-athlete",
+      "target": "assistant-athletic-trainer-arts-entertainment-recreation",
+      "weight": 0.6
+    },
+    {
+      "source": "staff-photographer",
+      "target": "coach",
+      "weight": 0.78
+    },
+    {
+      "source": "staff-photographer",
+      "target": "art-director-arts-entertainment-recreation",
+      "weight": 0.53
+    },
+    {
+      "source": "assistant-women-s-soccer-coach-arts-entertainment-recreation",
+      "target": "art-director-arts-entertainment-recreation",
+      "weight": 0.97
+    },
+    {
+      "source": "head-golf-professional-arts-entertainment-recreation",
+      "target": "assistant-athletic-trainer-arts-entertainment-recreation",
+      "weight": 0.72
+    },
+    {
+      "source": "head-golf-professional-arts-entertainment-recreation",
+      "target": "arts-teacher-arts-entertainment-recreation",
+      "weight": 0.4
+    },
+    {
+      "source": "assistant-baseball-coach",
+      "target": "studio-manager-arts-entertainment-recreation",
+      "weight": 0.67
+    },
+    {
+      "source": "assistant-baseball-coach",
+      "target": "assistant-coach",
+      "weight": 0.72
+    },
+    {
+      "source": "pilates-instructor-arts-entertainment-recreation",
+      "target": "artist",
+      "weight": 0.61
+    },
+    {
+      "source": "pilates-instructor-arts-entertainment-recreation",
+      "target": "coach",
+      "weight": 0.65
+    },
+    {
+      "source": "production-graphic-artist-head-golf-professional",
+      "target": "coach",
+      "weight": 0.98
+    },
+    {
+      "source": "production-graphic-artist-head-golf-professional",
+      "target": "photographer",
+      "weight": 0.54
+    },
+    {
+      "source": "concept-artist-arts-entertainment-recreation",
+      "target": "artist",
+      "weight": 0.76
+    },
+    {
+      "source": "production-graphic-artist-golf-professional",
+      "target": "studio-manager-arts-entertainment-recreation",
+      "weight": 0.91
+    },
+    {
+      "source": "art-department-assistant-arts-entertainment-recreation",
+      "target": "assistant-athletic-trainer-arts-entertainment-recreation",
+      "weight": 0.77
+    },
+    {
+      "source": "art-department-assistant-arts-entertainment-recreation",
+      "target": "arts-teacher-arts-entertainment-recreation",
+      "weight": 0.49
+    },
+    {
+      "source": "head-professional",
+      "target": "artist",
+      "weight": 0.84
+    },
+    {
+      "source": "head-baseball-coach-arts-entertainment-recreation",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.58
+    },
+    {
+      "source": "head-athletic-trainer-arts-entertainment-recreation",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.87
+    },
+    {
+      "source": "head-athletic-trainer-arts-entertainment-recreation",
+      "target": "assistant-athletic-trainer-arts-entertainment-recreation",
+      "weight": 0.64
+    },
+    {
+      "source": "offensive-coordinator-arts-entertainment-recreation",
+      "target": "studio-manager-arts-entertainment-recreation",
+      "weight": 0.42
+    },
+    {
+      "source": "set-designer-arts-entertainment-recreation",
+      "target": "photographer",
+      "weight": 0.73
+    },
+    {
+      "source": "sports-coordinator",
+      "target": "coach",
+      "weight": 0.67
+    },
+    {
+      "source": "sports-coordinator",
+      "target": "assistant-athletic-trainer-arts-entertainment-recreation",
+      "weight": 0.59
+    },
+    {
+      "source": "curator",
+      "target": "artist",
+      "weight": 0.65
+    },
+    {
+      "source": "curator",
+      "target": "photographer",
+      "weight": 0.69
+    },
+    {
+      "source": "first-assistant",
+      "target": "art-director-arts-entertainment-recreation",
+      "weight": 0.89
+    },
+    {
+      "source": "gallery-manager",
+      "target": "coach",
+      "weight": 0.59
+    },
+    {
+      "source": "gallery-manager",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.56
+    },
+    {
+      "source": "recreation-coordinator",
+      "target": "assistant-coach",
+      "weight": 0.57
+    },
+    {
+      "source": "recreation-coordinator",
+      "target": "art-director-arts-entertainment-recreation",
+      "weight": 0.52
+    },
+    {
+      "source": "assistant-photo-editor-arts-entertainment-recreation",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.47
+    },
+    {
+      "source": "assistant-photo-editor-arts-entertainment-recreation",
+      "target": "studio-manager-arts-entertainment-recreation",
+      "weight": 0.85
+    },
+    {
+      "source": "registrar-arts-entertainment-recreation",
+      "target": "assistant-athletic-trainer-arts-entertainment-recreation",
+      "weight": 0.91
+    },
+    {
+      "source": "registrar-arts-entertainment-recreation",
+      "target": "art-director-arts-entertainment-recreation",
+      "weight": 0.67
+    },
+    {
+      "source": "assistant-art-director-arts-entertainment-recreation",
+      "target": "art-director-arts-entertainment-recreation",
+      "weight": 0.56
+    },
+    {
+      "source": "archaeologist",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.74
+    },
+    {
+      "source": "archaeologist",
+      "target": "studio-manager-arts-entertainment-recreation",
+      "weight": 0.61
+    },
+    {
+      "source": "basketball-coach",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.69
+    },
+    {
+      "source": "dancer",
+      "target": "artist",
+      "weight": 0.98
+    },
+    {
+      "source": "recreation-supervisor",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.55
+    },
+    {
+      "source": "recreation-supervisor",
+      "target": "photographer",
+      "weight": 0.61
+    },
+    {
+      "source": "football-coach",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.73
+    },
+    {
+      "source": "football-coach",
+      "target": "assistant-coach",
+      "weight": 0.65
+    },
+    {
+      "source": "production-artist-arts-entertainment-recreation",
+      "target": "assistant-coach",
+      "weight": 0.69
+    },
+    {
+      "source": "head-basketball-coach",
+      "target": "photographer",
+      "weight": 0.6
+    },
+    {
+      "source": "head-basketball-coach",
+      "target": "studio-manager-arts-entertainment-recreation",
+      "weight": 0.51
+    },
+    {
+      "source": "dance-instructor",
+      "target": "photographer",
+      "weight": 0.74
+    },
+    {
+      "source": "assistant-golf-course-superintendent",
+      "target": "photographer",
+      "weight": 0.59
+    },
+    {
+      "source": "assistant-golf-course-superintendent",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.97
+    },
+    {
+      "source": "curatorial-intern",
+      "target": "assistant-athletic-trainer-arts-entertainment-recreation",
+      "weight": 0.48
+    },
+    {
+      "source": "curatorial-intern",
+      "target": "personal-trainer-arts-entertainment-recreation",
+      "weight": 0.87
+    },
+    {
+      "source": "tennis-professional",
+      "target": "photographer",
+      "weight": 0.59
+    },
+    {
+      "source": "tennis-professional",
+      "target": "personal-trainer-arts-entertainment-recreation",
+      "weight": 0.64
+    },
+    {
+      "source": "curatorial-assistant",
+      "target": "assistant-athletic-trainer-arts-entertainment-recreation",
+      "weight": 0.43
+    },
+    {
+      "source": "art-assistant-arts-entertainment-recreation",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.5
+    },
+    {
+      "source": "baseball-coach",
+      "target": "studio-manager-arts-entertainment-recreation",
+      "weight": 0.6
+    },
+    {
+      "source": "defensive-coordinator-arts-entertainment-recreation",
+      "target": "personal-trainer-arts-entertainment-recreation",
+      "weight": 0.84
+    },
+    {
+      "source": "assistant-archivist-arts-entertainment-recreation",
+      "target": "studio-manager-arts-entertainment-recreation",
+      "weight": 0.42
+    },
+    {
+      "source": "conservator",
+      "target": "coach",
+      "weight": 0.6
+    },
+    {
+      "source": "video-coordinator",
+      "target": "coach",
+      "weight": 0.5
+    },
+    {
+      "source": "fitness-manager-arts-entertainment-recreation",
+      "target": "coach",
+      "weight": 0.46
+    },
+    {
+      "source": "lighting-designer-arts-entertainment-recreation",
+      "target": "coach",
+      "weight": 0.53
+    },
+    {
+      "source": "lighting-designer-arts-entertainment-recreation",
+      "target": "assistant-coach",
+      "weight": 0.96
+    },
+    {
+      "source": "clubhouse-manager-arts-entertainment-recreation",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.94
+    },
+    {
+      "source": "camera-operator-arts-entertainment-recreation",
+      "target": "artist",
+      "weight": 0.57
+    },
+    {
+      "source": "recreation-manager-arts-entertainment-recreation",
+      "target": "coach",
+      "weight": 0.62
+    },
+    {
+      "source": "volleyball-coach",
+      "target": "photographer",
+      "weight": 0.64
+    },
+    {
+      "source": "volleyball-coach",
+      "target": "art-director-arts-entertainment-recreation",
+      "weight": 0.81
+    },
+    {
+      "source": "education-assistant",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.89
+    },
+    {
+      "source": "education-assistant",
+      "target": "assistant-coach",
+      "weight": 0.58
+    },
+    {
+      "source": "exhibition-coordinator",
+      "target": "arts-teacher-arts-entertainment-recreation",
+      "weight": 0.88
+    },
+    {
+      "source": "sports-development-officer",
+      "target": "artist",
+      "weight": 0.97
+    },
+    {
+      "source": "sponsorship-manager",
+      "target": "art-director-arts-entertainment-recreation",
+      "weight": 0.75
+    },
+    {
+      "source": "sponsorship-manager",
+      "target": "studio-manager-arts-entertainment-recreation",
+      "weight": 0.44
+    },
+    {
+      "source": "table-games-supervisor",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.81
+    },
+    {
+      "source": "table-games-supervisor",
+      "target": "studio-manager-arts-entertainment-recreation",
+      "weight": 0.97
+    },
+    {
+      "source": "photo-assistant",
+      "target": "personal-trainer-arts-entertainment-recreation",
+      "weight": 0.79
+    },
+    {
+      "source": "photo-assistant",
+      "target": "studio-manager-arts-entertainment-recreation",
+      "weight": 0.57
+    },
+    {
+      "source": "casting-assistant-arts-entertainment-recreation",
+      "target": "artist",
+      "weight": 0.77
+    },
+    {
+      "source": "casting-assistant-arts-entertainment-recreation",
+      "target": "assistant-coach",
+      "weight": 0.96
+    },
+    {
+      "source": "assistant-park-manager",
+      "target": "coach",
+      "weight": 0.45
+    },
+    {
+      "source": "media-relations-coordinator",
+      "target": "artist",
+      "weight": 0.98
+    },
+    {
+      "source": "aquatics-manager",
+      "target": "coach",
+      "weight": 0.43
+    },
+    {
+      "source": "athletic-intern",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.68
+    },
+    {
+      "source": "assistant-sports-information-director",
+      "target": "arts-teacher-arts-entertainment-recreation",
+      "weight": 0.89
+    },
+    {
+      "source": "assistant-sports-information-director",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.46
+    },
+    {
+      "source": "sports-information-assistant",
+      "target": "personal-trainer-arts-entertainment-recreation",
+      "weight": 0.45
+    },
+    {
+      "source": "professional-baseball-player",
+      "target": "studio-manager-arts-entertainment-recreation",
+      "weight": 0.79
+    },
+    {
+      "source": "recreation-therapist-arts-entertainment-recreation",
+      "target": "personal-trainer-arts-entertainment-recreation",
+      "weight": 0.98
+    },
+    {
+      "source": "recreation-therapist-arts-entertainment-recreation",
+      "target": "art-director-arts-entertainment-recreation",
+      "weight": 0.94
+    },
+    {
+      "source": "executive-casino-host-arts-entertainment-recreation",
+      "target": "assistant-coach",
+      "weight": 0.78
+    },
+    {
+      "source": "senior-executive-host",
+      "target": "assistant-athletic-trainer-arts-entertainment-recreation",
+      "weight": 0.46
+    },
+    {
+      "source": "event-management-assistant-arts-entertainment-recreation",
+      "target": "artist",
+      "weight": 0.63
+    },
+    {
+      "source": "event-management-assistant-arts-entertainment-recreation",
+      "target": "assistant-coach",
+      "weight": 0.47
+    },
+    {
+      "source": "picture-editor-arts-entertainment-recreation",
+      "target": "photographer",
+      "weight": 0.56
+    },
+    {
+      "source": "senior-photo-editor",
+      "target": "coach",
+      "weight": 0.99
+    },
+    {
+      "source": "senior-photo-editor",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.89
+    },
+    {
+      "source": "ticket-office-assistant",
+      "target": "arts-teacher-arts-entertainment-recreation",
+      "weight": 0.68
+    },
+    {
+      "source": "pit-manager",
+      "target": "art-director-arts-entertainment-recreation",
+      "weight": 0.73
+    },
+    {
+      "source": "casino-manager",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.96
+    },
+    {
+      "source": "sports-anchor-arts-entertainment-recreation",
+      "target": "art-director-arts-entertainment-recreation",
+      "weight": 0.69
+    },
+    {
+      "source": "sports-anchor-arts-entertainment-recreation",
+      "target": "personal-trainer-arts-entertainment-recreation",
+      "weight": 0.79
+    },
+    {
+      "source": "casino-host-arts-entertainment-recreation",
+      "target": "assistant-coach",
+      "weight": 0.91
+    },
+    {
+      "source": "executive-host",
+      "target": "coach",
+      "weight": 0.49
+    },
+    {
+      "source": "certified-athletic-trainer-arts-entertainment-recreation",
+      "target": "personal-trainer-arts-entertainment-recreation",
+      "weight": 0.44
+    },
+    {
+      "source": "associate-athletic-trainer-arts-entertainment-recreation",
+      "target": "studio-manager-arts-entertainment-recreation",
+      "weight": 0.58
+    },
+    {
+      "source": "associate-athletic-trainer-arts-entertainment-recreation",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.55
+    },
+    {
+      "source": "sports-information-director-arts-entertainment-recreation",
+      "target": "arts-teacher-arts-entertainment-recreation",
+      "weight": 0.64
+    },
+    {
+      "source": "sports-information-director-arts-entertainment-recreation",
+      "target": "personal-trainer-arts-entertainment-recreation",
+      "weight": 0.45
+    },
+    {
+      "source": "art-editor-arts-entertainment-recreation",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.78
+    },
+    {
+      "source": "art-editor-arts-entertainment-recreation",
+      "target": "art-director-arts-entertainment-recreation",
+      "weight": 0.59
+    },
+    {
+      "source": "assistant-picture-editor",
+      "target": "personal-trainer-arts-entertainment-recreation",
+      "weight": 0.4
+    },
+    {
+      "source": "assistant-picture-editor",
+      "target": "photographer",
+      "weight": 0.95
+    },
+    {
+      "source": "deputy-picture-editor",
+      "target": "art-director-arts-entertainment-recreation",
+      "weight": 0.76
+    },
+    {
+      "source": "assistant-sports-editor",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.87
+    },
+    {
+      "source": "associate-photo-editor",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.48
+    },
+    {
+      "source": "associate-photo-editor",
+      "target": "assistant-coach",
+      "weight": 0.94
+    },
+    {
+      "source": "performance-analyst",
+      "target": "arts-teacher-arts-entertainment-recreation",
+      "weight": 0.55
+    },
+    {
+      "source": "physical-education-specialist",
+      "target": "assistant-coach",
+      "weight": 0.69
+    },
+    {
+      "source": "physical-education-specialist",
+      "target": "coach",
+      "weight": 0.91
+    },
+    {
+      "source": "table-games-dealer",
+      "target": "coach",
+      "weight": 0.51
+    },
+    {
+      "source": "casino-dealer-arts-entertainment-recreation",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.42
+    },
+    {
+      "source": "sports-development-manager",
+      "target": "studio-manager-arts-entertainment-recreation",
+      "weight": 0.71
+    },
+    {
+      "source": "audience-development-manager-arts-entertainment-recreation",
+      "target": "studio-manager-arts-entertainment-recreation",
+      "weight": 0.75
+    },
+    {
+      "source": "audience-development-manager-arts-entertainment-recreation",
+      "target": "assistant-athletic-trainer-arts-entertainment-recreation",
+      "weight": 0.49
+    },
+    {
+      "source": "box-office-assistant",
+      "target": "artist",
+      "weight": 0.49
+    },
+    {
+      "source": "assistant-casino-manager",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.6
+    },
+    {
+      "source": "assistant-casino-manager",
+      "target": "photographer",
+      "weight": 0.49
+    },
+    {
+      "source": "sports-writer-arts-entertainment-recreation",
+      "target": "coach",
+      "weight": 0.89
+    },
+    {
+      "source": "audience-development-coordinator-arts-entertainment-recreation",
+      "target": "studio-manager-arts-entertainment-recreation",
+      "weight": 0.48
+    },
+    {
+      "source": "athlete",
+      "target": "artist",
+      "weight": 0.95
+    },
+    {
+      "source": "performance-analyst-intern",
+      "target": "artist",
+      "weight": 0.54
+    },
+    {
+      "source": "assistant-performance-analyst",
+      "target": "assistant-coach",
+      "weight": 0.46
+    },
+    {
+      "source": "assistant-performance-analyst",
+      "target": "art-director-arts-entertainment-recreation",
+      "weight": 0.4
+    },
+    {
+      "source": "dealer",
+      "target": "studio-manager-arts-entertainment-recreation",
+      "weight": 0.53
+    },
+    {
+      "source": "lead-artist-arts-entertainment-recreation",
+      "target": "personal-trainer-arts-entertainment-recreation",
+      "weight": 0.86
+    },
+    {
+      "source": "head-makeup-artist-arts-entertainment-recreation",
+      "target": "art-director-arts-entertainment-recreation",
+      "weight": 0.61
+    },
+    {
+      "source": "golf-production-graphic-artist-director",
+      "target": "assistant-athletic-trainer-arts-entertainment-recreation",
+      "weight": 0.52
+    },
+    {
+      "source": "production-graphic-artist",
+      "target": "artist",
+      "weight": 0.46
+    },
+    {
+      "source": "production-graphic-artist",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.95
+    },
+    {
+      "source": "freelance-concept-artist-arts-entertainment-recreation",
+      "target": "assistant-coach",
+      "weight": 0.52
+    },
+    {
+      "source": "freelance-concept-artist-arts-entertainment-recreation",
+      "target": "studio-manager-arts-entertainment-recreation",
+      "weight": 0.43
+    },
+    {
+      "source": "production-graphic-artist-professional",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.86
+    },
+    {
+      "source": "production-graphic-artist-professional",
+      "target": "arts-teacher-arts-entertainment-recreation",
+      "weight": 0.78
+    },
+    {
+      "source": "principal-artist",
+      "target": "studio-manager-arts-entertainment-recreation",
+      "weight": 0.78
+    },
+    {
+      "source": "principal-artist",
+      "target": "art-director-arts-entertainment-recreation",
+      "weight": 0.41
+    },
+    {
+      "source": "freelance-production-artist-arts-entertainment-recreation",
+      "target": "photographer",
+      "weight": 0.95
+    },
+    {
+      "source": "storyboard-artist-arts-entertainment-recreation",
+      "target": "personal-trainer-arts-entertainment-recreation",
+      "weight": 0.69
+    },
+    {
+      "source": "associate-artist-arts-entertainment-recreation",
+      "target": "coach",
+      "weight": 0.83
+    },
+    {
+      "source": "makeup-artist-arts-entertainment-recreation",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 1
+    },
+    {
+      "source": "studio-artist",
+      "target": "photographer",
+      "weight": 0.57
+    },
+    {
+      "source": "studio-artist",
+      "target": "assistant-athletic-trainer-arts-entertainment-recreation",
+      "weight": 0.87
+    },
+    {
+      "source": "graphic-artist-intern-arts-entertainment-recreation",
+      "target": "assistant-coach",
+      "weight": 0.67
+    },
+    {
+      "source": "graphic-artist-intern-arts-entertainment-recreation",
+      "target": "assistant-athletic-trainer-arts-entertainment-recreation",
+      "weight": 0.71
+    },
+    {
+      "source": "assistant-artist-arts-entertainment-recreation",
+      "target": "personal-trainer-arts-entertainment-recreation",
+      "weight": 0.46
+    },
+    {
+      "source": "assistant-artist-arts-entertainment-recreation",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.52
+    },
+    {
+      "source": "artist-assistant",
+      "target": "arts-teacher-arts-entertainment-recreation",
+      "weight": 0.68
+    },
+    {
+      "source": "associate-creative-director",
+      "target": "artist",
+      "weight": 0.82
+    },
+    {
+      "source": "associate-creative-director",
+      "target": "arts-teacher-arts-entertainment-recreation",
+      "weight": 0.56
+    },
+    {
+      "source": "archivist-arts-entertainment-recreation",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.68
+    },
+    {
+      "source": "creative-art-director",
+      "target": "assistant-athletic-trainer-arts-entertainment-recreation",
+      "weight": 0.74
+    },
+    {
+      "source": "creative-art-director",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.83
+    },
+    {
+      "source": "senior-curator",
+      "target": "personal-trainer-arts-entertainment-recreation",
+      "weight": 0.91
+    },
+    {
+      "source": "senior-archivist-arts-entertainment-recreation",
+      "target": "art-director-arts-entertainment-recreation",
+      "weight": 0.47
+    },
+    {
+      "source": "associate-registrar-arts-entertainment-recreation",
+      "target": "artist",
+      "weight": 0.82
+    },
+    {
+      "source": "associate-registrar-arts-entertainment-recreation",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.7
+    },
+    {
+      "source": "associate-curator",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.52
+    },
+    {
+      "source": "set-decorator",
+      "target": "coach",
+      "weight": 0.71
+    },
+    {
+      "source": "ticket-sales-director",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.46
+    },
+    {
+      "source": "sports-marketing-manager",
+      "target": "art-director-arts-entertainment-recreation",
+      "weight": 0.86
+    },
+    {
+      "source": "sports-marketing-manager",
+      "target": "artist",
+      "weight": 0.74
+    },
+    {
+      "source": "photographer",
+      "target": "art-director-arts-entertainment-recreation",
+      "weight": 0.94
+    },
+    {
+      "source": "photographer",
+      "target": "assistant-coach",
+      "weight": 0.91
+    },
+    {
+      "source": "photographer",
+      "target": "coach",
+      "weight": 0.64
+    },
+    {
+      "source": "art-director-arts-entertainment-recreation",
+      "target": "personal-trainer-arts-entertainment-recreation",
+      "weight": 0.8
+    },
+    {
+      "source": "art-director-arts-entertainment-recreation",
+      "target": "assistant-coach",
+      "weight": 0.9
+    },
+    {
+      "source": "art-director-arts-entertainment-recreation",
+      "target": "artist",
+      "weight": 0.73
+    },
+    {
+      "source": "art-director-arts-entertainment-recreation",
+      "target": "coach",
+      "weight": 0.65
+    },
+    {
+      "source": "art-director-arts-entertainment-recreation",
+      "target": "assistant-athletic-trainer-arts-entertainment-recreation",
+      "weight": 0.82
+    },
+    {
+      "source": "art-director-arts-entertainment-recreation",
+      "target": "studio-manager-arts-entertainment-recreation",
+      "weight": 0.65
+    },
+    {
+      "source": "art-director-arts-entertainment-recreation",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.94
+    },
+    {
+      "source": "personal-trainer-arts-entertainment-recreation",
+      "target": "artist",
+      "weight": 0.81
+    },
+    {
+      "source": "personal-trainer-arts-entertainment-recreation",
+      "target": "coach",
+      "weight": 0.96
+    },
+    {
+      "source": "personal-trainer-arts-entertainment-recreation",
+      "target": "arts-teacher-arts-entertainment-recreation",
+      "weight": 0.91
+    },
+    {
+      "source": "personal-trainer-arts-entertainment-recreation",
+      "target": "assistant-athletic-trainer-arts-entertainment-recreation",
+      "weight": 0.68
+    },
+    {
+      "source": "personal-trainer-arts-entertainment-recreation",
+      "target": "studio-manager-arts-entertainment-recreation",
+      "weight": 0.91
+    },
+    {
+      "source": "personal-trainer-arts-entertainment-recreation",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.68
+    },
+    {
+      "source": "assistant-coach",
+      "target": "coach",
+      "weight": 0.83
+    },
+    {
+      "source": "assistant-coach",
+      "target": "arts-teacher-arts-entertainment-recreation",
+      "weight": 0.95
+    },
+    {
+      "source": "assistant-coach",
+      "target": "assistant-athletic-trainer-arts-entertainment-recreation",
+      "weight": 0.9
+    },
+    {
+      "source": "assistant-coach",
+      "target": "studio-manager-arts-entertainment-recreation",
+      "weight": 0.89
+    },
+    {
+      "source": "assistant-coach",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.72
+    },
+    {
+      "source": "artist",
+      "target": "arts-teacher-arts-entertainment-recreation",
+      "weight": 0.68
+    },
+    {
+      "source": "artist",
+      "target": "assistant-athletic-trainer-arts-entertainment-recreation",
+      "weight": 0.66
+    },
+    {
+      "source": "artist",
+      "target": "studio-manager-arts-entertainment-recreation",
+      "weight": 0.73
+    },
+    {
+      "source": "artist",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.75
+    },
+    {
+      "source": "coach",
+      "target": "arts-teacher-arts-entertainment-recreation",
+      "weight": 0.78
+    },
+    {
+      "source": "coach",
+      "target": "assistant-athletic-trainer-arts-entertainment-recreation",
+      "weight": 0.76
+    },
+    {
+      "source": "coach",
+      "target": "studio-manager-arts-entertainment-recreation",
+      "weight": 0.99
+    },
+    {
+      "source": "coach",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.63
+    },
+    {
+      "source": "arts-teacher-arts-entertainment-recreation",
+      "target": "assistant-athletic-trainer-arts-entertainment-recreation",
+      "weight": 0.74
+    },
+    {
+      "source": "arts-teacher-arts-entertainment-recreation",
+      "target": "studio-manager-arts-entertainment-recreation",
+      "weight": 0.85
+    },
+    {
+      "source": "arts-teacher-arts-entertainment-recreation",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.98
+    },
+    {
+      "source": "assistant-athletic-trainer-arts-entertainment-recreation",
+      "target": "studio-manager-arts-entertainment-recreation",
+      "weight": 0.81
+    },
+    {
+      "source": "assistant-athletic-trainer-arts-entertainment-recreation",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.96
+    },
+    {
+      "source": "studio-manager-arts-entertainment-recreation",
+      "target": "assistant-football-coach-arts-entertainment-recreation",
+      "weight": 0.62
+    },
+    {
+      "source": "photographer",
+      "target": "ticket-office-assistant",
+      "weight": 0.7
+    },
+    {
+      "source": "photographer",
+      "target": "box-office-assistant",
+      "weight": 0.7
+    },
+    {
+      "source": "ticket-office-assistant",
+      "target": "box-office-assistant",
+      "weight": 0.7
+    },
+    {
+      "source": "artist",
+      "target": "retoucher",
+      "weight": 0.7
+    },
+    {
+      "source": "artist",
+      "target": "camera-operator-arts-entertainment-recreation",
+      "weight": 0.7
+    },
+    {
+      "source": "retoucher",
+      "target": "camera-operator-arts-entertainment-recreation",
+      "weight": 0.7
+    },
+    {
+      "source": "arts-teacher-arts-entertainment-recreation",
+      "target": "physical-education-teacher-arts-entertainment-recreation",
+      "weight": 0.7
+    },
+    {
+      "source": "arts-teacher-arts-entertainment-recreation",
+      "target": "pilates-instructor-arts-entertainment-recreation",
+      "weight": 0.7
+    },
+    {
+      "source": "arts-teacher-arts-entertainment-recreation",
+      "target": "dance-instructor",
+      "weight": 0.7
+    },
+    {
+      "source": "physical-education-teacher-arts-entertainment-recreation",
+      "target": "pilates-instructor-arts-entertainment-recreation",
+      "weight": 0.7
+    },
+    {
+      "source": "physical-education-teacher-arts-entertainment-recreation",
+      "target": "dance-instructor",
+      "weight": 0.7
+    },
+    {
+      "source": "pilates-instructor-arts-entertainment-recreation",
+      "target": "dance-instructor",
+      "weight": 0.7
+    },
+    {
+      "source": "studio-manager-arts-entertainment-recreation",
+      "target": "fitness-manager-arts-entertainment-recreation",
+      "weight": 0.7
+    },
+    {
+      "source": "studio-manager-arts-entertainment-recreation",
+      "target": "sports-development-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "studio-manager-arts-entertainment-recreation",
+      "target": "audience-development-manager-arts-entertainment-recreation",
+      "weight": 0.7
+    },
+    {
+      "source": "fitness-manager-arts-entertainment-recreation",
+      "target": "sports-development-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "fitness-manager-arts-entertainment-recreation",
+      "target": "audience-development-manager-arts-entertainment-recreation",
+      "weight": 0.7
+    },
+    {
+      "source": "sports-development-manager",
+      "target": "audience-development-manager-arts-entertainment-recreation",
+      "weight": 0.7
+    },
+    {
+      "source": "art-therapist-arts-entertainment-recreation",
+      "target": "recreation-therapist-arts-entertainment-recreation",
+      "weight": 0.7
+    },
+    {
+      "source": "photojournalist-arts-entertainment-recreation",
+      "target": "staff-photographer",
+      "weight": 0.7
+    },
+    {
+      "source": "photojournalist-arts-entertainment-recreation",
+      "target": "video-coordinator",
+      "weight": 0.7
+    },
+    {
+      "source": "staff-photographer",
+      "target": "video-coordinator",
+      "weight": 0.7
+    },
+    {
+      "source": "set-designer-arts-entertainment-recreation",
+      "target": "lighting-designer-arts-entertainment-recreation",
+      "weight": 0.7
+    },
+    {
+      "source": "recreation-coordinator",
+      "target": "recreation-manager-arts-entertainment-recreation",
+      "weight": 0.7
+    },
+    {
+      "source": "curatorial-intern",
+      "target": "athletic-intern",
+      "weight": 0.7
+    },
+    {
+      "source": "sports-development-officer",
+      "target": "table-games-supervisor",
+      "weight": 0.7
+    },
+    {
+      "source": "sports-development-officer",
+      "target": "physical-education-specialist",
+      "weight": 0.7
+    },
+    {
+      "source": "table-games-supervisor",
+      "target": "physical-education-specialist",
+      "weight": 0.7
+    },
+    {
+      "source": "assistant-sports-information-director",
+      "target": "sports-information-director-arts-entertainment-recreation",
+      "weight": 0.7
+    },
+    {
+      "source": "assistant-sports-information-director",
+      "target": "ticket-sales-director",
+      "weight": 0.7
+    },
+    {
+      "source": "assistant-sports-information-director",
+      "target": "sports-marketing-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "sports-information-director-arts-entertainment-recreation",
+      "target": "ticket-sales-director",
+      "weight": 0.7
+    },
+    {
+      "source": "sports-information-director-arts-entertainment-recreation",
+      "target": "sports-marketing-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "ticket-sales-director",
+      "target": "sports-marketing-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "performance-analyst",
+      "target": "performance-analyst-intern",
+      "weight": 0.7
+    },
+    {
+      "source": "performance-analyst",
+      "target": "assistant-performance-analyst",
+      "weight": 0.7
+    },
+    {
+      "source": "performance-analyst-intern",
+      "target": "assistant-performance-analyst",
+      "weight": 0.7
+    },
+    {
+      "source": "table-games-dealer",
+      "target": "casino-dealer-arts-entertainment-recreation",
+      "weight": 0.7
+    }
+  ]
+}

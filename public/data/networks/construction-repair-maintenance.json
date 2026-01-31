@@ -1,0 +1,2812 @@
+{
+  "sector": "Construction, Repair & Maintenance",
+  "metadata": {
+    "nodeCount": 150,
+    "edgeCount": 261,
+    "generatedAt": "2026-01-31T16:46:33Z"
+  },
+  "nodes": [
+    {
+      "id": "project-engineer-construction-repair-maintenance",
+      "label": "Project Engineer",
+      "soc": "17-2121",
+      "ptr": 0,
+      "nfc": 0.5752,
+      "quadrant": "LH",
+      "size": 18.28,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "site-engineer",
+      "label": "Site Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6852,
+      "nfc": 0.8537,
+      "quadrant": "LH",
+      "size": 9.26,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "estimator",
+      "label": "Estimator",
+      "soc": "51-9061",
+      "ptr": 0.4112,
+      "nfc": 0.4738,
+      "quadrant": "LH",
+      "size": 7.65,
+      "aiExposure": 0.2548
+    },
+    {
+      "id": "land-surveyor",
+      "label": "Land Surveyor",
+      "soc": "17-1022",
+      "ptr": 0.7406,
+      "nfc": 0.7661,
+      "quadrant": "HH",
+      "size": 7.39,
+      "aiExposure": 0.3298
+    },
+    {
+      "id": "construction-manager",
+      "label": "Construction Manager",
+      "soc": "11-9021",
+      "ptr": 0.6029,
+      "nfc": 0.6484,
+      "quadrant": "LH",
+      "size": 7.16,
+      "aiExposure": 0.2947
+    },
+    {
+      "id": "civil-engineer-construction-repair-maintenance",
+      "label": "Civil Engineer",
+      "soc": "17-2121",
+      "ptr": 0.4676,
+      "nfc": 0.5722,
+      "quadrant": "LH",
+      "size": 6.75,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "superintendent",
+      "label": "Superintendent",
+      "soc": "11-9013",
+      "ptr": 0.3466,
+      "nfc": 0.3842,
+      "quadrant": "LH",
+      "size": 6.64,
+      "aiExposure": 0.2217
+    },
+    {
+      "id": "assistant-project-manager",
+      "label": "Assistant Project Manager",
+      "soc": "15-1299",
+      "ptr": 0.8567,
+      "nfc": 0.9704,
+      "quadrant": "HH",
+      "size": 6.47,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "senior-project-manager",
+      "label": "Senior Project Manager",
+      "soc": "15-1299",
+      "ptr": 0.9238,
+      "nfc": 0.9694,
+      "quadrant": "HH",
+      "size": 6.46,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "structural-engineer-construction-repair-maintenance",
+      "label": "Structural Engineer",
+      "soc": "17-2121",
+      "ptr": 0.527,
+      "nfc": 0.5697,
+      "quadrant": "LH",
+      "size": 6.43,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "safety-manager",
+      "label": "Safety Manager",
+      "soc": "11-9199",
+      "ptr": 0.6838,
+      "nfc": 0.7232,
+      "quadrant": "LH",
+      "size": 6.42,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "electrician",
+      "label": "Electrician",
+      "soc": "47-3013",
+      "ptr": 0.0999,
+      "nfc": 0.1198,
+      "quadrant": "LH",
+      "size": 6.28,
+      "aiExposure": 0.0435
+    },
+    {
+      "id": "site-manager",
+      "label": "Site Manager",
+      "soc": "45-1011",
+      "ptr": 0.3364,
+      "nfc": 0.3624,
+      "quadrant": "LH",
+      "size": 6.26,
+      "aiExposure": 0.1677
+    },
+    {
+      "id": "surveyor",
+      "label": "Surveyor",
+      "soc": "17-2121",
+      "ptr": 0.5099,
+      "nfc": 0.5672,
+      "quadrant": "LH",
+      "size": 6.18,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "quantity-surveyor",
+      "label": "Quantity Surveyor",
+      "soc": "17-1022",
+      "ptr": 0.6496,
+      "nfc": 0.7571,
+      "quadrant": "LH",
+      "size": 6.11,
+      "aiExposure": 0.3298
+    },
+    {
+      "id": "computer-aided-design-technician",
+      "label": "Computer Aided Design Technician",
+      "soc": "17-3023",
+      "ptr": 0.374,
+      "nfc": 0.4017,
+      "quadrant": "LH",
+      "size": 6.08,
+      "aiExposure": 0.3042
+    },
+    {
+      "id": "field-engineer-construction-repair-maintenance",
+      "label": "Field Engineer",
+      "soc": "17-2071",
+      "ptr": 0.646,
+      "nfc": 0.84,
+      "quadrant": "LH",
+      "size": 6.01,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "contract-manager",
+      "label": "Contract Manager",
+      "soc": "11-3071",
+      "ptr": 0.6649,
+      "nfc": 0.6908,
+      "quadrant": "LH",
+      "size": 5.95,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "carpenter",
+      "label": "Carpenter",
+      "soc": "51-9061",
+      "ptr": 0.4063,
+      "nfc": 0.4657,
+      "quadrant": "LH",
+      "size": 5.91,
+      "aiExposure": 0.2548
+    },
+    {
+      "id": "survey-party-chief",
+      "label": "Survey Party Chief",
+      "soc": "33-1021",
+      "ptr": 0.4333,
+      "nfc": 0.4283,
+      "quadrant": "LH",
+      "size": 5.9,
+      "aiExposure": 0.212
+    },
+    {
+      "id": "architectural-designer-construction-repair-maintenance",
+      "label": "Architectural Designer",
+      "soc": "17-2121",
+      "ptr": 0.5099,
+      "nfc": 0.5629,
+      "quadrant": "LH",
+      "size": 5.87,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "senior-project-engineer-construction-repair-maintenance",
+      "label": "Senior Project Engineer",
+      "soc": "17-2121",
+      "ptr": 0.5543,
+      "nfc": 0.5623,
+      "quadrant": "LH",
+      "size": 5.81,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "architect-construction-repair-maintenance",
+      "label": "Architect",
+      "soc": "15-1299",
+      "ptr": 0.8467,
+      "nfc": 0.9546,
+      "quadrant": "HH",
+      "size": 5.79,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "foreman",
+      "label": "Foreman",
+      "soc": "49-9044",
+      "ptr": 0.076,
+      "nfc": 0.0836,
+      "quadrant": "LH",
+      "size": 5.6,
+      "aiExposure": 0.0423
+    },
+    {
+      "id": "project-architect-construction-repair-maintenance",
+      "label": "Project Architect",
+      "soc": "17-1011",
+      "ptr": 0.6456,
+      "nfc": 0.6939,
+      "quadrant": "LH",
+      "size": 5.57,
+      "aiExposure": 0.3316
+    },
+    {
+      "id": "project-superintendent",
+      "label": "Project Superintendent",
+      "soc": "11-9032",
+      "ptr": 0.5385,
+      "nfc": 0.5386,
+      "quadrant": "LH",
+      "size": 5.55,
+      "aiExposure": 0.2768
+    },
+    {
+      "id": "draftsman",
+      "label": "Draftsman",
+      "soc": "17-3011",
+      "ptr": 0.6948,
+      "nfc": 0.7893,
+      "quadrant": "HH",
+      "size": 5.55,
+      "aiExposure": 0.381
+    },
+    {
+      "id": "project-control-construction-repair-maintenance",
+      "label": "Project Control",
+      "soc": "55-1015",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.52,
+      "aiExposure": 0
+    },
+    {
+      "id": "electrical-engineer-construction-repair-maintenance",
+      "label": "Electrical Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7401,
+      "nfc": 0.8288,
+      "quadrant": "HH",
+      "size": 5.5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "design-manager",
+      "label": "Design Manager",
+      "soc": "27-1022",
+      "ptr": 0.372,
+      "nfc": 0.3776,
+      "quadrant": "LH",
+      "size": 5.49,
+      "aiExposure": 0.3308
+    },
+    {
+      "id": "office-engineer",
+      "label": "Office Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8235,
+      "nfc": 0.827,
+      "quadrant": "HH",
+      "size": 5.44,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "graduate-engineer-construction-repair-maintenance",
+      "label": "Graduate Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6756,
+      "nfc": 0.826,
+      "quadrant": "LH",
+      "size": 5.44,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "geotechnical-engineer-construction-repair-maintenance",
+      "label": "Geotechnical Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8235,
+      "nfc": 0.8251,
+      "quadrant": "HH",
+      "size": 5.43,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "construction-consultant",
+      "label": "Construction Consultant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.41,
+      "aiExposure": 0
+    },
+    {
+      "id": "planning-engineer-construction-repair-maintenance",
+      "label": "Planning Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8314,
+      "nfc": 0.8232,
+      "quadrant": "HH",
+      "size": 5.4,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-estimator",
+      "label": "Senior Estimator",
+      "soc": "51-9061",
+      "ptr": 0.4706,
+      "nfc": 0.4569,
+      "quadrant": "LH",
+      "size": 5.34,
+      "aiExposure": 0.2548
+    },
+    {
+      "id": "project-designer-construction-repair-maintenance",
+      "label": "Project Designer",
+      "soc": "17-2121",
+      "ptr": 0.5381,
+      "nfc": 0.5528,
+      "quadrant": "LH",
+      "size": 5.31,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "estimating-manager",
+      "label": "Estimating Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.3,
+      "aiExposure": 0
+    },
+    {
+      "id": "intern-architect-construction-repair-maintenance",
+      "label": "Intern Architect",
+      "soc": "29-1229",
+      "ptr": 0.3577,
+      "nfc": 0.4219,
+      "quadrant": "LH",
+      "size": 5.3,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "highway-engineer-construction-repair-maintenance",
+      "label": "Highway Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8314,
+      "nfc": 0.8185,
+      "quadrant": "HH",
+      "size": 5.29,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "project-control-engineer-construction-repair-maintenance",
+      "label": "Project Control Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8235,
+      "nfc": 0.8175,
+      "quadrant": "HH",
+      "size": 5.29,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "architectural-technician-construction-repair-maintenance",
+      "label": "Architectural Technician",
+      "soc": "17-3011",
+      "ptr": 0.7673,
+      "nfc": 0.7758,
+      "quadrant": "HH",
+      "size": 5.28,
+      "aiExposure": 0.381
+    },
+    {
+      "id": "construction-supervisor",
+      "label": "Construction Supervisor",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.27,
+      "aiExposure": 0
+    },
+    {
+      "id": "drafter",
+      "label": "Drafter",
+      "soc": "17-3011",
+      "ptr": 0.7197,
+      "nfc": 0.774,
+      "quadrant": "HH",
+      "size": 5.27,
+      "aiExposure": 0.381
+    },
+    {
+      "id": "construction-administrator",
+      "label": "Construction Administrator",
+      "soc": "11-3012",
+      "ptr": 0.3894,
+      "nfc": 0.3741,
+      "quadrant": "LH",
+      "size": 5.25,
+      "aiExposure": 0.2392
+    },
+    {
+      "id": "resident-engineer",
+      "label": "Resident Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8235,
+      "nfc": 0.8128,
+      "quadrant": "HH",
+      "size": 5.25,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "cost-engineer-construction-repair-maintenance",
+      "label": "Cost Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8235,
+      "nfc": 0.8118,
+      "quadrant": "HH",
+      "size": 5.24,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "project-control-manager-construction-repair-maintenance",
+      "label": "Project Control Manager",
+      "soc": "55-1015",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.23,
+      "aiExposure": 0
+    },
+    {
+      "id": "project-scheduler-construction-repair-maintenance",
+      "label": "Project Scheduler",
+      "soc": "43-6013",
+      "ptr": 0.9602,
+      "nfc": 0.9171,
+      "quadrant": "HH",
+      "size": 5.22,
+      "aiExposure": 0.4243
+    },
+    {
+      "id": "project-control-specialist-construction-repair-maintenance",
+      "label": "Project Control Specialist",
+      "soc": "49-9012",
+      "ptr": 0.2835,
+      "nfc": 0.2732,
+      "quadrant": "LH",
+      "size": 5.22,
+      "aiExposure": 0.1402
+    },
+    {
+      "id": "architectural-assistant-construction-repair-maintenance",
+      "label": "Architectural Assistant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.21,
+      "aiExposure": 0
+    },
+    {
+      "id": "contract-engineer-construction-repair-maintenance",
+      "label": "Contract Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8314,
+      "nfc": 0.807,
+      "quadrant": "HH",
+      "size": 5.21,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-surveyor",
+      "label": "Senior Surveyor",
+      "soc": "17-1022",
+      "ptr": 0.7477,
+      "nfc": 0.7249,
+      "quadrant": "HH",
+      "size": 5.2,
+      "aiExposure": 0.3298
+    },
+    {
+      "id": "project-planner-construction-repair-maintenance",
+      "label": "Project Planner",
+      "soc": "19-3051",
+      "ptr": 0.6841,
+      "nfc": 0.6563,
+      "quadrant": "LH",
+      "size": 5.2,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "construction-coordinator",
+      "label": "Construction Coordinator",
+      "soc": "11-9021",
+      "ptr": 0.6275,
+      "nfc": 0.6127,
+      "quadrant": "LH",
+      "size": 5.19,
+      "aiExposure": 0.2947
+    },
+    {
+      "id": "senior-civil-engineer-construction-repair-maintenance",
+      "label": "Senior Civil Engineer",
+      "soc": "17-2071",
+      "ptr": 0.847,
+      "nfc": 0.8022,
+      "quadrant": "HH",
+      "size": 5.19,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "land-development-manager",
+      "label": "Land Development Manager",
+      "soc": "11-9121",
+      "ptr": 0.8017,
+      "nfc": 0.7593,
+      "quadrant": "HH",
+      "size": 5.19,
+      "aiExposure": 0.3216
+    },
+    {
+      "id": "contract-administrator",
+      "label": "Contract Administrator",
+      "soc": "15-1244",
+      "ptr": 0.9179,
+      "nfc": 0.9107,
+      "quadrant": "HH",
+      "size": 5.19,
+      "aiExposure": 0.4911
+    },
+    {
+      "id": "senior-electrical-engineer-construction-repair-maintenance",
+      "label": "Senior Electrical Engineer",
+      "soc": "17-2071",
+      "ptr": 0.847,
+      "nfc": 0.8003,
+      "quadrant": "HH",
+      "size": 5.18,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "section-engineer",
+      "label": "Section Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8235,
+      "nfc": 0.7993,
+      "quadrant": "HH",
+      "size": 5.18,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "assistant-estimator",
+      "label": "Assistant Estimator",
+      "soc": "51-9061",
+      "ptr": 0.4576,
+      "nfc": 0.4436,
+      "quadrant": "LH",
+      "size": 5.16,
+      "aiExposure": 0.2548
+    },
+    {
+      "id": "senior-quantity-surveyor",
+      "label": "Senior Quantity Surveyor",
+      "soc": "17-1022",
+      "ptr": 0.7334,
+      "nfc": 0.7171,
+      "quadrant": "HH",
+      "size": 5.16,
+      "aiExposure": 0.3298
+    },
+    {
+      "id": "instrument-operator-construction-repair-maintenance",
+      "label": "Instrument Operator",
+      "soc": "51-9161",
+      "ptr": 0.3506,
+      "nfc": 0.3327,
+      "quadrant": "LH",
+      "size": 5.16,
+      "aiExposure": 0.2277
+    },
+    {
+      "id": "construction-project-manager",
+      "label": "Construction Project Manager",
+      "soc": "15-1299",
+      "ptr": 0.9601,
+      "nfc": 0.91,
+      "quadrant": "HH",
+      "size": 5.16,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "pipefitter-construction-repair-maintenance",
+      "label": "Pipefitter",
+      "soc": "47-2152",
+      "ptr": 0.1768,
+      "nfc": 0.1722,
+      "quadrant": "LH",
+      "size": 5.15,
+      "aiExposure": 0.0748
+    },
+    {
+      "id": "instrument-man-construction-repair-maintenance",
+      "label": "Instrument Man",
+      "soc": "49-9069",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.15,
+      "aiExposure": 0
+    },
+    {
+      "id": "construction-superintendent-construction-repair-maintenance",
+      "label": "Construction Superintendent",
+      "soc": "47-1011",
+      "ptr": 0.5138,
+      "nfc": 0.4944,
+      "quadrant": "LH",
+      "size": 5.15,
+      "aiExposure": 0.2634
+    },
+    {
+      "id": "site-supervisor",
+      "label": "Site Supervisor",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.14,
+      "aiExposure": 0
+    },
+    {
+      "id": "building-surveyor",
+      "label": "Building Surveyor",
+      "soc": "17-1022",
+      "ptr": 0.7334,
+      "nfc": 0.7109,
+      "quadrant": "HH",
+      "size": 5.14,
+      "aiExposure": 0.3298
+    },
+    {
+      "id": "general-foreman-construction-repair-maintenance",
+      "label": "General Foreman",
+      "soc": "49-9044",
+      "ptr": 0.0834,
+      "nfc": 0.0792,
+      "quadrant": "LH",
+      "size": 5.14,
+      "aiExposure": 0.0423
+    },
+    {
+      "id": "senior-structural-engineer-construction-repair-maintenance",
+      "label": "Senior Structural Engineer",
+      "soc": "17-2121",
+      "ptr": 0.5649,
+      "nfc": 0.5308,
+      "quadrant": "LH",
+      "size": 5.13,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "assistant-superintendent",
+      "label": "Assistant Superintendent",
+      "soc": "11-9032",
+      "ptr": 0.5071,
+      "nfc": 0.5101,
+      "quadrant": "LH",
+      "size": 5.11,
+      "aiExposure": 0.2768
+    },
+    {
+      "id": "welder-construction-repair-maintenance",
+      "label": "Welder",
+      "soc": "47-2011",
+      "ptr": 0.1449,
+      "nfc": 0.1441,
+      "quadrant": "LH",
+      "size": 5.11,
+      "aiExposure": 0.0357
+    },
+    {
+      "id": "safety-officer",
+      "label": "Safety Officer",
+      "soc": "33-9011",
+      "ptr": 0.366,
+      "nfc": 0.3525,
+      "quadrant": "LH",
+      "size": 5.11,
+      "aiExposure": 0.2767
+    },
+    {
+      "id": "job-captain-construction-repair-maintenance",
+      "label": "Job Captain",
+      "soc": "33-1012",
+      "ptr": 0.3532,
+      "nfc": 0.3432,
+      "quadrant": "LH",
+      "size": 5.1,
+      "aiExposure": 0.2058
+    },
+    {
+      "id": "site-agent",
+      "label": "Site Agent",
+      "soc": "13-1011",
+      "ptr": 0.8258,
+      "nfc": 0.7784,
+      "quadrant": "HH",
+      "size": 5.1,
+      "aiExposure": 0.4062
+    },
+    {
+      "id": "senior-mechanical-engineer-construction-repair-maintenance",
+      "label": "Senior Mechanical Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8392,
+      "nfc": 0.7826,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "plumber",
+      "label": "Plumber",
+      "soc": "47-2152",
+      "ptr": 0.1785,
+      "nfc": 0.1694,
+      "quadrant": "LH",
+      "size": 5.09,
+      "aiExposure": 0.0748
+    },
+    {
+      "id": "construction-engineer-construction-repair-maintenance",
+      "label": "Construction Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8235,
+      "nfc": 0.7807,
+      "quadrant": "HH",
+      "size": 5.08,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "engineering-surveyor",
+      "label": "Engineering Surveyor",
+      "soc": "17-1022",
+      "ptr": 0.7617,
+      "nfc": 0.7012,
+      "quadrant": "HH",
+      "size": 5.07,
+      "aiExposure": 0.3298
+    },
+    {
+      "id": "assistant-project-engineer",
+      "label": "Assistant Project Engineer",
+      "soc": "17-2121",
+      "ptr": 0.5489,
+      "nfc": 0.5241,
+      "quadrant": "LH",
+      "size": 5.07,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "safety-coordinator",
+      "label": "Safety Coordinator",
+      "soc": "17-2111",
+      "ptr": 0.7144,
+      "nfc": 0.695,
+      "quadrant": "HH",
+      "size": 5.06,
+      "aiExposure": 0.372
+    },
+    {
+      "id": "assistant-quantity-surveyor",
+      "label": "Assistant Quantity Surveyor",
+      "soc": "17-1022",
+      "ptr": 0.7189,
+      "nfc": 0.6985,
+      "quadrant": "HH",
+      "size": 5.06,
+      "aiExposure": 0.3298
+    },
+    {
+      "id": "companion-animal-department-manager",
+      "label": "Companion Animal Department Manager",
+      "soc": "41-1011",
+      "ptr": 0.6956,
+      "nfc": 0.637,
+      "quadrant": "HH",
+      "size": 5.06,
+      "aiExposure": 0.3083
+    },
+    {
+      "id": "assistant-site-manager",
+      "label": "Assistant Site Manager",
+      "soc": "11-9021",
+      "ptr": 0.6275,
+      "nfc": 0.5903,
+      "quadrant": "LH",
+      "size": 5.05,
+      "aiExposure": 0.2947
+    },
+    {
+      "id": "journeyman-electrician",
+      "label": "Journeyman Electrician",
+      "soc": "47-2111",
+      "ptr": 0.2835,
+      "nfc": 0.2689,
+      "quadrant": "LH",
+      "size": 5.05,
+      "aiExposure": 0.1486
+    },
+    {
+      "id": "installer",
+      "label": "Installer",
+      "soc": "47-2181",
+      "ptr": 0.1621,
+      "nfc": 0.1551,
+      "quadrant": "LH",
+      "size": 5.05,
+      "aiExposure": 0.0246
+    },
+    {
+      "id": "design-coordinator",
+      "label": "Design Coordinator",
+      "soc": "13-1199",
+      "ptr": 0.9324,
+      "nfc": 0.8737,
+      "quadrant": "HH",
+      "size": 5.04,
+      "aiExposure": 0.4007
+    },
+    {
+      "id": "electrical-project-engineer-construction-repair-maintenance",
+      "label": "Electrical Project Engineer",
+      "soc": "17-2121",
+      "ptr": 0.5596,
+      "nfc": 0.5187,
+      "quadrant": "LH",
+      "size": 5.04,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "electrical-supervisor-construction-repair-maintenance",
+      "label": "Electrical Supervisor",
+      "soc": "51-1011",
+      "ptr": 0.3956,
+      "nfc": 0.3595,
+      "quadrant": "LH",
+      "size": 5.04,
+      "aiExposure": 0.3251
+    },
+    {
+      "id": "assistant-surveyor",
+      "label": "Assistant Surveyor",
+      "soc": "17-1022",
+      "ptr": 0.7115,
+      "nfc": 0.6912,
+      "quadrant": "HH",
+      "size": 5.03,
+      "aiExposure": 0.3298
+    },
+    {
+      "id": "cad-designer",
+      "label": "CAD Designer",
+      "soc": "17-2121",
+      "ptr": 0.5701,
+      "nfc": 0.5167,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "project-surveyor",
+      "label": "Project Surveyor",
+      "soc": "17-1022",
+      "ptr": 0.7547,
+      "nfc": 0.6894,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3298
+    },
+    {
+      "id": "quality-control-engineer-construction-repair-maintenance",
+      "label": "Quality Control Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8392,
+      "nfc": 0.7656,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "quality-control-inspector-construction-repair-maintenance",
+      "label": "Quality Control Inspector",
+      "soc": "51-9061",
+      "ptr": 0.462,
+      "nfc": 0.4243,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.2548
+    },
+    {
+      "id": "detailer",
+      "label": "Detailer",
+      "soc": "53-7061",
+      "ptr": 0.2382,
+      "nfc": 0.2167,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.061
+    },
+    {
+      "id": "cad-drafter",
+      "label": "CAD Drafter",
+      "soc": "17-3011",
+      "ptr": 0.7673,
+      "nfc": 0.7245,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.381
+    },
+    {
+      "id": "cost-manager",
+      "label": "Cost Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.01,
+      "aiExposure": 0
+    },
+    {
+      "id": "hvac-technician",
+      "label": "HVAC Technician",
+      "soc": "17-3023",
+      "ptr": 0.4009,
+      "nfc": 0.3633,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3042
+    },
+    {
+      "id": "electrical-design-engineer-construction-repair-maintenance",
+      "label": "Electrical Design Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8156,
+      "nfc": 0.7595,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "document-controller-construction-repair-maintenance",
+      "label": "Document Controller",
+      "soc": "15-1299",
+      "ptr": 0.9511,
+      "nfc": 0.8665,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "welding-inspector-construction-repair-maintenance",
+      "label": "Welding Inspector",
+      "soc": "51-9061",
+      "ptr": 0.4706,
+      "nfc": 0.4209,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.2548
+    },
+    {
+      "id": "assistant-construction-manager",
+      "label": "Assistant Construction Manager",
+      "soc": "11-9021",
+      "ptr": 0.6335,
+      "nfc": 0.5764,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.2947
+    },
+    {
+      "id": "construction-foreman",
+      "label": "Construction Foreman",
+      "soc": "11-9021",
+      "ptr": 0.6453,
+      "nfc": 0.5756,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.2947
+    },
+    {
+      "id": "structural-design-engineer-construction-repair-maintenance",
+      "label": "Structural Design Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8156,
+      "nfc": 0.7534,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "cad-operator",
+      "label": "CAD Operator",
+      "soc": "51-9161",
+      "ptr": 0.3373,
+      "nfc": 0.3147,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.2277
+    },
+    {
+      "id": "senior-architect-construction-repair-maintenance",
+      "label": "Senior Architect",
+      "soc": "17-1011",
+      "ptr": 0.7059,
+      "nfc": 0.627,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3316
+    },
+    {
+      "id": "general-superintendent",
+      "label": "General Superintendent",
+      "soc": "11-9032",
+      "ptr": 0.5485,
+      "nfc": 0.4859,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.2768
+    },
+    {
+      "id": "survey-crew-chief-construction-repair-maintenance",
+      "label": "Survey Crew Chief",
+      "soc": "45-1011",
+      "ptr": 0.3639,
+      "nfc": 0.3223,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.1677
+    },
+    {
+      "id": "bridge-engineer-construction-repair-maintenance",
+      "label": "Bridge Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8392,
+      "nfc": 0.7451,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "architectural-technologist-construction-repair-maintenance",
+      "label": "Architectural Technologist",
+      "soc": "17-3011",
+      "ptr": 0.8047,
+      "nfc": 0.7079,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.381
+    },
+    {
+      "id": "senior-site-manager",
+      "label": "Senior Site Manager",
+      "soc": "11-9021",
+      "ptr": 0.6394,
+      "nfc": 0.5677,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.2947
+    },
+    {
+      "id": "electrical-foreman-construction-repair-maintenance",
+      "label": "Electrical Foreman",
+      "soc": "47-1011",
+      "ptr": 0.5284,
+      "nfc": 0.4649,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.2634
+    },
+    {
+      "id": "installation-manager",
+      "label": "Installation Manager",
+      "soc": "47-1011",
+      "ptr": 0.5284,
+      "nfc": 0.4649,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.2634
+    },
+    {
+      "id": "senior-contract-manager",
+      "label": "Senior Contract Manager",
+      "soc": "11-3071",
+      "ptr": 0.6973,
+      "nfc": 0.6126,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "heavy-equipment-operator",
+      "label": "Heavy Equipment Operator",
+      "soc": "53-7199",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "estimating-engineer-construction-repair-maintenance",
+      "label": "Estimating Engineer",
+      "soc": "17-2071",
+      "ptr": 0.847,
+      "nfc": 0.7388,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "cost-consultant",
+      "label": "Cost Consultant",
+      "soc": "13-1051",
+      "ptr": 0.7357,
+      "nfc": 0.6477,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3774
+    },
+    {
+      "id": "painter",
+      "label": "Painter",
+      "soc": "47-2141",
+      "ptr": 0.1769,
+      "nfc": 0.1543,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.075
+    },
+    {
+      "id": "builder",
+      "label": "Builder",
+      "soc": "51-4199",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "structural-engineering-intern-construction-repair-maintenance",
+      "label": "Structural Engineering Intern",
+      "soc": "29-1229",
+      "ptr": 0.4321,
+      "nfc": 0.3799,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "senior-design-coordinator",
+      "label": "Senior Design Coordinator",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "project-estimator",
+      "label": "Project Estimator",
+      "soc": "51-9061",
+      "ptr": 0.4706,
+      "nfc": 0.4088,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.2548
+    },
+    {
+      "id": "safety-engineer-construction-repair-maintenance",
+      "label": "Safety Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8392,
+      "nfc": 0.7336,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "journeyman-plumber",
+      "label": "Journeyman Plumber",
+      "soc": "47-2152",
+      "ptr": 0.1836,
+      "nfc": 0.159,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.0748
+    },
+    {
+      "id": "approved-electrician-construction-repair-maintenance",
+      "label": "Approved Electrician",
+      "soc": "47-2111",
+      "ptr": 0.2944,
+      "nfc": 0.2546,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.1486
+    },
+    {
+      "id": "senior-document-controller-construction-repair-maintenance",
+      "label": "Senior Document Controller",
+      "soc": "15-1299",
+      "ptr": 0.9777,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "lead-document-controller-construction-repair-maintenance",
+      "label": "Lead Document Controller",
+      "soc": "15-1299",
+      "ptr": 0.9777,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "senior-construction-project-manager",
+      "label": "Senior Construction Project Manager",
+      "soc": "15-1299",
+      "ptr": 0.9777,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "architectural-project-manager-construction-repair-maintenance",
+      "label": "Architectural Project Manager",
+      "soc": "15-1299",
+      "ptr": 0.9777,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "electrical-project-manager-construction-repair-maintenance",
+      "label": "Electrical Project Manager",
+      "soc": "15-1299",
+      "ptr": 0.9777,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "senior-mechanical-engineering-project-manager",
+      "label": "Senior Mechanical Engineering Project Manager",
+      "soc": "15-1299",
+      "ptr": 0.9777,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "graduate-project-manager",
+      "label": "Graduate Project Manager",
+      "soc": "15-1299",
+      "ptr": 0.9689,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "assistant-document-controller-construction-repair-maintenance",
+      "label": "Assistant Document Controller",
+      "soc": "15-1299",
+      "ptr": 0.9689,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "design-project-manager",
+      "label": "Design Project Manager",
+      "soc": "15-1299",
+      "ptr": 0.9689,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "survey-project-manager",
+      "label": "Survey Project Manager",
+      "soc": "15-1299",
+      "ptr": 0.9689,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "mechanical-engineering-project-manager",
+      "label": "Mechanical Engineering Project Manager",
+      "soc": "15-1299",
+      "ptr": 0.9689,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "document-control-manager-construction-repair-maintenance",
+      "label": "Document Control Manager",
+      "soc": "15-1299",
+      "ptr": 0.9689,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "assistant-construction-project-manager",
+      "label": "Assistant Construction Project Manager",
+      "soc": "15-1299",
+      "ptr": 0.9689,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "senior-project-scheduler-construction-repair-maintenance",
+      "label": "Senior Project Scheduler",
+      "soc": "43-6013",
+      "ptr": 0.9689,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4243
+    },
+    {
+      "id": "site-administrator",
+      "label": "Site Administrator",
+      "soc": "15-1244",
+      "ptr": 0.9627,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4911
+    },
+    {
+      "id": "senior-contract-administrator",
+      "label": "Senior Contract Administrator",
+      "soc": "15-1244",
+      "ptr": 0.9627,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4911
+    },
+    {
+      "id": "assistant-contract-administrator",
+      "label": "Assistant Contract Administrator",
+      "soc": "15-1244",
+      "ptr": 0.9627,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4911
+    },
+    {
+      "id": "junior-contract-administrator",
+      "label": "Junior Contract Administrator",
+      "soc": "15-1244",
+      "ptr": 0.9627,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4911
+    },
+    {
+      "id": "deputy-project-manager",
+      "label": "Deputy Project Manager",
+      "soc": "15-1299",
+      "ptr": 0.9601,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "senior-geotechnical-engineer-construction-repair-maintenance",
+      "label": "Senior Geotechnical Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8546,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-cost-engineer-construction-repair-maintenance",
+      "label": "Senior Cost Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8546,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "lead-electrical-engineer-construction-repair-maintenance",
+      "label": "Lead Electrical Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8546,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "lead-planning-engineer",
+      "label": "Lead Planning Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8546,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-contract-engineer-construction-repair-maintenance",
+      "label": "Senior Contract Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8546,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    }
+  ],
+  "edges": [
+    {
+      "source": "safety-manager",
+      "target": "construction-manager",
+      "weight": 0.57
+    },
+    {
+      "source": "electrician",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.71
+    },
+    {
+      "source": "site-manager",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.82
+    },
+    {
+      "source": "site-manager",
+      "target": "project-engineer-construction-repair-maintenance",
+      "weight": 0.67
+    },
+    {
+      "source": "surveyor",
+      "target": "superintendent",
+      "weight": 0.68
+    },
+    {
+      "source": "surveyor",
+      "target": "land-surveyor",
+      "weight": 0.96
+    },
+    {
+      "source": "quantity-surveyor",
+      "target": "land-surveyor",
+      "weight": 0.94
+    },
+    {
+      "source": "quantity-surveyor",
+      "target": "site-engineer",
+      "weight": 0.48
+    },
+    {
+      "source": "computer-aided-design-technician",
+      "target": "senior-project-manager",
+      "weight": 0.45
+    },
+    {
+      "source": "field-engineer-construction-repair-maintenance",
+      "target": "construction-manager",
+      "weight": 0.84
+    },
+    {
+      "source": "field-engineer-construction-repair-maintenance",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.89
+    },
+    {
+      "source": "contract-manager",
+      "target": "assistant-project-manager",
+      "weight": 0.9
+    },
+    {
+      "source": "contract-manager",
+      "target": "estimator",
+      "weight": 0.4
+    },
+    {
+      "source": "carpenter",
+      "target": "assistant-project-manager",
+      "weight": 0.98
+    },
+    {
+      "source": "carpenter",
+      "target": "civil-engineer-construction-repair-maintenance",
+      "weight": 0.66
+    },
+    {
+      "source": "survey-party-chief",
+      "target": "land-surveyor",
+      "weight": 0.98
+    },
+    {
+      "source": "survey-party-chief",
+      "target": "civil-engineer-construction-repair-maintenance",
+      "weight": 0.77
+    },
+    {
+      "source": "architectural-designer-construction-repair-maintenance",
+      "target": "construction-manager",
+      "weight": 0.87
+    },
+    {
+      "source": "architectural-designer-construction-repair-maintenance",
+      "target": "land-surveyor",
+      "weight": 0.42
+    },
+    {
+      "source": "senior-project-engineer-construction-repair-maintenance",
+      "target": "estimator",
+      "weight": 0.56
+    },
+    {
+      "source": "senior-project-engineer-construction-repair-maintenance",
+      "target": "assistant-project-manager",
+      "weight": 0.71
+    },
+    {
+      "source": "architect-construction-repair-maintenance",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.86
+    },
+    {
+      "source": "foreman",
+      "target": "civil-engineer-construction-repair-maintenance",
+      "weight": 0.56
+    },
+    {
+      "source": "foreman",
+      "target": "site-engineer",
+      "weight": 0.9
+    },
+    {
+      "source": "project-architect-construction-repair-maintenance",
+      "target": "construction-manager",
+      "weight": 0.48
+    },
+    {
+      "source": "project-architect-construction-repair-maintenance",
+      "target": "site-engineer",
+      "weight": 0.53
+    },
+    {
+      "source": "project-superintendent",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.4
+    },
+    {
+      "source": "project-superintendent",
+      "target": "assistant-project-manager",
+      "weight": 0.63
+    },
+    {
+      "source": "draftsman",
+      "target": "superintendent",
+      "weight": 0.75
+    },
+    {
+      "source": "project-control-construction-repair-maintenance",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.79
+    },
+    {
+      "source": "electrical-engineer-construction-repair-maintenance",
+      "target": "land-surveyor",
+      "weight": 0.45
+    },
+    {
+      "source": "design-manager",
+      "target": "estimator",
+      "weight": 0.8
+    },
+    {
+      "source": "office-engineer",
+      "target": "construction-manager",
+      "weight": 0.84
+    },
+    {
+      "source": "office-engineer",
+      "target": "assistant-project-manager",
+      "weight": 0.6
+    },
+    {
+      "source": "graduate-engineer-construction-repair-maintenance",
+      "target": "civil-engineer-construction-repair-maintenance",
+      "weight": 0.78
+    },
+    {
+      "source": "graduate-engineer-construction-repair-maintenance",
+      "target": "site-engineer",
+      "weight": 0.53
+    },
+    {
+      "source": "geotechnical-engineer-construction-repair-maintenance",
+      "target": "site-engineer",
+      "weight": 0.97
+    },
+    {
+      "source": "construction-consultant",
+      "target": "assistant-project-manager",
+      "weight": 0.72
+    },
+    {
+      "source": "construction-consultant",
+      "target": "superintendent",
+      "weight": 0.4
+    },
+    {
+      "source": "planning-engineer-construction-repair-maintenance",
+      "target": "senior-project-manager",
+      "weight": 0.67
+    },
+    {
+      "source": "planning-engineer-construction-repair-maintenance",
+      "target": "land-surveyor",
+      "weight": 0.72
+    },
+    {
+      "source": "senior-estimator",
+      "target": "construction-manager",
+      "weight": 0.61
+    },
+    {
+      "source": "senior-estimator",
+      "target": "civil-engineer-construction-repair-maintenance",
+      "weight": 0.65
+    },
+    {
+      "source": "project-designer-construction-repair-maintenance",
+      "target": "civil-engineer-construction-repair-maintenance",
+      "weight": 0.98
+    },
+    {
+      "source": "project-designer-construction-repair-maintenance",
+      "target": "project-engineer-construction-repair-maintenance",
+      "weight": 0.54
+    },
+    {
+      "source": "estimating-manager",
+      "target": "construction-manager",
+      "weight": 0.76
+    },
+    {
+      "source": "intern-architect-construction-repair-maintenance",
+      "target": "senior-project-manager",
+      "weight": 0.91
+    },
+    {
+      "source": "highway-engineer-construction-repair-maintenance",
+      "target": "assistant-project-manager",
+      "weight": 0.77
+    },
+    {
+      "source": "highway-engineer-construction-repair-maintenance",
+      "target": "superintendent",
+      "weight": 0.49
+    },
+    {
+      "source": "project-control-engineer-construction-repair-maintenance",
+      "target": "construction-manager",
+      "weight": 0.84
+    },
+    {
+      "source": "architectural-technician-construction-repair-maintenance",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.58
+    },
+    {
+      "source": "construction-supervisor",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.87
+    },
+    {
+      "source": "construction-supervisor",
+      "target": "assistant-project-manager",
+      "weight": 0.64
+    },
+    {
+      "source": "drafter",
+      "target": "senior-project-manager",
+      "weight": 0.42
+    },
+    {
+      "source": "construction-administrator",
+      "target": "project-engineer-construction-repair-maintenance",
+      "weight": 0.73
+    },
+    {
+      "source": "resident-engineer",
+      "target": "civil-engineer-construction-repair-maintenance",
+      "weight": 0.67
+    },
+    {
+      "source": "resident-engineer",
+      "target": "assistant-project-manager",
+      "weight": 0.59
+    },
+    {
+      "source": "cost-engineer-construction-repair-maintenance",
+      "target": "construction-manager",
+      "weight": 0.65
+    },
+    {
+      "source": "cost-engineer-construction-repair-maintenance",
+      "target": "project-engineer-construction-repair-maintenance",
+      "weight": 0.69
+    },
+    {
+      "source": "project-control-manager-construction-repair-maintenance",
+      "target": "site-engineer",
+      "weight": 0.89
+    },
+    {
+      "source": "project-scheduler-construction-repair-maintenance",
+      "target": "civil-engineer-construction-repair-maintenance",
+      "weight": 0.59
+    },
+    {
+      "source": "project-scheduler-construction-repair-maintenance",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.56
+    },
+    {
+      "source": "project-control-specialist-construction-repair-maintenance",
+      "target": "land-surveyor",
+      "weight": 0.57
+    },
+    {
+      "source": "project-control-specialist-construction-repair-maintenance",
+      "target": "site-engineer",
+      "weight": 0.52
+    },
+    {
+      "source": "architectural-assistant-construction-repair-maintenance",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.47
+    },
+    {
+      "source": "architectural-assistant-construction-repair-maintenance",
+      "target": "senior-project-manager",
+      "weight": 0.85
+    },
+    {
+      "source": "contract-engineer-construction-repair-maintenance",
+      "target": "assistant-project-manager",
+      "weight": 0.91
+    },
+    {
+      "source": "contract-engineer-construction-repair-maintenance",
+      "target": "site-engineer",
+      "weight": 0.67
+    },
+    {
+      "source": "senior-surveyor",
+      "target": "site-engineer",
+      "weight": 0.56
+    },
+    {
+      "source": "project-planner-construction-repair-maintenance",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.74
+    },
+    {
+      "source": "project-planner-construction-repair-maintenance",
+      "target": "senior-project-manager",
+      "weight": 0.61
+    },
+    {
+      "source": "construction-coordinator",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.69
+    },
+    {
+      "source": "senior-civil-engineer-construction-repair-maintenance",
+      "target": "construction-manager",
+      "weight": 0.98
+    },
+    {
+      "source": "land-development-manager",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.55
+    },
+    {
+      "source": "land-development-manager",
+      "target": "project-engineer-construction-repair-maintenance",
+      "weight": 0.61
+    },
+    {
+      "source": "contract-administrator",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.73
+    },
+    {
+      "source": "contract-administrator",
+      "target": "land-surveyor",
+      "weight": 0.65
+    },
+    {
+      "source": "senior-electrical-engineer-construction-repair-maintenance",
+      "target": "land-surveyor",
+      "weight": 0.69
+    },
+    {
+      "source": "section-engineer",
+      "target": "project-engineer-construction-repair-maintenance",
+      "weight": 0.6
+    },
+    {
+      "source": "section-engineer",
+      "target": "senior-project-manager",
+      "weight": 0.51
+    },
+    {
+      "source": "assistant-estimator",
+      "target": "project-engineer-construction-repair-maintenance",
+      "weight": 0.74
+    },
+    {
+      "source": "senior-quantity-surveyor",
+      "target": "project-engineer-construction-repair-maintenance",
+      "weight": 0.59
+    },
+    {
+      "source": "senior-quantity-surveyor",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.97
+    },
+    {
+      "source": "instrument-operator-construction-repair-maintenance",
+      "target": "assistant-project-manager",
+      "weight": 0.48
+    },
+    {
+      "source": "instrument-operator-construction-repair-maintenance",
+      "target": "estimator",
+      "weight": 0.87
+    },
+    {
+      "source": "construction-project-manager",
+      "target": "project-engineer-construction-repair-maintenance",
+      "weight": 0.59
+    },
+    {
+      "source": "construction-project-manager",
+      "target": "estimator",
+      "weight": 0.64
+    },
+    {
+      "source": "pipefitter-construction-repair-maintenance",
+      "target": "assistant-project-manager",
+      "weight": 0.43
+    },
+    {
+      "source": "instrument-man-construction-repair-maintenance",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.5
+    },
+    {
+      "source": "construction-superintendent-construction-repair-maintenance",
+      "target": "senior-project-manager",
+      "weight": 0.6
+    },
+    {
+      "source": "site-supervisor",
+      "target": "estimator",
+      "weight": 0.84
+    },
+    {
+      "source": "building-surveyor",
+      "target": "senior-project-manager",
+      "weight": 0.42
+    },
+    {
+      "source": "general-foreman-construction-repair-maintenance",
+      "target": "civil-engineer-construction-repair-maintenance",
+      "weight": 0.6
+    },
+    {
+      "source": "senior-structural-engineer-construction-repair-maintenance",
+      "target": "civil-engineer-construction-repair-maintenance",
+      "weight": 0.5
+    },
+    {
+      "source": "assistant-superintendent",
+      "target": "civil-engineer-construction-repair-maintenance",
+      "weight": 0.46
+    },
+    {
+      "source": "welder-construction-repair-maintenance",
+      "target": "civil-engineer-construction-repair-maintenance",
+      "weight": 0.53
+    },
+    {
+      "source": "welder-construction-repair-maintenance",
+      "target": "land-surveyor",
+      "weight": 0.96
+    },
+    {
+      "source": "safety-officer",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.94
+    },
+    {
+      "source": "job-captain-construction-repair-maintenance",
+      "target": "construction-manager",
+      "weight": 0.57
+    },
+    {
+      "source": "site-agent",
+      "target": "civil-engineer-construction-repair-maintenance",
+      "weight": 0.62
+    },
+    {
+      "source": "senior-mechanical-engineer-construction-repair-maintenance",
+      "target": "project-engineer-construction-repair-maintenance",
+      "weight": 0.64
+    },
+    {
+      "source": "senior-mechanical-engineer-construction-repair-maintenance",
+      "target": "site-engineer",
+      "weight": 0.81
+    },
+    {
+      "source": "plumber",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.89
+    },
+    {
+      "source": "plumber",
+      "target": "land-surveyor",
+      "weight": 0.58
+    },
+    {
+      "source": "construction-engineer-construction-repair-maintenance",
+      "target": "superintendent",
+      "weight": 0.88
+    },
+    {
+      "source": "engineering-surveyor",
+      "target": "construction-manager",
+      "weight": 0.97
+    },
+    {
+      "source": "assistant-project-engineer",
+      "target": "site-engineer",
+      "weight": 0.75
+    },
+    {
+      "source": "assistant-project-engineer",
+      "target": "senior-project-manager",
+      "weight": 0.44
+    },
+    {
+      "source": "safety-coordinator",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.81
+    },
+    {
+      "source": "safety-coordinator",
+      "target": "senior-project-manager",
+      "weight": 0.97
+    },
+    {
+      "source": "assistant-quantity-surveyor",
+      "target": "estimator",
+      "weight": 0.79
+    },
+    {
+      "source": "assistant-quantity-surveyor",
+      "target": "senior-project-manager",
+      "weight": 0.57
+    },
+    {
+      "source": "companion-animal-department-manager",
+      "target": "construction-manager",
+      "weight": 0.77
+    },
+    {
+      "source": "companion-animal-department-manager",
+      "target": "land-surveyor",
+      "weight": 0.96
+    },
+    {
+      "source": "assistant-site-manager",
+      "target": "civil-engineer-construction-repair-maintenance",
+      "weight": 0.45
+    },
+    {
+      "source": "journeyman-electrician",
+      "target": "construction-manager",
+      "weight": 0.98
+    },
+    {
+      "source": "installer",
+      "target": "civil-engineer-construction-repair-maintenance",
+      "weight": 0.43
+    },
+    {
+      "source": "design-coordinator",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.68
+    },
+    {
+      "source": "electrical-project-engineer-construction-repair-maintenance",
+      "target": "superintendent",
+      "weight": 0.89
+    },
+    {
+      "source": "electrical-project-engineer-construction-repair-maintenance",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.46
+    },
+    {
+      "source": "electrical-supervisor-construction-repair-maintenance",
+      "target": "estimator",
+      "weight": 0.45
+    },
+    {
+      "source": "assistant-surveyor",
+      "target": "senior-project-manager",
+      "weight": 0.79
+    },
+    {
+      "source": "cad-designer",
+      "target": "estimator",
+      "weight": 0.98
+    },
+    {
+      "source": "cad-designer",
+      "target": "site-engineer",
+      "weight": 0.94
+    },
+    {
+      "source": "project-surveyor",
+      "target": "land-surveyor",
+      "weight": 0.78
+    },
+    {
+      "source": "quality-control-engineer-construction-repair-maintenance",
+      "target": "assistant-project-manager",
+      "weight": 0.46
+    },
+    {
+      "source": "quality-control-inspector-construction-repair-maintenance",
+      "target": "construction-manager",
+      "weight": 0.63
+    },
+    {
+      "source": "quality-control-inspector-construction-repair-maintenance",
+      "target": "land-surveyor",
+      "weight": 0.47
+    },
+    {
+      "source": "detailer",
+      "target": "project-engineer-construction-repair-maintenance",
+      "weight": 0.56
+    },
+    {
+      "source": "cad-drafter",
+      "target": "civil-engineer-construction-repair-maintenance",
+      "weight": 0.99
+    },
+    {
+      "source": "cad-drafter",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.89
+    },
+    {
+      "source": "cost-manager",
+      "target": "superintendent",
+      "weight": 0.68
+    },
+    {
+      "source": "hvac-technician",
+      "target": "site-engineer",
+      "weight": 0.73
+    },
+    {
+      "source": "electrical-design-engineer-construction-repair-maintenance",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.96
+    },
+    {
+      "source": "document-controller-construction-repair-maintenance",
+      "target": "site-engineer",
+      "weight": 0.69
+    },
+    {
+      "source": "document-controller-construction-repair-maintenance",
+      "target": "estimator",
+      "weight": 0.79
+    },
+    {
+      "source": "welding-inspector-construction-repair-maintenance",
+      "target": "land-surveyor",
+      "weight": 0.91
+    },
+    {
+      "source": "assistant-construction-manager",
+      "target": "civil-engineer-construction-repair-maintenance",
+      "weight": 0.49
+    },
+    {
+      "source": "construction-foreman",
+      "target": "estimator",
+      "weight": 0.44
+    },
+    {
+      "source": "structural-design-engineer-construction-repair-maintenance",
+      "target": "senior-project-manager",
+      "weight": 0.58
+    },
+    {
+      "source": "structural-design-engineer-construction-repair-maintenance",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.55
+    },
+    {
+      "source": "cad-operator",
+      "target": "superintendent",
+      "weight": 0.64
+    },
+    {
+      "source": "cad-operator",
+      "target": "estimator",
+      "weight": 0.45
+    },
+    {
+      "source": "senior-architect-construction-repair-maintenance",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.78
+    },
+    {
+      "source": "senior-architect-construction-repair-maintenance",
+      "target": "site-engineer",
+      "weight": 0.59
+    },
+    {
+      "source": "general-superintendent",
+      "target": "estimator",
+      "weight": 0.4
+    },
+    {
+      "source": "general-superintendent",
+      "target": "project-engineer-construction-repair-maintenance",
+      "weight": 0.95
+    },
+    {
+      "source": "survey-crew-chief-construction-repair-maintenance",
+      "target": "site-engineer",
+      "weight": 0.76
+    },
+    {
+      "source": "bridge-engineer-construction-repair-maintenance",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.87
+    },
+    {
+      "source": "architectural-technologist-construction-repair-maintenance",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.48
+    },
+    {
+      "source": "architectural-technologist-construction-repair-maintenance",
+      "target": "land-surveyor",
+      "weight": 0.94
+    },
+    {
+      "source": "senior-site-manager",
+      "target": "superintendent",
+      "weight": 0.55
+    },
+    {
+      "source": "electrical-foreman-construction-repair-maintenance",
+      "target": "land-surveyor",
+      "weight": 0.69
+    },
+    {
+      "source": "electrical-foreman-construction-repair-maintenance",
+      "target": "civil-engineer-construction-repair-maintenance",
+      "weight": 0.91
+    },
+    {
+      "source": "installation-manager",
+      "target": "civil-engineer-construction-repair-maintenance",
+      "weight": 0.51
+    },
+    {
+      "source": "senior-contract-manager",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.42
+    },
+    {
+      "source": "heavy-equipment-operator",
+      "target": "senior-project-manager",
+      "weight": 0.71
+    },
+    {
+      "source": "estimating-engineer-construction-repair-maintenance",
+      "target": "senior-project-manager",
+      "weight": 0.75
+    },
+    {
+      "source": "estimating-engineer-construction-repair-maintenance",
+      "target": "assistant-project-manager",
+      "weight": 0.49
+    },
+    {
+      "source": "cost-consultant",
+      "target": "construction-manager",
+      "weight": 0.49
+    },
+    {
+      "source": "painter",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.6
+    },
+    {
+      "source": "painter",
+      "target": "project-engineer-construction-repair-maintenance",
+      "weight": 0.49
+    },
+    {
+      "source": "builder",
+      "target": "civil-engineer-construction-repair-maintenance",
+      "weight": 0.89
+    },
+    {
+      "source": "structural-engineering-intern-construction-repair-maintenance",
+      "target": "senior-project-manager",
+      "weight": 0.48
+    },
+    {
+      "source": "senior-design-coordinator",
+      "target": "construction-manager",
+      "weight": 0.95
+    },
+    {
+      "source": "project-estimator",
+      "target": "construction-manager",
+      "weight": 0.54
+    },
+    {
+      "source": "safety-engineer-construction-repair-maintenance",
+      "target": "land-surveyor",
+      "weight": 0.46
+    },
+    {
+      "source": "safety-engineer-construction-repair-maintenance",
+      "target": "site-engineer",
+      "weight": 0.4
+    },
+    {
+      "source": "journeyman-plumber",
+      "target": "senior-project-manager",
+      "weight": 0.53
+    },
+    {
+      "source": "approved-electrician-construction-repair-maintenance",
+      "target": "estimator",
+      "weight": 0.86
+    },
+    {
+      "source": "senior-document-controller-construction-repair-maintenance",
+      "target": "site-engineer",
+      "weight": 0.61
+    },
+    {
+      "source": "lead-document-controller-construction-repair-maintenance",
+      "target": "assistant-project-manager",
+      "weight": 0.52
+    },
+    {
+      "source": "senior-construction-project-manager",
+      "target": "construction-manager",
+      "weight": 0.46
+    },
+    {
+      "source": "senior-construction-project-manager",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.95
+    },
+    {
+      "source": "architectural-project-manager-construction-repair-maintenance",
+      "target": "land-surveyor",
+      "weight": 0.52
+    },
+    {
+      "source": "architectural-project-manager-construction-repair-maintenance",
+      "target": "senior-project-manager",
+      "weight": 0.43
+    },
+    {
+      "source": "electrical-project-manager-construction-repair-maintenance",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.86
+    },
+    {
+      "source": "electrical-project-manager-construction-repair-maintenance",
+      "target": "superintendent",
+      "weight": 0.78
+    },
+    {
+      "source": "senior-mechanical-engineering-project-manager",
+      "target": "senior-project-manager",
+      "weight": 0.78
+    },
+    {
+      "source": "senior-mechanical-engineering-project-manager",
+      "target": "site-engineer",
+      "weight": 0.41
+    },
+    {
+      "source": "graduate-project-manager",
+      "target": "project-engineer-construction-repair-maintenance",
+      "weight": 0.95
+    },
+    {
+      "source": "assistant-document-controller-construction-repair-maintenance",
+      "target": "estimator",
+      "weight": 0.69
+    },
+    {
+      "source": "design-project-manager",
+      "target": "civil-engineer-construction-repair-maintenance",
+      "weight": 0.83
+    },
+    {
+      "source": "survey-project-manager",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 1
+    },
+    {
+      "source": "mechanical-engineering-project-manager",
+      "target": "project-engineer-construction-repair-maintenance",
+      "weight": 0.57
+    },
+    {
+      "source": "mechanical-engineering-project-manager",
+      "target": "assistant-project-manager",
+      "weight": 0.87
+    },
+    {
+      "source": "document-control-manager-construction-repair-maintenance",
+      "target": "land-surveyor",
+      "weight": 0.67
+    },
+    {
+      "source": "document-control-manager-construction-repair-maintenance",
+      "target": "assistant-project-manager",
+      "weight": 0.71
+    },
+    {
+      "source": "assistant-construction-project-manager",
+      "target": "estimator",
+      "weight": 0.46
+    },
+    {
+      "source": "assistant-construction-project-manager",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.52
+    },
+    {
+      "source": "senior-project-scheduler-construction-repair-maintenance",
+      "target": "superintendent",
+      "weight": 0.68
+    },
+    {
+      "source": "site-administrator",
+      "target": "construction-manager",
+      "weight": 0.82
+    },
+    {
+      "source": "site-administrator",
+      "target": "superintendent",
+      "weight": 0.56
+    },
+    {
+      "source": "senior-contract-administrator",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.68
+    },
+    {
+      "source": "assistant-contract-administrator",
+      "target": "assistant-project-manager",
+      "weight": 0.74
+    },
+    {
+      "source": "assistant-contract-administrator",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.83
+    },
+    {
+      "source": "junior-contract-administrator",
+      "target": "estimator",
+      "weight": 0.91
+    },
+    {
+      "source": "deputy-project-manager",
+      "target": "site-engineer",
+      "weight": 0.47
+    },
+    {
+      "source": "senior-geotechnical-engineer-construction-repair-maintenance",
+      "target": "construction-manager",
+      "weight": 0.82
+    },
+    {
+      "source": "senior-geotechnical-engineer-construction-repair-maintenance",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-cost-engineer-construction-repair-maintenance",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.52
+    },
+    {
+      "source": "lead-electrical-engineer-construction-repair-maintenance",
+      "target": "civil-engineer-construction-repair-maintenance",
+      "weight": 0.71
+    },
+    {
+      "source": "lead-planning-engineer",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.46
+    },
+    {
+      "source": "senior-contract-engineer-construction-repair-maintenance",
+      "target": "site-engineer",
+      "weight": 0.86
+    },
+    {
+      "source": "senior-contract-engineer-construction-repair-maintenance",
+      "target": "construction-manager",
+      "weight": 0.74
+    },
+    {
+      "source": "project-engineer-construction-repair-maintenance",
+      "target": "site-engineer",
+      "weight": 0.94
+    },
+    {
+      "source": "project-engineer-construction-repair-maintenance",
+      "target": "land-surveyor",
+      "weight": 0.91
+    },
+    {
+      "source": "project-engineer-construction-repair-maintenance",
+      "target": "civil-engineer-construction-repair-maintenance",
+      "weight": 0.64
+    },
+    {
+      "source": "site-engineer",
+      "target": "estimator",
+      "weight": 0.8
+    },
+    {
+      "source": "site-engineer",
+      "target": "land-surveyor",
+      "weight": 0.9
+    },
+    {
+      "source": "site-engineer",
+      "target": "construction-manager",
+      "weight": 0.73
+    },
+    {
+      "source": "site-engineer",
+      "target": "civil-engineer-construction-repair-maintenance",
+      "weight": 0.65
+    },
+    {
+      "source": "site-engineer",
+      "target": "assistant-project-manager",
+      "weight": 0.82
+    },
+    {
+      "source": "site-engineer",
+      "target": "senior-project-manager",
+      "weight": 0.65
+    },
+    {
+      "source": "site-engineer",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.94
+    },
+    {
+      "source": "estimator",
+      "target": "construction-manager",
+      "weight": 0.81
+    },
+    {
+      "source": "estimator",
+      "target": "civil-engineer-construction-repair-maintenance",
+      "weight": 0.96
+    },
+    {
+      "source": "estimator",
+      "target": "superintendent",
+      "weight": 0.91
+    },
+    {
+      "source": "estimator",
+      "target": "assistant-project-manager",
+      "weight": 0.68
+    },
+    {
+      "source": "estimator",
+      "target": "senior-project-manager",
+      "weight": 0.91
+    },
+    {
+      "source": "estimator",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.68
+    },
+    {
+      "source": "land-surveyor",
+      "target": "civil-engineer-construction-repair-maintenance",
+      "weight": 0.83
+    },
+    {
+      "source": "land-surveyor",
+      "target": "superintendent",
+      "weight": 0.95
+    },
+    {
+      "source": "land-surveyor",
+      "target": "assistant-project-manager",
+      "weight": 0.9
+    },
+    {
+      "source": "land-surveyor",
+      "target": "senior-project-manager",
+      "weight": 0.89
+    },
+    {
+      "source": "land-surveyor",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.72
+    },
+    {
+      "source": "construction-manager",
+      "target": "superintendent",
+      "weight": 0.68
+    },
+    {
+      "source": "construction-manager",
+      "target": "assistant-project-manager",
+      "weight": 0.66
+    },
+    {
+      "source": "construction-manager",
+      "target": "senior-project-manager",
+      "weight": 0.73
+    },
+    {
+      "source": "construction-manager",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.75
+    },
+    {
+      "source": "civil-engineer-construction-repair-maintenance",
+      "target": "superintendent",
+      "weight": 0.78
+    },
+    {
+      "source": "civil-engineer-construction-repair-maintenance",
+      "target": "assistant-project-manager",
+      "weight": 0.76
+    },
+    {
+      "source": "civil-engineer-construction-repair-maintenance",
+      "target": "senior-project-manager",
+      "weight": 0.99
+    },
+    {
+      "source": "civil-engineer-construction-repair-maintenance",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.63
+    },
+    {
+      "source": "superintendent",
+      "target": "assistant-project-manager",
+      "weight": 0.74
+    },
+    {
+      "source": "superintendent",
+      "target": "senior-project-manager",
+      "weight": 0.85
+    },
+    {
+      "source": "superintendent",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.98
+    },
+    {
+      "source": "assistant-project-manager",
+      "target": "senior-project-manager",
+      "weight": 0.81
+    },
+    {
+      "source": "assistant-project-manager",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.96
+    },
+    {
+      "source": "senior-project-manager",
+      "target": "structural-engineer-construction-repair-maintenance",
+      "weight": 0.62
+    },
+    {
+      "source": "safety-manager",
+      "target": "land-development-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "site-manager",
+      "target": "survey-crew-chief-construction-repair-maintenance",
+      "weight": 0.7
+    },
+    {
+      "source": "contract-manager",
+      "target": "construction-administrator",
+      "weight": 0.7
+    },
+    {
+      "source": "contract-manager",
+      "target": "senior-contract-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "construction-administrator",
+      "target": "senior-contract-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "survey-party-chief",
+      "target": "job-captain-construction-repair-maintenance",
+      "weight": 0.7
+    },
+    {
+      "source": "foreman",
+      "target": "project-control-specialist-construction-repair-maintenance",
+      "weight": 0.7
+    },
+    {
+      "source": "foreman",
+      "target": "instrument-man-construction-repair-maintenance",
+      "weight": 0.7
+    },
+    {
+      "source": "foreman",
+      "target": "general-foreman-construction-repair-maintenance",
+      "weight": 0.7
+    },
+    {
+      "source": "project-control-specialist-construction-repair-maintenance",
+      "target": "instrument-man-construction-repair-maintenance",
+      "weight": 0.7
+    },
+    {
+      "source": "project-control-specialist-construction-repair-maintenance",
+      "target": "general-foreman-construction-repair-maintenance",
+      "weight": 0.7
+    },
+    {
+      "source": "instrument-man-construction-repair-maintenance",
+      "target": "general-foreman-construction-repair-maintenance",
+      "weight": 0.7
+    },
+    {
+      "source": "project-control-construction-repair-maintenance",
+      "target": "project-control-manager-construction-repair-maintenance",
+      "weight": 0.7
+    },
+    {
+      "source": "intern-architect-construction-repair-maintenance",
+      "target": "structural-engineering-intern-construction-repair-maintenance",
+      "weight": 0.7
+    },
+    {
+      "source": "construction-supervisor",
+      "target": "site-supervisor",
+      "weight": 0.7
+    },
+    {
+      "source": "project-scheduler-construction-repair-maintenance",
+      "target": "senior-project-scheduler-construction-repair-maintenance",
+      "weight": 0.7
+    },
+    {
+      "source": "instrument-operator-construction-repair-maintenance",
+      "target": "cad-operator",
+      "weight": 0.7
+    },
+    {
+      "source": "construction-superintendent-construction-repair-maintenance",
+      "target": "electrical-foreman-construction-repair-maintenance",
+      "weight": 0.7
+    },
+    {
+      "source": "construction-superintendent-construction-repair-maintenance",
+      "target": "installation-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "electrical-foreman-construction-repair-maintenance",
+      "target": "installation-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "site-agent",
+      "target": "cost-consultant",
+      "weight": 0.7
+    }
+  ]
+}

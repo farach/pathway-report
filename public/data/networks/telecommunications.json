@@ -1,0 +1,2791 @@
+{
+  "sector": "Telecommunications",
+  "metadata": {
+    "nodeCount": 150,
+    "edgeCount": 258,
+    "generatedAt": "2026-01-31T16:46:33Z"
+  },
+  "nodes": [
+    {
+      "id": "senior-engineer",
+      "label": "Senior Engineer",
+      "soc": "17-2071",
+      "ptr": 0.2618,
+      "nfc": 0.6739,
+      "quadrant": "LH",
+      "size": 17.73,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-software-engineer-telecommunications",
+      "label": "Senior Software Engineer",
+      "soc": "17-2071",
+      "ptr": 0,
+      "nfc": 0.6732,
+      "quadrant": "LH",
+      "size": 13.58,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "network-engineer-telecommunications",
+      "label": "Network Engineer",
+      "soc": "17-2071",
+      "ptr": 0.3337,
+      "nfc": 0.6725,
+      "quadrant": "LH",
+      "size": 12.67,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "systems-engineer-telecommunications",
+      "label": "Systems Engineer",
+      "soc": "17-2071",
+      "ptr": 0.1309,
+      "nfc": 0.6719,
+      "quadrant": "LH",
+      "size": 10.46,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-hardware-engineer-telecommunications",
+      "label": "Senior Hardware Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6413,
+      "nfc": 0.6712,
+      "quadrant": "LH",
+      "size": 7.88,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "technical-project-manager-telecommunications",
+      "label": "Technical Project Manager",
+      "soc": "15-1299",
+      "ptr": 0.9413,
+      "nfc": 0.9842,
+      "quadrant": "HH",
+      "size": 6.54,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "solution-architect-telecommunications",
+      "label": "Solution Architect",
+      "soc": "17-1011",
+      "ptr": 0.4995,
+      "nfc": 0.533,
+      "quadrant": "LH",
+      "size": 6.38,
+      "aiExposure": 0.3316
+    },
+    {
+      "id": "support-engineer-telecommunications",
+      "label": "Support Engineer",
+      "soc": "17-2071",
+      "ptr": 0.4242,
+      "nfc": 0.6692,
+      "quadrant": "LH",
+      "size": 6.3,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "software-development-engineer-telecommunications",
+      "label": "Software Development Engineer",
+      "soc": "17-2071",
+      "ptr": 0.5781,
+      "nfc": 0.6685,
+      "quadrant": "LH",
+      "size": 6.28,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-network-engineer-telecommunications",
+      "label": "Senior Network Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6209,
+      "nfc": 0.6679,
+      "quadrant": "LH",
+      "size": 6.25,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "test-engineer-telecommunications",
+      "label": "Test Engineer",
+      "soc": "17-2121",
+      "ptr": 0.2025,
+      "nfc": 0.3441,
+      "quadrant": "LH",
+      "size": 6.24,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "network-specialist-telecommunications",
+      "label": "Network Specialist",
+      "soc": "15-1241",
+      "ptr": 0.9248,
+      "nfc": 0.9612,
+      "quadrant": "HH",
+      "size": 6.13,
+      "aiExposure": 0.4436
+    },
+    {
+      "id": "service-delivery-manager-telecommunications",
+      "label": "Service Delivery Manager",
+      "soc": "11-3071",
+      "ptr": 0.491,
+      "nfc": 0.5208,
+      "quadrant": "LH",
+      "size": 6.09,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "radio-frequency-engineer",
+      "label": "Radio Frequency Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6278,
+      "nfc": 0.6652,
+      "quadrant": "LH",
+      "size": 6.02,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "field-engineer-telecommunications",
+      "label": "Field Engineer",
+      "soc": "17-2071",
+      "ptr": 0.5317,
+      "nfc": 0.6645,
+      "quadrant": "LH",
+      "size": 6.01,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "technical-support-engineer-telecommunications",
+      "label": "Technical Support Engineer",
+      "soc": "17-2071",
+      "ptr": 0.4898,
+      "nfc": 0.6638,
+      "quadrant": "LH",
+      "size": 5.92,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-systems-engineer-telecommunications",
+      "label": "Senior Systems Engineer",
+      "soc": "17-2071",
+      "ptr": 0.614,
+      "nfc": 0.6632,
+      "quadrant": "LH",
+      "size": 5.9,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "engineer-iii-telecommunications",
+      "label": "Engineer III",
+      "soc": "17-2071",
+      "ptr": 0.6278,
+      "nfc": 0.6625,
+      "quadrant": "LH",
+      "size": 5.83,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-sales-engineer-telecommunications",
+      "label": "Senior Sales Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6545,
+      "nfc": 0.6618,
+      "quadrant": "HH",
+      "size": 5.77,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "software-test-engineer-telecommunications",
+      "label": "Software Test Engineer",
+      "soc": "17-2071",
+      "ptr": 0.614,
+      "nfc": 0.6611,
+      "quadrant": "LH",
+      "size": 5.68,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "software-intern-developer",
+      "label": "Software Intern Developer",
+      "soc": "51-9151",
+      "ptr": 0.2007,
+      "nfc": 0.1986,
+      "quadrant": "LH",
+      "size": 5.65,
+      "aiExposure": 0.244
+    },
+    {
+      "id": "solution-manager",
+      "label": "Solution Manager",
+      "soc": "11-3071",
+      "ptr": 0.5068,
+      "nfc": 0.516,
+      "quadrant": "LH",
+      "size": 5.54,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "senior-test-engineer-telecommunications",
+      "label": "Senior Test Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6545,
+      "nfc": 0.6591,
+      "quadrant": "HH",
+      "size": 5.47,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "staff-engineer-telecommunications",
+      "label": "Staff Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6413,
+      "nfc": 0.6584,
+      "quadrant": "LH",
+      "size": 5.45,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "test-automation-engineer-telecommunications",
+      "label": "Test Automation Engineer",
+      "soc": "17-2121",
+      "ptr": 0.3409,
+      "nfc": 0.3392,
+      "quadrant": "LH",
+      "size": 5.45,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "embedded-software-engineer-telecommunications",
+      "label": "Embedded Software Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6479,
+      "nfc": 0.657,
+      "quadrant": "HH",
+      "size": 5.42,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-radio-frequency-engineer",
+      "label": "Senior Radio Frequency Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6675,
+      "nfc": 0.6564,
+      "quadrant": "HH",
+      "size": 5.4,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "network-analyst-telecommunications",
+      "label": "Network Analyst",
+      "soc": "13-2054",
+      "ptr": 0.5873,
+      "nfc": 0.6272,
+      "quadrant": "LH",
+      "size": 5.34,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "hardware-engineer-telecommunications",
+      "label": "Hardware Engineer",
+      "soc": "17-2071",
+      "ptr": 0.5781,
+      "nfc": 0.655,
+      "quadrant": "LH",
+      "size": 5.32,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "technical-account-manager-telecommunications",
+      "label": "Technical Account Manager",
+      "soc": "11-2022",
+      "ptr": 0.3936,
+      "nfc": 0.3935,
+      "quadrant": "LH",
+      "size": 5.31,
+      "aiExposure": 0.3071
+    },
+    {
+      "id": "network-consultant-telecommunications",
+      "label": "Network Consultant",
+      "soc": "15-1241",
+      "ptr": 0.9439,
+      "nfc": 0.9426,
+      "quadrant": "HH",
+      "size": 5.26,
+      "aiExposure": 0.4436
+    },
+    {
+      "id": "senior-technical-support-engineer-telecommunications",
+      "label": "Senior Technical Support Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6545,
+      "nfc": 0.6529,
+      "quadrant": "HH",
+      "size": 5.25,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "sales-engineering-manager",
+      "label": "Sales Engineering Manager",
+      "soc": "41-9031",
+      "ptr": 0.6234,
+      "nfc": 0.6092,
+      "quadrant": "LH",
+      "size": 5.25,
+      "aiExposure": 0.4042
+    },
+    {
+      "id": "verification-engineer-telecommunications",
+      "label": "Verification Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6545,
+      "nfc": 0.6516,
+      "quadrant": "HH",
+      "size": 5.23,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "test-engineering-manager-telecommunications",
+      "label": "Test Engineering Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.22,
+      "aiExposure": 0
+    },
+    {
+      "id": "network-security-engineer-telecommunications",
+      "label": "Network Security Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6545,
+      "nfc": 0.6502,
+      "quadrant": "HH",
+      "size": 5.22,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-staff-software-engineer-telecommunications",
+      "label": "Senior Staff Software Engineer",
+      "soc": "17-2071",
+      "ptr": 0.661,
+      "nfc": 0.6481,
+      "quadrant": "HH",
+      "size": 5.22,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "engineering-vice-president-telecommunications",
+      "label": "Engineering Vice President",
+      "soc": "11-1011",
+      "ptr": 0.6196,
+      "nfc": 0.6016,
+      "quadrant": "LH",
+      "size": 5.22,
+      "aiExposure": 0.3316
+    },
+    {
+      "id": "regional-finance-manager",
+      "label": "Regional Finance Manager",
+      "soc": "11-3031",
+      "ptr": 0.5082,
+      "nfc": 0.4935,
+      "quadrant": "LH",
+      "size": 5.22,
+      "aiExposure": 0.3169
+    },
+    {
+      "id": "senior-firmware-engineer-telecommunications",
+      "label": "Senior Firmware Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6675,
+      "nfc": 0.6474,
+      "quadrant": "HH",
+      "size": 5.22,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "software-specialist-telecommunications",
+      "label": "Software Specialist",
+      "soc": "15-1252",
+      "ptr": 0.9786,
+      "nfc": 0.9492,
+      "quadrant": "HH",
+      "size": 5.22,
+      "aiExposure": 0.5733
+    },
+    {
+      "id": "software-project-manager-telecommunications",
+      "label": "Software Project Manager",
+      "soc": "15-1299",
+      "ptr": 0.9797,
+      "nfc": 0.9411,
+      "quadrant": "HH",
+      "size": 5.22,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "executive-engineer",
+      "label": "Executive Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6675,
+      "nfc": 0.6412,
+      "quadrant": "HH",
+      "size": 5.22,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "technical-product-manager",
+      "label": "Technical Product Manager",
+      "soc": "11-2021",
+      "ptr": 0.5643,
+      "nfc": 0.5473,
+      "quadrant": "LH",
+      "size": 5.22,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "technical-leader-telecommunications",
+      "label": "Technical Leader",
+      "soc": "11-9199",
+      "ptr": 0.5539,
+      "nfc": 0.5373,
+      "quadrant": "LH",
+      "size": 5.22,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "product-architect-telecommunications",
+      "label": "Product Architect",
+      "soc": "17-1011",
+      "ptr": 0.5311,
+      "nfc": 0.5101,
+      "quadrant": "LH",
+      "size": 5.22,
+      "aiExposure": 0.3316
+    },
+    {
+      "id": "technology-architect-telecommunications",
+      "label": "Technology Architect",
+      "soc": "17-1011",
+      "ptr": 0.5259,
+      "nfc": 0.5101,
+      "quadrant": "LH",
+      "size": 5.22,
+      "aiExposure": 0.3316
+    },
+    {
+      "id": "technical-staff-member-telecommunications",
+      "label": "Technical Staff Member",
+      "soc": "19-4031",
+      "ptr": 0.2204,
+      "nfc": 0.2384,
+      "quadrant": "LH",
+      "size": 5.22,
+      "aiExposure": 0.2663
+    },
+    {
+      "id": "technical-staff-senior-member-telecommunications",
+      "label": "Technical Staff Senior Member",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.22,
+      "aiExposure": 0
+    },
+    {
+      "id": "senior-software-test-engineer-telecommunications",
+      "label": "Senior Software Test Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6675,
+      "nfc": 0.6405,
+      "quadrant": "HH",
+      "size": 5.22,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "rf-design-engineer-telecommunications",
+      "label": "RF Design Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6545,
+      "nfc": 0.6398,
+      "quadrant": "HH",
+      "size": 5.22,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "advisor-engineer-telecommunications",
+      "label": "Advisor Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6675,
+      "nfc": 0.6391,
+      "quadrant": "HH",
+      "size": 5.2,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "telecommunications-specialist",
+      "label": "Telecommunications Specialist",
+      "soc": "43-5031",
+      "ptr": 0.9642,
+      "nfc": 0.9312,
+      "quadrant": "HH",
+      "size": 5.19,
+      "aiExposure": 0.5011
+    },
+    {
+      "id": "telecommunications-engineer",
+      "label": "Telecommunications Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6545,
+      "nfc": 0.6377,
+      "quadrant": "HH",
+      "size": 5.19,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "business-account-executive",
+      "label": "Business Account Executive",
+      "soc": "11-2011",
+      "ptr": 0.4773,
+      "nfc": 0.4692,
+      "quadrant": "LH",
+      "size": 5.18,
+      "aiExposure": 0.3326
+    },
+    {
+      "id": "staff-software-engineer-telecommunications",
+      "label": "Staff Software Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6479,
+      "nfc": 0.6363,
+      "quadrant": "HH",
+      "size": 5.17,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "pre-sales-engineer-telecommunications",
+      "label": "Pre Sales Engineer",
+      "soc": "17-2071",
+      "ptr": 0.661,
+      "nfc": 0.6356,
+      "quadrant": "HH",
+      "size": 5.12,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "firmware-engineer-telecommunications",
+      "label": "Firmware Engineer",
+      "soc": "17-2071",
+      "ptr": 0.661,
+      "nfc": 0.6349,
+      "quadrant": "HH",
+      "size": 5.12,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "intern-developer",
+      "label": "Intern Developer",
+      "soc": "51-9151",
+      "ptr": 0.1988,
+      "nfc": 0.1907,
+      "quadrant": "LH",
+      "size": 5.12,
+      "aiExposure": 0.244
+    },
+    {
+      "id": "solution-consultant-telecommunications",
+      "label": "Solution Consultant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.11,
+      "aiExposure": 0
+    },
+    {
+      "id": "network-operation-manager",
+      "label": "Network Operation Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.1,
+      "aiExposure": 0
+    },
+    {
+      "id": "technical-marketing-engineer-telecommunications",
+      "label": "Technical Marketing Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6675,
+      "nfc": 0.6292,
+      "quadrant": "HH",
+      "size": 5.1,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "systems-integration-engineer-telecommunications",
+      "label": "Systems Integration Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6545,
+      "nfc": 0.6292,
+      "quadrant": "HH",
+      "size": 5.1,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "product-line-manager",
+      "label": "Product Line Manager",
+      "soc": "11-2021",
+      "ptr": 0.5698,
+      "nfc": 0.5371,
+      "quadrant": "LH",
+      "size": 5.1,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "network-service-manager",
+      "label": "Network Service Manager",
+      "soc": "11-2022",
+      "ptr": 0.4014,
+      "nfc": 0.3784,
+      "quadrant": "LH",
+      "size": 5.1,
+      "aiExposure": 0.3071
+    },
+    {
+      "id": "network-designer",
+      "label": "Network Designer",
+      "soc": "17-2121",
+      "ptr": 0.3442,
+      "nfc": 0.3245,
+      "quadrant": "LH",
+      "size": 5.1,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "major-account-manager",
+      "label": "Major Account Manager",
+      "soc": "11-2022",
+      "ptr": 0.3936,
+      "nfc": 0.378,
+      "quadrant": "LH",
+      "size": 5.1,
+      "aiExposure": 0.3071
+    },
+    {
+      "id": "software-engineering-manager-telecommunications",
+      "label": "Software Engineering Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.1,
+      "aiExposure": 0
+    },
+    {
+      "id": "retail-store-manager-telecommunications",
+      "label": "Retail Store Manager",
+      "soc": "41-1011",
+      "ptr": 0.5079,
+      "nfc": 0.4818,
+      "quadrant": "LH",
+      "size": 5.08,
+      "aiExposure": 0.3083
+    },
+    {
+      "id": "systems-architect-telecommunications",
+      "label": "Systems Architect",
+      "soc": "15-1252",
+      "ptr": 0.9689,
+      "nfc": 0.9272,
+      "quadrant": "HH",
+      "size": 5.07,
+      "aiExposure": 0.5733
+    },
+    {
+      "id": "retail-sales-manager",
+      "label": "Retail Sales Manager",
+      "soc": "11-2021",
+      "ptr": 0.5643,
+      "nfc": 0.5335,
+      "quadrant": "LH",
+      "size": 5.05,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "global-account-manager",
+      "label": "Global Account Manager",
+      "soc": "11-2022",
+      "ptr": 0.3897,
+      "nfc": 0.3758,
+      "quadrant": "LH",
+      "size": 5.05,
+      "aiExposure": 0.3071
+    },
+    {
+      "id": "security-engineer-telecommunications",
+      "label": "Security Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6479,
+      "nfc": 0.6242,
+      "quadrant": "HH",
+      "size": 5.04,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "implementation-engineer-telecommunications",
+      "label": "Implementation Engineer",
+      "soc": "17-2071",
+      "ptr": 0.661,
+      "nfc": 0.622,
+      "quadrant": "HH",
+      "size": 5.04,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "operation-engineer-telecommunications",
+      "label": "Operation Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6413,
+      "nfc": 0.622,
+      "quadrant": "LH",
+      "size": 5.04,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "customer-support-engineer-telecommunications",
+      "label": "Customer Support Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6413,
+      "nfc": 0.622,
+      "quadrant": "LH",
+      "size": 5.04,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-staff-engineer-telecommunications",
+      "label": "Senior Staff Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6675,
+      "nfc": 0.6213,
+      "quadrant": "HH",
+      "size": 5.04,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "network-technician-telecommunications",
+      "label": "Network Technician",
+      "soc": "17-3023",
+      "ptr": 0.2445,
+      "nfc": 0.256,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.3042
+    },
+    {
+      "id": "installation-engineer",
+      "label": "Installation Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6413,
+      "nfc": 0.6192,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "business-sales-manager",
+      "label": "Business Sales Manager",
+      "soc": "11-2021",
+      "ptr": 0.5698,
+      "nfc": 0.5285,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "retail-associate-manager",
+      "label": "Retail Associate Manager",
+      "soc": "41-2031",
+      "ptr": 0.1947,
+      "nfc": 0.1804,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.3204
+    },
+    {
+      "id": "software-design-engineer-telecommunications",
+      "label": "Software Design Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6209,
+      "nfc": 0.6177,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "principal-software-engineer-telecommunications",
+      "label": "Principal Software Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6675,
+      "nfc": 0.617,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "second-line-support-telecommunications",
+      "label": "Second Line Support",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.01,
+      "aiExposure": 0
+    },
+    {
+      "id": "network-analyst-ii-telecommunications",
+      "label": "Network Analyst II",
+      "soc": "13-2054",
+      "ptr": 0.6385,
+      "nfc": 0.5881,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "solution-specialist",
+      "label": "Solution Specialist",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.01,
+      "aiExposure": 0
+    },
+    {
+      "id": "manufacturing-test-engineer-telecommunications",
+      "label": "Manufacturing Test Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6675,
+      "nfc": 0.6119,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "test-development-engineer-telecommunications",
+      "label": "Test Development Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6545,
+      "nfc": 0.6119,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "integration-engineer-telecommunications",
+      "label": "Integration Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6545,
+      "nfc": 0.6119,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "systems-test-engineer-telecommunications",
+      "label": "Systems Test Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6346,
+      "nfc": 0.6119,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "hardware-design-engineer-telecommunications",
+      "label": "Hardware Design Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6413,
+      "nfc": 0.6111,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-software-quality-assurance-engineer-telecommunications",
+      "label": "Senior Software Quality Assurance Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6675,
+      "nfc": 0.6104,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "retail-sales-consultant",
+      "label": "Retail Sales Consultant",
+      "soc": "41-4012",
+      "ptr": 0.9057,
+      "nfc": 0.86,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.4628
+    },
+    {
+      "id": "network-operation-center-technician-telecommunications",
+      "label": "Network Operation Center Technician",
+      "soc": "17-3023",
+      "ptr": 0.27,
+      "nfc": 0.2512,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3042
+    },
+    {
+      "id": "network-architect-telecommunications",
+      "label": "Network Architect",
+      "soc": "15-1241",
+      "ptr": 0.9626,
+      "nfc": 0.8771,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.4436
+    },
+    {
+      "id": "staff-firmware-engineer-telecommunications",
+      "label": "Staff Firmware Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6675,
+      "nfc": 0.6075,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-support-engineer-telecommunications",
+      "label": "Senior Support Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6675,
+      "nfc": 0.6067,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "enterprise-account-executive-telecommunications",
+      "label": "Enterprise Account Executive",
+      "soc": "41-4012",
+      "ptr": 0.9427,
+      "nfc": 0.8517,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4628
+    },
+    {
+      "id": "field-application-engineer-telecommunications",
+      "label": "Field Application Engineer",
+      "soc": "17-2071",
+      "ptr": 0.661,
+      "nfc": 0.603,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "helpdesk-technician",
+      "label": "Helpdesk Technician",
+      "soc": "17-3023",
+      "ptr": 0.2562,
+      "nfc": 0.2488,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3042
+    },
+    {
+      "id": "pre-sales-telecommunications",
+      "label": "Pre Sales",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "implementation-manager",
+      "label": "Implementation Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "pre-sales-manager-telecommunications",
+      "label": "Pre Sales Manager",
+      "soc": "11-2021",
+      "ptr": 0.5643,
+      "nfc": 0.5116,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "business-account-manager",
+      "label": "Business Account Manager",
+      "soc": "11-2022",
+      "ptr": 0.3976,
+      "nfc": 0.3604,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3071
+    },
+    {
+      "id": "technical-support-representative-ii-telecommunications",
+      "label": "Technical Support Representative II",
+      "soc": "11-1031",
+      "ptr": 0.2622,
+      "nfc": 0.2354,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3345
+    },
+    {
+      "id": "network-operation-supervisor",
+      "label": "Network Operation Supervisor",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "technical-team-support-lead",
+      "label": "Technical Team Support Lead",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "solution-engineer-telecommunications",
+      "label": "Solution Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6545,
+      "nfc": 0.5986,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "technical-support-engineer-ii-telecommunications",
+      "label": "Technical Support Engineer II",
+      "soc": "17-2071",
+      "ptr": 0.6675,
+      "nfc": 0.5978,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-technical-support-telecommunications",
+      "label": "Senior Technical Support",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "network-operation-engineer-telecommunications",
+      "label": "Network Operation Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6675,
+      "nfc": 0.5956,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "network-support-engineer-telecommunications",
+      "label": "Network Support Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6479,
+      "nfc": 0.5956,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-data-technician",
+      "label": "Senior Data Technician",
+      "soc": "15-2099",
+      "ptr": 0.9952,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.6013
+    },
+    {
+      "id": "test-automation-telecommunications",
+      "label": "Test Automation",
+      "soc": "15-1253",
+      "ptr": 0.9905,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.6025
+    },
+    {
+      "id": "senior-technical-project-manager-telecommunications",
+      "label": "Senior Technical Project Manager",
+      "soc": "15-1299",
+      "ptr": 0.9891,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "senior-engineering-project-manager",
+      "label": "Senior Engineering Project Manager",
+      "soc": "15-1299",
+      "ptr": 0.9891,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "senior-software-project-manager-telecommunications",
+      "label": "Senior Software Project Manager",
+      "soc": "15-1299",
+      "ptr": 0.9891,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "data-technician",
+      "label": "Data Technician",
+      "soc": "15-2099",
+      "ptr": 0.9857,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.6013
+    },
+    {
+      "id": "senior-software-manager-telecommunications",
+      "label": "Senior Software Manager",
+      "soc": "15-1244",
+      "ptr": 0.9854,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4911
+    },
+    {
+      "id": "senior-telecommunications-specialist",
+      "label": "Senior Telecommunications Specialist",
+      "soc": "43-5031",
+      "ptr": 0.9829,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5011
+    },
+    {
+      "id": "security-architect-telecommunications",
+      "label": "Security Architect",
+      "soc": "15-1212",
+      "ptr": 0.9817,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4371
+    },
+    {
+      "id": "senior-network-consultant-telecommunications",
+      "label": "Senior Network Consultant",
+      "soc": "15-1241",
+      "ptr": 0.9718,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4436
+    },
+    {
+      "id": "senior-network-architect-telecommunications",
+      "label": "Senior Network Architect",
+      "soc": "15-1241",
+      "ptr": 0.9718,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4436
+    },
+    {
+      "id": "platform-architect-telecommunications",
+      "label": "Platform Architect",
+      "soc": "15-1241",
+      "ptr": 0.9718,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4436
+    },
+    {
+      "id": "network-security-telecommunications",
+      "label": "Network Security",
+      "soc": "15-1244",
+      "ptr": 0.9666,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4911
+    },
+    {
+      "id": "senior-systems-specialist-telecommunications",
+      "label": "Senior Systems Specialist",
+      "soc": "15-1231",
+      "ptr": 0.9643,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4684
+    },
+    {
+      "id": "network-technician-iii",
+      "label": "Network Technician III",
+      "soc": "15-1231",
+      "ptr": 0.9643,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4684
+    },
+    {
+      "id": "senior-network-specialist-telecommunications",
+      "label": "Senior Network Specialist",
+      "soc": "15-1241",
+      "ptr": 0.9626,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4436
+    },
+    {
+      "id": "systems-integrator-telecommunications",
+      "label": "Systems Integrator",
+      "soc": "15-1241",
+      "ptr": 0.9626,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4436
+    },
+    {
+      "id": "senior-network-technician-telecommunications",
+      "label": "Senior Network Technician",
+      "soc": "15-1231",
+      "ptr": 0.9552,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4684
+    },
+    {
+      "id": "network-support-specialist-telecommunications",
+      "label": "Network Support Specialist",
+      "soc": "15-1231",
+      "ptr": 0.9552,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4684
+    },
+    {
+      "id": "network-technician-ii",
+      "label": "Network Technician II",
+      "soc": "15-1231",
+      "ptr": 0.9552,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4684
+    },
+    {
+      "id": "senior-pre-sales-consultant-telecommunications",
+      "label": "Senior Pre Sales Consultant",
+      "soc": "41-4012",
+      "ptr": 0.9517,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4628
+    },
+    {
+      "id": "senior-enterprise-account-executive-telecommunications",
+      "label": "Senior Enterprise Account Executive",
+      "soc": "41-4012",
+      "ptr": 0.9517,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4628
+    },
+    {
+      "id": "senior-retail-sales-representative",
+      "label": "Senior Retail Sales Representative",
+      "soc": "41-4012",
+      "ptr": 0.9517,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4628
+    },
+    {
+      "id": "senior-retail-sales-consultant",
+      "label": "Senior Retail Sales Consultant",
+      "soc": "41-4012",
+      "ptr": 0.9517,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4628
+    },
+    {
+      "id": "senior-systems-integrator-telecommunications",
+      "label": "Senior Systems Integrator",
+      "soc": "15-1211",
+      "ptr": 0.9505,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.465
+    },
+    {
+      "id": "technical-consultant-iii-telecommunications",
+      "label": "Technical Consultant III",
+      "soc": "13-1199",
+      "ptr": 0.9479,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4007
+    },
+    {
+      "id": "software-manager-telecommunications",
+      "label": "Software Manager",
+      "soc": "15-1244",
+      "ptr": 0.9475,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4911
+    },
+    {
+      "id": "business-sales-representative",
+      "label": "Business Sales Representative",
+      "soc": "41-4012",
+      "ptr": 0.9427,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4628
+    },
+    {
+      "id": "business-sales-coordinator",
+      "label": "Business Sales Coordinator",
+      "soc": "41-4012",
+      "ptr": 0.9427,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4628
+    },
+    {
+      "id": "technical-consultant-ii-telecommunications",
+      "label": "Technical Consultant II",
+      "soc": "13-1199",
+      "ptr": 0.9389,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4007
+    },
+    {
+      "id": "network-support-telecommunications",
+      "label": "Network Support",
+      "soc": "15-1231",
+      "ptr": 0.9366,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4684
+    },
+    {
+      "id": "pre-sales-consultant-telecommunications",
+      "label": "Pre Sales Consultant",
+      "soc": "41-4012",
+      "ptr": 0.8962,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4628
+    },
+    {
+      "id": "retail-sales-representative",
+      "label": "Retail Sales Representative",
+      "soc": "41-4012",
+      "ptr": 0.8573,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4628
+    },
+    {
+      "id": "consultant-engineer-telecommunications",
+      "label": "Consultant Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6739,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "principal-design-engineer-telecommunications",
+      "label": "Principal Design Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6739,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-operation-engineer-telecommunications",
+      "label": "Senior Operation Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6739,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-customer-support-engineer-telecommunications",
+      "label": "Senior Customer Support Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6739,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "specialist-engineer-telecommunications",
+      "label": "Specialist Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6739,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    }
+  ],
+  "edges": [
+    {
+      "source": "test-engineer-telecommunications",
+      "target": "senior-hardware-engineer-telecommunications",
+      "weight": 0.57
+    },
+    {
+      "source": "network-specialist-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.71
+    },
+    {
+      "source": "service-delivery-manager-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.82
+    },
+    {
+      "source": "service-delivery-manager-telecommunications",
+      "target": "senior-engineer",
+      "weight": 0.67
+    },
+    {
+      "source": "radio-frequency-engineer",
+      "target": "solution-architect-telecommunications",
+      "weight": 0.68
+    },
+    {
+      "source": "radio-frequency-engineer",
+      "target": "systems-engineer-telecommunications",
+      "weight": 0.96
+    },
+    {
+      "source": "field-engineer-telecommunications",
+      "target": "systems-engineer-telecommunications",
+      "weight": 0.94
+    },
+    {
+      "source": "field-engineer-telecommunications",
+      "target": "senior-software-engineer-telecommunications",
+      "weight": 0.48
+    },
+    {
+      "source": "technical-support-engineer-telecommunications",
+      "target": "software-development-engineer-telecommunications",
+      "weight": 0.45
+    },
+    {
+      "source": "senior-systems-engineer-telecommunications",
+      "target": "senior-hardware-engineer-telecommunications",
+      "weight": 0.84
+    },
+    {
+      "source": "senior-systems-engineer-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.89
+    },
+    {
+      "source": "engineer-iii-telecommunications",
+      "target": "support-engineer-telecommunications",
+      "weight": 0.9
+    },
+    {
+      "source": "engineer-iii-telecommunications",
+      "target": "network-engineer-telecommunications",
+      "weight": 0.4
+    },
+    {
+      "source": "senior-sales-engineer-telecommunications",
+      "target": "support-engineer-telecommunications",
+      "weight": 0.98
+    },
+    {
+      "source": "senior-sales-engineer-telecommunications",
+      "target": "technical-project-manager-telecommunications",
+      "weight": 0.66
+    },
+    {
+      "source": "software-test-engineer-telecommunications",
+      "target": "systems-engineer-telecommunications",
+      "weight": 0.98
+    },
+    {
+      "source": "software-test-engineer-telecommunications",
+      "target": "technical-project-manager-telecommunications",
+      "weight": 0.77
+    },
+    {
+      "source": "software-intern-developer",
+      "target": "senior-hardware-engineer-telecommunications",
+      "weight": 0.87
+    },
+    {
+      "source": "software-intern-developer",
+      "target": "systems-engineer-telecommunications",
+      "weight": 0.42
+    },
+    {
+      "source": "solution-manager",
+      "target": "network-engineer-telecommunications",
+      "weight": 0.56
+    },
+    {
+      "source": "solution-manager",
+      "target": "support-engineer-telecommunications",
+      "weight": 0.71
+    },
+    {
+      "source": "senior-test-engineer-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.86
+    },
+    {
+      "source": "staff-engineer-telecommunications",
+      "target": "technical-project-manager-telecommunications",
+      "weight": 0.56
+    },
+    {
+      "source": "staff-engineer-telecommunications",
+      "target": "senior-software-engineer-telecommunications",
+      "weight": 0.9
+    },
+    {
+      "source": "test-automation-engineer-telecommunications",
+      "target": "senior-hardware-engineer-telecommunications",
+      "weight": 0.48
+    },
+    {
+      "source": "test-automation-engineer-telecommunications",
+      "target": "senior-software-engineer-telecommunications",
+      "weight": 0.53
+    },
+    {
+      "source": "embedded-software-engineer-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.4
+    },
+    {
+      "source": "embedded-software-engineer-telecommunications",
+      "target": "support-engineer-telecommunications",
+      "weight": 0.63
+    },
+    {
+      "source": "senior-radio-frequency-engineer",
+      "target": "solution-architect-telecommunications",
+      "weight": 0.75
+    },
+    {
+      "source": "network-analyst-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.79
+    },
+    {
+      "source": "hardware-engineer-telecommunications",
+      "target": "systems-engineer-telecommunications",
+      "weight": 0.45
+    },
+    {
+      "source": "technical-account-manager-telecommunications",
+      "target": "network-engineer-telecommunications",
+      "weight": 0.8
+    },
+    {
+      "source": "network-consultant-telecommunications",
+      "target": "senior-hardware-engineer-telecommunications",
+      "weight": 0.84
+    },
+    {
+      "source": "network-consultant-telecommunications",
+      "target": "support-engineer-telecommunications",
+      "weight": 0.6
+    },
+    {
+      "source": "senior-technical-support-engineer-telecommunications",
+      "target": "technical-project-manager-telecommunications",
+      "weight": 0.78
+    },
+    {
+      "source": "senior-technical-support-engineer-telecommunications",
+      "target": "senior-software-engineer-telecommunications",
+      "weight": 0.53
+    },
+    {
+      "source": "sales-engineering-manager",
+      "target": "senior-software-engineer-telecommunications",
+      "weight": 0.97
+    },
+    {
+      "source": "verification-engineer-telecommunications",
+      "target": "support-engineer-telecommunications",
+      "weight": 0.72
+    },
+    {
+      "source": "verification-engineer-telecommunications",
+      "target": "solution-architect-telecommunications",
+      "weight": 0.4
+    },
+    {
+      "source": "test-engineering-manager-telecommunications",
+      "target": "software-development-engineer-telecommunications",
+      "weight": 0.67
+    },
+    {
+      "source": "test-engineering-manager-telecommunications",
+      "target": "systems-engineer-telecommunications",
+      "weight": 0.72
+    },
+    {
+      "source": "network-security-engineer-telecommunications",
+      "target": "senior-hardware-engineer-telecommunications",
+      "weight": 0.61
+    },
+    {
+      "source": "network-security-engineer-telecommunications",
+      "target": "technical-project-manager-telecommunications",
+      "weight": 0.65
+    },
+    {
+      "source": "senior-staff-software-engineer-telecommunications",
+      "target": "technical-project-manager-telecommunications",
+      "weight": 0.98
+    },
+    {
+      "source": "senior-staff-software-engineer-telecommunications",
+      "target": "senior-engineer",
+      "weight": 0.54
+    },
+    {
+      "source": "engineering-vice-president-telecommunications",
+      "target": "senior-hardware-engineer-telecommunications",
+      "weight": 0.76
+    },
+    {
+      "source": "regional-finance-manager",
+      "target": "software-development-engineer-telecommunications",
+      "weight": 0.91
+    },
+    {
+      "source": "senior-firmware-engineer-telecommunications",
+      "target": "support-engineer-telecommunications",
+      "weight": 0.77
+    },
+    {
+      "source": "senior-firmware-engineer-telecommunications",
+      "target": "solution-architect-telecommunications",
+      "weight": 0.49
+    },
+    {
+      "source": "software-specialist-telecommunications",
+      "target": "senior-hardware-engineer-telecommunications",
+      "weight": 0.84
+    },
+    {
+      "source": "software-project-manager-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.58
+    },
+    {
+      "source": "executive-engineer",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.87
+    },
+    {
+      "source": "executive-engineer",
+      "target": "support-engineer-telecommunications",
+      "weight": 0.64
+    },
+    {
+      "source": "technical-product-manager",
+      "target": "software-development-engineer-telecommunications",
+      "weight": 0.42
+    },
+    {
+      "source": "technical-leader-telecommunications",
+      "target": "senior-engineer",
+      "weight": 0.73
+    },
+    {
+      "source": "product-architect-telecommunications",
+      "target": "technical-project-manager-telecommunications",
+      "weight": 0.67
+    },
+    {
+      "source": "product-architect-telecommunications",
+      "target": "support-engineer-telecommunications",
+      "weight": 0.59
+    },
+    {
+      "source": "technology-architect-telecommunications",
+      "target": "senior-hardware-engineer-telecommunications",
+      "weight": 0.65
+    },
+    {
+      "source": "technology-architect-telecommunications",
+      "target": "senior-engineer",
+      "weight": 0.69
+    },
+    {
+      "source": "technical-staff-member-telecommunications",
+      "target": "senior-software-engineer-telecommunications",
+      "weight": 0.89
+    },
+    {
+      "source": "technical-staff-senior-member-telecommunications",
+      "target": "technical-project-manager-telecommunications",
+      "weight": 0.59
+    },
+    {
+      "source": "technical-staff-senior-member-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.56
+    },
+    {
+      "source": "senior-software-test-engineer-telecommunications",
+      "target": "systems-engineer-telecommunications",
+      "weight": 0.57
+    },
+    {
+      "source": "senior-software-test-engineer-telecommunications",
+      "target": "senior-software-engineer-telecommunications",
+      "weight": 0.52
+    },
+    {
+      "source": "rf-design-engineer-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.47
+    },
+    {
+      "source": "rf-design-engineer-telecommunications",
+      "target": "software-development-engineer-telecommunications",
+      "weight": 0.85
+    },
+    {
+      "source": "advisor-engineer-telecommunications",
+      "target": "support-engineer-telecommunications",
+      "weight": 0.91
+    },
+    {
+      "source": "advisor-engineer-telecommunications",
+      "target": "senior-software-engineer-telecommunications",
+      "weight": 0.67
+    },
+    {
+      "source": "telecommunications-specialist",
+      "target": "senior-software-engineer-telecommunications",
+      "weight": 0.56
+    },
+    {
+      "source": "telecommunications-engineer",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.74
+    },
+    {
+      "source": "telecommunications-engineer",
+      "target": "software-development-engineer-telecommunications",
+      "weight": 0.61
+    },
+    {
+      "source": "business-account-executive",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.69
+    },
+    {
+      "source": "staff-software-engineer-telecommunications",
+      "target": "senior-hardware-engineer-telecommunications",
+      "weight": 0.98
+    },
+    {
+      "source": "pre-sales-engineer-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.55
+    },
+    {
+      "source": "pre-sales-engineer-telecommunications",
+      "target": "senior-engineer",
+      "weight": 0.61
+    },
+    {
+      "source": "firmware-engineer-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.73
+    },
+    {
+      "source": "firmware-engineer-telecommunications",
+      "target": "systems-engineer-telecommunications",
+      "weight": 0.65
+    },
+    {
+      "source": "intern-developer",
+      "target": "systems-engineer-telecommunications",
+      "weight": 0.69
+    },
+    {
+      "source": "solution-consultant-telecommunications",
+      "target": "senior-engineer",
+      "weight": 0.6
+    },
+    {
+      "source": "solution-consultant-telecommunications",
+      "target": "software-development-engineer-telecommunications",
+      "weight": 0.51
+    },
+    {
+      "source": "network-operation-manager",
+      "target": "senior-engineer",
+      "weight": 0.74
+    },
+    {
+      "source": "technical-marketing-engineer-telecommunications",
+      "target": "senior-engineer",
+      "weight": 0.59
+    },
+    {
+      "source": "technical-marketing-engineer-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.97
+    },
+    {
+      "source": "systems-integration-engineer-telecommunications",
+      "target": "support-engineer-telecommunications",
+      "weight": 0.48
+    },
+    {
+      "source": "systems-integration-engineer-telecommunications",
+      "target": "network-engineer-telecommunications",
+      "weight": 0.87
+    },
+    {
+      "source": "product-line-manager",
+      "target": "senior-engineer",
+      "weight": 0.59
+    },
+    {
+      "source": "product-line-manager",
+      "target": "network-engineer-telecommunications",
+      "weight": 0.64
+    },
+    {
+      "source": "network-service-manager",
+      "target": "support-engineer-telecommunications",
+      "weight": 0.43
+    },
+    {
+      "source": "network-designer",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.5
+    },
+    {
+      "source": "major-account-manager",
+      "target": "software-development-engineer-telecommunications",
+      "weight": 0.6
+    },
+    {
+      "source": "software-engineering-manager-telecommunications",
+      "target": "network-engineer-telecommunications",
+      "weight": 0.84
+    },
+    {
+      "source": "retail-store-manager-telecommunications",
+      "target": "software-development-engineer-telecommunications",
+      "weight": 0.42
+    },
+    {
+      "source": "systems-architect-telecommunications",
+      "target": "technical-project-manager-telecommunications",
+      "weight": 0.6
+    },
+    {
+      "source": "retail-sales-manager",
+      "target": "technical-project-manager-telecommunications",
+      "weight": 0.5
+    },
+    {
+      "source": "global-account-manager",
+      "target": "technical-project-manager-telecommunications",
+      "weight": 0.46
+    },
+    {
+      "source": "security-engineer-telecommunications",
+      "target": "technical-project-manager-telecommunications",
+      "weight": 0.53
+    },
+    {
+      "source": "security-engineer-telecommunications",
+      "target": "systems-engineer-telecommunications",
+      "weight": 0.96
+    },
+    {
+      "source": "implementation-engineer-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.94
+    },
+    {
+      "source": "operation-engineer-telecommunications",
+      "target": "senior-hardware-engineer-telecommunications",
+      "weight": 0.57
+    },
+    {
+      "source": "customer-support-engineer-telecommunications",
+      "target": "technical-project-manager-telecommunications",
+      "weight": 0.62
+    },
+    {
+      "source": "senior-staff-engineer-telecommunications",
+      "target": "senior-engineer",
+      "weight": 0.64
+    },
+    {
+      "source": "senior-staff-engineer-telecommunications",
+      "target": "senior-software-engineer-telecommunications",
+      "weight": 0.81
+    },
+    {
+      "source": "network-technician-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.89
+    },
+    {
+      "source": "network-technician-telecommunications",
+      "target": "systems-engineer-telecommunications",
+      "weight": 0.58
+    },
+    {
+      "source": "installation-engineer",
+      "target": "solution-architect-telecommunications",
+      "weight": 0.88
+    },
+    {
+      "source": "business-sales-manager",
+      "target": "senior-hardware-engineer-telecommunications",
+      "weight": 0.97
+    },
+    {
+      "source": "retail-associate-manager",
+      "target": "senior-software-engineer-telecommunications",
+      "weight": 0.75
+    },
+    {
+      "source": "retail-associate-manager",
+      "target": "software-development-engineer-telecommunications",
+      "weight": 0.44
+    },
+    {
+      "source": "software-design-engineer-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.81
+    },
+    {
+      "source": "software-design-engineer-telecommunications",
+      "target": "software-development-engineer-telecommunications",
+      "weight": 0.97
+    },
+    {
+      "source": "principal-software-engineer-telecommunications",
+      "target": "network-engineer-telecommunications",
+      "weight": 0.79
+    },
+    {
+      "source": "principal-software-engineer-telecommunications",
+      "target": "software-development-engineer-telecommunications",
+      "weight": 0.57
+    },
+    {
+      "source": "second-line-support-telecommunications",
+      "target": "senior-hardware-engineer-telecommunications",
+      "weight": 0.77
+    },
+    {
+      "source": "second-line-support-telecommunications",
+      "target": "systems-engineer-telecommunications",
+      "weight": 0.96
+    },
+    {
+      "source": "network-analyst-ii-telecommunications",
+      "target": "technical-project-manager-telecommunications",
+      "weight": 0.45
+    },
+    {
+      "source": "solution-specialist",
+      "target": "senior-hardware-engineer-telecommunications",
+      "weight": 0.98
+    },
+    {
+      "source": "manufacturing-test-engineer-telecommunications",
+      "target": "technical-project-manager-telecommunications",
+      "weight": 0.43
+    },
+    {
+      "source": "test-development-engineer-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.68
+    },
+    {
+      "source": "integration-engineer-telecommunications",
+      "target": "solution-architect-telecommunications",
+      "weight": 0.89
+    },
+    {
+      "source": "integration-engineer-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.46
+    },
+    {
+      "source": "systems-test-engineer-telecommunications",
+      "target": "network-engineer-telecommunications",
+      "weight": 0.45
+    },
+    {
+      "source": "hardware-design-engineer-telecommunications",
+      "target": "software-development-engineer-telecommunications",
+      "weight": 0.79
+    },
+    {
+      "source": "senior-software-quality-assurance-engineer-telecommunications",
+      "target": "network-engineer-telecommunications",
+      "weight": 0.98
+    },
+    {
+      "source": "senior-software-quality-assurance-engineer-telecommunications",
+      "target": "senior-software-engineer-telecommunications",
+      "weight": 0.94
+    },
+    {
+      "source": "retail-sales-consultant",
+      "target": "systems-engineer-telecommunications",
+      "weight": 0.78
+    },
+    {
+      "source": "network-operation-center-technician-telecommunications",
+      "target": "support-engineer-telecommunications",
+      "weight": 0.46
+    },
+    {
+      "source": "network-architect-telecommunications",
+      "target": "senior-hardware-engineer-telecommunications",
+      "weight": 0.63
+    },
+    {
+      "source": "network-architect-telecommunications",
+      "target": "systems-engineer-telecommunications",
+      "weight": 0.47
+    },
+    {
+      "source": "staff-firmware-engineer-telecommunications",
+      "target": "senior-engineer",
+      "weight": 0.56
+    },
+    {
+      "source": "senior-support-engineer-telecommunications",
+      "target": "technical-project-manager-telecommunications",
+      "weight": 0.99
+    },
+    {
+      "source": "senior-support-engineer-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.89
+    },
+    {
+      "source": "enterprise-account-executive-telecommunications",
+      "target": "solution-architect-telecommunications",
+      "weight": 0.68
+    },
+    {
+      "source": "field-application-engineer-telecommunications",
+      "target": "senior-software-engineer-telecommunications",
+      "weight": 0.73
+    },
+    {
+      "source": "helpdesk-technician",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.96
+    },
+    {
+      "source": "pre-sales-telecommunications",
+      "target": "senior-software-engineer-telecommunications",
+      "weight": 0.69
+    },
+    {
+      "source": "pre-sales-telecommunications",
+      "target": "network-engineer-telecommunications",
+      "weight": 0.79
+    },
+    {
+      "source": "implementation-manager",
+      "target": "systems-engineer-telecommunications",
+      "weight": 0.91
+    },
+    {
+      "source": "pre-sales-manager-telecommunications",
+      "target": "technical-project-manager-telecommunications",
+      "weight": 0.49
+    },
+    {
+      "source": "business-account-manager",
+      "target": "network-engineer-telecommunications",
+      "weight": 0.44
+    },
+    {
+      "source": "technical-support-representative-ii-telecommunications",
+      "target": "software-development-engineer-telecommunications",
+      "weight": 0.58
+    },
+    {
+      "source": "technical-support-representative-ii-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.55
+    },
+    {
+      "source": "network-operation-supervisor",
+      "target": "solution-architect-telecommunications",
+      "weight": 0.64
+    },
+    {
+      "source": "network-operation-supervisor",
+      "target": "network-engineer-telecommunications",
+      "weight": 0.45
+    },
+    {
+      "source": "technical-team-support-lead",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.78
+    },
+    {
+      "source": "technical-team-support-lead",
+      "target": "senior-software-engineer-telecommunications",
+      "weight": 0.59
+    },
+    {
+      "source": "solution-engineer-telecommunications",
+      "target": "network-engineer-telecommunications",
+      "weight": 0.4
+    },
+    {
+      "source": "solution-engineer-telecommunications",
+      "target": "senior-engineer",
+      "weight": 0.95
+    },
+    {
+      "source": "technical-support-engineer-ii-telecommunications",
+      "target": "senior-software-engineer-telecommunications",
+      "weight": 0.76
+    },
+    {
+      "source": "senior-technical-support-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.87
+    },
+    {
+      "source": "network-operation-engineer-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.48
+    },
+    {
+      "source": "network-operation-engineer-telecommunications",
+      "target": "systems-engineer-telecommunications",
+      "weight": 0.94
+    },
+    {
+      "source": "network-support-engineer-telecommunications",
+      "target": "solution-architect-telecommunications",
+      "weight": 0.55
+    },
+    {
+      "source": "senior-data-technician",
+      "target": "systems-engineer-telecommunications",
+      "weight": 0.69
+    },
+    {
+      "source": "senior-data-technician",
+      "target": "technical-project-manager-telecommunications",
+      "weight": 0.91
+    },
+    {
+      "source": "test-automation-telecommunications",
+      "target": "technical-project-manager-telecommunications",
+      "weight": 0.51
+    },
+    {
+      "source": "senior-technical-project-manager-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.42
+    },
+    {
+      "source": "senior-engineering-project-manager",
+      "target": "software-development-engineer-telecommunications",
+      "weight": 0.71
+    },
+    {
+      "source": "senior-software-project-manager-telecommunications",
+      "target": "software-development-engineer-telecommunications",
+      "weight": 0.75
+    },
+    {
+      "source": "senior-software-project-manager-telecommunications",
+      "target": "support-engineer-telecommunications",
+      "weight": 0.49
+    },
+    {
+      "source": "data-technician",
+      "target": "senior-hardware-engineer-telecommunications",
+      "weight": 0.49
+    },
+    {
+      "source": "senior-software-manager-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.6
+    },
+    {
+      "source": "senior-software-manager-telecommunications",
+      "target": "senior-engineer",
+      "weight": 0.49
+    },
+    {
+      "source": "senior-telecommunications-specialist",
+      "target": "technical-project-manager-telecommunications",
+      "weight": 0.89
+    },
+    {
+      "source": "security-architect-telecommunications",
+      "target": "software-development-engineer-telecommunications",
+      "weight": 0.48
+    },
+    {
+      "source": "senior-network-consultant-telecommunications",
+      "target": "senior-hardware-engineer-telecommunications",
+      "weight": 0.95
+    },
+    {
+      "source": "senior-network-architect-telecommunications",
+      "target": "senior-hardware-engineer-telecommunications",
+      "weight": 0.54
+    },
+    {
+      "source": "platform-architect-telecommunications",
+      "target": "systems-engineer-telecommunications",
+      "weight": 0.46
+    },
+    {
+      "source": "platform-architect-telecommunications",
+      "target": "senior-software-engineer-telecommunications",
+      "weight": 0.4
+    },
+    {
+      "source": "network-security-telecommunications",
+      "target": "software-development-engineer-telecommunications",
+      "weight": 0.53
+    },
+    {
+      "source": "senior-systems-specialist-telecommunications",
+      "target": "network-engineer-telecommunications",
+      "weight": 0.86
+    },
+    {
+      "source": "network-technician-iii",
+      "target": "senior-software-engineer-telecommunications",
+      "weight": 0.61
+    },
+    {
+      "source": "senior-network-specialist-telecommunications",
+      "target": "support-engineer-telecommunications",
+      "weight": 0.52
+    },
+    {
+      "source": "systems-integrator-telecommunications",
+      "target": "senior-hardware-engineer-telecommunications",
+      "weight": 0.46
+    },
+    {
+      "source": "systems-integrator-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.95
+    },
+    {
+      "source": "senior-network-technician-telecommunications",
+      "target": "systems-engineer-telecommunications",
+      "weight": 0.52
+    },
+    {
+      "source": "senior-network-technician-telecommunications",
+      "target": "software-development-engineer-telecommunications",
+      "weight": 0.43
+    },
+    {
+      "source": "network-support-specialist-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.86
+    },
+    {
+      "source": "network-support-specialist-telecommunications",
+      "target": "solution-architect-telecommunications",
+      "weight": 0.78
+    },
+    {
+      "source": "network-technician-ii",
+      "target": "software-development-engineer-telecommunications",
+      "weight": 0.78
+    },
+    {
+      "source": "network-technician-ii",
+      "target": "senior-software-engineer-telecommunications",
+      "weight": 0.41
+    },
+    {
+      "source": "senior-pre-sales-consultant-telecommunications",
+      "target": "senior-engineer",
+      "weight": 0.95
+    },
+    {
+      "source": "senior-enterprise-account-executive-telecommunications",
+      "target": "network-engineer-telecommunications",
+      "weight": 0.69
+    },
+    {
+      "source": "senior-retail-sales-representative",
+      "target": "technical-project-manager-telecommunications",
+      "weight": 0.83
+    },
+    {
+      "source": "senior-retail-sales-consultant",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 1
+    },
+    {
+      "source": "senior-systems-integrator-telecommunications",
+      "target": "senior-engineer",
+      "weight": 0.57
+    },
+    {
+      "source": "senior-systems-integrator-telecommunications",
+      "target": "support-engineer-telecommunications",
+      "weight": 0.87
+    },
+    {
+      "source": "technical-consultant-iii-telecommunications",
+      "target": "systems-engineer-telecommunications",
+      "weight": 0.67
+    },
+    {
+      "source": "technical-consultant-iii-telecommunications",
+      "target": "support-engineer-telecommunications",
+      "weight": 0.71
+    },
+    {
+      "source": "software-manager-telecommunications",
+      "target": "network-engineer-telecommunications",
+      "weight": 0.46
+    },
+    {
+      "source": "software-manager-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.52
+    },
+    {
+      "source": "business-sales-representative",
+      "target": "solution-architect-telecommunications",
+      "weight": 0.68
+    },
+    {
+      "source": "business-sales-coordinator",
+      "target": "senior-hardware-engineer-telecommunications",
+      "weight": 0.82
+    },
+    {
+      "source": "business-sales-coordinator",
+      "target": "solution-architect-telecommunications",
+      "weight": 0.56
+    },
+    {
+      "source": "technical-consultant-ii-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.68
+    },
+    {
+      "source": "network-support-telecommunications",
+      "target": "support-engineer-telecommunications",
+      "weight": 0.74
+    },
+    {
+      "source": "network-support-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.83
+    },
+    {
+      "source": "pre-sales-consultant-telecommunications",
+      "target": "network-engineer-telecommunications",
+      "weight": 0.91
+    },
+    {
+      "source": "retail-sales-representative",
+      "target": "senior-software-engineer-telecommunications",
+      "weight": 0.47
+    },
+    {
+      "source": "consultant-engineer-telecommunications",
+      "target": "senior-hardware-engineer-telecommunications",
+      "weight": 0.82
+    },
+    {
+      "source": "consultant-engineer-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.7
+    },
+    {
+      "source": "principal-design-engineer-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.52
+    },
+    {
+      "source": "senior-operation-engineer-telecommunications",
+      "target": "technical-project-manager-telecommunications",
+      "weight": 0.71
+    },
+    {
+      "source": "senior-customer-support-engineer-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.46
+    },
+    {
+      "source": "specialist-engineer-telecommunications",
+      "target": "senior-software-engineer-telecommunications",
+      "weight": 0.86
+    },
+    {
+      "source": "specialist-engineer-telecommunications",
+      "target": "senior-hardware-engineer-telecommunications",
+      "weight": 0.74
+    },
+    {
+      "source": "senior-engineer",
+      "target": "senior-software-engineer-telecommunications",
+      "weight": 0.94
+    },
+    {
+      "source": "senior-engineer",
+      "target": "systems-engineer-telecommunications",
+      "weight": 0.91
+    },
+    {
+      "source": "senior-engineer",
+      "target": "technical-project-manager-telecommunications",
+      "weight": 0.64
+    },
+    {
+      "source": "senior-software-engineer-telecommunications",
+      "target": "network-engineer-telecommunications",
+      "weight": 0.8
+    },
+    {
+      "source": "senior-software-engineer-telecommunications",
+      "target": "systems-engineer-telecommunications",
+      "weight": 0.9
+    },
+    {
+      "source": "senior-software-engineer-telecommunications",
+      "target": "senior-hardware-engineer-telecommunications",
+      "weight": 0.73
+    },
+    {
+      "source": "senior-software-engineer-telecommunications",
+      "target": "technical-project-manager-telecommunications",
+      "weight": 0.65
+    },
+    {
+      "source": "senior-software-engineer-telecommunications",
+      "target": "support-engineer-telecommunications",
+      "weight": 0.82
+    },
+    {
+      "source": "senior-software-engineer-telecommunications",
+      "target": "software-development-engineer-telecommunications",
+      "weight": 0.65
+    },
+    {
+      "source": "senior-software-engineer-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.94
+    },
+    {
+      "source": "network-engineer-telecommunications",
+      "target": "senior-hardware-engineer-telecommunications",
+      "weight": 0.81
+    },
+    {
+      "source": "network-engineer-telecommunications",
+      "target": "technical-project-manager-telecommunications",
+      "weight": 0.96
+    },
+    {
+      "source": "network-engineer-telecommunications",
+      "target": "solution-architect-telecommunications",
+      "weight": 0.91
+    },
+    {
+      "source": "network-engineer-telecommunications",
+      "target": "support-engineer-telecommunications",
+      "weight": 0.68
+    },
+    {
+      "source": "network-engineer-telecommunications",
+      "target": "software-development-engineer-telecommunications",
+      "weight": 0.91
+    },
+    {
+      "source": "network-engineer-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.68
+    },
+    {
+      "source": "systems-engineer-telecommunications",
+      "target": "technical-project-manager-telecommunications",
+      "weight": 0.83
+    },
+    {
+      "source": "systems-engineer-telecommunications",
+      "target": "solution-architect-telecommunications",
+      "weight": 0.95
+    },
+    {
+      "source": "systems-engineer-telecommunications",
+      "target": "support-engineer-telecommunications",
+      "weight": 0.9
+    },
+    {
+      "source": "systems-engineer-telecommunications",
+      "target": "software-development-engineer-telecommunications",
+      "weight": 0.89
+    },
+    {
+      "source": "systems-engineer-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.72
+    },
+    {
+      "source": "senior-hardware-engineer-telecommunications",
+      "target": "solution-architect-telecommunications",
+      "weight": 0.68
+    },
+    {
+      "source": "senior-hardware-engineer-telecommunications",
+      "target": "support-engineer-telecommunications",
+      "weight": 0.66
+    },
+    {
+      "source": "senior-hardware-engineer-telecommunications",
+      "target": "software-development-engineer-telecommunications",
+      "weight": 0.73
+    },
+    {
+      "source": "senior-hardware-engineer-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.75
+    },
+    {
+      "source": "technical-project-manager-telecommunications",
+      "target": "solution-architect-telecommunications",
+      "weight": 0.78
+    },
+    {
+      "source": "technical-project-manager-telecommunications",
+      "target": "support-engineer-telecommunications",
+      "weight": 0.76
+    },
+    {
+      "source": "technical-project-manager-telecommunications",
+      "target": "software-development-engineer-telecommunications",
+      "weight": 0.99
+    },
+    {
+      "source": "technical-project-manager-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.63
+    },
+    {
+      "source": "solution-architect-telecommunications",
+      "target": "support-engineer-telecommunications",
+      "weight": 0.74
+    },
+    {
+      "source": "solution-architect-telecommunications",
+      "target": "software-development-engineer-telecommunications",
+      "weight": 0.85
+    },
+    {
+      "source": "solution-architect-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.98
+    },
+    {
+      "source": "support-engineer-telecommunications",
+      "target": "software-development-engineer-telecommunications",
+      "weight": 0.81
+    },
+    {
+      "source": "support-engineer-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.96
+    },
+    {
+      "source": "software-development-engineer-telecommunications",
+      "target": "senior-network-engineer-telecommunications",
+      "weight": 0.62
+    },
+    {
+      "source": "solution-architect-telecommunications",
+      "target": "product-architect-telecommunications",
+      "weight": 0.7
+    },
+    {
+      "source": "solution-architect-telecommunications",
+      "target": "technology-architect-telecommunications",
+      "weight": 0.7
+    },
+    {
+      "source": "product-architect-telecommunications",
+      "target": "technology-architect-telecommunications",
+      "weight": 0.7
+    },
+    {
+      "source": "test-engineer-telecommunications",
+      "target": "test-automation-engineer-telecommunications",
+      "weight": 0.7
+    },
+    {
+      "source": "test-engineer-telecommunications",
+      "target": "network-designer",
+      "weight": 0.7
+    },
+    {
+      "source": "test-automation-engineer-telecommunications",
+      "target": "network-designer",
+      "weight": 0.7
+    },
+    {
+      "source": "service-delivery-manager-telecommunications",
+      "target": "solution-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "service-delivery-manager-telecommunications",
+      "target": "regional-finance-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "solution-manager",
+      "target": "regional-finance-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "software-intern-developer",
+      "target": "intern-developer",
+      "weight": 0.7
+    },
+    {
+      "source": "network-analyst-telecommunications",
+      "target": "network-analyst-ii-telecommunications",
+      "weight": 0.7
+    },
+    {
+      "source": "engineering-vice-president-telecommunications",
+      "target": "technical-support-representative-ii-telecommunications",
+      "weight": 0.7
+    },
+    {
+      "source": "telecommunications-specialist",
+      "target": "senior-telecommunications-specialist",
+      "weight": 0.7
+    },
+    {
+      "source": "network-technician-telecommunications",
+      "target": "network-operation-center-technician-telecommunications",
+      "weight": 0.7
+    },
+    {
+      "source": "network-technician-telecommunications",
+      "target": "helpdesk-technician",
+      "weight": 0.7
+    },
+    {
+      "source": "network-operation-center-technician-telecommunications",
+      "target": "helpdesk-technician",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-data-technician",
+      "target": "data-technician",
+      "weight": 0.7
+    },
+    {
+      "source": "technical-consultant-iii-telecommunications",
+      "target": "technical-consultant-ii-telecommunications",
+      "weight": 0.7
+    }
+  ]
+}

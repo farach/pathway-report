@@ -1,0 +1,2783 @@
+{
+  "sector": "Transportation & Logistics",
+  "metadata": {
+    "nodeCount": 150,
+    "edgeCount": 255,
+    "generatedAt": "2026-01-31T16:46:33Z"
+  },
+  "nodes": [
+    {
+      "id": "operation-supervisor",
+      "label": "Operation Supervisor",
+      "soc": "51-1011",
+      "ptr": 0,
+      "nfc": 0.4304,
+      "quadrant": "LH",
+      "size": 7.44,
+      "aiExposure": 0.3251
+    },
+    {
+      "id": "logistics-coordinator",
+      "label": "Logistics Coordinator",
+      "soc": "11-3071",
+      "ptr": 0.5362,
+      "nfc": 0.6696,
+      "quadrant": "LH",
+      "size": 6.85,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "logistics-manager",
+      "label": "Logistics Manager",
+      "soc": "11-3071",
+      "ptr": 0.5687,
+      "nfc": 0.6689,
+      "quadrant": "LH",
+      "size": 6.82,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "material-handler",
+      "label": "Material Handler",
+      "soc": "45-2093",
+      "ptr": 0.1337,
+      "nfc": 0.1666,
+      "quadrant": "LH",
+      "size": 6.81,
+      "aiExposure": 0.1032
+    },
+    {
+      "id": "production-planner",
+      "label": "Production Planner",
+      "soc": "19-3051",
+      "ptr": 0.394,
+      "nfc": 0.5915,
+      "quadrant": "LH",
+      "size": 6.6,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "logistics-analyst",
+      "label": "Logistics Analyst",
+      "soc": "13-1081",
+      "ptr": 0.6634,
+      "nfc": 0.8521,
+      "quadrant": "HH",
+      "size": 6.34,
+      "aiExposure": 0.3451
+    },
+    {
+      "id": "warehouse-supervisor",
+      "label": "Warehouse Supervisor",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 6.33,
+      "aiExposure": 0
+    },
+    {
+      "id": "warehouse-manager",
+      "label": "Warehouse Manager",
+      "soc": "11-3071",
+      "ptr": 0.5527,
+      "nfc": 0.6654,
+      "quadrant": "LH",
+      "size": 6.09,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "logistics-specialist",
+      "label": "Logistics Specialist",
+      "soc": "13-1081",
+      "ptr": 0.766,
+      "nfc": 0.8494,
+      "quadrant": "HH",
+      "size": 5.91,
+      "aiExposure": 0.3451
+    },
+    {
+      "id": "supply-chain-manager",
+      "label": "Supply Chain Manager",
+      "soc": "11-3071",
+      "ptr": 0.5995,
+      "nfc": 0.6641,
+      "quadrant": "LH",
+      "size": 5.9,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "transportation-coordinator",
+      "label": "Transportation Coordinator",
+      "soc": "11-3071",
+      "ptr": 0.5995,
+      "nfc": 0.6634,
+      "quadrant": "LH",
+      "size": 5.77,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "senior-buyer",
+      "label": "Senior Buyer",
+      "soc": "13-1023",
+      "ptr": 0.4871,
+      "nfc": 0.5524,
+      "quadrant": "LH",
+      "size": 5.69,
+      "aiExposure": 0.2368
+    },
+    {
+      "id": "supply-chain-analyst",
+      "label": "Supply Chain Analyst",
+      "soc": "13-1081",
+      "ptr": 0.5934,
+      "nfc": 0.8459,
+      "quadrant": "LH",
+      "size": 5.67,
+      "aiExposure": 0.3451
+    },
+    {
+      "id": "inventory-analyst",
+      "label": "Inventory Analyst",
+      "soc": "13-1081",
+      "ptr": 0.6409,
+      "nfc": 0.845,
+      "quadrant": "LH",
+      "size": 5.67,
+      "aiExposure": 0.3451
+    },
+    {
+      "id": "inventory-control-supervisor",
+      "label": "Inventory Control Supervisor",
+      "soc": "11-3071",
+      "ptr": 0.6143,
+      "nfc": 0.6606,
+      "quadrant": "LH",
+      "size": 5.62,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "distribution-manager",
+      "label": "Distribution Manager",
+      "soc": "11-3071",
+      "ptr": 0.5527,
+      "nfc": 0.6599,
+      "quadrant": "LH",
+      "size": 5.61,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "transportation-supervisor",
+      "label": "Transportation Supervisor",
+      "soc": "53-4031",
+      "ptr": 0.2571,
+      "nfc": 0.2759,
+      "quadrant": "LH",
+      "size": 5.59,
+      "aiExposure": 0.2164
+    },
+    {
+      "id": "material-manager",
+      "label": "Material Manager",
+      "soc": "11-3071",
+      "ptr": 0.5995,
+      "nfc": 0.6585,
+      "quadrant": "LH",
+      "size": 5.59,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "material-planner-transportation-logistics",
+      "label": "Material Planner",
+      "soc": "19-3051",
+      "ptr": 0.5313,
+      "nfc": 0.5829,
+      "quadrant": "LH",
+      "size": 5.55,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "supply-planner-transportation-logistics",
+      "label": "Supply Planner",
+      "soc": "19-3051",
+      "ptr": 0.504,
+      "nfc": 0.5823,
+      "quadrant": "LH",
+      "size": 5.55,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "dispatcher",
+      "label": "Dispatcher",
+      "soc": "53-7199",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.45,
+      "aiExposure": 0
+    },
+    {
+      "id": "transportation-manager",
+      "label": "Transportation Manager",
+      "soc": "11-3071",
+      "ptr": 0.6429,
+      "nfc": 0.6557,
+      "quadrant": "LH",
+      "size": 5.42,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "truck-driver",
+      "label": "Truck Driver",
+      "soc": "53-3032",
+      "ptr": 0.2652,
+      "nfc": 0.2828,
+      "quadrant": "LH",
+      "size": 5.39,
+      "aiExposure": 0.2084
+    },
+    {
+      "id": "driver",
+      "label": "Driver",
+      "soc": "53-3032",
+      "ptr": 0.2242,
+      "nfc": 0.2825,
+      "quadrant": "LH",
+      "size": 5.35,
+      "aiExposure": 0.2084
+    },
+    {
+      "id": "facility-manager-transportation-logistics",
+      "label": "Facility Manager",
+      "soc": "45-1011",
+      "ptr": 0.3227,
+      "nfc": 0.361,
+      "quadrant": "LH",
+      "size": 5.34,
+      "aiExposure": 0.1677
+    },
+    {
+      "id": "supply-chain-director",
+      "label": "Supply Chain Director",
+      "soc": "11-3071",
+      "ptr": 0.6567,
+      "nfc": 0.6529,
+      "quadrant": "HH",
+      "size": 5.32,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "distribution-supervisor",
+      "label": "Distribution Supervisor",
+      "soc": "53-1043",
+      "ptr": 0.3779,
+      "nfc": 0.4013,
+      "quadrant": "LH",
+      "size": 5.31,
+      "aiExposure": 0.1859
+    },
+    {
+      "id": "demand-planner-transportation-logistics",
+      "label": "Demand Planner",
+      "soc": "19-3051",
+      "ptr": 0.5444,
+      "nfc": 0.5773,
+      "quadrant": "LH",
+      "size": 5.29,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "forklift-operator",
+      "label": "Forklift Operator",
+      "soc": "51-9161",
+      "ptr": 0.2166,
+      "nfc": 0.2242,
+      "quadrant": "LH",
+      "size": 5.29,
+      "aiExposure": 0.2277
+    },
+    {
+      "id": "inventory-control-manager",
+      "label": "Inventory Control Manager",
+      "soc": "11-3071",
+      "ptr": 0.5843,
+      "nfc": 0.6501,
+      "quadrant": "LH",
+      "size": 5.28,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "inventory-planner-transportation-logistics",
+      "label": "Inventory Planner",
+      "soc": "19-3051",
+      "ptr": 0.5572,
+      "nfc": 0.5755,
+      "quadrant": "LH",
+      "size": 5.27,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "senior-logistics-manager",
+      "label": "Senior Logistics Manager",
+      "soc": "11-3071",
+      "ptr": 0.6567,
+      "nfc": 0.6487,
+      "quadrant": "HH",
+      "size": 5.27,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "export-coordinator",
+      "label": "Export Coordinator",
+      "soc": "43-5011",
+      "ptr": 0.7922,
+      "nfc": 0.8164,
+      "quadrant": "HH",
+      "size": 5.25,
+      "aiExposure": 0.3685
+    },
+    {
+      "id": "terminal-manager",
+      "label": "Terminal Manager",
+      "soc": "11-3071",
+      "ptr": 0.6429,
+      "nfc": 0.6472,
+      "quadrant": "LH",
+      "size": 5.22,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "logistics-supervisor",
+      "label": "Logistics Supervisor",
+      "soc": "11-3071",
+      "ptr": 0.5843,
+      "nfc": 0.6465,
+      "quadrant": "LH",
+      "size": 5.2,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "traffic-coordinator",
+      "label": "Traffic Coordinator",
+      "soc": "43-5071",
+      "ptr": 0.6763,
+      "nfc": 0.7902,
+      "quadrant": "HH",
+      "size": 5.2,
+      "aiExposure": 0.3419
+    },
+    {
+      "id": "shipping-manager",
+      "label": "Shipping Manager",
+      "soc": "11-3071",
+      "ptr": 0.6288,
+      "nfc": 0.6451,
+      "quadrant": "LH",
+      "size": 5.18,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "strategic-sourcing-manager",
+      "label": "Strategic Sourcing Manager",
+      "soc": "11-3061",
+      "ptr": 0.9622,
+      "nfc": 0.9442,
+      "quadrant": "HH",
+      "size": 5.17,
+      "aiExposure": 0.3456
+    },
+    {
+      "id": "fleet-manager",
+      "label": "Fleet Manager",
+      "soc": "11-3071",
+      "ptr": 0.5527,
+      "nfc": 0.6437,
+      "quadrant": "LH",
+      "size": 5.14,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "warehouse-associate",
+      "label": "Warehouse Associate",
+      "soc": "51-9111",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LH",
+      "size": 5.14,
+      "aiExposure": 0.01
+    },
+    {
+      "id": "receiving-manager",
+      "label": "Receiving Manager",
+      "soc": "11-3071",
+      "ptr": 0.6288,
+      "nfc": 0.6423,
+      "quadrant": "LH",
+      "size": 5.14,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "logistics-officer",
+      "label": "Logistics Officer",
+      "soc": "55-1015",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.12,
+      "aiExposure": 0
+    },
+    {
+      "id": "supply-technician-transportation-logistics",
+      "label": "Supply Technician",
+      "soc": "51-8031",
+      "ptr": 0.1872,
+      "nfc": 0.1866,
+      "quadrant": "LH",
+      "size": 5.11,
+      "aiExposure": 0.0625
+    },
+    {
+      "id": "traffic-manager",
+      "label": "Traffic Manager",
+      "soc": "11-3071",
+      "ptr": 0.6143,
+      "nfc": 0.6401,
+      "quadrant": "LH",
+      "size": 5.1,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "demand-planning-manager-transportation-logistics",
+      "label": "Demand Planning Manager",
+      "soc": "11-3071",
+      "ptr": 0.6567,
+      "nfc": 0.6394,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "supply-chain-planner",
+      "label": "Supply Chain Planner",
+      "soc": "19-3051",
+      "ptr": 0.5444,
+      "nfc": 0.566,
+      "quadrant": "LH",
+      "size": 5.09,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "stock-controller",
+      "label": "Stock Controller",
+      "soc": "11-3031",
+      "ptr": 0.6126,
+      "nfc": 0.6215,
+      "quadrant": "LH",
+      "size": 5.09,
+      "aiExposure": 0.3169
+    },
+    {
+      "id": "warehouse-worker",
+      "label": "Warehouse Worker",
+      "soc": "53-7065",
+      "ptr": 0.171,
+      "nfc": 0.1916,
+      "quadrant": "LH",
+      "size": 5.09,
+      "aiExposure": 0.146
+    },
+    {
+      "id": "master-scheduler-transportation-logistics",
+      "label": "Master Scheduler",
+      "soc": "43-6013",
+      "ptr": 0.9309,
+      "nfc": 0.9424,
+      "quadrant": "HH",
+      "size": 5.08,
+      "aiExposure": 0.4243
+    },
+    {
+      "id": "operation-planner",
+      "label": "Operation Planner",
+      "soc": "19-3051",
+      "ptr": 0.5697,
+      "nfc": 0.5634,
+      "quadrant": "LH",
+      "size": 5.07,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "data-protection-officer-transportation-logistics",
+      "label": "Data Protection Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.07,
+      "aiExposure": 0
+    },
+    {
+      "id": "senior-supply-chain-analyst",
+      "label": "Senior Supply Chain Analyst",
+      "soc": "13-1081",
+      "ptr": 0.8215,
+      "nfc": 0.8106,
+      "quadrant": "HH",
+      "size": 5.07,
+      "aiExposure": 0.3451
+    },
+    {
+      "id": "supply-chain",
+      "label": "Supply Chain",
+      "soc": "13-1081",
+      "ptr": 0.8215,
+      "nfc": 0.8096,
+      "quadrant": "HH",
+      "size": 5.06,
+      "aiExposure": 0.3451
+    },
+    {
+      "id": "receiving-clerk",
+      "label": "Receiving Clerk",
+      "soc": "43-5051",
+      "ptr": 0.3519,
+      "nfc": 0.3715,
+      "quadrant": "LH",
+      "size": 5.05,
+      "aiExposure": 0.2668
+    },
+    {
+      "id": "order-selector",
+      "label": "Order Selector",
+      "soc": "51-9061",
+      "ptr": 0.4683,
+      "nfc": 0.4508,
+      "quadrant": "LH",
+      "size": 5.05,
+      "aiExposure": 0.2548
+    },
+    {
+      "id": "transportation-analyst",
+      "label": "Transportation Analyst",
+      "soc": "13-1081",
+      "ptr": 0.8215,
+      "nfc": 0.8059,
+      "quadrant": "HH",
+      "size": 5.05,
+      "aiExposure": 0.3451
+    },
+    {
+      "id": "warehouse-operative",
+      "label": "Warehouse Operative",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.05,
+      "aiExposure": 0
+    },
+    {
+      "id": "supply-manager",
+      "label": "Supply Manager",
+      "soc": "43-1011",
+      "ptr": 0.7402,
+      "nfc": 0.7591,
+      "quadrant": "HH",
+      "size": 5.05,
+      "aiExposure": 0.3675
+    },
+    {
+      "id": "inventory-control-analyst",
+      "label": "Inventory Control Analyst",
+      "soc": "13-1081",
+      "ptr": 0.8215,
+      "nfc": 0.8041,
+      "quadrant": "HH",
+      "size": 5.05,
+      "aiExposure": 0.3451
+    },
+    {
+      "id": "transport-manager",
+      "label": "Transport Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.04,
+      "aiExposure": 0
+    },
+    {
+      "id": "logistics-engineer-transportation-logistics",
+      "label": "Logistics Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8949,
+      "nfc": 0.8739,
+      "quadrant": "HH",
+      "size": 5.04,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "chief-engineer",
+      "label": "Chief Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8949,
+      "nfc": 0.8729,
+      "quadrant": "HH",
+      "size": 5.04,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "dispatch-supervisor",
+      "label": "Dispatch Supervisor",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.04,
+      "aiExposure": 0
+    },
+    {
+      "id": "logistics-director",
+      "label": "Logistics Director",
+      "soc": "11-3071",
+      "ptr": 0.6567,
+      "nfc": 0.6256,
+      "quadrant": "HH",
+      "size": 5.04,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "third-officer",
+      "label": "Third Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.03,
+      "aiExposure": 0
+    },
+    {
+      "id": "supply-officer-transportation-logistics",
+      "label": "Supply Officer",
+      "soc": "11-3071",
+      "ptr": 0.6429,
+      "nfc": 0.6241,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "second-officer",
+      "label": "Second Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.03,
+      "aiExposure": 0
+    },
+    {
+      "id": "second-engineer-transportation-logistics",
+      "label": "Second Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8551,
+      "nfc": 0.8657,
+      "quadrant": "HH",
+      "size": 5.03,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "import-coordinator",
+      "label": "Import Coordinator",
+      "soc": "11-3071",
+      "ptr": 0.5843,
+      "nfc": 0.6219,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "transportation-planner-transportation-logistics",
+      "label": "Transportation Planner",
+      "soc": "19-3051",
+      "ptr": 0.5572,
+      "nfc": 0.5498,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "chief-officer",
+      "label": "Chief Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.03,
+      "aiExposure": 0
+    },
+    {
+      "id": "supply-chain-consultant",
+      "label": "Supply Chain Consultant",
+      "soc": "13-1081",
+      "ptr": 0.8034,
+      "nfc": 0.7909,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3451
+    },
+    {
+      "id": "customer-logistics-manager",
+      "label": "Customer Logistics Manager",
+      "soc": "11-3071",
+      "ptr": 0.6567,
+      "nfc": 0.6189,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "distribution-center-manager",
+      "label": "Distribution Center Manager",
+      "soc": "11-3071",
+      "ptr": 0.6567,
+      "nfc": 0.6182,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "rental-sales-representative",
+      "label": "Rental Sales Representative",
+      "soc": "41-4012",
+      "ptr": 0.9285,
+      "nfc": 0.9107,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.4628
+    },
+    {
+      "id": "shipping-coordinator",
+      "label": "Shipping Coordinator",
+      "soc": "43-5071",
+      "ptr": 0.8035,
+      "nfc": 0.7546,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3419
+    },
+    {
+      "id": "commodity-manager-transportation-logistics",
+      "label": "Commodity Manager",
+      "soc": "11-3061",
+      "ptr": 0.942,
+      "nfc": 0.9014,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3456
+    },
+    {
+      "id": "import-manager",
+      "label": "Import Manager",
+      "soc": "11-3071",
+      "ptr": 0.6567,
+      "nfc": 0.6152,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "second-mate-transportation-logistics",
+      "label": "Second Mate",
+      "soc": "53-5021",
+      "ptr": 0.2557,
+      "nfc": 0.2444,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.1971
+    },
+    {
+      "id": "fourth-engineer",
+      "label": "Fourth Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8753,
+      "nfc": 0.8512,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "import-specialist",
+      "label": "Import Specialist",
+      "soc": "43-5011",
+      "ptr": 0.7922,
+      "nfc": 0.7705,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3685
+    },
+    {
+      "id": "assistant-rental-manager",
+      "label": "Assistant Rental Manager",
+      "soc": "41-1011",
+      "ptr": 0.6319,
+      "nfc": 0.601,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3083
+    },
+    {
+      "id": "transport-planner",
+      "label": "Transport Planner",
+      "soc": "19-3051",
+      "ptr": 0.5444,
+      "nfc": 0.5419,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "supply-chain-supervisor",
+      "label": "Supply Chain Supervisor",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.01,
+      "aiExposure": 0
+    },
+    {
+      "id": "material-coordinator-transportation-logistics",
+      "label": "Material Coordinator",
+      "soc": "13-1081",
+      "ptr": 0.7849,
+      "nfc": 0.7794,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3451
+    },
+    {
+      "id": "inventory-control-specialist",
+      "label": "Inventory Control Specialist",
+      "soc": "43-5071",
+      "ptr": 0.8035,
+      "nfc": 0.7445,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3419
+    },
+    {
+      "id": "branch-rental-manager",
+      "label": "Branch Rental Manager",
+      "soc": "41-1011",
+      "ptr": 0.6319,
+      "nfc": 0.5981,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3083
+    },
+    {
+      "id": "courier",
+      "label": "Courier",
+      "soc": "43-5021",
+      "ptr": 0.3743,
+      "nfc": 0.3538,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.2179
+    },
+    {
+      "id": "senior-sourcing-analyst",
+      "label": "Senior Sourcing Analyst",
+      "soc": "13-2054",
+      "ptr": 0.8926,
+      "nfc": 0.824,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "marine-engineer-transportation-logistics",
+      "label": "Marine Engineer",
+      "soc": "17-2121",
+      "ptr": 0.4303,
+      "nfc": 0.4464,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "first-assistant-engineer-transportation-logistics",
+      "label": "First Assistant Engineer",
+      "soc": "17-2071",
+      "ptr": 0.9142,
+      "nfc": 0.8365,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-industrial-engineer-transportation-logistics",
+      "label": "Senior Industrial Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8949,
+      "nfc": 0.8365,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "transportation-engineer-transportation-logistics",
+      "label": "Transportation Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8551,
+      "nfc": 0.8365,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "district-rental-manager",
+      "label": "District Rental Manager",
+      "soc": "41-1011",
+      "ptr": 0.6455,
+      "nfc": 0.5906,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3083
+    },
+    {
+      "id": "naval-architect-transportation-logistics",
+      "label": "Naval Architect",
+      "soc": "17-2121",
+      "ptr": 0.4735,
+      "nfc": 0.4425,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "warehouse-operator",
+      "label": "Warehouse Operator",
+      "soc": "51-9161",
+      "ptr": 0.2262,
+      "nfc": 0.207,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.2277
+    },
+    {
+      "id": "industrial-engineering-manager-transportation-logistics",
+      "label": "Industrial Engineering Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.01,
+      "aiExposure": 0
+    },
+    {
+      "id": "traffic-engineer-transportation-logistics",
+      "label": "Traffic Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8753,
+      "nfc": 0.8343,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "import-supervisor",
+      "label": "Import Supervisor",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "supply-chain-specialist",
+      "label": "Supply Chain Specialist",
+      "soc": "13-1081",
+      "ptr": 0.8034,
+      "nfc": 0.7649,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3451
+    },
+    {
+      "id": "assistant-warehouse-manager",
+      "label": "Assistant Warehouse Manager",
+      "soc": "11-3071",
+      "ptr": 0.6429,
+      "nfc": 0.5978,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "senior-inventory-coordinator",
+      "label": "Senior Inventory Coordinator",
+      "soc": "53-7065",
+      "ptr": 0.1974,
+      "nfc": 0.179,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.146
+    },
+    {
+      "id": "yard-operation-manager",
+      "label": "Yard Operation Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "export-supervisor",
+      "label": "Export Supervisor",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "logistics-project-manager",
+      "label": "Logistics Project Manager",
+      "soc": "15-1299",
+      "ptr": 0.9987,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "dispatch-coordinator",
+      "label": "Dispatch Coordinator",
+      "soc": "43-5032",
+      "ptr": 0.9975,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4528
+    },
+    {
+      "id": "senior-production-scheduler",
+      "label": "Senior Production Scheduler",
+      "soc": "43-6013",
+      "ptr": 0.9924,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4243
+    },
+    {
+      "id": "lease-sales-representative",
+      "label": "Lease Sales Representative",
+      "soc": "41-4012",
+      "ptr": 0.9898,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4628
+    },
+    {
+      "id": "senior-strategic-sourcing-manager",
+      "label": "Senior Strategic Sourcing Manager",
+      "soc": "11-3061",
+      "ptr": 0.9821,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3456
+    },
+    {
+      "id": "global-commodity-manager-transportation-logistics",
+      "label": "Global Commodity Manager",
+      "soc": "11-3061",
+      "ptr": 0.9821,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3456
+    },
+    {
+      "id": "warehouse-specialist",
+      "label": "Warehouse Specialist",
+      "soc": "15-1243",
+      "ptr": 0.9798,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.6116
+    },
+    {
+      "id": "master-production-scheduler",
+      "label": "Master Production Scheduler",
+      "soc": "43-6013",
+      "ptr": 0.9723,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4243
+    },
+    {
+      "id": "flow-coordinator",
+      "label": "Flow Coordinator",
+      "soc": "43-5061",
+      "ptr": 0.9673,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4273
+    },
+    {
+      "id": "supply-clerk-transportation-logistics",
+      "label": "Supply Clerk",
+      "soc": "43-9061",
+      "ptr": 0.9597,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4088
+    },
+    {
+      "id": "supply-coordinator",
+      "label": "Supply Coordinator",
+      "soc": "43-3061",
+      "ptr": 0.9481,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4354
+    },
+    {
+      "id": "warehouse-clerk",
+      "label": "Warehouse Clerk",
+      "soc": "43-9061",
+      "ptr": 0.9395,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4088
+    },
+    {
+      "id": "senior-traffic-engineer-transportation-logistics",
+      "label": "Senior Traffic Engineer",
+      "soc": "17-2071",
+      "ptr": 0.933,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "track-maintenance-engineer",
+      "label": "Track Maintenance Engineer",
+      "soc": "17-2071",
+      "ptr": 0.933,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-vehicle-engineer-transportation-logistics",
+      "label": "Senior Vehicle Engineer",
+      "soc": "17-2071",
+      "ptr": 0.933,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-signalling-engineer",
+      "label": "Senior Signalling Engineer",
+      "soc": "17-2071",
+      "ptr": 0.933,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-asset-engineer-transportation-logistics",
+      "label": "Senior Asset Engineer",
+      "soc": "17-2071",
+      "ptr": 0.933,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-approval-engineer",
+      "label": "Senior Approval Engineer",
+      "soc": "17-2071",
+      "ptr": 0.933,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-transportation-engineer-transportation-logistics",
+      "label": "Senior Transportation Engineer",
+      "soc": "17-2071",
+      "ptr": 0.933,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-track-engineer",
+      "label": "Senior Track Engineer",
+      "soc": "17-2071",
+      "ptr": 0.933,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-logistics-engineer-transportation-logistics",
+      "label": "Senior Logistics Engineer",
+      "soc": "17-2071",
+      "ptr": 0.933,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "locomotive-engineer",
+      "label": "Locomotive Engineer",
+      "soc": "17-2071",
+      "ptr": 0.933,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-signal-engineer",
+      "label": "Senior Signal Engineer",
+      "soc": "17-2071",
+      "ptr": 0.933,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-supply-chain-engineer",
+      "label": "Senior Supply Chain Engineer",
+      "soc": "17-2071",
+      "ptr": 0.933,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "cadet-engineer",
+      "label": "Cadet Engineer",
+      "soc": "17-2071",
+      "ptr": 0.9142,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "engineer-officer-transportation-logistics",
+      "label": "Engineer Officer",
+      "soc": "17-2071",
+      "ptr": 0.9142,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "assistant-maintenance-engineer-transportation-logistics",
+      "label": "Assistant Maintenance Engineer",
+      "soc": "17-2071",
+      "ptr": 0.9142,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "vehicle-engineer-transportation-logistics",
+      "label": "Vehicle Engineer",
+      "soc": "17-2071",
+      "ptr": 0.9142,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "signalling-engineer",
+      "label": "Signalling Engineer",
+      "soc": "17-2071",
+      "ptr": 0.9142,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "asset-engineer-transportation-logistics",
+      "label": "Asset Engineer",
+      "soc": "17-2071",
+      "ptr": 0.9142,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "approval-engineer",
+      "label": "Approval Engineer",
+      "soc": "17-2071",
+      "ptr": 0.9142,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "track-engineer",
+      "label": "Track Engineer",
+      "soc": "17-2071",
+      "ptr": 0.9142,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "second-assistant-engineer-transportation-logistics",
+      "label": "Second Assistant Engineer",
+      "soc": "17-2071",
+      "ptr": 0.9142,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "field-industrial-engineer",
+      "label": "Field Industrial Engineer",
+      "soc": "17-2071",
+      "ptr": 0.9142,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "signal-engineer",
+      "label": "Signal Engineer",
+      "soc": "17-2071",
+      "ptr": 0.9142,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "supply-chain-engineer-transportation-logistics",
+      "label": "Supply Chain Engineer",
+      "soc": "17-2071",
+      "ptr": 0.9142,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "operation-agent-transportation-logistics",
+      "label": "Operation Agent",
+      "soc": "13-1011",
+      "ptr": 0.9115,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4062
+    },
+    {
+      "id": "senior-demand-analyst",
+      "label": "Senior Demand Analyst",
+      "soc": "13-2054",
+      "ptr": 0.911,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "senior-supply-analyst",
+      "label": "Senior Supply Analyst",
+      "soc": "13-2054",
+      "ptr": 0.911,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "senior-distribution-analyst",
+      "label": "Senior Distribution Analyst",
+      "soc": "13-2054",
+      "ptr": 0.911,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "senior-stock-analyst",
+      "label": "Senior Stock Analyst",
+      "soc": "13-2054",
+      "ptr": 0.911,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "third-engineer-transportation-logistics",
+      "label": "Third Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8949,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "first-engineer-transportation-logistics",
+      "label": "First Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8949,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "replenishment-analyst-transportation-logistics",
+      "label": "Replenishment Analyst",
+      "soc": "13-2054",
+      "ptr": 0.8926,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "sourcing-analyst",
+      "label": "Sourcing Analyst",
+      "soc": "13-2054",
+      "ptr": 0.8926,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "global-sourcing-analyst",
+      "label": "Global Sourcing Analyst",
+      "soc": "13-2054",
+      "ptr": 0.8926,
+      "nfc": 0,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3872
+    }
+  ],
+  "edges": [
+    {
+      "source": "transportation-coordinator",
+      "target": "production-planner",
+      "weight": 0.57
+    },
+    {
+      "source": "senior-buyer",
+      "target": "supply-chain-manager",
+      "weight": 0.71
+    },
+    {
+      "source": "supply-chain-analyst",
+      "target": "supply-chain-manager",
+      "weight": 0.82
+    },
+    {
+      "source": "supply-chain-analyst",
+      "target": "operation-supervisor",
+      "weight": 0.67
+    },
+    {
+      "source": "inventory-analyst",
+      "target": "warehouse-supervisor",
+      "weight": 0.68
+    },
+    {
+      "source": "inventory-analyst",
+      "target": "material-handler",
+      "weight": 0.96
+    },
+    {
+      "source": "inventory-control-supervisor",
+      "target": "material-handler",
+      "weight": 0.94
+    },
+    {
+      "source": "inventory-control-supervisor",
+      "target": "logistics-coordinator",
+      "weight": 0.48
+    },
+    {
+      "source": "distribution-manager",
+      "target": "logistics-specialist",
+      "weight": 0.45
+    },
+    {
+      "source": "transportation-supervisor",
+      "target": "production-planner",
+      "weight": 0.84
+    },
+    {
+      "source": "transportation-supervisor",
+      "target": "supply-chain-manager",
+      "weight": 0.89
+    },
+    {
+      "source": "material-manager",
+      "target": "warehouse-manager",
+      "weight": 0.9
+    },
+    {
+      "source": "material-manager",
+      "target": "logistics-manager",
+      "weight": 0.4
+    },
+    {
+      "source": "material-planner-transportation-logistics",
+      "target": "warehouse-manager",
+      "weight": 0.98
+    },
+    {
+      "source": "material-planner-transportation-logistics",
+      "target": "logistics-analyst",
+      "weight": 0.66
+    },
+    {
+      "source": "supply-planner-transportation-logistics",
+      "target": "material-handler",
+      "weight": 0.98
+    },
+    {
+      "source": "supply-planner-transportation-logistics",
+      "target": "logistics-analyst",
+      "weight": 0.77
+    },
+    {
+      "source": "dispatcher",
+      "target": "production-planner",
+      "weight": 0.87
+    },
+    {
+      "source": "dispatcher",
+      "target": "material-handler",
+      "weight": 0.42
+    },
+    {
+      "source": "transportation-manager",
+      "target": "logistics-manager",
+      "weight": 0.56
+    },
+    {
+      "source": "transportation-manager",
+      "target": "warehouse-manager",
+      "weight": 0.71
+    },
+    {
+      "source": "truck-driver",
+      "target": "supply-chain-manager",
+      "weight": 0.86
+    },
+    {
+      "source": "driver",
+      "target": "logistics-analyst",
+      "weight": 0.56
+    },
+    {
+      "source": "driver",
+      "target": "logistics-coordinator",
+      "weight": 0.9
+    },
+    {
+      "source": "facility-manager-transportation-logistics",
+      "target": "production-planner",
+      "weight": 0.48
+    },
+    {
+      "source": "facility-manager-transportation-logistics",
+      "target": "logistics-coordinator",
+      "weight": 0.53
+    },
+    {
+      "source": "supply-chain-director",
+      "target": "supply-chain-manager",
+      "weight": 0.4
+    },
+    {
+      "source": "supply-chain-director",
+      "target": "warehouse-manager",
+      "weight": 0.63
+    },
+    {
+      "source": "distribution-supervisor",
+      "target": "warehouse-supervisor",
+      "weight": 0.75
+    },
+    {
+      "source": "demand-planner-transportation-logistics",
+      "target": "supply-chain-manager",
+      "weight": 0.79
+    },
+    {
+      "source": "forklift-operator",
+      "target": "material-handler",
+      "weight": 0.45
+    },
+    {
+      "source": "inventory-control-manager",
+      "target": "logistics-manager",
+      "weight": 0.8
+    },
+    {
+      "source": "inventory-planner-transportation-logistics",
+      "target": "production-planner",
+      "weight": 0.84
+    },
+    {
+      "source": "inventory-planner-transportation-logistics",
+      "target": "warehouse-manager",
+      "weight": 0.6
+    },
+    {
+      "source": "senior-logistics-manager",
+      "target": "logistics-analyst",
+      "weight": 0.78
+    },
+    {
+      "source": "senior-logistics-manager",
+      "target": "logistics-coordinator",
+      "weight": 0.53
+    },
+    {
+      "source": "export-coordinator",
+      "target": "logistics-coordinator",
+      "weight": 0.97
+    },
+    {
+      "source": "terminal-manager",
+      "target": "warehouse-manager",
+      "weight": 0.72
+    },
+    {
+      "source": "terminal-manager",
+      "target": "warehouse-supervisor",
+      "weight": 0.4
+    },
+    {
+      "source": "logistics-supervisor",
+      "target": "logistics-specialist",
+      "weight": 0.67
+    },
+    {
+      "source": "logistics-supervisor",
+      "target": "material-handler",
+      "weight": 0.72
+    },
+    {
+      "source": "traffic-coordinator",
+      "target": "production-planner",
+      "weight": 0.61
+    },
+    {
+      "source": "traffic-coordinator",
+      "target": "logistics-analyst",
+      "weight": 0.65
+    },
+    {
+      "source": "shipping-manager",
+      "target": "logistics-analyst",
+      "weight": 0.98
+    },
+    {
+      "source": "shipping-manager",
+      "target": "operation-supervisor",
+      "weight": 0.54
+    },
+    {
+      "source": "strategic-sourcing-manager",
+      "target": "production-planner",
+      "weight": 0.76
+    },
+    {
+      "source": "fleet-manager",
+      "target": "logistics-specialist",
+      "weight": 0.91
+    },
+    {
+      "source": "warehouse-associate",
+      "target": "warehouse-manager",
+      "weight": 0.77
+    },
+    {
+      "source": "warehouse-associate",
+      "target": "warehouse-supervisor",
+      "weight": 0.49
+    },
+    {
+      "source": "receiving-manager",
+      "target": "production-planner",
+      "weight": 0.84
+    },
+    {
+      "source": "logistics-officer",
+      "target": "supply-chain-manager",
+      "weight": 0.58
+    },
+    {
+      "source": "supply-technician-transportation-logistics",
+      "target": "supply-chain-manager",
+      "weight": 0.87
+    },
+    {
+      "source": "supply-technician-transportation-logistics",
+      "target": "warehouse-manager",
+      "weight": 0.64
+    },
+    {
+      "source": "traffic-manager",
+      "target": "logistics-specialist",
+      "weight": 0.42
+    },
+    {
+      "source": "demand-planning-manager-transportation-logistics",
+      "target": "operation-supervisor",
+      "weight": 0.73
+    },
+    {
+      "source": "supply-chain-planner",
+      "target": "logistics-analyst",
+      "weight": 0.67
+    },
+    {
+      "source": "supply-chain-planner",
+      "target": "warehouse-manager",
+      "weight": 0.59
+    },
+    {
+      "source": "stock-controller",
+      "target": "production-planner",
+      "weight": 0.65
+    },
+    {
+      "source": "stock-controller",
+      "target": "operation-supervisor",
+      "weight": 0.69
+    },
+    {
+      "source": "warehouse-worker",
+      "target": "logistics-coordinator",
+      "weight": 0.89
+    },
+    {
+      "source": "master-scheduler-transportation-logistics",
+      "target": "logistics-analyst",
+      "weight": 0.59
+    },
+    {
+      "source": "master-scheduler-transportation-logistics",
+      "target": "supply-chain-manager",
+      "weight": 0.56
+    },
+    {
+      "source": "operation-planner",
+      "target": "material-handler",
+      "weight": 0.57
+    },
+    {
+      "source": "operation-planner",
+      "target": "logistics-coordinator",
+      "weight": 0.52
+    },
+    {
+      "source": "data-protection-officer-transportation-logistics",
+      "target": "supply-chain-manager",
+      "weight": 0.47
+    },
+    {
+      "source": "data-protection-officer-transportation-logistics",
+      "target": "logistics-specialist",
+      "weight": 0.85
+    },
+    {
+      "source": "senior-supply-chain-analyst",
+      "target": "warehouse-manager",
+      "weight": 0.91
+    },
+    {
+      "source": "senior-supply-chain-analyst",
+      "target": "logistics-coordinator",
+      "weight": 0.67
+    },
+    {
+      "source": "supply-chain",
+      "target": "logistics-coordinator",
+      "weight": 0.56
+    },
+    {
+      "source": "receiving-clerk",
+      "target": "supply-chain-manager",
+      "weight": 0.74
+    },
+    {
+      "source": "receiving-clerk",
+      "target": "logistics-specialist",
+      "weight": 0.61
+    },
+    {
+      "source": "order-selector",
+      "target": "supply-chain-manager",
+      "weight": 0.69
+    },
+    {
+      "source": "transportation-analyst",
+      "target": "production-planner",
+      "weight": 0.98
+    },
+    {
+      "source": "warehouse-operative",
+      "target": "supply-chain-manager",
+      "weight": 0.55
+    },
+    {
+      "source": "warehouse-operative",
+      "target": "operation-supervisor",
+      "weight": 0.61
+    },
+    {
+      "source": "supply-manager",
+      "target": "supply-chain-manager",
+      "weight": 0.73
+    },
+    {
+      "source": "supply-manager",
+      "target": "material-handler",
+      "weight": 0.65
+    },
+    {
+      "source": "inventory-control-analyst",
+      "target": "material-handler",
+      "weight": 0.69
+    },
+    {
+      "source": "transport-manager",
+      "target": "operation-supervisor",
+      "weight": 0.6
+    },
+    {
+      "source": "transport-manager",
+      "target": "logistics-specialist",
+      "weight": 0.51
+    },
+    {
+      "source": "logistics-engineer-transportation-logistics",
+      "target": "operation-supervisor",
+      "weight": 0.74
+    },
+    {
+      "source": "chief-engineer",
+      "target": "operation-supervisor",
+      "weight": 0.59
+    },
+    {
+      "source": "chief-engineer",
+      "target": "supply-chain-manager",
+      "weight": 0.97
+    },
+    {
+      "source": "dispatch-supervisor",
+      "target": "warehouse-manager",
+      "weight": 0.48
+    },
+    {
+      "source": "dispatch-supervisor",
+      "target": "logistics-manager",
+      "weight": 0.87
+    },
+    {
+      "source": "logistics-director",
+      "target": "operation-supervisor",
+      "weight": 0.59
+    },
+    {
+      "source": "logistics-director",
+      "target": "logistics-manager",
+      "weight": 0.64
+    },
+    {
+      "source": "third-officer",
+      "target": "warehouse-manager",
+      "weight": 0.43
+    },
+    {
+      "source": "supply-officer-transportation-logistics",
+      "target": "supply-chain-manager",
+      "weight": 0.5
+    },
+    {
+      "source": "second-officer",
+      "target": "logistics-specialist",
+      "weight": 0.6
+    },
+    {
+      "source": "second-engineer-transportation-logistics",
+      "target": "logistics-manager",
+      "weight": 0.84
+    },
+    {
+      "source": "import-coordinator",
+      "target": "logistics-specialist",
+      "weight": 0.42
+    },
+    {
+      "source": "transportation-planner-transportation-logistics",
+      "target": "logistics-analyst",
+      "weight": 0.6
+    },
+    {
+      "source": "chief-officer",
+      "target": "logistics-analyst",
+      "weight": 0.5
+    },
+    {
+      "source": "supply-chain-consultant",
+      "target": "logistics-analyst",
+      "weight": 0.46
+    },
+    {
+      "source": "customer-logistics-manager",
+      "target": "logistics-analyst",
+      "weight": 0.53
+    },
+    {
+      "source": "customer-logistics-manager",
+      "target": "material-handler",
+      "weight": 0.96
+    },
+    {
+      "source": "distribution-center-manager",
+      "target": "supply-chain-manager",
+      "weight": 0.94
+    },
+    {
+      "source": "rental-sales-representative",
+      "target": "production-planner",
+      "weight": 0.57
+    },
+    {
+      "source": "shipping-coordinator",
+      "target": "logistics-analyst",
+      "weight": 0.62
+    },
+    {
+      "source": "commodity-manager-transportation-logistics",
+      "target": "operation-supervisor",
+      "weight": 0.64
+    },
+    {
+      "source": "commodity-manager-transportation-logistics",
+      "target": "logistics-coordinator",
+      "weight": 0.81
+    },
+    {
+      "source": "import-manager",
+      "target": "supply-chain-manager",
+      "weight": 0.89
+    },
+    {
+      "source": "import-manager",
+      "target": "material-handler",
+      "weight": 0.58
+    },
+    {
+      "source": "second-mate-transportation-logistics",
+      "target": "warehouse-supervisor",
+      "weight": 0.88
+    },
+    {
+      "source": "fourth-engineer",
+      "target": "production-planner",
+      "weight": 0.97
+    },
+    {
+      "source": "import-specialist",
+      "target": "logistics-coordinator",
+      "weight": 0.75
+    },
+    {
+      "source": "import-specialist",
+      "target": "logistics-specialist",
+      "weight": 0.44
+    },
+    {
+      "source": "assistant-rental-manager",
+      "target": "supply-chain-manager",
+      "weight": 0.81
+    },
+    {
+      "source": "assistant-rental-manager",
+      "target": "logistics-specialist",
+      "weight": 0.97
+    },
+    {
+      "source": "transport-planner",
+      "target": "logistics-manager",
+      "weight": 0.79
+    },
+    {
+      "source": "transport-planner",
+      "target": "logistics-specialist",
+      "weight": 0.57
+    },
+    {
+      "source": "supply-chain-supervisor",
+      "target": "production-planner",
+      "weight": 0.77
+    },
+    {
+      "source": "supply-chain-supervisor",
+      "target": "material-handler",
+      "weight": 0.96
+    },
+    {
+      "source": "material-coordinator-transportation-logistics",
+      "target": "logistics-analyst",
+      "weight": 0.45
+    },
+    {
+      "source": "inventory-control-specialist",
+      "target": "production-planner",
+      "weight": 0.98
+    },
+    {
+      "source": "branch-rental-manager",
+      "target": "logistics-analyst",
+      "weight": 0.43
+    },
+    {
+      "source": "courier",
+      "target": "supply-chain-manager",
+      "weight": 0.68
+    },
+    {
+      "source": "senior-sourcing-analyst",
+      "target": "warehouse-supervisor",
+      "weight": 0.89
+    },
+    {
+      "source": "senior-sourcing-analyst",
+      "target": "supply-chain-manager",
+      "weight": 0.46
+    },
+    {
+      "source": "marine-engineer-transportation-logistics",
+      "target": "logistics-manager",
+      "weight": 0.45
+    },
+    {
+      "source": "first-assistant-engineer-transportation-logistics",
+      "target": "logistics-specialist",
+      "weight": 0.79
+    },
+    {
+      "source": "senior-industrial-engineer-transportation-logistics",
+      "target": "logistics-manager",
+      "weight": 0.98
+    },
+    {
+      "source": "senior-industrial-engineer-transportation-logistics",
+      "target": "logistics-coordinator",
+      "weight": 0.94
+    },
+    {
+      "source": "transportation-engineer-transportation-logistics",
+      "target": "material-handler",
+      "weight": 0.78
+    },
+    {
+      "source": "district-rental-manager",
+      "target": "warehouse-manager",
+      "weight": 0.46
+    },
+    {
+      "source": "naval-architect-transportation-logistics",
+      "target": "production-planner",
+      "weight": 0.63
+    },
+    {
+      "source": "naval-architect-transportation-logistics",
+      "target": "material-handler",
+      "weight": 0.47
+    },
+    {
+      "source": "warehouse-operator",
+      "target": "operation-supervisor",
+      "weight": 0.56
+    },
+    {
+      "source": "industrial-engineering-manager-transportation-logistics",
+      "target": "logistics-analyst",
+      "weight": 0.99
+    },
+    {
+      "source": "industrial-engineering-manager-transportation-logistics",
+      "target": "supply-chain-manager",
+      "weight": 0.89
+    },
+    {
+      "source": "traffic-engineer-transportation-logistics",
+      "target": "warehouse-supervisor",
+      "weight": 0.68
+    },
+    {
+      "source": "import-supervisor",
+      "target": "logistics-coordinator",
+      "weight": 0.73
+    },
+    {
+      "source": "supply-chain-specialist",
+      "target": "supply-chain-manager",
+      "weight": 0.96
+    },
+    {
+      "source": "assistant-warehouse-manager",
+      "target": "logistics-coordinator",
+      "weight": 0.69
+    },
+    {
+      "source": "assistant-warehouse-manager",
+      "target": "logistics-manager",
+      "weight": 0.79
+    },
+    {
+      "source": "senior-inventory-coordinator",
+      "target": "material-handler",
+      "weight": 0.91
+    },
+    {
+      "source": "yard-operation-manager",
+      "target": "logistics-analyst",
+      "weight": 0.49
+    },
+    {
+      "source": "export-supervisor",
+      "target": "logistics-manager",
+      "weight": 0.44
+    },
+    {
+      "source": "logistics-project-manager",
+      "target": "logistics-specialist",
+      "weight": 0.58
+    },
+    {
+      "source": "logistics-project-manager",
+      "target": "supply-chain-manager",
+      "weight": 0.55
+    },
+    {
+      "source": "dispatch-coordinator",
+      "target": "warehouse-supervisor",
+      "weight": 0.64
+    },
+    {
+      "source": "dispatch-coordinator",
+      "target": "logistics-manager",
+      "weight": 0.45
+    },
+    {
+      "source": "senior-production-scheduler",
+      "target": "supply-chain-manager",
+      "weight": 0.78
+    },
+    {
+      "source": "senior-production-scheduler",
+      "target": "logistics-coordinator",
+      "weight": 0.59
+    },
+    {
+      "source": "lease-sales-representative",
+      "target": "logistics-manager",
+      "weight": 0.4
+    },
+    {
+      "source": "lease-sales-representative",
+      "target": "operation-supervisor",
+      "weight": 0.95
+    },
+    {
+      "source": "senior-strategic-sourcing-manager",
+      "target": "logistics-coordinator",
+      "weight": 0.76
+    },
+    {
+      "source": "global-commodity-manager-transportation-logistics",
+      "target": "supply-chain-manager",
+      "weight": 0.87
+    },
+    {
+      "source": "warehouse-specialist",
+      "target": "supply-chain-manager",
+      "weight": 0.48
+    },
+    {
+      "source": "warehouse-specialist",
+      "target": "material-handler",
+      "weight": 0.94
+    },
+    {
+      "source": "master-production-scheduler",
+      "target": "warehouse-supervisor",
+      "weight": 0.55
+    },
+    {
+      "source": "flow-coordinator",
+      "target": "material-handler",
+      "weight": 0.69
+    },
+    {
+      "source": "flow-coordinator",
+      "target": "logistics-analyst",
+      "weight": 0.91
+    },
+    {
+      "source": "supply-clerk-transportation-logistics",
+      "target": "logistics-analyst",
+      "weight": 0.51
+    },
+    {
+      "source": "supply-coordinator",
+      "target": "supply-chain-manager",
+      "weight": 0.42
+    },
+    {
+      "source": "warehouse-clerk",
+      "target": "logistics-specialist",
+      "weight": 0.71
+    },
+    {
+      "source": "senior-traffic-engineer-transportation-logistics",
+      "target": "logistics-specialist",
+      "weight": 0.75
+    },
+    {
+      "source": "senior-traffic-engineer-transportation-logistics",
+      "target": "warehouse-manager",
+      "weight": 0.49
+    },
+    {
+      "source": "track-maintenance-engineer",
+      "target": "production-planner",
+      "weight": 0.49
+    },
+    {
+      "source": "senior-vehicle-engineer-transportation-logistics",
+      "target": "supply-chain-manager",
+      "weight": 0.6
+    },
+    {
+      "source": "senior-vehicle-engineer-transportation-logistics",
+      "target": "operation-supervisor",
+      "weight": 0.49
+    },
+    {
+      "source": "senior-signalling-engineer",
+      "target": "logistics-analyst",
+      "weight": 0.89
+    },
+    {
+      "source": "senior-asset-engineer-transportation-logistics",
+      "target": "logistics-specialist",
+      "weight": 0.48
+    },
+    {
+      "source": "senior-approval-engineer",
+      "target": "production-planner",
+      "weight": 0.95
+    },
+    {
+      "source": "senior-transportation-engineer-transportation-logistics",
+      "target": "production-planner",
+      "weight": 0.54
+    },
+    {
+      "source": "senior-track-engineer",
+      "target": "material-handler",
+      "weight": 0.46
+    },
+    {
+      "source": "senior-track-engineer",
+      "target": "logistics-coordinator",
+      "weight": 0.4
+    },
+    {
+      "source": "senior-logistics-engineer-transportation-logistics",
+      "target": "logistics-specialist",
+      "weight": 0.53
+    },
+    {
+      "source": "locomotive-engineer",
+      "target": "logistics-manager",
+      "weight": 0.86
+    },
+    {
+      "source": "senior-signal-engineer",
+      "target": "logistics-coordinator",
+      "weight": 0.61
+    },
+    {
+      "source": "senior-supply-chain-engineer",
+      "target": "warehouse-manager",
+      "weight": 0.52
+    },
+    {
+      "source": "cadet-engineer",
+      "target": "production-planner",
+      "weight": 0.46
+    },
+    {
+      "source": "cadet-engineer",
+      "target": "supply-chain-manager",
+      "weight": 0.95
+    },
+    {
+      "source": "engineer-officer-transportation-logistics",
+      "target": "material-handler",
+      "weight": 0.52
+    },
+    {
+      "source": "engineer-officer-transportation-logistics",
+      "target": "logistics-specialist",
+      "weight": 0.43
+    },
+    {
+      "source": "assistant-maintenance-engineer-transportation-logistics",
+      "target": "supply-chain-manager",
+      "weight": 0.86
+    },
+    {
+      "source": "assistant-maintenance-engineer-transportation-logistics",
+      "target": "warehouse-supervisor",
+      "weight": 0.78
+    },
+    {
+      "source": "vehicle-engineer-transportation-logistics",
+      "target": "logistics-specialist",
+      "weight": 0.78
+    },
+    {
+      "source": "vehicle-engineer-transportation-logistics",
+      "target": "logistics-coordinator",
+      "weight": 0.41
+    },
+    {
+      "source": "signalling-engineer",
+      "target": "operation-supervisor",
+      "weight": 0.95
+    },
+    {
+      "source": "asset-engineer-transportation-logistics",
+      "target": "logistics-manager",
+      "weight": 0.69
+    },
+    {
+      "source": "approval-engineer",
+      "target": "logistics-analyst",
+      "weight": 0.83
+    },
+    {
+      "source": "track-engineer",
+      "target": "supply-chain-manager",
+      "weight": 1
+    },
+    {
+      "source": "second-assistant-engineer-transportation-logistics",
+      "target": "operation-supervisor",
+      "weight": 0.57
+    },
+    {
+      "source": "second-assistant-engineer-transportation-logistics",
+      "target": "warehouse-manager",
+      "weight": 0.87
+    },
+    {
+      "source": "field-industrial-engineer",
+      "target": "material-handler",
+      "weight": 0.67
+    },
+    {
+      "source": "field-industrial-engineer",
+      "target": "warehouse-manager",
+      "weight": 0.71
+    },
+    {
+      "source": "signal-engineer",
+      "target": "logistics-manager",
+      "weight": 0.46
+    },
+    {
+      "source": "signal-engineer",
+      "target": "supply-chain-manager",
+      "weight": 0.52
+    },
+    {
+      "source": "supply-chain-engineer-transportation-logistics",
+      "target": "warehouse-supervisor",
+      "weight": 0.68
+    },
+    {
+      "source": "operation-agent-transportation-logistics",
+      "target": "production-planner",
+      "weight": 0.82
+    },
+    {
+      "source": "operation-agent-transportation-logistics",
+      "target": "warehouse-supervisor",
+      "weight": 0.56
+    },
+    {
+      "source": "senior-demand-analyst",
+      "target": "supply-chain-manager",
+      "weight": 0.68
+    },
+    {
+      "source": "senior-supply-analyst",
+      "target": "warehouse-manager",
+      "weight": 0.74
+    },
+    {
+      "source": "senior-supply-analyst",
+      "target": "supply-chain-manager",
+      "weight": 0.83
+    },
+    {
+      "source": "senior-distribution-analyst",
+      "target": "logistics-manager",
+      "weight": 0.91
+    },
+    {
+      "source": "senior-stock-analyst",
+      "target": "logistics-coordinator",
+      "weight": 0.47
+    },
+    {
+      "source": "third-engineer-transportation-logistics",
+      "target": "production-planner",
+      "weight": 0.82
+    },
+    {
+      "source": "third-engineer-transportation-logistics",
+      "target": "supply-chain-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "first-engineer-transportation-logistics",
+      "target": "supply-chain-manager",
+      "weight": 0.52
+    },
+    {
+      "source": "replenishment-analyst-transportation-logistics",
+      "target": "logistics-analyst",
+      "weight": 0.71
+    },
+    {
+      "source": "sourcing-analyst",
+      "target": "supply-chain-manager",
+      "weight": 0.46
+    },
+    {
+      "source": "global-sourcing-analyst",
+      "target": "logistics-coordinator",
+      "weight": 0.86
+    },
+    {
+      "source": "global-sourcing-analyst",
+      "target": "production-planner",
+      "weight": 0.74
+    },
+    {
+      "source": "operation-supervisor",
+      "target": "logistics-coordinator",
+      "weight": 0.94
+    },
+    {
+      "source": "operation-supervisor",
+      "target": "material-handler",
+      "weight": 0.91
+    },
+    {
+      "source": "operation-supervisor",
+      "target": "logistics-analyst",
+      "weight": 0.64
+    },
+    {
+      "source": "logistics-coordinator",
+      "target": "logistics-manager",
+      "weight": 0.8
+    },
+    {
+      "source": "logistics-coordinator",
+      "target": "material-handler",
+      "weight": 0.9
+    },
+    {
+      "source": "logistics-coordinator",
+      "target": "production-planner",
+      "weight": 0.73
+    },
+    {
+      "source": "logistics-coordinator",
+      "target": "logistics-analyst",
+      "weight": 0.65
+    },
+    {
+      "source": "logistics-coordinator",
+      "target": "warehouse-manager",
+      "weight": 0.82
+    },
+    {
+      "source": "logistics-coordinator",
+      "target": "logistics-specialist",
+      "weight": 0.65
+    },
+    {
+      "source": "logistics-coordinator",
+      "target": "supply-chain-manager",
+      "weight": 0.94
+    },
+    {
+      "source": "logistics-manager",
+      "target": "production-planner",
+      "weight": 0.81
+    },
+    {
+      "source": "logistics-manager",
+      "target": "logistics-analyst",
+      "weight": 0.96
+    },
+    {
+      "source": "logistics-manager",
+      "target": "warehouse-supervisor",
+      "weight": 0.91
+    },
+    {
+      "source": "logistics-manager",
+      "target": "warehouse-manager",
+      "weight": 0.68
+    },
+    {
+      "source": "logistics-manager",
+      "target": "logistics-specialist",
+      "weight": 0.91
+    },
+    {
+      "source": "logistics-manager",
+      "target": "supply-chain-manager",
+      "weight": 0.68
+    },
+    {
+      "source": "material-handler",
+      "target": "logistics-analyst",
+      "weight": 0.83
+    },
+    {
+      "source": "material-handler",
+      "target": "warehouse-supervisor",
+      "weight": 0.95
+    },
+    {
+      "source": "material-handler",
+      "target": "warehouse-manager",
+      "weight": 0.9
+    },
+    {
+      "source": "material-handler",
+      "target": "logistics-specialist",
+      "weight": 0.89
+    },
+    {
+      "source": "material-handler",
+      "target": "supply-chain-manager",
+      "weight": 0.72
+    },
+    {
+      "source": "production-planner",
+      "target": "warehouse-supervisor",
+      "weight": 0.68
+    },
+    {
+      "source": "production-planner",
+      "target": "warehouse-manager",
+      "weight": 0.66
+    },
+    {
+      "source": "production-planner",
+      "target": "logistics-specialist",
+      "weight": 0.73
+    },
+    {
+      "source": "production-planner",
+      "target": "supply-chain-manager",
+      "weight": 0.75
+    },
+    {
+      "source": "logistics-analyst",
+      "target": "warehouse-supervisor",
+      "weight": 0.78
+    },
+    {
+      "source": "logistics-analyst",
+      "target": "warehouse-manager",
+      "weight": 0.76
+    },
+    {
+      "source": "logistics-analyst",
+      "target": "logistics-specialist",
+      "weight": 0.99
+    },
+    {
+      "source": "logistics-analyst",
+      "target": "supply-chain-manager",
+      "weight": 0.63
+    },
+    {
+      "source": "warehouse-supervisor",
+      "target": "warehouse-manager",
+      "weight": 0.74
+    },
+    {
+      "source": "warehouse-supervisor",
+      "target": "logistics-specialist",
+      "weight": 0.85
+    },
+    {
+      "source": "warehouse-supervisor",
+      "target": "supply-chain-manager",
+      "weight": 0.98
+    },
+    {
+      "source": "warehouse-manager",
+      "target": "logistics-specialist",
+      "weight": 0.81
+    },
+    {
+      "source": "warehouse-manager",
+      "target": "supply-chain-manager",
+      "weight": 0.96
+    },
+    {
+      "source": "logistics-specialist",
+      "target": "supply-chain-manager",
+      "weight": 0.62
+    },
+    {
+      "source": "truck-driver",
+      "target": "driver",
+      "weight": 0.7
+    },
+    {
+      "source": "forklift-operator",
+      "target": "warehouse-associate",
+      "weight": 0.7
+    },
+    {
+      "source": "forklift-operator",
+      "target": "warehouse-operator",
+      "weight": 0.7
+    },
+    {
+      "source": "warehouse-associate",
+      "target": "warehouse-operator",
+      "weight": 0.7
+    },
+    {
+      "source": "warehouse-worker",
+      "target": "senior-inventory-coordinator",
+      "weight": 0.7
+    },
+    {
+      "source": "master-scheduler-transportation-logistics",
+      "target": "senior-production-scheduler",
+      "weight": 0.7
+    },
+    {
+      "source": "master-scheduler-transportation-logistics",
+      "target": "master-production-scheduler",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-production-scheduler",
+      "target": "master-production-scheduler",
+      "weight": 0.7
+    },
+    {
+      "source": "rental-sales-representative",
+      "target": "lease-sales-representative",
+      "weight": 0.7
+    },
+    {
+      "source": "assistant-rental-manager",
+      "target": "branch-rental-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "assistant-rental-manager",
+      "target": "district-rental-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "branch-rental-manager",
+      "target": "district-rental-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "marine-engineer-transportation-logistics",
+      "target": "naval-architect-transportation-logistics",
+      "weight": 0.7
+    },
+    {
+      "source": "logistics-project-manager",
+      "target": "warehouse-specialist",
+      "weight": 0.7
+    },
+    {
+      "source": "supply-clerk-transportation-logistics",
+      "target": "warehouse-clerk",
+      "weight": 0.7
+    }
+  ]
+}

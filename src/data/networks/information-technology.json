@@ -1,0 +1,2844 @@
+{
+  "sector": "Information Technology",
+  "metadata": {
+    "nodeCount": 150,
+    "edgeCount": 269,
+    "generatedAt": "2026-01-31T16:46:30Z"
+  },
+  "nodes": [
+    {
+      "id": "senior-software-engineer-information-technology",
+      "label": "Senior Software Engineer",
+      "soc": "17-2071",
+      "ptr": 0.5477,
+      "nfc": 0.745,
+      "quadrant": "LH",
+      "size": 24.06,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "systems-analyst",
+      "label": "Systems Analyst",
+      "soc": "15-1299",
+      "ptr": 0.7002,
+      "nfc": 0.9302,
+      "quadrant": "HH",
+      "size": 21.19,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "software-engineer",
+      "label": "Software Engineer",
+      "soc": "17-2071",
+      "ptr": 0,
+      "nfc": 0.7445,
+      "quadrant": "LH",
+      "size": 16.71,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "systems-administrator",
+      "label": "Systems Administrator",
+      "soc": "15-1244",
+      "ptr": 0.7297,
+      "nfc": 0.9222,
+      "quadrant": "HH",
+      "size": 16,
+      "aiExposure": 0.4911
+    },
+    {
+      "id": "systems-engineer-information-technology",
+      "label": "Systems Engineer",
+      "soc": "17-2071",
+      "ptr": 0.5785,
+      "nfc": 0.7441,
+      "quadrant": "LH",
+      "size": 13.69,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "technology-analyst",
+      "label": "Technology Analyst",
+      "soc": "17-3026",
+      "ptr": 0.5168,
+      "nfc": 0.5298,
+      "quadrant": "LH",
+      "size": 12.45,
+      "aiExposure": 0.2963
+    },
+    {
+      "id": "software-developer",
+      "label": "Software Developer",
+      "soc": "51-9151",
+      "ptr": 0.149,
+      "nfc": 0.2277,
+      "quadrant": "LH",
+      "size": 11.54,
+      "aiExposure": 0.244
+    },
+    {
+      "id": "senior-systems-engineer-information-technology",
+      "label": "Senior Systems Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7113,
+      "nfc": 0.7434,
+      "quadrant": "HH",
+      "size": 10.9,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "support-engineer-information-technology",
+      "label": "Support Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7056,
+      "nfc": 0.7432,
+      "quadrant": "HH",
+      "size": 10.36,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-developer",
+      "label": "Senior Developer",
+      "soc": "51-9151",
+      "ptr": 0.2112,
+      "nfc": 0.2275,
+      "quadrant": "LH",
+      "size": 9.55,
+      "aiExposure": 0.244
+    },
+    {
+      "id": "web-developer",
+      "label": "Web Developer",
+      "soc": "51-9151",
+      "ptr": 0.1637,
+      "nfc": 0.2275,
+      "quadrant": "LH",
+      "size": 9.04,
+      "aiExposure": 0.244
+    },
+    {
+      "id": "network-engineer-information-technology",
+      "label": "Network Engineer",
+      "soc": "17-2071",
+      "ptr": 0.6745,
+      "nfc": 0.7425,
+      "quadrant": "LH",
+      "size": 8.79,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-front-end-developer",
+      "label": "Senior Front End Developer",
+      "soc": "51-9151",
+      "ptr": 0.2273,
+      "nfc": 0.2273,
+      "quadrant": "LH",
+      "size": 8.77,
+      "aiExposure": 0.244
+    },
+    {
+      "id": "technical-lead",
+      "label": "Technical Lead",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 8.71,
+      "aiExposure": 0
+    },
+    {
+      "id": "technical-support-specialist",
+      "label": "Technical Support Specialist",
+      "soc": "15-1231",
+      "ptr": 0.8641,
+      "nfc": 0.9011,
+      "quadrant": "HH",
+      "size": 8.35,
+      "aiExposure": 0.4684
+    },
+    {
+      "id": "information-technology-specialist",
+      "label": "Information Technology Specialist",
+      "soc": "15-1299",
+      "ptr": 0.8777,
+      "nfc": 0.9263,
+      "quadrant": "HH",
+      "size": 8.3,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "network-administrator",
+      "label": "Network Administrator",
+      "soc": "11-3012",
+      "ptr": 0.3414,
+      "nfc": 0.3839,
+      "quadrant": "LH",
+      "size": 7.65,
+      "aiExposure": 0.2392
+    },
+    {
+      "id": "information-technology-analyst",
+      "label": "Information Technology Analyst",
+      "soc": "15-1299",
+      "ptr": 0.8831,
+      "nfc": 0.9258,
+      "quadrant": "HH",
+      "size": 7.63,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "test-analyst",
+      "label": "Test Analyst",
+      "soc": "13-1051",
+      "ptr": 0.6203,
+      "nfc": 0.6435,
+      "quadrant": "LH",
+      "size": 7.44,
+      "aiExposure": 0.3774
+    },
+    {
+      "id": "software-developer-intern",
+      "label": "Software Developer Intern",
+      "soc": "51-9151",
+      "ptr": 0.2239,
+      "nfc": 0.2269,
+      "quadrant": "LH",
+      "size": 7.42,
+      "aiExposure": 0.244
+    },
+    {
+      "id": "service-desk-analyst",
+      "label": "Service Desk Analyst",
+      "soc": "13-2054",
+      "ptr": 0.6624,
+      "nfc": 0.6841,
+      "quadrant": "LH",
+      "size": 7.05,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "developer",
+      "label": "Developer",
+      "soc": "51-9151",
+      "ptr": 0.184,
+      "nfc": 0.2267,
+      "quadrant": "LH",
+      "size": 7.01,
+      "aiExposure": 0.244
+    },
+    {
+      "id": "software-engineer-iii",
+      "label": "Software Engineer III",
+      "soc": "17-2071",
+      "ptr": 0.7409,
+      "nfc": 0.7401,
+      "quadrant": "HH",
+      "size": 7,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "front-end-developer",
+      "label": "Front End Developer",
+      "soc": "51-9151",
+      "ptr": 0.2222,
+      "nfc": 0.2266,
+      "quadrant": "LH",
+      "size": 6.86,
+      "aiExposure": 0.244
+    },
+    {
+      "id": "support-analyst",
+      "label": "Support Analyst",
+      "soc": "43-4011",
+      "ptr": 0.9016,
+      "nfc": 0.955,
+      "quadrant": "HH",
+      "size": 6.79,
+      "aiExposure": 0.5582
+    },
+    {
+      "id": "quality-assurance-analyst",
+      "label": "Quality Assurance Analyst",
+      "soc": "51-9061",
+      "ptr": 0.4796,
+      "nfc": 0.5078,
+      "quadrant": "LH",
+      "size": 6.78,
+      "aiExposure": 0.2548
+    },
+    {
+      "id": "programmer",
+      "label": "Programmer",
+      "soc": "15-2041",
+      "ptr": 0.6128,
+      "nfc": 0.9154,
+      "quadrant": "LH",
+      "size": 6.56,
+      "aiExposure": 0.5199
+    },
+    {
+      "id": "database-administrator",
+      "label": "Database Administrator",
+      "soc": "15-1244",
+      "ptr": 0.8597,
+      "nfc": 0.9155,
+      "quadrant": "HH",
+      "size": 6.52,
+      "aiExposure": 0.4911
+    },
+    {
+      "id": "technical-consultant",
+      "label": "Technical Consultant",
+      "soc": "13-1199",
+      "ptr": 0.847,
+      "nfc": 0.8692,
+      "quadrant": "HH",
+      "size": 6.42,
+      "aiExposure": 0.4007
+    },
+    {
+      "id": "software-engineer-intern",
+      "label": "Software Engineer Intern",
+      "soc": "17-2071",
+      "ptr": 0.7255,
+      "nfc": 0.7385,
+      "quadrant": "HH",
+      "size": 6.38,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-programmer-analyst",
+      "label": "Senior Programmer Analyst",
+      "soc": "15-1251",
+      "ptr": 0.9342,
+      "nfc": 0.9855,
+      "quadrant": "HH",
+      "size": 6.34,
+      "aiExposure": 0.63
+    },
+    {
+      "id": "programmer-analyst",
+      "label": "Programmer Analyst",
+      "soc": "15-1251",
+      "ptr": 0.7211,
+      "nfc": 0.9852,
+      "quadrant": "HH",
+      "size": 6.26,
+      "aiExposure": 0.63
+    },
+    {
+      "id": "software-consultant",
+      "label": "Software Consultant",
+      "soc": "15-1242",
+      "ptr": 0.9489,
+      "nfc": 0.9842,
+      "quadrant": "HH",
+      "size": 6.25,
+      "aiExposure": 0.6164
+    },
+    {
+      "id": "senior-network-engineer-information-technology",
+      "label": "Senior Network Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7325,
+      "nfc": 0.7376,
+      "quadrant": "HH",
+      "size": 6.15,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "quality-assurance-engineer",
+      "label": "Quality Assurance Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7041,
+      "nfc": 0.7374,
+      "quadrant": "HH",
+      "size": 6.13,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "network-specialist-information-technology",
+      "label": "Network Specialist",
+      "soc": "15-1241",
+      "ptr": 0.8967,
+      "nfc": 0.9006,
+      "quadrant": "HH",
+      "size": 6.06,
+      "aiExposure": 0.4436
+    },
+    {
+      "id": "software-analyst",
+      "label": "Software Analyst",
+      "soc": "13-2054",
+      "ptr": 0.6754,
+      "nfc": 0.6808,
+      "quadrant": "LH",
+      "size": 6.02,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "application-developer",
+      "label": "Application Developer",
+      "soc": "51-9151",
+      "ptr": 0.2066,
+      "nfc": 0.2256,
+      "quadrant": "LH",
+      "size": 6,
+      "aiExposure": 0.244
+    },
+    {
+      "id": "network-consultant-information-technology",
+      "label": "Network Consultant",
+      "soc": "15-1241",
+      "ptr": 0.9052,
+      "nfc": 0.8998,
+      "quadrant": "HH",
+      "size": 5.99,
+      "aiExposure": 0.4436
+    },
+    {
+      "id": "technical-support-engineer-information-technology",
+      "label": "Technical Support Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7099,
+      "nfc": 0.7362,
+      "quadrant": "HH",
+      "size": 5.99,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-systems-analyst",
+      "label": "Senior Systems Analyst",
+      "soc": "17-3027",
+      "ptr": 0.1694,
+      "nfc": 0.1774,
+      "quadrant": "LH",
+      "size": 5.98,
+      "aiExposure": 0.3019
+    },
+    {
+      "id": "java-developer",
+      "label": "Java Developer",
+      "soc": "51-9151",
+      "ptr": 0.2139,
+      "nfc": 0.2253,
+      "quadrant": "LH",
+      "size": 5.94,
+      "aiExposure": 0.244
+    },
+    {
+      "id": "business-systems-analyst",
+      "label": "Business Systems Analyst",
+      "soc": "17-3027",
+      "ptr": 0.1718,
+      "nfc": 0.1773,
+      "quadrant": "LH",
+      "size": 5.94,
+      "aiExposure": 0.3019
+    },
+    {
+      "id": "senior-web-developer",
+      "label": "Senior Web Developer",
+      "soc": "15-1254",
+      "ptr": 0.9636,
+      "nfc": 0.9729,
+      "quadrant": "HH",
+      "size": 5.89,
+      "aiExposure": 0.6429
+    },
+    {
+      "id": "senior-software-developer",
+      "label": "Senior Software Developer",
+      "soc": "51-9151",
+      "ptr": 0.213,
+      "nfc": 0.2251,
+      "quadrant": "LH",
+      "size": 5.86,
+      "aiExposure": 0.244
+    },
+    {
+      "id": "user-experience-designer-information-technology",
+      "label": "User Experience Designer",
+      "soc": "17-2121",
+      "ptr": 0.5281,
+      "nfc": 0.5288,
+      "quadrant": "LH",
+      "size": 5.86,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "solution-architect-information-technology",
+      "label": "Solution Architect",
+      "soc": "17-1011",
+      "ptr": 0.5949,
+      "nfc": 0.6012,
+      "quadrant": "LH",
+      "size": 5.82,
+      "aiExposure": 0.3316
+    },
+    {
+      "id": "software-test-engineer-information-technology",
+      "label": "Software Test Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7199,
+      "nfc": 0.7344,
+      "quadrant": "HH",
+      "size": 5.77,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "information-technology-support-analyst",
+      "label": "Information Technology Support Analyst",
+      "soc": "43-4011",
+      "ptr": 0.9422,
+      "nfc": 0.948,
+      "quadrant": "HH",
+      "size": 5.77,
+      "aiExposure": 0.5582
+    },
+    {
+      "id": "senior-business-analyst",
+      "label": "Senior Business Analyst",
+      "soc": "13-2054",
+      "ptr": 0.6624,
+      "nfc": 0.6781,
+      "quadrant": "LH",
+      "size": 5.76,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "senior-net-developer",
+      "label": "Senior .NET Developer",
+      "soc": "51-9151",
+      "ptr": 0.2273,
+      "nfc": 0.2247,
+      "quadrant": "LH",
+      "size": 5.7,
+      "aiExposure": 0.244
+    },
+    {
+      "id": "senior-systems-administrator",
+      "label": "Senior Systems Administrator",
+      "soc": "11-3012",
+      "ptr": 0.3786,
+      "nfc": 0.3799,
+      "quadrant": "LH",
+      "size": 5.65,
+      "aiExposure": 0.2392
+    },
+    {
+      "id": "senior-test-engineer-information-technology",
+      "label": "Senior Test Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7339,
+      "nfc": 0.7333,
+      "quadrant": "HH",
+      "size": 5.64,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "flash-developer-information-technology",
+      "label": "Flash Developer",
+      "soc": "51-9151",
+      "ptr": 0.2252,
+      "nfc": 0.2245,
+      "quadrant": "LH",
+      "size": 5.63,
+      "aiExposure": 0.244
+    },
+    {
+      "id": "lead-developer",
+      "label": "Lead Developer",
+      "soc": "51-9151",
+      "ptr": 0.2179,
+      "nfc": 0.2244,
+      "quadrant": "LH",
+      "size": 5.62,
+      "aiExposure": 0.244
+    },
+    {
+      "id": "software-quality-assurance-engineer",
+      "label": "Software Quality Assurance Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7213,
+      "nfc": 0.7326,
+      "quadrant": "HH",
+      "size": 5.58,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "release-manager",
+      "label": "Release Manager",
+      "soc": "15-1299",
+      "ptr": 0.9254,
+      "nfc": 0.9148,
+      "quadrant": "HH",
+      "size": 5.56,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "business-intelligence-developer",
+      "label": "Business Intelligence Developer",
+      "soc": "51-9151",
+      "ptr": 0.2226,
+      "nfc": 0.2242,
+      "quadrant": "LH",
+      "size": 5.55,
+      "aiExposure": 0.244
+    },
+    {
+      "id": "firmware-engineer-information-technology",
+      "label": "Firmware Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7395,
+      "nfc": 0.732,
+      "quadrant": "HH",
+      "size": 5.53,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "web-designer-information-technology",
+      "label": "Web Designer",
+      "soc": "17-2121",
+      "ptr": 0.4733,
+      "nfc": 0.5266,
+      "quadrant": "LH",
+      "size": 5.51,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "junior-software-developer",
+      "label": "Junior Software Developer",
+      "soc": "51-9151",
+      "ptr": 0.2252,
+      "nfc": 0.224,
+      "quadrant": "LH",
+      "size": 5.5,
+      "aiExposure": 0.244
+    },
+    {
+      "id": "senior-application-developer",
+      "label": "Senior Application Developer",
+      "soc": "51-9151",
+      "ptr": 0.2239,
+      "nfc": 0.224,
+      "quadrant": "LH",
+      "size": 5.49,
+      "aiExposure": 0.244
+    },
+    {
+      "id": "network-analyst-information-technology",
+      "label": "Network Analyst",
+      "soc": "13-2054",
+      "ptr": 0.6741,
+      "nfc": 0.6753,
+      "quadrant": "LH",
+      "size": 5.45,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "software-development-engineer-information-technology",
+      "label": "Software Development Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7213,
+      "nfc": 0.7308,
+      "quadrant": "HH",
+      "size": 5.44,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "quality-assurance-lead",
+      "label": "Quality Assurance Lead",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.44,
+      "aiExposure": 0
+    },
+    {
+      "id": "information-technology-consultant",
+      "label": "Information Technology Consultant",
+      "soc": "15-1299",
+      "ptr": 0.8956,
+      "nfc": 0.9123,
+      "quadrant": "HH",
+      "size": 5.43,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "software-development-engineer-intern",
+      "label": "Software Development Engineer Intern",
+      "soc": "17-2071",
+      "ptr": 0.7395,
+      "nfc": 0.7301,
+      "quadrant": "HH",
+      "size": 5.43,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "service-delivery-manager-information-technology",
+      "label": "Service Delivery Manager",
+      "soc": "11-3071",
+      "ptr": 0.5982,
+      "nfc": 0.5938,
+      "quadrant": "LH",
+      "size": 5.42,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "help-desk-manager",
+      "label": "Help Desk Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.41,
+      "aiExposure": 0
+    },
+    {
+      "id": "information-technology-project-manager",
+      "label": "Information Technology Project Manager",
+      "soc": "15-1299",
+      "ptr": 0.9115,
+      "nfc": 0.9111,
+      "quadrant": "HH",
+      "size": 5.41,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "associate-software-developer",
+      "label": "Associate Software Developer",
+      "soc": "51-9151",
+      "ptr": 0.2269,
+      "nfc": 0.2233,
+      "quadrant": "LH",
+      "size": 5.4,
+      "aiExposure": 0.244
+    },
+    {
+      "id": "associate-project-manager",
+      "label": "Associate Project Manager",
+      "soc": "15-1299",
+      "ptr": 0.9219,
+      "nfc": 0.9106,
+      "quadrant": "HH",
+      "size": 5.39,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "oracle-database-administrator",
+      "label": "Oracle Database Administrator",
+      "soc": "11-3012",
+      "ptr": 0.375,
+      "nfc": 0.3774,
+      "quadrant": "LH",
+      "size": 5.38,
+      "aiExposure": 0.2392
+    },
+    {
+      "id": "technology-consultant",
+      "label": "Technology Consultant",
+      "soc": "15-1299",
+      "ptr": 0.9219,
+      "nfc": 0.91,
+      "quadrant": "HH",
+      "size": 5.37,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "second-line-support-information-technology",
+      "label": "Second Line Support",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.35,
+      "aiExposure": 0
+    },
+    {
+      "id": "associate-software-engineer",
+      "label": "Associate Software Engineer",
+      "soc": "17-2071",
+      "ptr": 0.727,
+      "nfc": 0.7281,
+      "quadrant": "HH",
+      "size": 5.35,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "information-technology-technician",
+      "label": "Information Technology Technician",
+      "soc": "15-1232",
+      "ptr": 0.8163,
+      "nfc": 0.8617,
+      "quadrant": "HH",
+      "size": 5.34,
+      "aiExposure": 0.4725
+    },
+    {
+      "id": "information-security-officer",
+      "label": "Information Security Officer",
+      "soc": "33-9032",
+      "ptr": 0.0708,
+      "nfc": 0.07,
+      "quadrant": "LH",
+      "size": 5.34,
+      "aiExposure": 0.1528
+    },
+    {
+      "id": "technical-staff-member-information-technology",
+      "label": "Technical Staff Member",
+      "soc": "19-4031",
+      "ptr": 0.4235,
+      "nfc": 0.4296,
+      "quadrant": "LH",
+      "size": 5.32,
+      "aiExposure": 0.2663
+    },
+    {
+      "id": "technical-support-analyst",
+      "label": "Technical Support Analyst",
+      "soc": "43-4011",
+      "ptr": 0.924,
+      "nfc": 0.9389,
+      "quadrant": "HH",
+      "size": 5.32,
+      "aiExposure": 0.5582
+    },
+    {
+      "id": "systems-developer",
+      "label": "Systems Developer",
+      "soc": "51-9151",
+      "ptr": 0.2239,
+      "nfc": 0.2226,
+      "quadrant": "LH",
+      "size": 5.31,
+      "aiExposure": 0.244
+    },
+    {
+      "id": "embedded-software-engineer-information-technology",
+      "label": "Embedded Software Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7367,
+      "nfc": 0.7267,
+      "quadrant": "HH",
+      "size": 5.3,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "information-technology-support",
+      "label": "Information Technology Support",
+      "soc": "15-1231",
+      "ptr": 0.8411,
+      "nfc": 0.8825,
+      "quadrant": "HH",
+      "size": 5.29,
+      "aiExposure": 0.4684
+    },
+    {
+      "id": "webmaster",
+      "label": "Webmaster",
+      "soc": "15-1254",
+      "ptr": 0.9411,
+      "nfc": 0.9609,
+      "quadrant": "HH",
+      "size": 5.29,
+      "aiExposure": 0.6429
+    },
+    {
+      "id": "ux-designer-information-technology",
+      "label": "UX Designer",
+      "soc": "17-2121",
+      "ptr": 0.5321,
+      "nfc": 0.5225,
+      "quadrant": "LH",
+      "size": 5.29,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "lead-software-engineer",
+      "label": "Lead Software Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7284,
+      "nfc": 0.7258,
+      "quadrant": "HH",
+      "size": 5.28,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "technical-project-manager-information-technology",
+      "label": "Technical Project Manager",
+      "soc": "15-1299",
+      "ptr": 0.915,
+      "nfc": 0.9063,
+      "quadrant": "HH",
+      "size": 5.27,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "scrum-master",
+      "label": "Scrum Master",
+      "soc": "15-1299",
+      "ptr": 0.9219,
+      "nfc": 0.906,
+      "quadrant": "HH",
+      "size": 5.27,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "delivery-manager",
+      "label": "Delivery Manager",
+      "soc": "11-3071",
+      "ptr": 0.5982,
+      "nfc": 0.5899,
+      "quadrant": "LH",
+      "size": 5.27,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "front-end-engineer",
+      "label": "Front End Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7409,
+      "nfc": 0.7249,
+      "quadrant": "HH",
+      "size": 5.26,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "pre-sales-consultant-information-technology",
+      "label": "Pre Sales Consultant",
+      "soc": "41-4012",
+      "ptr": 0.895,
+      "nfc": 0.8771,
+      "quadrant": "HH",
+      "size": 5.26,
+      "aiExposure": 0.4628
+    },
+    {
+      "id": "ios-developer-information-technology",
+      "label": "iOS Developer",
+      "soc": "51-9151",
+      "ptr": 0.2256,
+      "nfc": 0.2219,
+      "quadrant": "LH",
+      "size": 5.25,
+      "aiExposure": 0.244
+    },
+    {
+      "id": "etl-developer",
+      "label": "ETL Developer",
+      "soc": "51-9151",
+      "ptr": 0.2248,
+      "nfc": 0.2218,
+      "quadrant": "LH",
+      "size": 5.25,
+      "aiExposure": 0.244
+    },
+    {
+      "id": "test-manager",
+      "label": "Test Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.25,
+      "aiExposure": 0
+    },
+    {
+      "id": "software-design-engineer-information-technology",
+      "label": "Software Design Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7241,
+      "nfc": 0.7238,
+      "quadrant": "HH",
+      "size": 5.25,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "oracle-developer",
+      "label": "Oracle Developer",
+      "soc": "51-9151",
+      "ptr": 0.2235,
+      "nfc": 0.2216,
+      "quadrant": "LH",
+      "size": 5.25,
+      "aiExposure": 0.244
+    },
+    {
+      "id": "industrial-technical-engineer",
+      "label": "Industrial Technical Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7395,
+      "nfc": 0.7233,
+      "quadrant": "HH",
+      "size": 5.25,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-technical-consultant",
+      "label": "Senior Technical Consultant",
+      "soc": "13-1199",
+      "ptr": 0.8652,
+      "nfc": 0.8508,
+      "quadrant": "HH",
+      "size": 5.24,
+      "aiExposure": 0.4007
+    },
+    {
+      "id": "application-development-manager",
+      "label": "Application Development Manager",
+      "soc": "11-9121",
+      "ptr": 0.6771,
+      "nfc": 0.6631,
+      "quadrant": "LH",
+      "size": 5.24,
+      "aiExposure": 0.3216
+    },
+    {
+      "id": "user-experience-lead-information-technology",
+      "label": "User Experience Lead",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.24,
+      "aiExposure": 0
+    },
+    {
+      "id": "incident-manager-information-technology",
+      "label": "Incident Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.24,
+      "aiExposure": 0
+    },
+    {
+      "id": "test-software-development-engineer",
+      "label": "Test Software Development Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7339,
+      "nfc": 0.7222,
+      "quadrant": "HH",
+      "size": 5.23,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "front-end-web-developer",
+      "label": "Front End Web Developer",
+      "soc": "51-9151",
+      "ptr": 0.2226,
+      "nfc": 0.2211,
+      "quadrant": "LH",
+      "size": 5.23,
+      "aiExposure": 0.244
+    },
+    {
+      "id": "senior-database-administrator",
+      "label": "Senior Database Administrator",
+      "soc": "11-3012",
+      "ptr": 0.3822,
+      "nfc": 0.3737,
+      "quadrant": "LH",
+      "size": 5.22,
+      "aiExposure": 0.2392
+    },
+    {
+      "id": "senior-technical-support-engineer-information-technology",
+      "label": "Senior Technical Support Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7422,
+      "nfc": 0.7215,
+      "quadrant": "HH",
+      "size": 5.22,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "test-lead",
+      "label": "Test Lead",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.22,
+      "aiExposure": 0
+    },
+    {
+      "id": "help-desk-technician",
+      "label": "Help Desk Technician",
+      "soc": "15-1232",
+      "ptr": 0.8405,
+      "nfc": 0.8536,
+      "quadrant": "HH",
+      "size": 5.21,
+      "aiExposure": 0.4725
+    },
+    {
+      "id": "technical-architect-information-technology",
+      "label": "Technical Architect",
+      "soc": "17-1011",
+      "ptr": 0.5949,
+      "nfc": 0.5899,
+      "quadrant": "LH",
+      "size": 5.21,
+      "aiExposure": 0.3316
+    },
+    {
+      "id": "net-developer-information-technology",
+      "label": ".NET Developer",
+      "soc": "51-9151",
+      "ptr": 0.2222,
+      "nfc": 0.2207,
+      "quadrant": "LH",
+      "size": 5.21,
+      "aiExposure": 0.244
+    },
+    {
+      "id": "application-analyst",
+      "label": "Application Analyst",
+      "soc": "13-2054",
+      "ptr": 0.6831,
+      "nfc": 0.6654,
+      "quadrant": "LH",
+      "size": 5.19,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "practice-lead",
+      "label": "Practice Lead",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.19,
+      "aiExposure": 0
+    },
+    {
+      "id": "senior-web-designer-information-technology",
+      "label": "Senior Web Designer",
+      "soc": "17-2121",
+      "ptr": 0.5331,
+      "nfc": 0.518,
+      "quadrant": "LH",
+      "size": 5.19,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "senior-programmer",
+      "label": "Senior Programmer",
+      "soc": "51-9162",
+      "ptr": 0.8878,
+      "nfc": 0.9347,
+      "quadrant": "HH",
+      "size": 5.18,
+      "aiExposure": 0.6115
+    },
+    {
+      "id": "security-consultant",
+      "label": "Security Consultant",
+      "soc": "15-1299",
+      "ptr": 0.9236,
+      "nfc": 0.8986,
+      "quadrant": "HH",
+      "size": 5.17,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "desktop-support-technician",
+      "label": "Desktop Support Technician",
+      "soc": "17-3023",
+      "ptr": 0.4487,
+      "nfc": 0.4397,
+      "quadrant": "LH",
+      "size": 5.17,
+      "aiExposure": 0.3042
+    },
+    {
+      "id": "software-development-manager",
+      "label": "Software Development Manager",
+      "soc": "11-9121",
+      "ptr": 0.6745,
+      "nfc": 0.6595,
+      "quadrant": "LH",
+      "size": 5.17,
+      "aiExposure": 0.3216
+    },
+    {
+      "id": "digital-project-manager-information-technology",
+      "label": "Digital Project Manager",
+      "soc": "15-1299",
+      "ptr": 0.9236,
+      "nfc": 0.8977,
+      "quadrant": "HH",
+      "size": 5.16,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "software-quality-assurance-manager",
+      "label": "Software Quality Assurance Manager",
+      "soc": "11-3051",
+      "ptr": 0.4765,
+      "nfc": 0.4613,
+      "quadrant": "LH",
+      "size": 5.16,
+      "aiExposure": 0.263
+    },
+    {
+      "id": "j2ee-developer",
+      "label": "J2EE Developer",
+      "soc": "51-9151",
+      "ptr": 0.2248,
+      "nfc": 0.22,
+      "quadrant": "LH",
+      "size": 5.16,
+      "aiExposure": 0.244
+    },
+    {
+      "id": "senior-interaction-designer-information-technology",
+      "label": "Senior Interaction Designer",
+      "soc": "17-2121",
+      "ptr": 0.5331,
+      "nfc": 0.5167,
+      "quadrant": "LH",
+      "size": 5.16,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "linux-systems-administrator",
+      "label": "Linux Systems Administrator",
+      "soc": "11-3012",
+      "ptr": 0.3822,
+      "nfc": 0.3717,
+      "quadrant": "LH",
+      "size": 5.16,
+      "aiExposure": 0.2392
+    },
+    {
+      "id": "senior-development-head",
+      "label": "Senior Development Head",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.16,
+      "aiExposure": 0
+    },
+    {
+      "id": "application-support-analyst",
+      "label": "Application Support Analyst",
+      "soc": "43-4011",
+      "ptr": 0.9566,
+      "nfc": 0.925,
+      "quadrant": "HH",
+      "size": 5.16,
+      "aiExposure": 0.5582
+    },
+    {
+      "id": "technical-support-engineer-ii-information-technology",
+      "label": "Technical Support Engineer II",
+      "soc": "17-2071",
+      "ptr": 0.7422,
+      "nfc": 0.7164,
+      "quadrant": "HH",
+      "size": 5.16,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "data-center-manager",
+      "label": "Data Center Manager",
+      "soc": "11-3021",
+      "ptr": 0.6766,
+      "nfc": 0.653,
+      "quadrant": "LH",
+      "size": 5.16,
+      "aiExposure": 0.3411
+    },
+    {
+      "id": "sap-consultant",
+      "label": "SAP Consultant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.16,
+      "aiExposure": 0
+    },
+    {
+      "id": "oracle-consultant",
+      "label": "Oracle Consultant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.16,
+      "aiExposure": 0
+    },
+    {
+      "id": "salesforce-developer",
+      "label": "Salesforce Developer",
+      "soc": "15-1254",
+      "ptr": 0.982,
+      "nfc": 0.9475,
+      "quadrant": "HH",
+      "size": 5.16,
+      "aiExposure": 0.6429
+    },
+    {
+      "id": "senior-java-developer",
+      "label": "Senior Java Developer",
+      "soc": "51-9151",
+      "ptr": 0.2243,
+      "nfc": 0.2193,
+      "quadrant": "LH",
+      "size": 5.16,
+      "aiExposure": 0.244
+    },
+    {
+      "id": "network-security-engineer-information-technology",
+      "label": "Network Security Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7395,
+      "nfc": 0.7157,
+      "quadrant": "HH",
+      "size": 5.15,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "technical-account-manager-information-technology",
+      "label": "Technical Account Manager",
+      "soc": "11-2022",
+      "ptr": 0.5661,
+      "nfc": 0.5467,
+      "quadrant": "LH",
+      "size": 5.15,
+      "aiExposure": 0.3071
+    },
+    {
+      "id": "network-technician-information-technology",
+      "label": "Network Technician",
+      "soc": "17-3023",
+      "ptr": 0.4341,
+      "nfc": 0.4373,
+      "quadrant": "LH",
+      "size": 5.15,
+      "aiExposure": 0.3042
+    },
+    {
+      "id": "database-engineer",
+      "label": "Database Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7395,
+      "nfc": 0.715,
+      "quadrant": "HH",
+      "size": 5.15,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "web-development-manager",
+      "label": "Web Development Manager",
+      "soc": "11-9121",
+      "ptr": 0.6796,
+      "nfc": 0.6557,
+      "quadrant": "LH",
+      "size": 5.15,
+      "aiExposure": 0.3216
+    },
+    {
+      "id": "assistant-systems-engineer",
+      "label": "Assistant Systems Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7255,
+      "nfc": 0.7146,
+      "quadrant": "HH",
+      "size": 5.15,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "android-developer-information-technology",
+      "label": "Android Developer",
+      "soc": "51-9151",
+      "ptr": 0.2265,
+      "nfc": 0.2188,
+      "quadrant": "LH",
+      "size": 5.15,
+      "aiExposure": 0.244
+    },
+    {
+      "id": "software-tester",
+      "label": "Software Tester",
+      "soc": "51-9061",
+      "ptr": 0.4924,
+      "nfc": 0.4904,
+      "quadrant": "LH",
+      "size": 5.15,
+      "aiExposure": 0.2548
+    },
+    {
+      "id": "systems-support-specialist",
+      "label": "Systems Support Specialist",
+      "soc": "15-1231",
+      "ptr": 0.8983,
+      "nfc": 0.8671,
+      "quadrant": "HH",
+      "size": 5.15,
+      "aiExposure": 0.4684
+    },
+    {
+      "id": "embedded-systems-engineer-information-technology",
+      "label": "Embedded Systems Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7422,
+      "nfc": 0.7134,
+      "quadrant": "HH",
+      "size": 5.15,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "business-technology-analyst",
+      "label": "Business Technology Analyst",
+      "soc": "13-2054",
+      "ptr": 0.6869,
+      "nfc": 0.659,
+      "quadrant": "HH",
+      "size": 5.15,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "sharepoint-consultant",
+      "label": "SharePoint Consultant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.15,
+      "aiExposure": 0
+    },
+    {
+      "id": "application-support-engineer",
+      "label": "Application Support Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7422,
+      "nfc": 0.7129,
+      "quadrant": "HH",
+      "size": 5.15,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-software-quality-assurance-engineer-information-technology",
+      "label": "Senior Software Quality Assurance Engineer",
+      "soc": "17-2071",
+      "ptr": 0.7422,
+      "nfc": 0.7127,
+      "quadrant": "HH",
+      "size": 5.15,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-quality-assurance-analyst",
+      "label": "Senior Quality Assurance Analyst",
+      "soc": "51-9061",
+      "ptr": 0.5059,
+      "nfc": 0.4893,
+      "quadrant": "LH",
+      "size": 5.14,
+      "aiExposure": 0.2548
+    },
+    {
+      "id": "software-architect",
+      "label": "Software Architect",
+      "soc": "15-1252",
+      "ptr": 0.9541,
+      "nfc": 0.9348,
+      "quadrant": "HH",
+      "size": 5.14,
+      "aiExposure": 0.5733
+    },
+    {
+      "id": "information-architect",
+      "label": "Information Architect",
+      "soc": "17-1011",
+      "ptr": 0.6029,
+      "nfc": 0.5827,
+      "quadrant": "LH",
+      "size": 5.14,
+      "aiExposure": 0.3316
+    },
+    {
+      "id": "user-interface-designer-information-technology",
+      "label": "User Interface Designer",
+      "soc": "17-2121",
+      "ptr": 0.5261,
+      "nfc": 0.5122,
+      "quadrant": "LH",
+      "size": 5.13,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "security-analyst",
+      "label": "Security Analyst",
+      "soc": "15-1299",
+      "ptr": 0.9167,
+      "nfc": 0.8887,
+      "quadrant": "HH",
+      "size": 5.13,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "data-architect",
+      "label": "Data Architect",
+      "soc": "17-1011",
+      "ptr": 0.604,
+      "nfc": 0.5821,
+      "quadrant": "LH",
+      "size": 5.13,
+      "aiExposure": 0.3316
+    },
+    {
+      "id": "sharepoint-developer",
+      "label": "SharePoint Developer",
+      "soc": "51-9151",
+      "ptr": 0.2256,
+      "nfc": 0.2178,
+      "quadrant": "LH",
+      "size": 5.12,
+      "aiExposure": 0.244
+    }
+  ],
+  "edges": [
+    {
+      "source": "web-developer",
+      "target": "systems-engineer-information-technology",
+      "weight": 0.57
+    },
+    {
+      "source": "network-engineer-information-technology",
+      "target": "senior-developer",
+      "weight": 0.71
+    },
+    {
+      "source": "senior-front-end-developer",
+      "target": "senior-developer",
+      "weight": 0.82
+    },
+    {
+      "source": "senior-front-end-developer",
+      "target": "senior-software-engineer-information-technology",
+      "weight": 0.67
+    },
+    {
+      "source": "technical-lead",
+      "target": "software-developer",
+      "weight": 0.68
+    },
+    {
+      "source": "technical-lead",
+      "target": "systems-administrator",
+      "weight": 0.96
+    },
+    {
+      "source": "technical-support-specialist",
+      "target": "systems-administrator",
+      "weight": 0.94
+    },
+    {
+      "source": "technical-support-specialist",
+      "target": "systems-analyst",
+      "weight": 0.48
+    },
+    {
+      "source": "information-technology-specialist",
+      "target": "support-engineer-information-technology",
+      "weight": 0.45
+    },
+    {
+      "source": "network-administrator",
+      "target": "systems-engineer-information-technology",
+      "weight": 0.84
+    },
+    {
+      "source": "network-administrator",
+      "target": "senior-developer",
+      "weight": 0.89
+    },
+    {
+      "source": "information-technology-analyst",
+      "target": "senior-systems-engineer-information-technology",
+      "weight": 0.9
+    },
+    {
+      "source": "information-technology-analyst",
+      "target": "software-engineer",
+      "weight": 0.4
+    },
+    {
+      "source": "test-analyst",
+      "target": "senior-systems-engineer-information-technology",
+      "weight": 0.98
+    },
+    {
+      "source": "test-analyst",
+      "target": "technology-analyst",
+      "weight": 0.66
+    },
+    {
+      "source": "software-developer-intern",
+      "target": "systems-administrator",
+      "weight": 0.98
+    },
+    {
+      "source": "software-developer-intern",
+      "target": "technology-analyst",
+      "weight": 0.77
+    },
+    {
+      "source": "service-desk-analyst",
+      "target": "systems-engineer-information-technology",
+      "weight": 0.87
+    },
+    {
+      "source": "service-desk-analyst",
+      "target": "systems-administrator",
+      "weight": 0.42
+    },
+    {
+      "source": "developer",
+      "target": "software-engineer",
+      "weight": 0.56
+    },
+    {
+      "source": "developer",
+      "target": "senior-systems-engineer-information-technology",
+      "weight": 0.71
+    },
+    {
+      "source": "software-engineer-iii",
+      "target": "senior-developer",
+      "weight": 0.86
+    },
+    {
+      "source": "front-end-developer",
+      "target": "technology-analyst",
+      "weight": 0.56
+    },
+    {
+      "source": "front-end-developer",
+      "target": "systems-analyst",
+      "weight": 0.9
+    },
+    {
+      "source": "support-analyst",
+      "target": "systems-engineer-information-technology",
+      "weight": 0.48
+    },
+    {
+      "source": "support-analyst",
+      "target": "systems-analyst",
+      "weight": 0.53
+    },
+    {
+      "source": "quality-assurance-analyst",
+      "target": "senior-developer",
+      "weight": 0.4
+    },
+    {
+      "source": "quality-assurance-analyst",
+      "target": "senior-systems-engineer-information-technology",
+      "weight": 0.63
+    },
+    {
+      "source": "programmer",
+      "target": "software-developer",
+      "weight": 0.75
+    },
+    {
+      "source": "database-administrator",
+      "target": "senior-developer",
+      "weight": 0.79
+    },
+    {
+      "source": "technical-consultant",
+      "target": "systems-administrator",
+      "weight": 0.45
+    },
+    {
+      "source": "software-engineer-intern",
+      "target": "software-engineer",
+      "weight": 0.8
+    },
+    {
+      "source": "senior-programmer-analyst",
+      "target": "systems-engineer-information-technology",
+      "weight": 0.84
+    },
+    {
+      "source": "senior-programmer-analyst",
+      "target": "senior-systems-engineer-information-technology",
+      "weight": 0.6
+    },
+    {
+      "source": "programmer-analyst",
+      "target": "technology-analyst",
+      "weight": 0.78
+    },
+    {
+      "source": "programmer-analyst",
+      "target": "systems-analyst",
+      "weight": 0.53
+    },
+    {
+      "source": "software-consultant",
+      "target": "systems-analyst",
+      "weight": 0.97
+    },
+    {
+      "source": "senior-network-engineer-information-technology",
+      "target": "senior-systems-engineer-information-technology",
+      "weight": 0.72
+    },
+    {
+      "source": "senior-network-engineer-information-technology",
+      "target": "software-developer",
+      "weight": 0.4
+    },
+    {
+      "source": "quality-assurance-engineer",
+      "target": "support-engineer-information-technology",
+      "weight": 0.67
+    },
+    {
+      "source": "quality-assurance-engineer",
+      "target": "systems-administrator",
+      "weight": 0.72
+    },
+    {
+      "source": "network-specialist-information-technology",
+      "target": "systems-engineer-information-technology",
+      "weight": 0.61
+    },
+    {
+      "source": "network-specialist-information-technology",
+      "target": "technology-analyst",
+      "weight": 0.65
+    },
+    {
+      "source": "software-analyst",
+      "target": "technology-analyst",
+      "weight": 0.98
+    },
+    {
+      "source": "software-analyst",
+      "target": "senior-software-engineer-information-technology",
+      "weight": 0.54
+    },
+    {
+      "source": "application-developer",
+      "target": "systems-engineer-information-technology",
+      "weight": 0.76
+    },
+    {
+      "source": "network-consultant-information-technology",
+      "target": "support-engineer-information-technology",
+      "weight": 0.91
+    },
+    {
+      "source": "technical-support-engineer-information-technology",
+      "target": "senior-systems-engineer-information-technology",
+      "weight": 0.77
+    },
+    {
+      "source": "technical-support-engineer-information-technology",
+      "target": "software-developer",
+      "weight": 0.49
+    },
+    {
+      "source": "senior-systems-analyst",
+      "target": "systems-engineer-information-technology",
+      "weight": 0.84
+    },
+    {
+      "source": "java-developer",
+      "target": "senior-developer",
+      "weight": 0.58
+    },
+    {
+      "source": "business-systems-analyst",
+      "target": "senior-developer",
+      "weight": 0.87
+    },
+    {
+      "source": "business-systems-analyst",
+      "target": "senior-systems-engineer-information-technology",
+      "weight": 0.64
+    },
+    {
+      "source": "senior-web-developer",
+      "target": "support-engineer-information-technology",
+      "weight": 0.42
+    },
+    {
+      "source": "senior-software-developer",
+      "target": "senior-software-engineer-information-technology",
+      "weight": 0.73
+    },
+    {
+      "source": "user-experience-designer-information-technology",
+      "target": "technology-analyst",
+      "weight": 0.67
+    },
+    {
+      "source": "user-experience-designer-information-technology",
+      "target": "senior-systems-engineer-information-technology",
+      "weight": 0.59
+    },
+    {
+      "source": "solution-architect-information-technology",
+      "target": "systems-engineer-information-technology",
+      "weight": 0.65
+    },
+    {
+      "source": "solution-architect-information-technology",
+      "target": "senior-software-engineer-information-technology",
+      "weight": 0.69
+    },
+    {
+      "source": "software-test-engineer-information-technology",
+      "target": "systems-analyst",
+      "weight": 0.89
+    },
+    {
+      "source": "information-technology-support-analyst",
+      "target": "technology-analyst",
+      "weight": 0.59
+    },
+    {
+      "source": "information-technology-support-analyst",
+      "target": "senior-developer",
+      "weight": 0.56
+    },
+    {
+      "source": "senior-business-analyst",
+      "target": "systems-administrator",
+      "weight": 0.57
+    },
+    {
+      "source": "senior-business-analyst",
+      "target": "systems-analyst",
+      "weight": 0.52
+    },
+    {
+      "source": "senior-net-developer",
+      "target": "senior-developer",
+      "weight": 0.47
+    },
+    {
+      "source": "senior-net-developer",
+      "target": "support-engineer-information-technology",
+      "weight": 0.85
+    },
+    {
+      "source": "senior-systems-administrator",
+      "target": "senior-systems-engineer-information-technology",
+      "weight": 0.91
+    },
+    {
+      "source": "senior-systems-administrator",
+      "target": "systems-analyst",
+      "weight": 0.67
+    },
+    {
+      "source": "senior-test-engineer-information-technology",
+      "target": "systems-analyst",
+      "weight": 0.56
+    },
+    {
+      "source": "flash-developer-information-technology",
+      "target": "senior-developer",
+      "weight": 0.74
+    },
+    {
+      "source": "flash-developer-information-technology",
+      "target": "support-engineer-information-technology",
+      "weight": 0.61
+    },
+    {
+      "source": "lead-developer",
+      "target": "senior-developer",
+      "weight": 0.69
+    },
+    {
+      "source": "software-quality-assurance-engineer",
+      "target": "systems-engineer-information-technology",
+      "weight": 0.98
+    },
+    {
+      "source": "release-manager",
+      "target": "senior-developer",
+      "weight": 0.55
+    },
+    {
+      "source": "release-manager",
+      "target": "senior-software-engineer-information-technology",
+      "weight": 0.61
+    },
+    {
+      "source": "business-intelligence-developer",
+      "target": "senior-developer",
+      "weight": 0.73
+    },
+    {
+      "source": "business-intelligence-developer",
+      "target": "systems-administrator",
+      "weight": 0.65
+    },
+    {
+      "source": "firmware-engineer-information-technology",
+      "target": "systems-administrator",
+      "weight": 0.69
+    },
+    {
+      "source": "web-designer-information-technology",
+      "target": "senior-software-engineer-information-technology",
+      "weight": 0.6
+    },
+    {
+      "source": "web-designer-information-technology",
+      "target": "support-engineer-information-technology",
+      "weight": 0.51
+    },
+    {
+      "source": "junior-software-developer",
+      "target": "senior-software-engineer-information-technology",
+      "weight": 0.74
+    },
+    {
+      "source": "senior-application-developer",
+      "target": "senior-software-engineer-information-technology",
+      "weight": 0.59
+    },
+    {
+      "source": "senior-application-developer",
+      "target": "senior-developer",
+      "weight": 0.97
+    },
+    {
+      "source": "network-analyst-information-technology",
+      "target": "senior-systems-engineer-information-technology",
+      "weight": 0.48
+    },
+    {
+      "source": "network-analyst-information-technology",
+      "target": "software-engineer",
+      "weight": 0.87
+    },
+    {
+      "source": "software-development-engineer-information-technology",
+      "target": "senior-software-engineer-information-technology",
+      "weight": 0.59
+    },
+    {
+      "source": "software-development-engineer-information-technology",
+      "target": "software-engineer",
+      "weight": 0.64
+    },
+    {
+      "source": "quality-assurance-lead",
+      "target": "senior-systems-engineer-information-technology",
+      "weight": 0.43
+    },
+    {
+      "source": "information-technology-consultant",
+      "target": "senior-developer",
+      "weight": 0.5
+    },
+    {
+      "source": "software-development-engineer-intern",
+      "target": "support-engineer-information-technology",
+      "weight": 0.6
+    },
+    {
+      "source": "service-delivery-manager-information-technology",
+      "target": "software-engineer",
+      "weight": 0.84
+    },
+    {
+      "source": "help-desk-manager",
+      "target": "support-engineer-information-technology",
+      "weight": 0.42
+    },
+    {
+      "source": "information-technology-project-manager",
+      "target": "technology-analyst",
+      "weight": 0.6
+    },
+    {
+      "source": "associate-software-developer",
+      "target": "technology-analyst",
+      "weight": 0.5
+    },
+    {
+      "source": "associate-project-manager",
+      "target": "technology-analyst",
+      "weight": 0.46
+    },
+    {
+      "source": "oracle-database-administrator",
+      "target": "technology-analyst",
+      "weight": 0.53
+    },
+    {
+      "source": "oracle-database-administrator",
+      "target": "systems-administrator",
+      "weight": 0.96
+    },
+    {
+      "source": "technology-consultant",
+      "target": "senior-developer",
+      "weight": 0.94
+    },
+    {
+      "source": "second-line-support-information-technology",
+      "target": "systems-engineer-information-technology",
+      "weight": 0.57
+    },
+    {
+      "source": "associate-software-engineer",
+      "target": "technology-analyst",
+      "weight": 0.62
+    },
+    {
+      "source": "information-technology-technician",
+      "target": "senior-software-engineer-information-technology",
+      "weight": 0.64
+    },
+    {
+      "source": "information-technology-technician",
+      "target": "systems-analyst",
+      "weight": 0.81
+    },
+    {
+      "source": "information-security-officer",
+      "target": "senior-developer",
+      "weight": 0.89
+    },
+    {
+      "source": "information-security-officer",
+      "target": "systems-administrator",
+      "weight": 0.58
+    },
+    {
+      "source": "technical-staff-member-information-technology",
+      "target": "software-developer",
+      "weight": 0.88
+    },
+    {
+      "source": "technical-support-analyst",
+      "target": "systems-engineer-information-technology",
+      "weight": 0.97
+    },
+    {
+      "source": "systems-developer",
+      "target": "systems-analyst",
+      "weight": 0.75
+    },
+    {
+      "source": "systems-developer",
+      "target": "support-engineer-information-technology",
+      "weight": 0.44
+    },
+    {
+      "source": "embedded-software-engineer-information-technology",
+      "target": "senior-developer",
+      "weight": 0.81
+    },
+    {
+      "source": "embedded-software-engineer-information-technology",
+      "target": "support-engineer-information-technology",
+      "weight": 0.97
+    },
+    {
+      "source": "information-technology-support",
+      "target": "software-engineer",
+      "weight": 0.79
+    },
+    {
+      "source": "information-technology-support",
+      "target": "support-engineer-information-technology",
+      "weight": 0.57
+    },
+    {
+      "source": "webmaster",
+      "target": "systems-engineer-information-technology",
+      "weight": 0.77
+    },
+    {
+      "source": "webmaster",
+      "target": "systems-administrator",
+      "weight": 0.96
+    },
+    {
+      "source": "ux-designer-information-technology",
+      "target": "technology-analyst",
+      "weight": 0.45
+    },
+    {
+      "source": "lead-software-engineer",
+      "target": "systems-engineer-information-technology",
+      "weight": 0.98
+    },
+    {
+      "source": "technical-project-manager-information-technology",
+      "target": "technology-analyst",
+      "weight": 0.43
+    },
+    {
+      "source": "scrum-master",
+      "target": "senior-developer",
+      "weight": 0.68
+    },
+    {
+      "source": "delivery-manager",
+      "target": "software-developer",
+      "weight": 0.89
+    },
+    {
+      "source": "delivery-manager",
+      "target": "senior-developer",
+      "weight": 0.46
+    },
+    {
+      "source": "front-end-engineer",
+      "target": "software-engineer",
+      "weight": 0.45
+    },
+    {
+      "source": "pre-sales-consultant-information-technology",
+      "target": "support-engineer-information-technology",
+      "weight": 0.79
+    },
+    {
+      "source": "ios-developer-information-technology",
+      "target": "software-engineer",
+      "weight": 0.98
+    },
+    {
+      "source": "ios-developer-information-technology",
+      "target": "systems-analyst",
+      "weight": 0.94
+    },
+    {
+      "source": "etl-developer",
+      "target": "systems-administrator",
+      "weight": 0.78
+    },
+    {
+      "source": "test-manager",
+      "target": "senior-systems-engineer-information-technology",
+      "weight": 0.46
+    },
+    {
+      "source": "software-design-engineer-information-technology",
+      "target": "systems-engineer-information-technology",
+      "weight": 0.63
+    },
+    {
+      "source": "software-design-engineer-information-technology",
+      "target": "systems-administrator",
+      "weight": 0.47
+    },
+    {
+      "source": "oracle-developer",
+      "target": "senior-software-engineer-information-technology",
+      "weight": 0.56
+    },
+    {
+      "source": "industrial-technical-engineer",
+      "target": "technology-analyst",
+      "weight": 0.99
+    },
+    {
+      "source": "industrial-technical-engineer",
+      "target": "senior-developer",
+      "weight": 0.89
+    },
+    {
+      "source": "senior-technical-consultant",
+      "target": "software-developer",
+      "weight": 0.68
+    },
+    {
+      "source": "application-development-manager",
+      "target": "systems-analyst",
+      "weight": 0.73
+    },
+    {
+      "source": "user-experience-lead-information-technology",
+      "target": "senior-developer",
+      "weight": 0.96
+    },
+    {
+      "source": "incident-manager-information-technology",
+      "target": "systems-analyst",
+      "weight": 0.69
+    },
+    {
+      "source": "incident-manager-information-technology",
+      "target": "software-engineer",
+      "weight": 0.79
+    },
+    {
+      "source": "test-software-development-engineer",
+      "target": "systems-administrator",
+      "weight": 0.91
+    },
+    {
+      "source": "front-end-web-developer",
+      "target": "technology-analyst",
+      "weight": 0.49
+    },
+    {
+      "source": "senior-database-administrator",
+      "target": "software-engineer",
+      "weight": 0.44
+    },
+    {
+      "source": "senior-technical-support-engineer-information-technology",
+      "target": "support-engineer-information-technology",
+      "weight": 0.58
+    },
+    {
+      "source": "senior-technical-support-engineer-information-technology",
+      "target": "senior-developer",
+      "weight": 0.55
+    },
+    {
+      "source": "test-lead",
+      "target": "software-developer",
+      "weight": 0.64
+    },
+    {
+      "source": "test-lead",
+      "target": "software-engineer",
+      "weight": 0.45
+    },
+    {
+      "source": "help-desk-technician",
+      "target": "senior-developer",
+      "weight": 0.78
+    },
+    {
+      "source": "help-desk-technician",
+      "target": "systems-analyst",
+      "weight": 0.59
+    },
+    {
+      "source": "technical-architect-information-technology",
+      "target": "software-engineer",
+      "weight": 0.4
+    },
+    {
+      "source": "technical-architect-information-technology",
+      "target": "senior-software-engineer-information-technology",
+      "weight": 0.95
+    },
+    {
+      "source": "net-developer-information-technology",
+      "target": "systems-analyst",
+      "weight": 0.76
+    },
+    {
+      "source": "application-analyst",
+      "target": "senior-developer",
+      "weight": 0.87
+    },
+    {
+      "source": "practice-lead",
+      "target": "senior-developer",
+      "weight": 0.48
+    },
+    {
+      "source": "practice-lead",
+      "target": "systems-administrator",
+      "weight": 0.94
+    },
+    {
+      "source": "senior-web-designer-information-technology",
+      "target": "software-developer",
+      "weight": 0.55
+    },
+    {
+      "source": "senior-programmer",
+      "target": "systems-administrator",
+      "weight": 0.69
+    },
+    {
+      "source": "senior-programmer",
+      "target": "technology-analyst",
+      "weight": 0.91
+    },
+    {
+      "source": "security-consultant",
+      "target": "technology-analyst",
+      "weight": 0.51
+    },
+    {
+      "source": "desktop-support-technician",
+      "target": "senior-developer",
+      "weight": 0.42
+    },
+    {
+      "source": "software-development-manager",
+      "target": "support-engineer-information-technology",
+      "weight": 0.71
+    },
+    {
+      "source": "digital-project-manager-information-technology",
+      "target": "support-engineer-information-technology",
+      "weight": 0.75
+    },
+    {
+      "source": "digital-project-manager-information-technology",
+      "target": "senior-systems-engineer-information-technology",
+      "weight": 0.49
+    },
+    {
+      "source": "software-quality-assurance-manager",
+      "target": "systems-engineer-information-technology",
+      "weight": 0.49
+    },
+    {
+      "source": "j2ee-developer",
+      "target": "senior-developer",
+      "weight": 0.6
+    },
+    {
+      "source": "j2ee-developer",
+      "target": "senior-software-engineer-information-technology",
+      "weight": 0.49
+    },
+    {
+      "source": "senior-interaction-designer-information-technology",
+      "target": "technology-analyst",
+      "weight": 0.89
+    },
+    {
+      "source": "linux-systems-administrator",
+      "target": "support-engineer-information-technology",
+      "weight": 0.48
+    },
+    {
+      "source": "senior-development-head",
+      "target": "systems-engineer-information-technology",
+      "weight": 0.95
+    },
+    {
+      "source": "application-support-analyst",
+      "target": "systems-engineer-information-technology",
+      "weight": 0.54
+    },
+    {
+      "source": "technical-support-engineer-ii-information-technology",
+      "target": "systems-administrator",
+      "weight": 0.46
+    },
+    {
+      "source": "technical-support-engineer-ii-information-technology",
+      "target": "systems-analyst",
+      "weight": 0.4
+    },
+    {
+      "source": "data-center-manager",
+      "target": "support-engineer-information-technology",
+      "weight": 0.53
+    },
+    {
+      "source": "sap-consultant",
+      "target": "software-engineer",
+      "weight": 0.86
+    },
+    {
+      "source": "oracle-consultant",
+      "target": "systems-analyst",
+      "weight": 0.61
+    },
+    {
+      "source": "salesforce-developer",
+      "target": "senior-systems-engineer-information-technology",
+      "weight": 0.52
+    },
+    {
+      "source": "senior-java-developer",
+      "target": "systems-engineer-information-technology",
+      "weight": 0.46
+    },
+    {
+      "source": "senior-java-developer",
+      "target": "senior-developer",
+      "weight": 0.95
+    },
+    {
+      "source": "network-security-engineer-information-technology",
+      "target": "systems-administrator",
+      "weight": 0.52
+    },
+    {
+      "source": "network-security-engineer-information-technology",
+      "target": "support-engineer-information-technology",
+      "weight": 0.43
+    },
+    {
+      "source": "technical-account-manager-information-technology",
+      "target": "senior-developer",
+      "weight": 0.86
+    },
+    {
+      "source": "technical-account-manager-information-technology",
+      "target": "software-developer",
+      "weight": 0.78
+    },
+    {
+      "source": "network-technician-information-technology",
+      "target": "support-engineer-information-technology",
+      "weight": 0.78
+    },
+    {
+      "source": "network-technician-information-technology",
+      "target": "systems-analyst",
+      "weight": 0.41
+    },
+    {
+      "source": "database-engineer",
+      "target": "senior-software-engineer-information-technology",
+      "weight": 0.95
+    },
+    {
+      "source": "web-development-manager",
+      "target": "software-engineer",
+      "weight": 0.69
+    },
+    {
+      "source": "assistant-systems-engineer",
+      "target": "technology-analyst",
+      "weight": 0.83
+    },
+    {
+      "source": "android-developer-information-technology",
+      "target": "senior-developer",
+      "weight": 1
+    },
+    {
+      "source": "software-tester",
+      "target": "senior-software-engineer-information-technology",
+      "weight": 0.57
+    },
+    {
+      "source": "software-tester",
+      "target": "senior-systems-engineer-information-technology",
+      "weight": 0.87
+    },
+    {
+      "source": "systems-support-specialist",
+      "target": "systems-administrator",
+      "weight": 0.67
+    },
+    {
+      "source": "systems-support-specialist",
+      "target": "senior-systems-engineer-information-technology",
+      "weight": 0.71
+    },
+    {
+      "source": "embedded-systems-engineer-information-technology",
+      "target": "software-engineer",
+      "weight": 0.46
+    },
+    {
+      "source": "embedded-systems-engineer-information-technology",
+      "target": "senior-developer",
+      "weight": 0.52
+    },
+    {
+      "source": "business-technology-analyst",
+      "target": "software-developer",
+      "weight": 0.68
+    },
+    {
+      "source": "sharepoint-consultant",
+      "target": "systems-engineer-information-technology",
+      "weight": 0.82
+    },
+    {
+      "source": "sharepoint-consultant",
+      "target": "software-developer",
+      "weight": 0.56
+    },
+    {
+      "source": "application-support-engineer",
+      "target": "senior-developer",
+      "weight": 0.68
+    },
+    {
+      "source": "senior-software-quality-assurance-engineer-information-technology",
+      "target": "senior-systems-engineer-information-technology",
+      "weight": 0.74
+    },
+    {
+      "source": "senior-software-quality-assurance-engineer-information-technology",
+      "target": "senior-developer",
+      "weight": 0.83
+    },
+    {
+      "source": "senior-quality-assurance-analyst",
+      "target": "software-engineer",
+      "weight": 0.91
+    },
+    {
+      "source": "software-architect",
+      "target": "systems-analyst",
+      "weight": 0.47
+    },
+    {
+      "source": "information-architect",
+      "target": "systems-engineer-information-technology",
+      "weight": 0.82
+    },
+    {
+      "source": "information-architect",
+      "target": "senior-developer",
+      "weight": 0.7
+    },
+    {
+      "source": "user-interface-designer-information-technology",
+      "target": "senior-developer",
+      "weight": 0.52
+    },
+    {
+      "source": "security-analyst",
+      "target": "technology-analyst",
+      "weight": 0.71
+    },
+    {
+      "source": "data-architect",
+      "target": "senior-developer",
+      "weight": 0.46
+    },
+    {
+      "source": "sharepoint-developer",
+      "target": "systems-analyst",
+      "weight": 0.86
+    },
+    {
+      "source": "sharepoint-developer",
+      "target": "systems-engineer-information-technology",
+      "weight": 0.74
+    },
+    {
+      "source": "senior-software-engineer-information-technology",
+      "target": "systems-analyst",
+      "weight": 0.94
+    },
+    {
+      "source": "senior-software-engineer-information-technology",
+      "target": "systems-administrator",
+      "weight": 0.91
+    },
+    {
+      "source": "senior-software-engineer-information-technology",
+      "target": "technology-analyst",
+      "weight": 0.64
+    },
+    {
+      "source": "systems-analyst",
+      "target": "software-engineer",
+      "weight": 0.8
+    },
+    {
+      "source": "systems-analyst",
+      "target": "systems-administrator",
+      "weight": 0.9
+    },
+    {
+      "source": "systems-analyst",
+      "target": "systems-engineer-information-technology",
+      "weight": 0.73
+    },
+    {
+      "source": "systems-analyst",
+      "target": "technology-analyst",
+      "weight": 0.65
+    },
+    {
+      "source": "systems-analyst",
+      "target": "senior-systems-engineer-information-technology",
+      "weight": 0.82
+    },
+    {
+      "source": "systems-analyst",
+      "target": "support-engineer-information-technology",
+      "weight": 0.65
+    },
+    {
+      "source": "systems-analyst",
+      "target": "senior-developer",
+      "weight": 0.94
+    },
+    {
+      "source": "software-engineer",
+      "target": "systems-engineer-information-technology",
+      "weight": 0.81
+    },
+    {
+      "source": "software-engineer",
+      "target": "technology-analyst",
+      "weight": 0.96
+    },
+    {
+      "source": "software-engineer",
+      "target": "software-developer",
+      "weight": 0.91
+    },
+    {
+      "source": "software-engineer",
+      "target": "senior-systems-engineer-information-technology",
+      "weight": 0.68
+    },
+    {
+      "source": "software-engineer",
+      "target": "support-engineer-information-technology",
+      "weight": 0.91
+    },
+    {
+      "source": "software-engineer",
+      "target": "senior-developer",
+      "weight": 0.68
+    },
+    {
+      "source": "systems-administrator",
+      "target": "technology-analyst",
+      "weight": 0.83
+    },
+    {
+      "source": "systems-administrator",
+      "target": "software-developer",
+      "weight": 0.95
+    },
+    {
+      "source": "systems-administrator",
+      "target": "senior-systems-engineer-information-technology",
+      "weight": 0.9
+    },
+    {
+      "source": "systems-administrator",
+      "target": "support-engineer-information-technology",
+      "weight": 0.89
+    },
+    {
+      "source": "systems-administrator",
+      "target": "senior-developer",
+      "weight": 0.72
+    },
+    {
+      "source": "systems-engineer-information-technology",
+      "target": "software-developer",
+      "weight": 0.68
+    },
+    {
+      "source": "systems-engineer-information-technology",
+      "target": "senior-systems-engineer-information-technology",
+      "weight": 0.66
+    },
+    {
+      "source": "systems-engineer-information-technology",
+      "target": "support-engineer-information-technology",
+      "weight": 0.73
+    },
+    {
+      "source": "systems-engineer-information-technology",
+      "target": "senior-developer",
+      "weight": 0.75
+    },
+    {
+      "source": "technology-analyst",
+      "target": "software-developer",
+      "weight": 0.78
+    },
+    {
+      "source": "technology-analyst",
+      "target": "senior-systems-engineer-information-technology",
+      "weight": 0.76
+    },
+    {
+      "source": "technology-analyst",
+      "target": "support-engineer-information-technology",
+      "weight": 0.99
+    },
+    {
+      "source": "technology-analyst",
+      "target": "senior-developer",
+      "weight": 0.63
+    },
+    {
+      "source": "software-developer",
+      "target": "senior-systems-engineer-information-technology",
+      "weight": 0.74
+    },
+    {
+      "source": "software-developer",
+      "target": "support-engineer-information-technology",
+      "weight": 0.85
+    },
+    {
+      "source": "software-developer",
+      "target": "senior-developer",
+      "weight": 0.98
+    },
+    {
+      "source": "senior-systems-engineer-information-technology",
+      "target": "support-engineer-information-technology",
+      "weight": 0.81
+    },
+    {
+      "source": "senior-systems-engineer-information-technology",
+      "target": "senior-developer",
+      "weight": 0.96
+    },
+    {
+      "source": "support-engineer-information-technology",
+      "target": "senior-developer",
+      "weight": 0.62
+    },
+    {
+      "source": "technology-analyst",
+      "target": "senior-systems-analyst",
+      "weight": 0.7
+    },
+    {
+      "source": "technology-analyst",
+      "target": "business-systems-analyst",
+      "weight": 0.7
+    },
+    {
+      "source": "technology-analyst",
+      "target": "desktop-support-technician",
+      "weight": 0.7
+    },
+    {
+      "source": "technology-analyst",
+      "target": "network-technician-information-technology",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-systems-analyst",
+      "target": "business-systems-analyst",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-systems-analyst",
+      "target": "desktop-support-technician",
+      "weight": 0.7
+    },
+    {
+      "source": "senior-systems-analyst",
+      "target": "network-technician-information-technology",
+      "weight": 0.7
+    },
+    {
+      "source": "business-systems-analyst",
+      "target": "desktop-support-technician",
+      "weight": 0.7
+    },
+    {
+      "source": "business-systems-analyst",
+      "target": "network-technician-information-technology",
+      "weight": 0.7
+    },
+    {
+      "source": "desktop-support-technician",
+      "target": "network-technician-information-technology",
+      "weight": 0.7
+    },
+    {
+      "source": "support-analyst",
+      "target": "information-technology-support-analyst",
+      "weight": 0.7
+    },
+    {
+      "source": "support-analyst",
+      "target": "technical-support-analyst",
+      "weight": 0.7
+    },
+    {
+      "source": "support-analyst",
+      "target": "application-support-analyst",
+      "weight": 0.7
+    },
+    {
+      "source": "information-technology-support-analyst",
+      "target": "technical-support-analyst",
+      "weight": 0.7
+    },
+    {
+      "source": "information-technology-support-analyst",
+      "target": "application-support-analyst",
+      "weight": 0.7
+    },
+    {
+      "source": "technical-support-analyst",
+      "target": "application-support-analyst",
+      "weight": 0.7
+    },
+    {
+      "source": "quality-assurance-analyst",
+      "target": "software-tester",
+      "weight": 0.7
+    },
+    {
+      "source": "quality-assurance-analyst",
+      "target": "senior-quality-assurance-analyst",
+      "weight": 0.7
+    },
+    {
+      "source": "software-tester",
+      "target": "senior-quality-assurance-analyst",
+      "weight": 0.7
+    },
+    {
+      "source": "technical-consultant",
+      "target": "senior-technical-consultant",
+      "weight": 0.7
+    },
+    {
+      "source": "solution-architect-information-technology",
+      "target": "technical-architect-information-technology",
+      "weight": 0.7
+    },
+    {
+      "source": "solution-architect-information-technology",
+      "target": "information-architect",
+      "weight": 0.7
+    },
+    {
+      "source": "solution-architect-information-technology",
+      "target": "data-architect",
+      "weight": 0.7
+    },
+    {
+      "source": "technical-architect-information-technology",
+      "target": "information-architect",
+      "weight": 0.7
+    },
+    {
+      "source": "technical-architect-information-technology",
+      "target": "data-architect",
+      "weight": 0.7
+    },
+    {
+      "source": "information-architect",
+      "target": "data-architect",
+      "weight": 0.7
+    },
+    {
+      "source": "application-development-manager",
+      "target": "software-development-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "application-development-manager",
+      "target": "web-development-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "software-development-manager",
+      "target": "web-development-manager",
+      "weight": 0.7
+    }
+  ]
+}

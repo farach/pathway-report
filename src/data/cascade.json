@@ -1,0 +1,25 @@
+[
+  {
+    "strategy": "NFC (AI × Betweenness)",
+    "components_after": 179,
+    "fragmentation_increase": 37,
+    "giant_size_after": 598
+  },
+  {
+    "strategy": "Betweenness-only",
+    "components_after": 273,
+    "fragmentation_increase": 131,
+    "giant_size_after": 444
+  },
+  {
+    "strategy": "AI-only",
+    "components_after": 145,
+    "fragmentation_increase": 3,
+    "giant_size_after": 649
+  },
+  {
+    "strategy": "Random",
+    "components_after": 151.2,
+    "fragmentation_increase": 9.2
+  }
+]

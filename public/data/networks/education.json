@@ -1,0 +1,2833 @@
+{
+  "sector": "Education",
+  "metadata": {
+    "nodeCount": 150,
+    "edgeCount": 266,
+    "generatedAt": "2026-01-31T16:46:31Z"
+  },
+  "nodes": [
+    {
+      "id": "teacher",
+      "label": "Teacher",
+      "soc": "25-1071",
+      "ptr": 0,
+      "nfc": 0.7162,
+      "quadrant": "LH",
+      "size": 35,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "teaching-fellow",
+      "label": "Teaching Fellow",
+      "soc": "25-9044",
+      "ptr": 0.9116,
+      "nfc": 0.9381,
+      "quadrant": "HH",
+      "size": 20.01,
+      "aiExposure": 0.3725
+    },
+    {
+      "id": "assistant-professor",
+      "label": "Assistant Professor",
+      "soc": "25-1071",
+      "ptr": 0.6861,
+      "nfc": 0.7152,
+      "quadrant": "HH",
+      "size": 19.82,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "postdoctoral-research-associate-education",
+      "label": "Postdoctoral Research Associate",
+      "soc": "19-4099",
+      "ptr": 0.9257,
+      "nfc": 0.9513,
+      "quadrant": "HH",
+      "size": 18.87,
+      "aiExposure": 0.3492
+    },
+    {
+      "id": "visiting-scholar",
+      "label": "Visiting Scholar",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 17.94,
+      "aiExposure": 0
+    },
+    {
+      "id": "special-education-teacher",
+      "label": "Special Education Teacher",
+      "soc": "25-1071",
+      "ptr": 0.5948,
+      "nfc": 0.7137,
+      "quadrant": "LH",
+      "size": 16.64,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "academic-advisor",
+      "label": "Academic Advisor",
+      "soc": "21-1012",
+      "ptr": 0.1987,
+      "nfc": 0.2024,
+      "quadrant": "LH",
+      "size": 14.32,
+      "aiExposure": 0.3073
+    },
+    {
+      "id": "head-teacher",
+      "label": "Head Teacher",
+      "soc": "25-1071",
+      "ptr": 0.7024,
+      "nfc": 0.7127,
+      "quadrant": "HH",
+      "size": 10.31,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "cover-supervisor-education",
+      "label": "Cover Supervisor",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 9.23,
+      "aiExposure": 0
+    },
+    {
+      "id": "supply-teacher",
+      "label": "Supply Teacher",
+      "soc": "25-1071",
+      "ptr": 0.7139,
+      "nfc": 0.7117,
+      "quadrant": "HH",
+      "size": 9.11,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "substitute-teacher",
+      "label": "Substitute Teacher",
+      "soc": "25-1071",
+      "ptr": 0.5894,
+      "nfc": 0.7112,
+      "quadrant": "LH",
+      "size": 9.1,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "mathematics-teacher",
+      "label": "Mathematics Teacher",
+      "soc": "25-1071",
+      "ptr": 0.6861,
+      "nfc": 0.7107,
+      "quadrant": "HH",
+      "size": 9.03,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "science-teacher",
+      "label": "Science Teacher",
+      "soc": "25-1071",
+      "ptr": 0.6595,
+      "nfc": 0.7101,
+      "quadrant": "LH",
+      "size": 8.49,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "english-teacher",
+      "label": "English Teacher",
+      "soc": "25-1071",
+      "ptr": 0.5948,
+      "nfc": 0.7096,
+      "quadrant": "LH",
+      "size": 8.06,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "doctoral-student",
+      "label": "Doctoral Student",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 7.84,
+      "aiExposure": 0
+    },
+    {
+      "id": "technology-teacher",
+      "label": "Technology Teacher",
+      "soc": "25-1071",
+      "ptr": 0.7048,
+      "nfc": 0.7086,
+      "quadrant": "HH",
+      "size": 7.64,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "postdoctoral-fellow-education",
+      "label": "Postdoctoral Fellow",
+      "soc": "11-9121",
+      "ptr": 0.8888,
+      "nfc": 0.9336,
+      "quadrant": "HH",
+      "size": 7.6,
+      "aiExposure": 0.3216
+    },
+    {
+      "id": "postdoctoral-research-fellow-education",
+      "label": "Postdoctoral Research Fellow",
+      "soc": "19-3022",
+      "ptr": 0.9626,
+      "nfc": 0.9666,
+      "quadrant": "HH",
+      "size": 7.18,
+      "aiExposure": 0.3781
+    },
+    {
+      "id": "spanish-teacher",
+      "label": "Spanish Teacher",
+      "soc": "25-1071",
+      "ptr": 0.7024,
+      "nfc": 0.7071,
+      "quadrant": "HH",
+      "size": 7.14,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "first-grade-teacher",
+      "label": "First Grade Teacher",
+      "soc": "25-1071",
+      "ptr": 0.6813,
+      "nfc": 0.7066,
+      "quadrant": "HH",
+      "size": 7.07,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "assistant-principal",
+      "label": "Assistant Principal",
+      "soc": "11-9032",
+      "ptr": 0.5838,
+      "nfc": 0.5927,
+      "quadrant": "LH",
+      "size": 6.97,
+      "aiExposure": 0.2768
+    },
+    {
+      "id": "lecturer",
+      "label": "Lecturer",
+      "soc": "25-1071",
+      "ptr": 0.6789,
+      "nfc": 0.7056,
+      "quadrant": "HH",
+      "size": 6.94,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "postdoctoral-researcher-education",
+      "label": "Postdoctoral Researcher",
+      "soc": "19-3093",
+      "ptr": 0.6755,
+      "nfc": 0.7015,
+      "quadrant": "LH",
+      "size": 6.9,
+      "aiExposure": 0.4679
+    },
+    {
+      "id": "trainee-teacher",
+      "label": "Trainee Teacher",
+      "soc": "25-1071",
+      "ptr": 0.6908,
+      "nfc": 0.7046,
+      "quadrant": "HH",
+      "size": 6.89,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "school-counseling-intern-education",
+      "label": "School Counseling Intern",
+      "soc": "29-1229",
+      "ptr": 0.5664,
+      "nfc": 0.5622,
+      "quadrant": "LH",
+      "size": 6.65,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "deputy-head-teacher-education",
+      "label": "Deputy Head Teacher",
+      "soc": "25-1071",
+      "ptr": 0.7116,
+      "nfc": 0.7036,
+      "quadrant": "HH",
+      "size": 6.64,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "kindergarten-teacher",
+      "label": "Kindergarten Teacher",
+      "soc": "25-1071",
+      "ptr": 0.6978,
+      "nfc": 0.7031,
+      "quadrant": "HH",
+      "size": 6.55,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "student-teacher",
+      "label": "Student Teacher",
+      "soc": "25-1071",
+      "ptr": 0.5405,
+      "nfc": 0.7025,
+      "quadrant": "LH",
+      "size": 6.44,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "admissions-assistant-director",
+      "label": "Admissions Assistant Director",
+      "soc": "27-2012",
+      "ptr": 0.668,
+      "nfc": 0.6633,
+      "quadrant": "LH",
+      "size": 6.23,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "instructional-designer",
+      "label": "Instructional Designer",
+      "soc": "17-2121",
+      "ptr": 0.6317,
+      "nfc": 0.6309,
+      "quadrant": "LH",
+      "size": 6.19,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "counseling-intern-education",
+      "label": "Counseling Intern",
+      "soc": "29-1229",
+      "ptr": 0.5609,
+      "nfc": 0.5598,
+      "quadrant": "LH",
+      "size": 6.04,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "lead-teacher",
+      "label": "Lead Teacher",
+      "soc": "25-1071",
+      "ptr": 0.6955,
+      "nfc": 0.7005,
+      "quadrant": "HH",
+      "size": 6.04,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "visiting-assistant-professor",
+      "label": "Visiting Assistant Professor",
+      "soc": "25-1071",
+      "ptr": 0.7048,
+      "nfc": 0.7,
+      "quadrant": "HH",
+      "size": 6.03,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "school-psychologist-education",
+      "label": "School Psychologist",
+      "soc": "19-3034",
+      "ptr": 0.5148,
+      "nfc": 0.5093,
+      "quadrant": "LH",
+      "size": 6.01,
+      "aiExposure": 0.3073
+    },
+    {
+      "id": "preschool-teacher",
+      "label": "Preschool Teacher",
+      "soc": "25-1071",
+      "ptr": 0.7024,
+      "nfc": 0.699,
+      "quadrant": "HH",
+      "size": 5.91,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "physical-education-teacher-education",
+      "label": "Physical Education Teacher",
+      "soc": "25-1071",
+      "ptr": 0.6884,
+      "nfc": 0.6985,
+      "quadrant": "HH",
+      "size": 5.82,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "adjunct-professor",
+      "label": "Adjunct Professor",
+      "soc": "25-1071",
+      "ptr": 0.7093,
+      "nfc": 0.6979,
+      "quadrant": "HH",
+      "size": 5.82,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "department-chair",
+      "label": "Department Chair",
+      "soc": "11-9033",
+      "ptr": 0.6455,
+      "nfc": 0.6388,
+      "quadrant": "LH",
+      "size": 5.82,
+      "aiExposure": 0.2677
+    },
+    {
+      "id": "math-teacher",
+      "label": "Math Teacher",
+      "soc": "25-1071",
+      "ptr": 0.6861,
+      "nfc": 0.6969,
+      "quadrant": "HH",
+      "size": 5.77,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "special-education-paraprofessional",
+      "label": "Special Education Paraprofessional",
+      "soc": "25-9043",
+      "ptr": 0.1597,
+      "nfc": 0.1562,
+      "quadrant": "LH",
+      "size": 5.76,
+      "aiExposure": 0.1333
+    },
+    {
+      "id": "residence-hall-director",
+      "label": "Residence Hall Director",
+      "soc": "39-9041",
+      "ptr": 0.0916,
+      "nfc": 0.0901,
+      "quadrant": "LH",
+      "size": 5.76,
+      "aiExposure": 0.1921
+    },
+    {
+      "id": "mathematics-instructor",
+      "label": "Mathematics Instructor",
+      "soc": "25-1071",
+      "ptr": 0.7116,
+      "nfc": 0.6954,
+      "quadrant": "HH",
+      "size": 5.71,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "music-teacher-education",
+      "label": "Music Teacher",
+      "soc": "25-1071",
+      "ptr": 0.7001,
+      "nfc": 0.6949,
+      "quadrant": "HH",
+      "size": 5.66,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "admissions-counselor",
+      "label": "Admissions Counselor",
+      "soc": "41-9099",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.64,
+      "aiExposure": 0
+    },
+    {
+      "id": "school-counselor-education",
+      "label": "School Counselor",
+      "soc": "41-9099",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.6,
+      "aiExposure": 0
+    },
+    {
+      "id": "adjunct-instructor",
+      "label": "Adjunct Instructor",
+      "soc": "25-1071",
+      "ptr": 0.7048,
+      "nfc": 0.6933,
+      "quadrant": "HH",
+      "size": 5.59,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "adjunct-lecturer",
+      "label": "Adjunct Lecturer",
+      "soc": "25-1071",
+      "ptr": 0.7116,
+      "nfc": 0.6928,
+      "quadrant": "HH",
+      "size": 5.58,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "associate-professor",
+      "label": "Associate Professor",
+      "soc": "25-1071",
+      "ptr": 0.7001,
+      "nfc": 0.6923,
+      "quadrant": "HH",
+      "size": 5.58,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "academic-coordinator",
+      "label": "Academic Coordinator",
+      "soc": "11-9033",
+      "ptr": 0.6497,
+      "nfc": 0.6336,
+      "quadrant": "LH",
+      "size": 5.53,
+      "aiExposure": 0.2677
+    },
+    {
+      "id": "educator",
+      "label": "Educator",
+      "soc": "25-1071",
+      "ptr": 0.6884,
+      "nfc": 0.6912,
+      "quadrant": "HH",
+      "size": 5.5,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "associate-dean",
+      "label": "Associate Dean",
+      "soc": "11-9032",
+      "ptr": 0.5935,
+      "nfc": 0.5798,
+      "quadrant": "LH",
+      "size": 5.5,
+      "aiExposure": 0.2768
+    },
+    {
+      "id": "dean",
+      "label": "Dean",
+      "soc": "11-9032",
+      "ptr": 0.5974,
+      "nfc": 0.5794,
+      "quadrant": "LH",
+      "size": 5.49,
+      "aiExposure": 0.2768
+    },
+    {
+      "id": "assistant-head-teacher",
+      "label": "Assistant Head Teacher",
+      "soc": "25-1071",
+      "ptr": 0.7093,
+      "nfc": 0.6897,
+      "quadrant": "HH",
+      "size": 5.44,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "professor",
+      "label": "Professor",
+      "soc": "25-1071",
+      "ptr": 0.7071,
+      "nfc": 0.6892,
+      "quadrant": "HH",
+      "size": 5.39,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "class-teacher",
+      "label": "Class Teacher",
+      "soc": "25-1071",
+      "ptr": 0.6908,
+      "nfc": 0.6886,
+      "quadrant": "HH",
+      "size": 5.39,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "adjunct-faculty",
+      "label": "Adjunct Faculty",
+      "soc": "25-1126",
+      "ptr": 0.9232,
+      "nfc": 0.8984,
+      "quadrant": "HH",
+      "size": 5.39,
+      "aiExposure": 0.4248
+    },
+    {
+      "id": "french-teacher",
+      "label": "French Teacher",
+      "soc": "25-1071",
+      "ptr": 0.7139,
+      "nfc": 0.6876,
+      "quadrant": "HH",
+      "size": 5.38,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "speech-language-pathologist-education",
+      "label": "Speech Language Pathologist",
+      "soc": "29-1222",
+      "ptr": 0.7044,
+      "nfc": 0.6796,
+      "quadrant": "HH",
+      "size": 5.38,
+      "aiExposure": 0.2966
+    },
+    {
+      "id": "assistant-athletic-director-education",
+      "label": "Assistant Athletic Director",
+      "soc": "11-9032",
+      "ptr": 0.5974,
+      "nfc": 0.5763,
+      "quadrant": "LH",
+      "size": 5.38,
+      "aiExposure": 0.2768
+    },
+    {
+      "id": "assistant-registrar-education",
+      "label": "Assistant Registrar",
+      "soc": "25-4011",
+      "ptr": 0.9122,
+      "nfc": 0.8851,
+      "quadrant": "HH",
+      "size": 5.36,
+      "aiExposure": 0.388
+    },
+    {
+      "id": "education-coordinator",
+      "label": "Education Coordinator",
+      "soc": "25-3011",
+      "ptr": 0.5447,
+      "nfc": 0.5298,
+      "quadrant": "LH",
+      "size": 5.36,
+      "aiExposure": 0.2874
+    },
+    {
+      "id": "primary-school-teacher",
+      "label": "Primary School Teacher",
+      "soc": "25-1071",
+      "ptr": 0.7071,
+      "nfc": 0.685,
+      "quadrant": "HH",
+      "size": 5.36,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "paraprofessional",
+      "label": "Paraprofessional",
+      "soc": "25-3031",
+      "ptr": 0.4646,
+      "nfc": 0.4573,
+      "quadrant": "LH",
+      "size": 5.35,
+      "aiExposure": 0.2951
+    },
+    {
+      "id": "student-service-coordinator",
+      "label": "Student Service Coordinator",
+      "soc": "21-1012",
+      "ptr": 0.202,
+      "nfc": 0.1941,
+      "quadrant": "LH",
+      "size": 5.34,
+      "aiExposure": 0.3073
+    },
+    {
+      "id": "education-specialist",
+      "label": "Education Specialist",
+      "soc": "25-2023",
+      "ptr": 0.4509,
+      "nfc": 0.4373,
+      "quadrant": "LH",
+      "size": 5.34,
+      "aiExposure": 0.2513
+    },
+    {
+      "id": "arts-teacher-education",
+      "label": "Arts Teacher",
+      "soc": "25-1071",
+      "ptr": 0.7093,
+      "nfc": 0.6829,
+      "quadrant": "HH",
+      "size": 5.33,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "esl-teacher",
+      "label": "ESL Teacher",
+      "soc": "25-1071",
+      "ptr": 0.7071,
+      "nfc": 0.6824,
+      "quadrant": "HH",
+      "size": 5.32,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "financial-aid-counselor",
+      "label": "Financial Aid Counselor",
+      "soc": "41-9099",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.31,
+      "aiExposure": 0
+    },
+    {
+      "id": "visiting-lecturer",
+      "label": "Visiting Lecturer",
+      "soc": "25-1071",
+      "ptr": 0.7139,
+      "nfc": 0.6813,
+      "quadrant": "HH",
+      "size": 5.31,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "education-director",
+      "label": "Education Director",
+      "soc": "11-9033",
+      "ptr": 0.6518,
+      "nfc": 0.6236,
+      "quadrant": "LH",
+      "size": 5.31,
+      "aiExposure": 0.2677
+    },
+    {
+      "id": "high-school-teacher",
+      "label": "High School Teacher",
+      "soc": "25-1071",
+      "ptr": 0.7071,
+      "nfc": 0.6803,
+      "quadrant": "HH",
+      "size": 5.31,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "special-educational-needs-coordinator",
+      "label": "Special Educational Needs Coordinator",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.3,
+      "aiExposure": 0
+    },
+    {
+      "id": "learning-support-assistant",
+      "label": "Learning Support Assistant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.3,
+      "aiExposure": 0
+    },
+    {
+      "id": "bilingual-teacher",
+      "label": "Bilingual Teacher",
+      "soc": "25-1071",
+      "ptr": 0.7071,
+      "nfc": 0.6776,
+      "quadrant": "HH",
+      "size": 5.3,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "resident-director",
+      "label": "Resident Director",
+      "soc": "29-1229",
+      "ptr": 0.57,
+      "nfc": 0.5411,
+      "quadrant": "LH",
+      "size": 5.3,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "residence-line-coordinator",
+      "label": "Residence Line Coordinator",
+      "soc": "39-9041",
+      "ptr": 0.0925,
+      "nfc": 0.0878,
+      "quadrant": "LH",
+      "size": 5.3,
+      "aiExposure": 0.1921
+    },
+    {
+      "id": "school-principal",
+      "label": "School Principal",
+      "soc": "11-9032",
+      "ptr": 0.5993,
+      "nfc": 0.5684,
+      "quadrant": "LH",
+      "size": 5.28,
+      "aiExposure": 0.2768
+    },
+    {
+      "id": "guidance-counselor",
+      "label": "Guidance Counselor",
+      "soc": "41-9099",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.26,
+      "aiExposure": 0
+    },
+    {
+      "id": "long-term-substitute-teacher",
+      "label": "Long Term Substitute Teacher",
+      "soc": "25-1071",
+      "ptr": 0.6669,
+      "nfc": 0.676,
+      "quadrant": "LH",
+      "size": 5.26,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "senior-lecturer",
+      "label": "Senior Lecturer",
+      "soc": "25-1071",
+      "ptr": 0.7071,
+      "nfc": 0.6755,
+      "quadrant": "HH",
+      "size": 5.24,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "campus-director",
+      "label": "Campus Director",
+      "soc": "11-9033",
+      "ptr": 0.6539,
+      "nfc": 0.6182,
+      "quadrant": "LH",
+      "size": 5.21,
+      "aiExposure": 0.2677
+    },
+    {
+      "id": "behavior-specialist-education",
+      "label": "Behavior Specialist",
+      "soc": "19-3034",
+      "ptr": 0.5182,
+      "nfc": 0.4911,
+      "quadrant": "LH",
+      "size": 5.2,
+      "aiExposure": 0.3073
+    },
+    {
+      "id": "instructional-design-manager",
+      "label": "Instructional Design Manager",
+      "soc": "27-1011",
+      "ptr": 0.921,
+      "nfc": 0.8694,
+      "quadrant": "HH",
+      "size": 5.2,
+      "aiExposure": 0.3714
+    },
+    {
+      "id": "school-coordinator",
+      "label": "School Coordinator",
+      "soc": "11-9032",
+      "ptr": 0.5955,
+      "nfc": 0.5653,
+      "quadrant": "LH",
+      "size": 5.19,
+      "aiExposure": 0.2768
+    },
+    {
+      "id": "education-manager",
+      "label": "Education Manager",
+      "soc": "11-3131",
+      "ptr": 0.9151,
+      "nfc": 0.8667,
+      "quadrant": "HH",
+      "size": 5.18,
+      "aiExposure": 0.3465
+    },
+    {
+      "id": "education-consultant",
+      "label": "Education Consultant",
+      "soc": "25-9031",
+      "ptr": 0.8966,
+      "nfc": 0.8464,
+      "quadrant": "HH",
+      "size": 5.18,
+      "aiExposure": 0.4006
+    },
+    {
+      "id": "associate-athletic-director-education",
+      "label": "Associate Athletic Director",
+      "soc": "11-9032",
+      "ptr": 0.5974,
+      "nfc": 0.5639,
+      "quadrant": "LH",
+      "size": 5.18,
+      "aiExposure": 0.2768
+    },
+    {
+      "id": "educational-psychologist-education",
+      "label": "Educational Psychologist",
+      "soc": "19-3034",
+      "ptr": 0.5198,
+      "nfc": 0.4884,
+      "quadrant": "LH",
+      "size": 5.18,
+      "aiExposure": 0.3073
+    },
+    {
+      "id": "academic-manager",
+      "label": "Academic Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.18,
+      "aiExposure": 0
+    },
+    {
+      "id": "course-manager",
+      "label": "Course Manager",
+      "soc": "39-1014",
+      "ptr": 0.4893,
+      "nfc": 0.4594,
+      "quadrant": "LH",
+      "size": 5.18,
+      "aiExposure": 0.3099
+    },
+    {
+      "id": "curriculum-specialist",
+      "label": "Curriculum Specialist",
+      "soc": "25-9031",
+      "ptr": 0.8966,
+      "nfc": 0.8437,
+      "quadrant": "HH",
+      "size": 5.18,
+      "aiExposure": 0.4006
+    },
+    {
+      "id": "learning-consultant",
+      "label": "Learning Consultant",
+      "soc": "13-1151",
+      "ptr": 0.9553,
+      "nfc": 0.8917,
+      "quadrant": "HH",
+      "size": 5.18,
+      "aiExposure": 0.3972
+    },
+    {
+      "id": "instructional-technologist",
+      "label": "Instructional Technologist",
+      "soc": "25-4022",
+      "ptr": 0.9548,
+      "nfc": 0.8884,
+      "quadrant": "HH",
+      "size": 5.18,
+      "aiExposure": 0.3947
+    },
+    {
+      "id": "assistant-project-scientist-education",
+      "label": "Assistant Project Scientist",
+      "soc": "19-2032",
+      "ptr": 0.8975,
+      "nfc": 0.8351,
+      "quadrant": "HH",
+      "size": 5.18,
+      "aiExposure": 0.3641
+    },
+    {
+      "id": "assessment-coordinator",
+      "label": "Assessment Coordinator",
+      "soc": "11-9032",
+      "ptr": 0.5993,
+      "nfc": 0.5576,
+      "quadrant": "LH",
+      "size": 5.18,
+      "aiExposure": 0.2768
+    },
+    {
+      "id": "curriculum-developer",
+      "label": "Curriculum Developer",
+      "soc": "51-9151",
+      "ptr": 0.4911,
+      "nfc": 0.4569,
+      "quadrant": "LH",
+      "size": 5.18,
+      "aiExposure": 0.244
+    },
+    {
+      "id": "learning-specialist",
+      "label": "Learning Specialist",
+      "soc": "25-2056",
+      "ptr": 0.4454,
+      "nfc": 0.4145,
+      "quadrant": "LH",
+      "size": 5.18,
+      "aiExposure": 0.1583
+    },
+    {
+      "id": "academic-advisor-ii",
+      "label": "Academic Advisor II",
+      "soc": "21-1012",
+      "ptr": 0.2026,
+      "nfc": 0.1885,
+      "quadrant": "LH",
+      "size": 5.18,
+      "aiExposure": 0.3073
+    },
+    {
+      "id": "student-advisor",
+      "label": "Student Advisor",
+      "soc": "21-1012",
+      "ptr": 0.2026,
+      "nfc": 0.1885,
+      "quadrant": "LH",
+      "size": 5.18,
+      "aiExposure": 0.3073
+    },
+    {
+      "id": "education-officer",
+      "label": "Education Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.18,
+      "aiExposure": 0
+    },
+    {
+      "id": "learning-coordinator",
+      "label": "Learning Coordinator",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.18,
+      "aiExposure": 0
+    },
+    {
+      "id": "fourth-grade-teacher",
+      "label": "Fourth Grade Teacher",
+      "soc": "25-1071",
+      "ptr": 0.6931,
+      "nfc": 0.6637,
+      "quadrant": "HH",
+      "size": 5.18,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "admissions-coordinator-education",
+      "label": "Admissions Coordinator",
+      "soc": "43-9199",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.17,
+      "aiExposure": 0
+    },
+    {
+      "id": "academic-counselor",
+      "label": "Academic Counselor",
+      "soc": "41-9099",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.17,
+      "aiExposure": 0
+    },
+    {
+      "id": "admissions-officer",
+      "label": "Admissions Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.16,
+      "aiExposure": 0
+    },
+    {
+      "id": "hall-director",
+      "label": "Hall Director",
+      "soc": "39-9041",
+      "ptr": 0.0925,
+      "nfc": 0.0857,
+      "quadrant": "LH",
+      "size": 5.15,
+      "aiExposure": 0.1921
+    },
+    {
+      "id": "school-intern-education",
+      "label": "School Intern",
+      "soc": "29-1229",
+      "ptr": 0.57,
+      "nfc": 0.5274,
+      "quadrant": "LH",
+      "size": 5.15,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "school-psychology-intern",
+      "label": "School Psychology Intern",
+      "soc": "29-1229",
+      "ptr": 0.57,
+      "nfc": 0.5274,
+      "quadrant": "LH",
+      "size": 5.15,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "sixth-grade-teacher",
+      "label": "Sixth Grade Teacher",
+      "soc": "25-1071",
+      "ptr": 0.7001,
+      "nfc": 0.66,
+      "quadrant": "HH",
+      "size": 5.13,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "athletic-director-education",
+      "label": "Athletic Director",
+      "soc": "11-9032",
+      "ptr": 0.5974,
+      "nfc": 0.5536,
+      "quadrant": "LH",
+      "size": 5.12,
+      "aiExposure": 0.2768
+    },
+    {
+      "id": "efl-teacher",
+      "label": "EFL Teacher",
+      "soc": "25-1071",
+      "ptr": 0.7093,
+      "nfc": 0.6589,
+      "quadrant": "HH",
+      "size": 5.1,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "curriculum-coordinator",
+      "label": "Curriculum Coordinator",
+      "soc": "25-9031",
+      "ptr": 0.8937,
+      "nfc": 0.8294,
+      "quadrant": "HH",
+      "size": 5.1,
+      "aiExposure": 0.4006
+    },
+    {
+      "id": "classroom-teacher",
+      "label": "Classroom Teacher",
+      "soc": "25-1071",
+      "ptr": 0.6521,
+      "nfc": 0.6578,
+      "quadrant": "LH",
+      "size": 5.1,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "fifth-grade-teacher",
+      "label": "Fifth Grade Teacher",
+      "soc": "25-1071",
+      "ptr": 0.6931,
+      "nfc": 0.6572,
+      "quadrant": "HH",
+      "size": 5.08,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "head-football-coach-education",
+      "label": "Head Football Coach",
+      "soc": "27-2022",
+      "ptr": 0.2835,
+      "nfc": 0.2608,
+      "quadrant": "LH",
+      "size": 5.08,
+      "aiExposure": 0.2347
+    },
+    {
+      "id": "second-grade-teacher",
+      "label": "Second Grade Teacher",
+      "soc": "25-1071",
+      "ptr": 0.6908,
+      "nfc": 0.6561,
+      "quadrant": "HH",
+      "size": 5.08,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "school-director",
+      "label": "School Director",
+      "soc": "11-9033",
+      "ptr": 0.6539,
+      "nfc": 0.6005,
+      "quadrant": "LH",
+      "size": 5.08,
+      "aiExposure": 0.2677
+    },
+    {
+      "id": "grade-teacher",
+      "label": "Grade Teacher",
+      "soc": "25-1071",
+      "ptr": 0.7001,
+      "nfc": 0.6551,
+      "quadrant": "HH",
+      "size": 5.06,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "social-studies-teacher",
+      "label": "Social Studies Teacher",
+      "soc": "25-1071",
+      "ptr": 0.6884,
+      "nfc": 0.6545,
+      "quadrant": "HH",
+      "size": 5.06,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "middle-school-teacher",
+      "label": "Middle School Teacher",
+      "soc": "25-1071",
+      "ptr": 0.7116,
+      "nfc": 0.654,
+      "quadrant": "HH",
+      "size": 5.05,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "reading-teacher",
+      "label": "Reading Teacher",
+      "soc": "25-1071",
+      "ptr": 0.7071,
+      "nfc": 0.6534,
+      "quadrant": "HH",
+      "size": 5.04,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "adjunct-assistant-professor",
+      "label": "Adjunct Assistant Professor",
+      "soc": "25-1071",
+      "ptr": 0.7139,
+      "nfc": 0.6529,
+      "quadrant": "HH",
+      "size": 5.03,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "admissions-director-education",
+      "label": "Admissions Director",
+      "soc": "11-9032",
+      "ptr": 0.5993,
+      "nfc": 0.5476,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.2768
+    },
+    {
+      "id": "reading-specialist",
+      "label": "Reading Specialist",
+      "soc": "25-3011",
+      "ptr": 0.5482,
+      "nfc": 0.5037,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.2874
+    },
+    {
+      "id": "intervention-specialist",
+      "label": "Intervention Specialist",
+      "soc": "21-1021",
+      "ptr": 0.1482,
+      "nfc": 0.136,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.2883
+    },
+    {
+      "id": "offensive-coordinator-education",
+      "label": "Offensive Coordinator",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.03,
+      "aiExposure": 0
+    },
+    {
+      "id": "assistant-teacher",
+      "label": "Assistant Teacher",
+      "soc": "25-1071",
+      "ptr": 0.6741,
+      "nfc": 0.6501,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "third-grade-teacher",
+      "label": "Third Grade Teacher",
+      "soc": "25-1071",
+      "ptr": 0.7048,
+      "nfc": 0.6496,
+      "quadrant": "HH",
+      "size": 5.03,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "band-director-education",
+      "label": "Band Director",
+      "soc": "25-2021",
+      "ptr": 0.4244,
+      "nfc": 0.3871,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.2498
+    },
+    {
+      "id": "english-instructor",
+      "label": "English Instructor",
+      "soc": "25-1071",
+      "ptr": 0.7139,
+      "nfc": 0.6485,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "special-needs-teacher",
+      "label": "Special Needs Teacher",
+      "soc": "25-1071",
+      "ptr": 0.7139,
+      "nfc": 0.6479,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "visiting-professor",
+      "label": "Visiting Professor",
+      "soc": "25-1071",
+      "ptr": 0.7139,
+      "nfc": 0.6474,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "curriculum-manager",
+      "label": "Curriculum Manager",
+      "soc": "25-9031",
+      "ptr": 0.8994,
+      "nfc": 0.8149,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.4006
+    },
+    {
+      "id": "vice-principal",
+      "label": "Vice Principal",
+      "soc": "11-9032",
+      "ptr": 0.5993,
+      "nfc": 0.5425,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.2768
+    },
+    {
+      "id": "associate-teacher",
+      "label": "Associate Teacher",
+      "soc": "25-1071",
+      "ptr": 0.7093,
+      "nfc": 0.6457,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "defensive-coordinator-education",
+      "label": "Defensive Coordinator",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.02,
+      "aiExposure": 0
+    },
+    {
+      "id": "lead-preschool-teacher",
+      "label": "Lead Preschool Teacher",
+      "soc": "25-1071",
+      "ptr": 0.7116,
+      "nfc": 0.6446,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "literacy-coach",
+      "label": "Literacy Coach",
+      "soc": "25-3011",
+      "ptr": 0.5482,
+      "nfc": 0.4977,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.2874
+    },
+    {
+      "id": "financial-aid-officer",
+      "label": "Financial Aid Officer",
+      "soc": "13-2099",
+      "ptr": 0.9654,
+      "nfc": 0.8758,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.4145
+    },
+    {
+      "id": "head-men-s-basketball-coach",
+      "label": "Head Men's Basketball Coach",
+      "soc": "27-2022",
+      "ptr": 0.2835,
+      "nfc": 0.2553,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.2347
+    },
+    {
+      "id": "senior-teacher",
+      "label": "Senior Teacher",
+      "soc": "25-1071",
+      "ptr": 0.7093,
+      "nfc": 0.6424,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "enrollment-manager-education",
+      "label": "Enrollment Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.01,
+      "aiExposure": 0
+    },
+    {
+      "id": "english-language-teacher",
+      "label": "English Language Teacher",
+      "soc": "25-1071",
+      "ptr": 0.7139,
+      "nfc": 0.6412,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "technology-coordinator",
+      "label": "Technology Coordinator",
+      "soc": "25-9031",
+      "ptr": 0.8994,
+      "nfc": 0.8072,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.4006
+    },
+    {
+      "id": "language-arts-teacher",
+      "label": "Language Arts Teacher",
+      "soc": "25-1071",
+      "ptr": 0.7024,
+      "nfc": 0.6401,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "student-service-manager",
+      "label": "Student Service Manager",
+      "soc": "11-2022",
+      "ptr": 0.6707,
+      "nfc": 0.6003,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3071
+    },
+    {
+      "id": "student-activities-director",
+      "label": "Student Activities Director",
+      "soc": "11-9033",
+      "ptr": 0.6539,
+      "nfc": 0.5853,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.2677
+    },
+    {
+      "id": "instructional-assistant",
+      "label": "Instructional Assistant",
+      "soc": "25-9043",
+      "ptr": 0.1581,
+      "nfc": 0.1432,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.1333
+    },
+    {
+      "id": "career-counselor-education",
+      "label": "Career Counselor",
+      "soc": "41-9099",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.01,
+      "aiExposure": 0
+    },
+    {
+      "id": "elementary-teacher",
+      "label": "Elementary Teacher",
+      "soc": "25-1071",
+      "ptr": 0.6813,
+      "nfc": 0.6373,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3949
+    }
+  ],
+  "edges": [
+    {
+      "source": "substitute-teacher",
+      "target": "visiting-scholar",
+      "weight": 0.57
+    },
+    {
+      "source": "mathematics-teacher",
+      "target": "supply-teacher",
+      "weight": 0.71
+    },
+    {
+      "source": "science-teacher",
+      "target": "supply-teacher",
+      "weight": 0.82
+    },
+    {
+      "source": "science-teacher",
+      "target": "teacher",
+      "weight": 0.67
+    },
+    {
+      "source": "english-teacher",
+      "target": "academic-advisor",
+      "weight": 0.68
+    },
+    {
+      "source": "english-teacher",
+      "target": "postdoctoral-research-associate-education",
+      "weight": 0.96
+    },
+    {
+      "source": "doctoral-student",
+      "target": "postdoctoral-research-associate-education",
+      "weight": 0.94
+    },
+    {
+      "source": "doctoral-student",
+      "target": "teaching-fellow",
+      "weight": 0.48
+    },
+    {
+      "source": "technology-teacher",
+      "target": "cover-supervisor-education",
+      "weight": 0.45
+    },
+    {
+      "source": "postdoctoral-fellow-education",
+      "target": "visiting-scholar",
+      "weight": 0.84
+    },
+    {
+      "source": "postdoctoral-fellow-education",
+      "target": "supply-teacher",
+      "weight": 0.89
+    },
+    {
+      "source": "postdoctoral-research-fellow-education",
+      "target": "head-teacher",
+      "weight": 0.9
+    },
+    {
+      "source": "postdoctoral-research-fellow-education",
+      "target": "assistant-professor",
+      "weight": 0.4
+    },
+    {
+      "source": "spanish-teacher",
+      "target": "head-teacher",
+      "weight": 0.98
+    },
+    {
+      "source": "spanish-teacher",
+      "target": "special-education-teacher",
+      "weight": 0.66
+    },
+    {
+      "source": "first-grade-teacher",
+      "target": "postdoctoral-research-associate-education",
+      "weight": 0.98
+    },
+    {
+      "source": "first-grade-teacher",
+      "target": "special-education-teacher",
+      "weight": 0.77
+    },
+    {
+      "source": "assistant-principal",
+      "target": "visiting-scholar",
+      "weight": 0.87
+    },
+    {
+      "source": "assistant-principal",
+      "target": "postdoctoral-research-associate-education",
+      "weight": 0.42
+    },
+    {
+      "source": "lecturer",
+      "target": "assistant-professor",
+      "weight": 0.56
+    },
+    {
+      "source": "lecturer",
+      "target": "head-teacher",
+      "weight": 0.71
+    },
+    {
+      "source": "postdoctoral-researcher-education",
+      "target": "supply-teacher",
+      "weight": 0.86
+    },
+    {
+      "source": "trainee-teacher",
+      "target": "special-education-teacher",
+      "weight": 0.56
+    },
+    {
+      "source": "trainee-teacher",
+      "target": "teaching-fellow",
+      "weight": 0.9
+    },
+    {
+      "source": "school-counseling-intern-education",
+      "target": "visiting-scholar",
+      "weight": 0.48
+    },
+    {
+      "source": "school-counseling-intern-education",
+      "target": "teaching-fellow",
+      "weight": 0.53
+    },
+    {
+      "source": "deputy-head-teacher-education",
+      "target": "supply-teacher",
+      "weight": 0.4
+    },
+    {
+      "source": "deputy-head-teacher-education",
+      "target": "head-teacher",
+      "weight": 0.63
+    },
+    {
+      "source": "kindergarten-teacher",
+      "target": "academic-advisor",
+      "weight": 0.75
+    },
+    {
+      "source": "student-teacher",
+      "target": "supply-teacher",
+      "weight": 0.79
+    },
+    {
+      "source": "admissions-assistant-director",
+      "target": "postdoctoral-research-associate-education",
+      "weight": 0.45
+    },
+    {
+      "source": "instructional-designer",
+      "target": "assistant-professor",
+      "weight": 0.8
+    },
+    {
+      "source": "counseling-intern-education",
+      "target": "visiting-scholar",
+      "weight": 0.84
+    },
+    {
+      "source": "counseling-intern-education",
+      "target": "head-teacher",
+      "weight": 0.6
+    },
+    {
+      "source": "lead-teacher",
+      "target": "special-education-teacher",
+      "weight": 0.78
+    },
+    {
+      "source": "lead-teacher",
+      "target": "teaching-fellow",
+      "weight": 0.53
+    },
+    {
+      "source": "visiting-assistant-professor",
+      "target": "teaching-fellow",
+      "weight": 0.97
+    },
+    {
+      "source": "school-psychologist-education",
+      "target": "head-teacher",
+      "weight": 0.72
+    },
+    {
+      "source": "school-psychologist-education",
+      "target": "academic-advisor",
+      "weight": 0.4
+    },
+    {
+      "source": "preschool-teacher",
+      "target": "cover-supervisor-education",
+      "weight": 0.67
+    },
+    {
+      "source": "preschool-teacher",
+      "target": "postdoctoral-research-associate-education",
+      "weight": 0.72
+    },
+    {
+      "source": "physical-education-teacher-education",
+      "target": "visiting-scholar",
+      "weight": 0.61
+    },
+    {
+      "source": "physical-education-teacher-education",
+      "target": "special-education-teacher",
+      "weight": 0.65
+    },
+    {
+      "source": "adjunct-professor",
+      "target": "special-education-teacher",
+      "weight": 0.98
+    },
+    {
+      "source": "adjunct-professor",
+      "target": "teacher",
+      "weight": 0.54
+    },
+    {
+      "source": "department-chair",
+      "target": "visiting-scholar",
+      "weight": 0.76
+    },
+    {
+      "source": "math-teacher",
+      "target": "cover-supervisor-education",
+      "weight": 0.91
+    },
+    {
+      "source": "special-education-paraprofessional",
+      "target": "head-teacher",
+      "weight": 0.77
+    },
+    {
+      "source": "special-education-paraprofessional",
+      "target": "academic-advisor",
+      "weight": 0.49
+    },
+    {
+      "source": "residence-hall-director",
+      "target": "visiting-scholar",
+      "weight": 0.84
+    },
+    {
+      "source": "mathematics-instructor",
+      "target": "supply-teacher",
+      "weight": 0.58
+    },
+    {
+      "source": "music-teacher-education",
+      "target": "supply-teacher",
+      "weight": 0.87
+    },
+    {
+      "source": "music-teacher-education",
+      "target": "head-teacher",
+      "weight": 0.64
+    },
+    {
+      "source": "admissions-counselor",
+      "target": "cover-supervisor-education",
+      "weight": 0.42
+    },
+    {
+      "source": "school-counselor-education",
+      "target": "teacher",
+      "weight": 0.73
+    },
+    {
+      "source": "adjunct-instructor",
+      "target": "special-education-teacher",
+      "weight": 0.67
+    },
+    {
+      "source": "adjunct-instructor",
+      "target": "head-teacher",
+      "weight": 0.59
+    },
+    {
+      "source": "adjunct-lecturer",
+      "target": "visiting-scholar",
+      "weight": 0.65
+    },
+    {
+      "source": "adjunct-lecturer",
+      "target": "teacher",
+      "weight": 0.69
+    },
+    {
+      "source": "associate-professor",
+      "target": "teaching-fellow",
+      "weight": 0.89
+    },
+    {
+      "source": "academic-coordinator",
+      "target": "special-education-teacher",
+      "weight": 0.59
+    },
+    {
+      "source": "academic-coordinator",
+      "target": "supply-teacher",
+      "weight": 0.56
+    },
+    {
+      "source": "educator",
+      "target": "postdoctoral-research-associate-education",
+      "weight": 0.57
+    },
+    {
+      "source": "educator",
+      "target": "teaching-fellow",
+      "weight": 0.52
+    },
+    {
+      "source": "associate-dean",
+      "target": "supply-teacher",
+      "weight": 0.47
+    },
+    {
+      "source": "associate-dean",
+      "target": "cover-supervisor-education",
+      "weight": 0.85
+    },
+    {
+      "source": "dean",
+      "target": "head-teacher",
+      "weight": 0.91
+    },
+    {
+      "source": "dean",
+      "target": "teaching-fellow",
+      "weight": 0.67
+    },
+    {
+      "source": "assistant-head-teacher",
+      "target": "teaching-fellow",
+      "weight": 0.56
+    },
+    {
+      "source": "professor",
+      "target": "supply-teacher",
+      "weight": 0.74
+    },
+    {
+      "source": "professor",
+      "target": "cover-supervisor-education",
+      "weight": 0.61
+    },
+    {
+      "source": "class-teacher",
+      "target": "supply-teacher",
+      "weight": 0.69
+    },
+    {
+      "source": "adjunct-faculty",
+      "target": "visiting-scholar",
+      "weight": 0.98
+    },
+    {
+      "source": "french-teacher",
+      "target": "supply-teacher",
+      "weight": 0.55
+    },
+    {
+      "source": "french-teacher",
+      "target": "teacher",
+      "weight": 0.61
+    },
+    {
+      "source": "speech-language-pathologist-education",
+      "target": "supply-teacher",
+      "weight": 0.73
+    },
+    {
+      "source": "speech-language-pathologist-education",
+      "target": "postdoctoral-research-associate-education",
+      "weight": 0.65
+    },
+    {
+      "source": "assistant-athletic-director-education",
+      "target": "postdoctoral-research-associate-education",
+      "weight": 0.69
+    },
+    {
+      "source": "assistant-registrar-education",
+      "target": "teacher",
+      "weight": 0.6
+    },
+    {
+      "source": "assistant-registrar-education",
+      "target": "cover-supervisor-education",
+      "weight": 0.51
+    },
+    {
+      "source": "education-coordinator",
+      "target": "teacher",
+      "weight": 0.74
+    },
+    {
+      "source": "primary-school-teacher",
+      "target": "teacher",
+      "weight": 0.59
+    },
+    {
+      "source": "primary-school-teacher",
+      "target": "supply-teacher",
+      "weight": 0.97
+    },
+    {
+      "source": "paraprofessional",
+      "target": "head-teacher",
+      "weight": 0.48
+    },
+    {
+      "source": "paraprofessional",
+      "target": "assistant-professor",
+      "weight": 0.87
+    },
+    {
+      "source": "student-service-coordinator",
+      "target": "teacher",
+      "weight": 0.59
+    },
+    {
+      "source": "student-service-coordinator",
+      "target": "assistant-professor",
+      "weight": 0.64
+    },
+    {
+      "source": "education-specialist",
+      "target": "head-teacher",
+      "weight": 0.43
+    },
+    {
+      "source": "arts-teacher-education",
+      "target": "supply-teacher",
+      "weight": 0.5
+    },
+    {
+      "source": "esl-teacher",
+      "target": "cover-supervisor-education",
+      "weight": 0.6
+    },
+    {
+      "source": "financial-aid-counselor",
+      "target": "assistant-professor",
+      "weight": 0.84
+    },
+    {
+      "source": "visiting-lecturer",
+      "target": "cover-supervisor-education",
+      "weight": 0.42
+    },
+    {
+      "source": "education-director",
+      "target": "special-education-teacher",
+      "weight": 0.6
+    },
+    {
+      "source": "high-school-teacher",
+      "target": "special-education-teacher",
+      "weight": 0.5
+    },
+    {
+      "source": "special-educational-needs-coordinator",
+      "target": "special-education-teacher",
+      "weight": 0.46
+    },
+    {
+      "source": "learning-support-assistant",
+      "target": "special-education-teacher",
+      "weight": 0.53
+    },
+    {
+      "source": "learning-support-assistant",
+      "target": "postdoctoral-research-associate-education",
+      "weight": 0.96
+    },
+    {
+      "source": "bilingual-teacher",
+      "target": "supply-teacher",
+      "weight": 0.94
+    },
+    {
+      "source": "resident-director",
+      "target": "visiting-scholar",
+      "weight": 0.57
+    },
+    {
+      "source": "residence-line-coordinator",
+      "target": "special-education-teacher",
+      "weight": 0.62
+    },
+    {
+      "source": "school-principal",
+      "target": "teacher",
+      "weight": 0.64
+    },
+    {
+      "source": "school-principal",
+      "target": "teaching-fellow",
+      "weight": 0.81
+    },
+    {
+      "source": "guidance-counselor",
+      "target": "supply-teacher",
+      "weight": 0.89
+    },
+    {
+      "source": "guidance-counselor",
+      "target": "postdoctoral-research-associate-education",
+      "weight": 0.58
+    },
+    {
+      "source": "long-term-substitute-teacher",
+      "target": "academic-advisor",
+      "weight": 0.88
+    },
+    {
+      "source": "senior-lecturer",
+      "target": "visiting-scholar",
+      "weight": 0.97
+    },
+    {
+      "source": "campus-director",
+      "target": "teaching-fellow",
+      "weight": 0.75
+    },
+    {
+      "source": "campus-director",
+      "target": "cover-supervisor-education",
+      "weight": 0.44
+    },
+    {
+      "source": "behavior-specialist-education",
+      "target": "supply-teacher",
+      "weight": 0.81
+    },
+    {
+      "source": "behavior-specialist-education",
+      "target": "cover-supervisor-education",
+      "weight": 0.97
+    },
+    {
+      "source": "instructional-design-manager",
+      "target": "assistant-professor",
+      "weight": 0.79
+    },
+    {
+      "source": "instructional-design-manager",
+      "target": "cover-supervisor-education",
+      "weight": 0.57
+    },
+    {
+      "source": "school-coordinator",
+      "target": "visiting-scholar",
+      "weight": 0.77
+    },
+    {
+      "source": "school-coordinator",
+      "target": "postdoctoral-research-associate-education",
+      "weight": 0.96
+    },
+    {
+      "source": "education-manager",
+      "target": "special-education-teacher",
+      "weight": 0.45
+    },
+    {
+      "source": "education-consultant",
+      "target": "visiting-scholar",
+      "weight": 0.98
+    },
+    {
+      "source": "associate-athletic-director-education",
+      "target": "special-education-teacher",
+      "weight": 0.43
+    },
+    {
+      "source": "educational-psychologist-education",
+      "target": "supply-teacher",
+      "weight": 0.68
+    },
+    {
+      "source": "academic-manager",
+      "target": "academic-advisor",
+      "weight": 0.89
+    },
+    {
+      "source": "academic-manager",
+      "target": "supply-teacher",
+      "weight": 0.46
+    },
+    {
+      "source": "course-manager",
+      "target": "assistant-professor",
+      "weight": 0.45
+    },
+    {
+      "source": "curriculum-specialist",
+      "target": "cover-supervisor-education",
+      "weight": 0.79
+    },
+    {
+      "source": "learning-consultant",
+      "target": "assistant-professor",
+      "weight": 0.98
+    },
+    {
+      "source": "learning-consultant",
+      "target": "teaching-fellow",
+      "weight": 0.94
+    },
+    {
+      "source": "instructional-technologist",
+      "target": "postdoctoral-research-associate-education",
+      "weight": 0.78
+    },
+    {
+      "source": "assistant-project-scientist-education",
+      "target": "head-teacher",
+      "weight": 0.46
+    },
+    {
+      "source": "assessment-coordinator",
+      "target": "visiting-scholar",
+      "weight": 0.63
+    },
+    {
+      "source": "assessment-coordinator",
+      "target": "postdoctoral-research-associate-education",
+      "weight": 0.47
+    },
+    {
+      "source": "curriculum-developer",
+      "target": "teacher",
+      "weight": 0.56
+    },
+    {
+      "source": "learning-specialist",
+      "target": "special-education-teacher",
+      "weight": 0.99
+    },
+    {
+      "source": "learning-specialist",
+      "target": "supply-teacher",
+      "weight": 0.89
+    },
+    {
+      "source": "academic-advisor-ii",
+      "target": "academic-advisor",
+      "weight": 0.68
+    },
+    {
+      "source": "student-advisor",
+      "target": "teaching-fellow",
+      "weight": 0.73
+    },
+    {
+      "source": "education-officer",
+      "target": "supply-teacher",
+      "weight": 0.96
+    },
+    {
+      "source": "learning-coordinator",
+      "target": "teaching-fellow",
+      "weight": 0.69
+    },
+    {
+      "source": "learning-coordinator",
+      "target": "assistant-professor",
+      "weight": 0.79
+    },
+    {
+      "source": "fourth-grade-teacher",
+      "target": "postdoctoral-research-associate-education",
+      "weight": 0.91
+    },
+    {
+      "source": "admissions-coordinator-education",
+      "target": "special-education-teacher",
+      "weight": 0.49
+    },
+    {
+      "source": "academic-counselor",
+      "target": "assistant-professor",
+      "weight": 0.44
+    },
+    {
+      "source": "admissions-officer",
+      "target": "cover-supervisor-education",
+      "weight": 0.58
+    },
+    {
+      "source": "admissions-officer",
+      "target": "supply-teacher",
+      "weight": 0.55
+    },
+    {
+      "source": "hall-director",
+      "target": "academic-advisor",
+      "weight": 0.64
+    },
+    {
+      "source": "hall-director",
+      "target": "assistant-professor",
+      "weight": 0.45
+    },
+    {
+      "source": "school-intern-education",
+      "target": "supply-teacher",
+      "weight": 0.78
+    },
+    {
+      "source": "school-intern-education",
+      "target": "teaching-fellow",
+      "weight": 0.59
+    },
+    {
+      "source": "school-psychology-intern",
+      "target": "assistant-professor",
+      "weight": 0.4
+    },
+    {
+      "source": "school-psychology-intern",
+      "target": "teacher",
+      "weight": 0.95
+    },
+    {
+      "source": "sixth-grade-teacher",
+      "target": "teaching-fellow",
+      "weight": 0.76
+    },
+    {
+      "source": "athletic-director-education",
+      "target": "supply-teacher",
+      "weight": 0.87
+    },
+    {
+      "source": "efl-teacher",
+      "target": "supply-teacher",
+      "weight": 0.48
+    },
+    {
+      "source": "efl-teacher",
+      "target": "postdoctoral-research-associate-education",
+      "weight": 0.94
+    },
+    {
+      "source": "curriculum-coordinator",
+      "target": "academic-advisor",
+      "weight": 0.55
+    },
+    {
+      "source": "classroom-teacher",
+      "target": "postdoctoral-research-associate-education",
+      "weight": 0.69
+    },
+    {
+      "source": "classroom-teacher",
+      "target": "special-education-teacher",
+      "weight": 0.91
+    },
+    {
+      "source": "fifth-grade-teacher",
+      "target": "special-education-teacher",
+      "weight": 0.51
+    },
+    {
+      "source": "head-football-coach-education",
+      "target": "supply-teacher",
+      "weight": 0.42
+    },
+    {
+      "source": "second-grade-teacher",
+      "target": "cover-supervisor-education",
+      "weight": 0.71
+    },
+    {
+      "source": "school-director",
+      "target": "cover-supervisor-education",
+      "weight": 0.75
+    },
+    {
+      "source": "school-director",
+      "target": "head-teacher",
+      "weight": 0.49
+    },
+    {
+      "source": "grade-teacher",
+      "target": "visiting-scholar",
+      "weight": 0.49
+    },
+    {
+      "source": "social-studies-teacher",
+      "target": "supply-teacher",
+      "weight": 0.6
+    },
+    {
+      "source": "social-studies-teacher",
+      "target": "teacher",
+      "weight": 0.49
+    },
+    {
+      "source": "middle-school-teacher",
+      "target": "special-education-teacher",
+      "weight": 0.89
+    },
+    {
+      "source": "reading-teacher",
+      "target": "cover-supervisor-education",
+      "weight": 0.48
+    },
+    {
+      "source": "adjunct-assistant-professor",
+      "target": "visiting-scholar",
+      "weight": 0.95
+    },
+    {
+      "source": "admissions-director-education",
+      "target": "visiting-scholar",
+      "weight": 0.54
+    },
+    {
+      "source": "reading-specialist",
+      "target": "postdoctoral-research-associate-education",
+      "weight": 0.46
+    },
+    {
+      "source": "reading-specialist",
+      "target": "teaching-fellow",
+      "weight": 0.4
+    },
+    {
+      "source": "intervention-specialist",
+      "target": "cover-supervisor-education",
+      "weight": 0.53
+    },
+    {
+      "source": "offensive-coordinator-education",
+      "target": "assistant-professor",
+      "weight": 0.86
+    },
+    {
+      "source": "assistant-teacher",
+      "target": "teaching-fellow",
+      "weight": 0.61
+    },
+    {
+      "source": "third-grade-teacher",
+      "target": "head-teacher",
+      "weight": 0.52
+    },
+    {
+      "source": "band-director-education",
+      "target": "visiting-scholar",
+      "weight": 0.46
+    },
+    {
+      "source": "band-director-education",
+      "target": "supply-teacher",
+      "weight": 0.95
+    },
+    {
+      "source": "english-instructor",
+      "target": "postdoctoral-research-associate-education",
+      "weight": 0.52
+    },
+    {
+      "source": "english-instructor",
+      "target": "cover-supervisor-education",
+      "weight": 0.43
+    },
+    {
+      "source": "special-needs-teacher",
+      "target": "supply-teacher",
+      "weight": 0.86
+    },
+    {
+      "source": "special-needs-teacher",
+      "target": "academic-advisor",
+      "weight": 0.78
+    },
+    {
+      "source": "visiting-professor",
+      "target": "cover-supervisor-education",
+      "weight": 0.78
+    },
+    {
+      "source": "visiting-professor",
+      "target": "teaching-fellow",
+      "weight": 0.41
+    },
+    {
+      "source": "curriculum-manager",
+      "target": "teacher",
+      "weight": 0.95
+    },
+    {
+      "source": "vice-principal",
+      "target": "assistant-professor",
+      "weight": 0.69
+    },
+    {
+      "source": "associate-teacher",
+      "target": "special-education-teacher",
+      "weight": 0.83
+    },
+    {
+      "source": "defensive-coordinator-education",
+      "target": "supply-teacher",
+      "weight": 1
+    },
+    {
+      "source": "lead-preschool-teacher",
+      "target": "teacher",
+      "weight": 0.57
+    },
+    {
+      "source": "lead-preschool-teacher",
+      "target": "head-teacher",
+      "weight": 0.87
+    },
+    {
+      "source": "literacy-coach",
+      "target": "postdoctoral-research-associate-education",
+      "weight": 0.67
+    },
+    {
+      "source": "literacy-coach",
+      "target": "head-teacher",
+      "weight": 0.71
+    },
+    {
+      "source": "financial-aid-officer",
+      "target": "assistant-professor",
+      "weight": 0.46
+    },
+    {
+      "source": "financial-aid-officer",
+      "target": "supply-teacher",
+      "weight": 0.52
+    },
+    {
+      "source": "head-men-s-basketball-coach",
+      "target": "academic-advisor",
+      "weight": 0.68
+    },
+    {
+      "source": "senior-teacher",
+      "target": "visiting-scholar",
+      "weight": 0.82
+    },
+    {
+      "source": "senior-teacher",
+      "target": "academic-advisor",
+      "weight": 0.56
+    },
+    {
+      "source": "enrollment-manager-education",
+      "target": "supply-teacher",
+      "weight": 0.68
+    },
+    {
+      "source": "english-language-teacher",
+      "target": "head-teacher",
+      "weight": 0.74
+    },
+    {
+      "source": "english-language-teacher",
+      "target": "supply-teacher",
+      "weight": 0.83
+    },
+    {
+      "source": "technology-coordinator",
+      "target": "assistant-professor",
+      "weight": 0.91
+    },
+    {
+      "source": "language-arts-teacher",
+      "target": "teaching-fellow",
+      "weight": 0.47
+    },
+    {
+      "source": "student-service-manager",
+      "target": "visiting-scholar",
+      "weight": 0.82
+    },
+    {
+      "source": "student-service-manager",
+      "target": "supply-teacher",
+      "weight": 0.7
+    },
+    {
+      "source": "student-activities-director",
+      "target": "supply-teacher",
+      "weight": 0.52
+    },
+    {
+      "source": "instructional-assistant",
+      "target": "special-education-teacher",
+      "weight": 0.71
+    },
+    {
+      "source": "career-counselor-education",
+      "target": "supply-teacher",
+      "weight": 0.46
+    },
+    {
+      "source": "elementary-teacher",
+      "target": "teaching-fellow",
+      "weight": 0.86
+    },
+    {
+      "source": "elementary-teacher",
+      "target": "visiting-scholar",
+      "weight": 0.74
+    },
+    {
+      "source": "teacher",
+      "target": "teaching-fellow",
+      "weight": 0.94
+    },
+    {
+      "source": "teacher",
+      "target": "postdoctoral-research-associate-education",
+      "weight": 0.91
+    },
+    {
+      "source": "teacher",
+      "target": "special-education-teacher",
+      "weight": 0.64
+    },
+    {
+      "source": "teaching-fellow",
+      "target": "assistant-professor",
+      "weight": 0.8
+    },
+    {
+      "source": "teaching-fellow",
+      "target": "postdoctoral-research-associate-education",
+      "weight": 0.9
+    },
+    {
+      "source": "teaching-fellow",
+      "target": "visiting-scholar",
+      "weight": 0.73
+    },
+    {
+      "source": "teaching-fellow",
+      "target": "special-education-teacher",
+      "weight": 0.65
+    },
+    {
+      "source": "teaching-fellow",
+      "target": "head-teacher",
+      "weight": 0.82
+    },
+    {
+      "source": "teaching-fellow",
+      "target": "cover-supervisor-education",
+      "weight": 0.65
+    },
+    {
+      "source": "teaching-fellow",
+      "target": "supply-teacher",
+      "weight": 0.94
+    },
+    {
+      "source": "assistant-professor",
+      "target": "visiting-scholar",
+      "weight": 0.81
+    },
+    {
+      "source": "assistant-professor",
+      "target": "special-education-teacher",
+      "weight": 0.96
+    },
+    {
+      "source": "assistant-professor",
+      "target": "academic-advisor",
+      "weight": 0.91
+    },
+    {
+      "source": "assistant-professor",
+      "target": "head-teacher",
+      "weight": 0.68
+    },
+    {
+      "source": "assistant-professor",
+      "target": "cover-supervisor-education",
+      "weight": 0.91
+    },
+    {
+      "source": "assistant-professor",
+      "target": "supply-teacher",
+      "weight": 0.68
+    },
+    {
+      "source": "postdoctoral-research-associate-education",
+      "target": "special-education-teacher",
+      "weight": 0.83
+    },
+    {
+      "source": "postdoctoral-research-associate-education",
+      "target": "academic-advisor",
+      "weight": 0.95
+    },
+    {
+      "source": "postdoctoral-research-associate-education",
+      "target": "head-teacher",
+      "weight": 0.9
+    },
+    {
+      "source": "postdoctoral-research-associate-education",
+      "target": "cover-supervisor-education",
+      "weight": 0.89
+    },
+    {
+      "source": "postdoctoral-research-associate-education",
+      "target": "supply-teacher",
+      "weight": 0.72
+    },
+    {
+      "source": "visiting-scholar",
+      "target": "academic-advisor",
+      "weight": 0.68
+    },
+    {
+      "source": "visiting-scholar",
+      "target": "head-teacher",
+      "weight": 0.66
+    },
+    {
+      "source": "visiting-scholar",
+      "target": "cover-supervisor-education",
+      "weight": 0.73
+    },
+    {
+      "source": "visiting-scholar",
+      "target": "supply-teacher",
+      "weight": 0.75
+    },
+    {
+      "source": "special-education-teacher",
+      "target": "academic-advisor",
+      "weight": 0.78
+    },
+    {
+      "source": "special-education-teacher",
+      "target": "head-teacher",
+      "weight": 0.76
+    },
+    {
+      "source": "special-education-teacher",
+      "target": "cover-supervisor-education",
+      "weight": 0.99
+    },
+    {
+      "source": "special-education-teacher",
+      "target": "supply-teacher",
+      "weight": 0.63
+    },
+    {
+      "source": "academic-advisor",
+      "target": "head-teacher",
+      "weight": 0.74
+    },
+    {
+      "source": "academic-advisor",
+      "target": "cover-supervisor-education",
+      "weight": 0.85
+    },
+    {
+      "source": "academic-advisor",
+      "target": "supply-teacher",
+      "weight": 0.98
+    },
+    {
+      "source": "head-teacher",
+      "target": "cover-supervisor-education",
+      "weight": 0.81
+    },
+    {
+      "source": "head-teacher",
+      "target": "supply-teacher",
+      "weight": 0.96
+    },
+    {
+      "source": "cover-supervisor-education",
+      "target": "supply-teacher",
+      "weight": 0.62
+    },
+    {
+      "source": "postdoctoral-research-fellow-education",
+      "target": "postdoctoral-researcher-education",
+      "weight": 0.7
+    },
+    {
+      "source": "postdoctoral-research-fellow-education",
+      "target": "school-psychologist-education",
+      "weight": 0.7
+    },
+    {
+      "source": "postdoctoral-research-fellow-education",
+      "target": "behavior-specialist-education",
+      "weight": 0.7
+    },
+    {
+      "source": "postdoctoral-research-fellow-education",
+      "target": "educational-psychologist-education",
+      "weight": 0.7
+    },
+    {
+      "source": "postdoctoral-researcher-education",
+      "target": "school-psychologist-education",
+      "weight": 0.7
+    },
+    {
+      "source": "postdoctoral-researcher-education",
+      "target": "behavior-specialist-education",
+      "weight": 0.7
+    },
+    {
+      "source": "postdoctoral-researcher-education",
+      "target": "educational-psychologist-education",
+      "weight": 0.7
+    },
+    {
+      "source": "school-psychologist-education",
+      "target": "behavior-specialist-education",
+      "weight": 0.7
+    },
+    {
+      "source": "school-psychologist-education",
+      "target": "educational-psychologist-education",
+      "weight": 0.7
+    },
+    {
+      "source": "behavior-specialist-education",
+      "target": "educational-psychologist-education",
+      "weight": 0.7
+    },
+    {
+      "source": "admissions-assistant-director",
+      "target": "head-football-coach-education",
+      "weight": 0.7
+    },
+    {
+      "source": "admissions-assistant-director",
+      "target": "head-men-s-basketball-coach",
+      "weight": 0.7
+    },
+    {
+      "source": "head-football-coach-education",
+      "target": "head-men-s-basketball-coach",
+      "weight": 0.7
+    },
+    {
+      "source": "residence-hall-director",
+      "target": "residence-line-coordinator",
+      "weight": 0.7
+    },
+    {
+      "source": "residence-hall-director",
+      "target": "hall-director",
+      "weight": 0.7
+    },
+    {
+      "source": "residence-line-coordinator",
+      "target": "hall-director",
+      "weight": 0.7
+    },
+    {
+      "source": "assistant-registrar-education",
+      "target": "instructional-technologist",
+      "weight": 0.7
+    },
+    {
+      "source": "education-coordinator",
+      "target": "paraprofessional",
+      "weight": 0.7
+    },
+    {
+      "source": "education-coordinator",
+      "target": "reading-specialist",
+      "weight": 0.7
+    },
+    {
+      "source": "education-coordinator",
+      "target": "literacy-coach",
+      "weight": 0.7
+    },
+    {
+      "source": "paraprofessional",
+      "target": "reading-specialist",
+      "weight": 0.7
+    },
+    {
+      "source": "paraprofessional",
+      "target": "literacy-coach",
+      "weight": 0.7
+    },
+    {
+      "source": "reading-specialist",
+      "target": "literacy-coach",
+      "weight": 0.7
+    },
+    {
+      "source": "education-specialist",
+      "target": "learning-specialist",
+      "weight": 0.7
+    },
+    {
+      "source": "education-specialist",
+      "target": "band-director-education",
+      "weight": 0.7
+    },
+    {
+      "source": "learning-specialist",
+      "target": "band-director-education",
+      "weight": 0.7
+    }
+  ]
+}

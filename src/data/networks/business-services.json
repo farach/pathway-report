@@ -1,0 +1,2811 @@
+{
+  "sector": "Business Services",
+  "metadata": {
+    "nodeCount": 150,
+    "edgeCount": 262,
+    "generatedAt": "2026-01-31T16:46:30Z"
+  },
+  "nodes": [
+    {
+      "id": "graphic-designer",
+      "label": "Graphic Designer",
+      "soc": "17-2121",
+      "ptr": 0,
+      "nfc": 0.3767,
+      "quadrant": "LH",
+      "size": 7.15,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "designer",
+      "label": "Designer",
+      "soc": "17-3024",
+      "ptr": 0.0692,
+      "nfc": 0.1637,
+      "quadrant": "LH",
+      "size": 6.44,
+      "aiExposure": 0.2778
+    },
+    {
+      "id": "senior-designer",
+      "label": "Senior Designer",
+      "soc": "17-2121",
+      "ptr": 0.3048,
+      "nfc": 0.3764,
+      "quadrant": "LH",
+      "size": 6.41,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "interior-designer",
+      "label": "Interior Designer",
+      "soc": "17-2121",
+      "ptr": 0.3288,
+      "nfc": 0.3762,
+      "quadrant": "LH",
+      "size": 5.69,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "art-director-business-services",
+      "label": "Art Director",
+      "soc": "27-1011",
+      "ptr": 0.5651,
+      "nfc": 0.7386,
+      "quadrant": "LH",
+      "size": 5.67,
+      "aiExposure": 0.3714
+    },
+    {
+      "id": "creative-director-business-services",
+      "label": "Creative Director",
+      "soc": "27-1011",
+      "ptr": 0.6945,
+      "nfc": 0.7382,
+      "quadrant": "HH",
+      "size": 5.5,
+      "aiExposure": 0.3714
+    },
+    {
+      "id": "architect-business-services",
+      "label": "Architect",
+      "soc": "15-1299",
+      "ptr": 0.8896,
+      "nfc": 0.9719,
+      "quadrant": "HH",
+      "size": 5.44,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "freelance-designer",
+      "label": "Freelance Designer",
+      "soc": "17-2121",
+      "ptr": 0.3536,
+      "nfc": 0.3755,
+      "quadrant": "LH",
+      "size": 5.39,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "senior-architect-business-services",
+      "label": "Senior Architect",
+      "soc": "17-1011",
+      "ptr": 0.6961,
+      "nfc": 0.7197,
+      "quadrant": "HH",
+      "size": 5.36,
+      "aiExposure": 0.3316
+    },
+    {
+      "id": "assistant-account-executive-business-services",
+      "label": "Assistant Account Executive",
+      "soc": "11-2011",
+      "ptr": 0.6418,
+      "nfc": 0.6633,
+      "quadrant": "LH",
+      "size": 5.34,
+      "aiExposure": 0.3326
+    },
+    {
+      "id": "web-designer-business-services",
+      "label": "Web Designer",
+      "soc": "17-2121",
+      "ptr": 0.2992,
+      "nfc": 0.375,
+      "quadrant": "LH",
+      "size": 5.33,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "associate-architect-business-services",
+      "label": "Associate Architect",
+      "soc": "17-1011",
+      "ptr": 0.7049,
+      "nfc": 0.7187,
+      "quadrant": "HH",
+      "size": 5.28,
+      "aiExposure": 0.3316
+    },
+    {
+      "id": "industrial-designer",
+      "label": "Industrial Designer",
+      "soc": "17-2121",
+      "ptr": 0.3583,
+      "nfc": 0.3746,
+      "quadrant": "LH",
+      "size": 5.26,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "senior-art-director",
+      "label": "Senior Art Director",
+      "soc": "27-1011",
+      "ptr": 0.6803,
+      "nfc": 0.7355,
+      "quadrant": "HH",
+      "size": 5.24,
+      "aiExposure": 0.3714
+    },
+    {
+      "id": "copywriter-business-services",
+      "label": "Copywriter",
+      "soc": "27-3043",
+      "ptr": 0.9127,
+      "nfc": 0.9863,
+      "quadrant": "HH",
+      "size": 5.23,
+      "aiExposure": 0.6657
+    },
+    {
+      "id": "structural-engineer-business-services",
+      "label": "Structural Engineer",
+      "soc": "17-2121",
+      "ptr": 0.3653,
+      "nfc": 0.3741,
+      "quadrant": "LH",
+      "size": 5.23,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "design-director",
+      "label": "Design Director",
+      "soc": "15-1255",
+      "ptr": 0.9512,
+      "nfc": 0.9798,
+      "quadrant": "HH",
+      "size": 5.22,
+      "aiExposure": 0.522
+    },
+    {
+      "id": "freelance-graphic-designer",
+      "label": "Freelance Graphic Designer",
+      "soc": "17-2121",
+      "ptr": 0.3583,
+      "nfc": 0.3738,
+      "quadrant": "LH",
+      "size": 5.22,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "illustrator-business-services",
+      "label": "Illustrator",
+      "soc": "27-1014",
+      "ptr": 0.8269,
+      "nfc": 0.851,
+      "quadrant": "HH",
+      "size": 5.2,
+      "aiExposure": 0.3282
+    },
+    {
+      "id": "user-experience-designer-business-services",
+      "label": "User Experience Designer",
+      "soc": "17-2121",
+      "ptr": 0.3583,
+      "nfc": 0.3734,
+      "quadrant": "LH",
+      "size": 5.2,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "product-designer-business-services",
+      "label": "Product Designer",
+      "soc": "17-2121",
+      "ptr": 0.363,
+      "nfc": 0.3732,
+      "quadrant": "LH",
+      "size": 5.18,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "architectural-assistant-business-services",
+      "label": "Architectural Assistant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.17,
+      "aiExposure": 0
+    },
+    {
+      "id": "artworker-business-services",
+      "label": "Artworker",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.16,
+      "aiExposure": 0
+    },
+    {
+      "id": "architectural-technician-business-services",
+      "label": "Architectural Technician",
+      "soc": "17-3011",
+      "ptr": 0.843,
+      "nfc": 0.8769,
+      "quadrant": "HH",
+      "size": 5.15,
+      "aiExposure": 0.381
+    },
+    {
+      "id": "assistant-media-planner",
+      "label": "Assistant Media Planner",
+      "soc": "19-3051",
+      "ptr": 0.6245,
+      "nfc": 0.6718,
+      "quadrant": "LH",
+      "size": 5.15,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "media-planner",
+      "label": "Media Planner",
+      "soc": "19-3051",
+      "ptr": 0.6333,
+      "nfc": 0.6715,
+      "quadrant": "LH",
+      "size": 5.15,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "project-architect-business-services",
+      "label": "Project Architect",
+      "soc": "17-1011",
+      "ptr": 0.6871,
+      "nfc": 0.7137,
+      "quadrant": "HH",
+      "size": 5.13,
+      "aiExposure": 0.3316
+    },
+    {
+      "id": "motion-designer-business-services",
+      "label": "Motion Designer",
+      "soc": "17-2121",
+      "ptr": 0.3653,
+      "nfc": 0.372,
+      "quadrant": "LH",
+      "size": 5.12,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "graphic-artist-business-services",
+      "label": "Graphic Artist",
+      "soc": "27-1014",
+      "ptr": 0.8054,
+      "nfc": 0.847,
+      "quadrant": "HH",
+      "size": 5.12,
+      "aiExposure": 0.3282
+    },
+    {
+      "id": "interactive-designer-business-services",
+      "label": "Interactive Designer",
+      "soc": "17-2121",
+      "ptr": 0.3463,
+      "nfc": 0.3717,
+      "quadrant": "LH",
+      "size": 5.11,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "design-assistant-business-services",
+      "label": "Design Assistant",
+      "soc": "17-1012",
+      "ptr": 0.3389,
+      "nfc": 0.3715,
+      "quadrant": "LH",
+      "size": 5.11,
+      "aiExposure": 0.3197
+    },
+    {
+      "id": "senior-graphic-designer",
+      "label": "Senior Graphic Designer",
+      "soc": "17-2121",
+      "ptr": 0.3512,
+      "nfc": 0.3713,
+      "quadrant": "LH",
+      "size": 5.11,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "landscape-architect",
+      "label": "Landscape Architect",
+      "soc": "17-1011",
+      "ptr": 0.7005,
+      "nfc": 0.7117,
+      "quadrant": "HH",
+      "size": 5.1,
+      "aiExposure": 0.3316
+    },
+    {
+      "id": "civil-engineer-business-services",
+      "label": "Civil Engineer",
+      "soc": "17-2121",
+      "ptr": 0.3463,
+      "nfc": 0.371,
+      "quadrant": "LH",
+      "size": 5.1,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "communication-intern",
+      "label": "Communication Intern",
+      "soc": "29-1229",
+      "ptr": 0.2278,
+      "nfc": 0.2327,
+      "quadrant": "LH",
+      "size": 5.09,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "creative-service-manager-business-services",
+      "label": "Creative Service Manager",
+      "soc": "11-2022",
+      "ptr": 0.5619,
+      "nfc": 0.5629,
+      "quadrant": "LH",
+      "size": 5.09,
+      "aiExposure": 0.3071
+    },
+    {
+      "id": "associate-designer-business-services",
+      "label": "Associate Designer",
+      "soc": "17-2121",
+      "ptr": 0.3559,
+      "nfc": 0.3704,
+      "quadrant": "LH",
+      "size": 5.09,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "production-artist-business-services",
+      "label": "Production Artist",
+      "soc": "27-1014",
+      "ptr": 0.8108,
+      "nfc": 0.8434,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.3282
+    },
+    {
+      "id": "architectural-designer-business-services",
+      "label": "Architectural Designer",
+      "soc": "17-2121",
+      "ptr": 0.3583,
+      "nfc": 0.3701,
+      "quadrant": "LH",
+      "size": 5.08,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "visual-designer",
+      "label": "Visual Designer",
+      "soc": "17-2121",
+      "ptr": 0.363,
+      "nfc": 0.3699,
+      "quadrant": "LH",
+      "size": 5.08,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "senior-industrial-designer",
+      "label": "Senior Industrial Designer",
+      "soc": "17-2121",
+      "ptr": 0.3744,
+      "nfc": 0.3697,
+      "quadrant": "LH",
+      "size": 5.08,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "creative-manager-business-services",
+      "label": "Creative Manager",
+      "soc": "27-1011",
+      "ptr": 0.7221,
+      "nfc": 0.7256,
+      "quadrant": "HH",
+      "size": 5.08,
+      "aiExposure": 0.3714
+    },
+    {
+      "id": "account-director",
+      "label": "Account Director",
+      "soc": "11-2011",
+      "ptr": 0.6418,
+      "nfc": 0.6531,
+      "quadrant": "LH",
+      "size": 5.08,
+      "aiExposure": 0.3326
+    },
+    {
+      "id": "junior-designer",
+      "label": "Junior Designer",
+      "soc": "17-2121",
+      "ptr": 0.2726,
+      "nfc": 0.3692,
+      "quadrant": "LH",
+      "size": 5.08,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "digital-marketing-manager",
+      "label": "Digital Marketing Manager",
+      "soc": "11-2021",
+      "ptr": 0.7176,
+      "nfc": 0.7249,
+      "quadrant": "HH",
+      "size": 5.07,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "senior-civil-engineer-business-services",
+      "label": "Senior Civil Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8905,
+      "nfc": 0.8825,
+      "quadrant": "HH",
+      "size": 5.07,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "creative-associate-director-business-services",
+      "label": "Creative Associate Director",
+      "soc": "27-2012",
+      "ptr": 0.5798,
+      "nfc": 0.5889,
+      "quadrant": "LH",
+      "size": 5.07,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "interaction-designer-business-services",
+      "label": "Interaction Designer",
+      "soc": "17-2121",
+      "ptr": 0.3607,
+      "nfc": 0.3685,
+      "quadrant": "LH",
+      "size": 5.07,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "multimedia-designer-business-services",
+      "label": "Multimedia Designer",
+      "soc": "17-2121",
+      "ptr": 0.3607,
+      "nfc": 0.3683,
+      "quadrant": "LH",
+      "size": 5.07,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "intern-architect-business-services",
+      "label": "Intern Architect",
+      "soc": "29-1229",
+      "ptr": 0.1981,
+      "nfc": 0.231,
+      "quadrant": "LH",
+      "size": 5.07,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "job-captain-business-services",
+      "label": "Job Captain",
+      "soc": "33-1012",
+      "ptr": 0.1485,
+      "nfc": 0.1496,
+      "quadrant": "LH",
+      "size": 5.06,
+      "aiExposure": 0.2058
+    },
+    {
+      "id": "public-relations-intern",
+      "label": "Public Relations Intern",
+      "soc": "29-1229",
+      "ptr": 0.2031,
+      "nfc": 0.2308,
+      "quadrant": "LH",
+      "size": 5.06,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "media-supervisor-business-services",
+      "label": "Media Supervisor",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.06,
+      "aiExposure": 0
+    },
+    {
+      "id": "senior-interaction-designer-business-services",
+      "label": "Senior Interaction Designer",
+      "soc": "17-2121",
+      "ptr": 0.3676,
+      "nfc": 0.3674,
+      "quadrant": "LH",
+      "size": 5.05,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "landscape-designer",
+      "label": "Landscape Designer",
+      "soc": "17-2121",
+      "ptr": 0.3676,
+      "nfc": 0.3673,
+      "quadrant": "LH",
+      "size": 5.05,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "graphic-design-intern",
+      "label": "Graphic Design Intern",
+      "soc": "29-1229",
+      "ptr": 0.1711,
+      "nfc": 0.2303,
+      "quadrant": "LH",
+      "size": 5.05,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "ux-designer-business-services",
+      "label": "UX Designer",
+      "soc": "17-2121",
+      "ptr": 0.3699,
+      "nfc": 0.3669,
+      "quadrant": "LH",
+      "size": 5.05,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "communication-planner",
+      "label": "Communication Planner",
+      "soc": "19-3051",
+      "ptr": 0.6629,
+      "nfc": 0.6613,
+      "quadrant": "LH",
+      "size": 5.05,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "junior-art-director",
+      "label": "Junior Art Director",
+      "soc": "27-1011",
+      "ptr": 0.7038,
+      "nfc": 0.72,
+      "quadrant": "HH",
+      "size": 5.05,
+      "aiExposure": 0.3714
+    },
+    {
+      "id": "art-director-intern",
+      "label": "Art Director Intern",
+      "soc": "29-1229",
+      "ptr": 0.2292,
+      "nfc": 0.2299,
+      "quadrant": "LH",
+      "size": 5.05,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "project-designer-business-services",
+      "label": "Project Designer",
+      "soc": "17-2121",
+      "ptr": 0.3559,
+      "nfc": 0.3662,
+      "quadrant": "LH",
+      "size": 5.05,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "technical-recruiter-business-services",
+      "label": "Technical Recruiter",
+      "soc": "13-1071",
+      "ptr": 0.8547,
+      "nfc": 0.9164,
+      "quadrant": "HH",
+      "size": 5.05,
+      "aiExposure": 0.4226
+    },
+    {
+      "id": "associate-art-director-business-services",
+      "label": "Associate Art Director",
+      "soc": "27-1011",
+      "ptr": 0.7176,
+      "nfc": 0.7186,
+      "quadrant": "HH",
+      "size": 5.04,
+      "aiExposure": 0.3714
+    },
+    {
+      "id": "industrial-design-manager",
+      "label": "Industrial Design Manager",
+      "soc": "27-1011",
+      "ptr": 0.7355,
+      "nfc": 0.7183,
+      "quadrant": "HH",
+      "size": 5.04,
+      "aiExposure": 0.3714
+    },
+    {
+      "id": "print-production-manager",
+      "label": "Print Production Manager",
+      "soc": "27-2012",
+      "ptr": 0.5945,
+      "nfc": 0.5838,
+      "quadrant": "LH",
+      "size": 5.04,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "creative-consultant-business-services",
+      "label": "Creative Consultant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.04,
+      "aiExposure": 0
+    },
+    {
+      "id": "prepress-operator",
+      "label": "Prepress Operator",
+      "soc": "51-9161",
+      "ptr": 0.0814,
+      "nfc": 0.0794,
+      "quadrant": "LH",
+      "size": 5.04,
+      "aiExposure": 0.2277
+    },
+    {
+      "id": "senior-creative-business-services",
+      "label": "Senior Creative",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.04,
+      "aiExposure": 0
+    },
+    {
+      "id": "structural-project-engineer",
+      "label": "Structural Project Engineer",
+      "soc": "17-2121",
+      "ptr": 0.3722,
+      "nfc": 0.3648,
+      "quadrant": "LH",
+      "size": 5.04,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "geotechnical-engineer-business-services",
+      "label": "Geotechnical Engineer",
+      "soc": "17-2071",
+      "ptr": 0.885,
+      "nfc": 0.8723,
+      "quadrant": "HH",
+      "size": 5.03,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "media-strategist-business-services",
+      "label": "Media Strategist",
+      "soc": "13-1161",
+      "ptr": 0.7917,
+      "nfc": 0.7844,
+      "quadrant": "HH",
+      "size": 5.03,
+      "aiExposure": 0.4372
+    },
+    {
+      "id": "public-relations-account-executive",
+      "label": "Public Relations Account Executive",
+      "soc": "11-2011",
+      "ptr": 0.658,
+      "nfc": 0.644,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.3326
+    },
+    {
+      "id": "production-designer-business-services",
+      "label": "Production Designer",
+      "soc": "17-2121",
+      "ptr": 0.3676,
+      "nfc": 0.3641,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "architectural-project-manager-business-services",
+      "label": "Architectural Project Manager",
+      "soc": "15-1299",
+      "ptr": 0.9687,
+      "nfc": 0.9414,
+      "quadrant": "HH",
+      "size": 5.03,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "user-interface-designer-business-services",
+      "label": "User Interface Designer",
+      "soc": "17-2121",
+      "ptr": 0.3583,
+      "nfc": 0.3637,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "user-experience-architect-business-services",
+      "label": "User Experience Architect",
+      "soc": "17-1011",
+      "ptr": 0.7137,
+      "nfc": 0.6971,
+      "quadrant": "HH",
+      "size": 5.03,
+      "aiExposure": 0.3316
+    },
+    {
+      "id": "architectural-technologist-business-services",
+      "label": "Architectural Technologist",
+      "soc": "17-3011",
+      "ptr": 0.8757,
+      "nfc": 0.8549,
+      "quadrant": "HH",
+      "size": 5.03,
+      "aiExposure": 0.381
+    },
+    {
+      "id": "digital-account-executive-business-services",
+      "label": "Digital Account Executive",
+      "soc": "11-2011",
+      "ptr": 0.654,
+      "nfc": 0.6421,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.3326
+    },
+    {
+      "id": "structural-designer-business-services",
+      "label": "Structural Designer",
+      "soc": "17-2121",
+      "ptr": 0.3699,
+      "nfc": 0.363,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "freelance-art-director-business-services",
+      "label": "Freelance Art Director",
+      "soc": "27-1011",
+      "ptr": 0.7266,
+      "nfc": 0.7127,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3714
+    },
+    {
+      "id": "senior-copywriter-business-services",
+      "label": "Senior Copywriter",
+      "soc": "27-3043",
+      "ptr": 0.9504,
+      "nfc": 0.9557,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.6657
+    },
+    {
+      "id": "media-buyer",
+      "label": "Media Buyer",
+      "soc": "13-1023",
+      "ptr": 0.6202,
+      "nfc": 0.6153,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.2368
+    },
+    {
+      "id": "space-planner-business-services",
+      "label": "Space Planner",
+      "soc": "19-3051",
+      "ptr": 0.6712,
+      "nfc": 0.6533,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "digital-marketing-intern-business-services",
+      "label": "Digital Marketing Intern",
+      "soc": "29-1229",
+      "ptr": 0.2263,
+      "nfc": 0.2272,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "prepress-manager-business-services",
+      "label": "Prepress Manager",
+      "soc": "51-1011",
+      "ptr": 0.185,
+      "nfc": 0.1788,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.3251
+    },
+    {
+      "id": "transportation-engineer-business-services",
+      "label": "Transportation Engineer",
+      "soc": "17-2071",
+      "ptr": 0.874,
+      "nfc": 0.8655,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "urban-designer",
+      "label": "Urban Designer",
+      "soc": "17-2121",
+      "ptr": 0.3722,
+      "nfc": 0.3616,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "account-management-intern",
+      "label": "Account Management Intern",
+      "soc": "29-1229",
+      "ptr": 0.2335,
+      "nfc": 0.2267,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "web-graphic-designer",
+      "label": "Web Graphic Designer",
+      "soc": "17-2121",
+      "ptr": 0.3744,
+      "nfc": 0.3608,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "packaging-designer-business-services",
+      "label": "Packaging Designer",
+      "soc": "17-2121",
+      "ptr": 0.3653,
+      "nfc": 0.3608,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "graphic-design-specialist",
+      "label": "Graphic Design Specialist",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.02,
+      "aiExposure": 0
+    },
+    {
+      "id": "public-relations-account-manager",
+      "label": "Public Relations Account Manager",
+      "soc": "11-2022",
+      "ptr": 0.5653,
+      "nfc": 0.5475,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.3071
+    },
+    {
+      "id": "digital-account-manager-business-services",
+      "label": "Digital Account Manager",
+      "soc": "11-2022",
+      "ptr": 0.5619,
+      "nfc": 0.5475,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.3071
+    },
+    {
+      "id": "senior-recruiter",
+      "label": "Senior Recruiter",
+      "soc": "13-1071",
+      "ptr": 0.9261,
+      "nfc": 0.902,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.4226
+    },
+    {
+      "id": "associate-media-director-business-services",
+      "label": "Associate Media Director",
+      "soc": "27-2012",
+      "ptr": 0.5981,
+      "nfc": 0.5752,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "creative-artworker-business-services",
+      "label": "Creative Artworker",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.01,
+      "aiExposure": 0
+    },
+    {
+      "id": "motion-graphic-designer-business-services",
+      "label": "Motion Graphic Designer",
+      "soc": "17-2121",
+      "ptr": 0.3653,
+      "nfc": 0.3598,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "strategy-supervisor",
+      "label": "Strategy Supervisor",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.01,
+      "aiExposure": 0
+    },
+    {
+      "id": "strategist",
+      "label": "Strategist",
+      "soc": "15-1299",
+      "ptr": 0.9687,
+      "nfc": 0.9298,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "communication-planning-manager",
+      "label": "Communication Planning Manager",
+      "soc": "11-3071",
+      "ptr": 0.715,
+      "nfc": 0.6859,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3459
+    },
+    {
+      "id": "content-strategist-business-services",
+      "label": "Content Strategist",
+      "soc": "15-1299",
+      "ptr": 0.9629,
+      "nfc": 0.9288,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "senior-interior-designer",
+      "label": "Senior Interior Designer",
+      "soc": "17-2121",
+      "ptr": 0.3744,
+      "nfc": 0.3589,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "civil-engineer-ii-business-services",
+      "label": "Civil Engineer II",
+      "soc": "17-2071",
+      "ptr": 0.8959,
+      "nfc": 0.8581,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "senior-recruitment-consultant",
+      "label": "Senior Recruitment Consultant",
+      "soc": "13-1071",
+      "ptr": 0.9261,
+      "nfc": 0.897,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.4226
+    },
+    {
+      "id": "environmental-scientist-business-services",
+      "label": "Environmental Scientist",
+      "soc": "17-3026",
+      "ptr": 0.3506,
+      "nfc": 0.3483,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.2963
+    },
+    {
+      "id": "online-marketing-manager",
+      "label": "Online Marketing Manager",
+      "soc": "11-2021",
+      "ptr": 0.713,
+      "nfc": 0.7035,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "creative-designer",
+      "label": "Creative Designer",
+      "soc": "17-2121",
+      "ptr": 0.363,
+      "nfc": 0.3579,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "digital-designer-business-services",
+      "label": "Digital Designer",
+      "soc": "17-2121",
+      "ptr": 0.3583,
+      "nfc": 0.3578,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "associate-recruiter",
+      "label": "Associate Recruiter",
+      "soc": "13-1071",
+      "ptr": 0.9261,
+      "nfc": 0.8948,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.4226
+    },
+    {
+      "id": "online-marketing-executive",
+      "label": "Online Marketing Executive",
+      "soc": "11-2021",
+      "ptr": 0.7266,
+      "nfc": 0.702,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "senior-user-experience-designer-business-services",
+      "label": "Senior User Experience Designer",
+      "soc": "17-2121",
+      "ptr": 0.3722,
+      "nfc": 0.3572,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "talent-acquisition",
+      "label": "Talent Acquisition",
+      "soc": "13-1011",
+      "ptr": 0.8789,
+      "nfc": 0.8479,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.4062
+    },
+    {
+      "id": "creative-service-director-business-services",
+      "label": "Creative Service Director",
+      "soc": "11-3012",
+      "ptr": 0.1694,
+      "nfc": 0.1615,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.2392
+    },
+    {
+      "id": "senior-media-planner-business-services",
+      "label": "Senior Media Planner",
+      "soc": "19-3051",
+      "ptr": 0.6671,
+      "nfc": 0.6432,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "architectural-intern",
+      "label": "Architectural Intern",
+      "soc": "29-1229",
+      "ptr": 0.2142,
+      "nfc": 0.2237,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "structural-design-engineer-business-services",
+      "label": "Structural Design Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8905,
+      "nfc": 0.8525,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "digital-strategist-business-services",
+      "label": "Digital Strategist",
+      "soc": "13-1161",
+      "ptr": 0.8015,
+      "nfc": 0.7669,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.4372
+    },
+    {
+      "id": "digital-media-planner-business-services",
+      "label": "Digital Media Planner",
+      "soc": "19-3051",
+      "ptr": 0.6712,
+      "nfc": 0.6419,
+      "quadrant": "LH",
+      "size": 5.01,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "senior-geotechnical-engineer-business-services",
+      "label": "Senior Geotechnical Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8959,
+      "nfc": 0.8499,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "civil-engineer-iii",
+      "label": "Civil Engineer III",
+      "soc": "17-2071",
+      "ptr": 0.8959,
+      "nfc": 0.8499,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "highway-engineer-business-services",
+      "label": "Highway Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8905,
+      "nfc": 0.8499,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "environmental-consultant-business-services",
+      "label": "Environmental Consultant",
+      "soc": "19-2041",
+      "ptr": 0.7926,
+      "nfc": 0.7565,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3468
+    },
+    {
+      "id": "digital-marketing-executive",
+      "label": "Digital Marketing Executive",
+      "soc": "11-2021",
+      "ptr": 0.7311,
+      "nfc": 0.6974,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3446
+    },
+    {
+      "id": "desktop-publisher",
+      "label": "Desktop Publisher",
+      "soc": "43-9031",
+      "ptr": 0.9641,
+      "nfc": 0.9127,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.4779
+    },
+    {
+      "id": "professional-engineer-business-services",
+      "label": "Professional Engineer",
+      "soc": "17-2071",
+      "ptr": 0.8959,
+      "nfc": 0.8481,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.3363
+    },
+    {
+      "id": "design-associate",
+      "label": "Design Associate",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.01,
+      "aiExposure": 0
+    },
+    {
+      "id": "staffing-consultant",
+      "label": "Staffing Consultant",
+      "soc": "13-1071",
+      "ptr": 0.9203,
+      "nfc": 0.887,
+      "quadrant": "HH",
+      "size": 5.01,
+      "aiExposure": 0.4226
+    },
+    {
+      "id": "senior-structural-engineer-business-services",
+      "label": "Senior Structural Engineer",
+      "soc": "17-2121",
+      "ptr": 0.3744,
+      "nfc": 0.3541,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "contract-recruiter",
+      "label": "Contract Recruiter",
+      "soc": "13-1071",
+      "ptr": 0.9318,
+      "nfc": 0.8856,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4226
+    },
+    {
+      "id": "online-marketing-assistant",
+      "label": "Online Marketing Assistant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "land-planner",
+      "label": "Land Planner",
+      "soc": "19-3051",
+      "ptr": 0.6712,
+      "nfc": 0.6373,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "menswear-designer-business-services",
+      "label": "Menswear Designer",
+      "soc": "17-2121",
+      "ptr": 0.3722,
+      "nfc": 0.3534,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "prepress-technician-business-services",
+      "label": "Prepress Technician",
+      "soc": "17-3023",
+      "ptr": 0.2036,
+      "nfc": 0.1932,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3042
+    },
+    {
+      "id": "senior-environmental-consultant-business-services",
+      "label": "Senior Environmental Consultant",
+      "soc": "19-2041",
+      "ptr": 0.7974,
+      "nfc": 0.7514,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3468
+    },
+    {
+      "id": "recruiting-consultant",
+      "label": "Recruiting Consultant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "copy-supervisor-business-services",
+      "label": "Copy Supervisor",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "digital-marketing-specialist",
+      "label": "Digital Marketing Specialist",
+      "soc": "13-1161",
+      "ptr": 0.7966,
+      "nfc": 0.759,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4372
+    },
+    {
+      "id": "digital-planner-business-services",
+      "label": "Digital Planner",
+      "soc": "19-3051",
+      "ptr": 0.6671,
+      "nfc": 0.6349,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.4035
+    },
+    {
+      "id": "creative-lead-business-services",
+      "label": "Creative Lead",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "junior-architect-business-services",
+      "label": "Junior Architect",
+      "soc": "17-1011",
+      "ptr": 0.6734,
+      "nfc": 0.6748,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3316
+    },
+    {
+      "id": "lead-recruiter",
+      "label": "Lead Recruiter",
+      "soc": "13-1071",
+      "ptr": 0.9374,
+      "nfc": 0.8801,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4226
+    },
+    {
+      "id": "account-recruiting-manager",
+      "label": "Account Recruiting Manager",
+      "soc": "11-3121",
+      "ptr": 0.7056,
+      "nfc": 0.6625,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3085
+    },
+    {
+      "id": "junior-graphic-designer",
+      "label": "Junior Graphic Designer",
+      "soc": "17-2121",
+      "ptr": 0.3414,
+      "nfc": 0.3514,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "talent-acquisition-consultant",
+      "label": "Talent Acquisition Consultant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5,
+      "aiExposure": 0
+    },
+    {
+      "id": "assistant-art-director-business-services",
+      "label": "Assistant Art Director",
+      "soc": "27-1011",
+      "ptr": 0.7176,
+      "nfc": 0.6894,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3714
+    },
+    {
+      "id": "digital-project-manager-business-services",
+      "label": "Digital Project Manager",
+      "soc": "15-1299",
+      "ptr": 0.957,
+      "nfc": 0.9075,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.5168
+    },
+    {
+      "id": "middleweight-designer",
+      "label": "Middleweight Designer",
+      "soc": "17-2121",
+      "ptr": 0.3722,
+      "nfc": 0.3506,
+      "quadrant": "LH",
+      "size": 5,
+      "aiExposure": 0.3105
+    },
+    {
+      "id": "talent-acquisition-specialist",
+      "label": "Talent Acquisition Specialist",
+      "soc": "13-1071",
+      "ptr": 0.9261,
+      "nfc": 0.8773,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4226
+    },
+    {
+      "id": "executive-creative-director-business-services",
+      "label": "Executive Creative Director",
+      "soc": "27-1011",
+      "ptr": 0.7355,
+      "nfc": 0.688,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.3714
+    },
+    {
+      "id": "campus-recruiter",
+      "label": "Campus Recruiter",
+      "soc": "13-1071",
+      "ptr": 0.9318,
+      "nfc": 0.874,
+      "quadrant": "HH",
+      "size": 5,
+      "aiExposure": 0.4226
+    }
+  ],
+  "edges": [
+    {
+      "source": "web-designer-business-services",
+      "target": "art-director-business-services",
+      "weight": 0.57
+    },
+    {
+      "source": "associate-architect-business-services",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.71
+    },
+    {
+      "source": "industrial-designer",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.82
+    },
+    {
+      "source": "industrial-designer",
+      "target": "graphic-designer",
+      "weight": 0.67
+    },
+    {
+      "source": "senior-art-director",
+      "target": "architect-business-services",
+      "weight": 0.68
+    },
+    {
+      "source": "senior-art-director",
+      "target": "interior-designer",
+      "weight": 0.96
+    },
+    {
+      "source": "copywriter-business-services",
+      "target": "interior-designer",
+      "weight": 0.94
+    },
+    {
+      "source": "copywriter-business-services",
+      "target": "designer",
+      "weight": 0.48
+    },
+    {
+      "source": "structural-engineer-business-services",
+      "target": "senior-architect-business-services",
+      "weight": 0.45
+    },
+    {
+      "source": "design-director",
+      "target": "art-director-business-services",
+      "weight": 0.84
+    },
+    {
+      "source": "design-director",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.89
+    },
+    {
+      "source": "freelance-graphic-designer",
+      "target": "freelance-designer",
+      "weight": 0.9
+    },
+    {
+      "source": "freelance-graphic-designer",
+      "target": "senior-designer",
+      "weight": 0.4
+    },
+    {
+      "source": "illustrator-business-services",
+      "target": "freelance-designer",
+      "weight": 0.98
+    },
+    {
+      "source": "illustrator-business-services",
+      "target": "creative-director-business-services",
+      "weight": 0.66
+    },
+    {
+      "source": "user-experience-designer-business-services",
+      "target": "interior-designer",
+      "weight": 0.98
+    },
+    {
+      "source": "user-experience-designer-business-services",
+      "target": "creative-director-business-services",
+      "weight": 0.77
+    },
+    {
+      "source": "product-designer-business-services",
+      "target": "art-director-business-services",
+      "weight": 0.87
+    },
+    {
+      "source": "product-designer-business-services",
+      "target": "interior-designer",
+      "weight": 0.42
+    },
+    {
+      "source": "architectural-assistant-business-services",
+      "target": "senior-designer",
+      "weight": 0.56
+    },
+    {
+      "source": "architectural-assistant-business-services",
+      "target": "freelance-designer",
+      "weight": 0.71
+    },
+    {
+      "source": "artworker-business-services",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.86
+    },
+    {
+      "source": "architectural-technician-business-services",
+      "target": "creative-director-business-services",
+      "weight": 0.56
+    },
+    {
+      "source": "architectural-technician-business-services",
+      "target": "designer",
+      "weight": 0.9
+    },
+    {
+      "source": "assistant-media-planner",
+      "target": "art-director-business-services",
+      "weight": 0.48
+    },
+    {
+      "source": "assistant-media-planner",
+      "target": "designer",
+      "weight": 0.53
+    },
+    {
+      "source": "media-planner",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.4
+    },
+    {
+      "source": "media-planner",
+      "target": "freelance-designer",
+      "weight": 0.63
+    },
+    {
+      "source": "project-architect-business-services",
+      "target": "architect-business-services",
+      "weight": 0.75
+    },
+    {
+      "source": "motion-designer-business-services",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.79
+    },
+    {
+      "source": "graphic-artist-business-services",
+      "target": "interior-designer",
+      "weight": 0.45
+    },
+    {
+      "source": "interactive-designer-business-services",
+      "target": "senior-designer",
+      "weight": 0.8
+    },
+    {
+      "source": "design-assistant-business-services",
+      "target": "art-director-business-services",
+      "weight": 0.84
+    },
+    {
+      "source": "design-assistant-business-services",
+      "target": "freelance-designer",
+      "weight": 0.6
+    },
+    {
+      "source": "senior-graphic-designer",
+      "target": "creative-director-business-services",
+      "weight": 0.78
+    },
+    {
+      "source": "senior-graphic-designer",
+      "target": "designer",
+      "weight": 0.53
+    },
+    {
+      "source": "landscape-architect",
+      "target": "designer",
+      "weight": 0.97
+    },
+    {
+      "source": "civil-engineer-business-services",
+      "target": "freelance-designer",
+      "weight": 0.72
+    },
+    {
+      "source": "civil-engineer-business-services",
+      "target": "architect-business-services",
+      "weight": 0.4
+    },
+    {
+      "source": "communication-intern",
+      "target": "senior-architect-business-services",
+      "weight": 0.67
+    },
+    {
+      "source": "communication-intern",
+      "target": "interior-designer",
+      "weight": 0.72
+    },
+    {
+      "source": "creative-service-manager-business-services",
+      "target": "art-director-business-services",
+      "weight": 0.61
+    },
+    {
+      "source": "creative-service-manager-business-services",
+      "target": "creative-director-business-services",
+      "weight": 0.65
+    },
+    {
+      "source": "associate-designer-business-services",
+      "target": "creative-director-business-services",
+      "weight": 0.98
+    },
+    {
+      "source": "associate-designer-business-services",
+      "target": "graphic-designer",
+      "weight": 0.54
+    },
+    {
+      "source": "production-artist-business-services",
+      "target": "art-director-business-services",
+      "weight": 0.76
+    },
+    {
+      "source": "architectural-designer-business-services",
+      "target": "senior-architect-business-services",
+      "weight": 0.91
+    },
+    {
+      "source": "visual-designer",
+      "target": "freelance-designer",
+      "weight": 0.77
+    },
+    {
+      "source": "visual-designer",
+      "target": "architect-business-services",
+      "weight": 0.49
+    },
+    {
+      "source": "senior-industrial-designer",
+      "target": "art-director-business-services",
+      "weight": 0.84
+    },
+    {
+      "source": "creative-manager-business-services",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.58
+    },
+    {
+      "source": "account-director",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.87
+    },
+    {
+      "source": "account-director",
+      "target": "freelance-designer",
+      "weight": 0.64
+    },
+    {
+      "source": "junior-designer",
+      "target": "senior-architect-business-services",
+      "weight": 0.42
+    },
+    {
+      "source": "digital-marketing-manager",
+      "target": "graphic-designer",
+      "weight": 0.73
+    },
+    {
+      "source": "senior-civil-engineer-business-services",
+      "target": "creative-director-business-services",
+      "weight": 0.67
+    },
+    {
+      "source": "senior-civil-engineer-business-services",
+      "target": "freelance-designer",
+      "weight": 0.59
+    },
+    {
+      "source": "creative-associate-director-business-services",
+      "target": "art-director-business-services",
+      "weight": 0.65
+    },
+    {
+      "source": "creative-associate-director-business-services",
+      "target": "graphic-designer",
+      "weight": 0.69
+    },
+    {
+      "source": "interaction-designer-business-services",
+      "target": "designer",
+      "weight": 0.89
+    },
+    {
+      "source": "multimedia-designer-business-services",
+      "target": "creative-director-business-services",
+      "weight": 0.59
+    },
+    {
+      "source": "multimedia-designer-business-services",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.56
+    },
+    {
+      "source": "intern-architect-business-services",
+      "target": "interior-designer",
+      "weight": 0.57
+    },
+    {
+      "source": "intern-architect-business-services",
+      "target": "designer",
+      "weight": 0.52
+    },
+    {
+      "source": "job-captain-business-services",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.47
+    },
+    {
+      "source": "job-captain-business-services",
+      "target": "senior-architect-business-services",
+      "weight": 0.85
+    },
+    {
+      "source": "public-relations-intern",
+      "target": "freelance-designer",
+      "weight": 0.91
+    },
+    {
+      "source": "public-relations-intern",
+      "target": "designer",
+      "weight": 0.67
+    },
+    {
+      "source": "media-supervisor-business-services",
+      "target": "designer",
+      "weight": 0.56
+    },
+    {
+      "source": "senior-interaction-designer-business-services",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.74
+    },
+    {
+      "source": "senior-interaction-designer-business-services",
+      "target": "senior-architect-business-services",
+      "weight": 0.61
+    },
+    {
+      "source": "landscape-designer",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.69
+    },
+    {
+      "source": "graphic-design-intern",
+      "target": "art-director-business-services",
+      "weight": 0.98
+    },
+    {
+      "source": "ux-designer-business-services",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.55
+    },
+    {
+      "source": "ux-designer-business-services",
+      "target": "graphic-designer",
+      "weight": 0.61
+    },
+    {
+      "source": "communication-planner",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.73
+    },
+    {
+      "source": "communication-planner",
+      "target": "interior-designer",
+      "weight": 0.65
+    },
+    {
+      "source": "junior-art-director",
+      "target": "interior-designer",
+      "weight": 0.69
+    },
+    {
+      "source": "art-director-intern",
+      "target": "graphic-designer",
+      "weight": 0.6
+    },
+    {
+      "source": "art-director-intern",
+      "target": "senior-architect-business-services",
+      "weight": 0.51
+    },
+    {
+      "source": "project-designer-business-services",
+      "target": "graphic-designer",
+      "weight": 0.74
+    },
+    {
+      "source": "technical-recruiter-business-services",
+      "target": "graphic-designer",
+      "weight": 0.59
+    },
+    {
+      "source": "technical-recruiter-business-services",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.97
+    },
+    {
+      "source": "associate-art-director-business-services",
+      "target": "freelance-designer",
+      "weight": 0.48
+    },
+    {
+      "source": "associate-art-director-business-services",
+      "target": "senior-designer",
+      "weight": 0.87
+    },
+    {
+      "source": "industrial-design-manager",
+      "target": "graphic-designer",
+      "weight": 0.59
+    },
+    {
+      "source": "industrial-design-manager",
+      "target": "senior-designer",
+      "weight": 0.64
+    },
+    {
+      "source": "print-production-manager",
+      "target": "freelance-designer",
+      "weight": 0.43
+    },
+    {
+      "source": "creative-consultant-business-services",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.5
+    },
+    {
+      "source": "prepress-operator",
+      "target": "senior-architect-business-services",
+      "weight": 0.6
+    },
+    {
+      "source": "senior-creative-business-services",
+      "target": "senior-designer",
+      "weight": 0.84
+    },
+    {
+      "source": "structural-project-engineer",
+      "target": "senior-architect-business-services",
+      "weight": 0.42
+    },
+    {
+      "source": "geotechnical-engineer-business-services",
+      "target": "creative-director-business-services",
+      "weight": 0.6
+    },
+    {
+      "source": "media-strategist-business-services",
+      "target": "creative-director-business-services",
+      "weight": 0.5
+    },
+    {
+      "source": "public-relations-account-executive",
+      "target": "creative-director-business-services",
+      "weight": 0.46
+    },
+    {
+      "source": "production-designer-business-services",
+      "target": "creative-director-business-services",
+      "weight": 0.53
+    },
+    {
+      "source": "production-designer-business-services",
+      "target": "interior-designer",
+      "weight": 0.96
+    },
+    {
+      "source": "architectural-project-manager-business-services",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.94
+    },
+    {
+      "source": "user-interface-designer-business-services",
+      "target": "art-director-business-services",
+      "weight": 0.57
+    },
+    {
+      "source": "user-experience-architect-business-services",
+      "target": "creative-director-business-services",
+      "weight": 0.62
+    },
+    {
+      "source": "architectural-technologist-business-services",
+      "target": "graphic-designer",
+      "weight": 0.64
+    },
+    {
+      "source": "architectural-technologist-business-services",
+      "target": "designer",
+      "weight": 0.81
+    },
+    {
+      "source": "digital-account-executive-business-services",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.89
+    },
+    {
+      "source": "digital-account-executive-business-services",
+      "target": "interior-designer",
+      "weight": 0.58
+    },
+    {
+      "source": "structural-designer-business-services",
+      "target": "architect-business-services",
+      "weight": 0.88
+    },
+    {
+      "source": "freelance-art-director-business-services",
+      "target": "art-director-business-services",
+      "weight": 0.97
+    },
+    {
+      "source": "senior-copywriter-business-services",
+      "target": "designer",
+      "weight": 0.75
+    },
+    {
+      "source": "senior-copywriter-business-services",
+      "target": "senior-architect-business-services",
+      "weight": 0.44
+    },
+    {
+      "source": "media-buyer",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.81
+    },
+    {
+      "source": "media-buyer",
+      "target": "senior-architect-business-services",
+      "weight": 0.97
+    },
+    {
+      "source": "space-planner-business-services",
+      "target": "senior-designer",
+      "weight": 0.79
+    },
+    {
+      "source": "space-planner-business-services",
+      "target": "senior-architect-business-services",
+      "weight": 0.57
+    },
+    {
+      "source": "digital-marketing-intern-business-services",
+      "target": "art-director-business-services",
+      "weight": 0.77
+    },
+    {
+      "source": "digital-marketing-intern-business-services",
+      "target": "interior-designer",
+      "weight": 0.96
+    },
+    {
+      "source": "prepress-manager-business-services",
+      "target": "creative-director-business-services",
+      "weight": 0.45
+    },
+    {
+      "source": "transportation-engineer-business-services",
+      "target": "art-director-business-services",
+      "weight": 0.98
+    },
+    {
+      "source": "urban-designer",
+      "target": "creative-director-business-services",
+      "weight": 0.43
+    },
+    {
+      "source": "account-management-intern",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.68
+    },
+    {
+      "source": "web-graphic-designer",
+      "target": "architect-business-services",
+      "weight": 0.89
+    },
+    {
+      "source": "web-graphic-designer",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.46
+    },
+    {
+      "source": "packaging-designer-business-services",
+      "target": "senior-designer",
+      "weight": 0.45
+    },
+    {
+      "source": "graphic-design-specialist",
+      "target": "senior-architect-business-services",
+      "weight": 0.79
+    },
+    {
+      "source": "public-relations-account-manager",
+      "target": "senior-designer",
+      "weight": 0.98
+    },
+    {
+      "source": "public-relations-account-manager",
+      "target": "designer",
+      "weight": 0.94
+    },
+    {
+      "source": "digital-account-manager-business-services",
+      "target": "interior-designer",
+      "weight": 0.78
+    },
+    {
+      "source": "senior-recruiter",
+      "target": "freelance-designer",
+      "weight": 0.46
+    },
+    {
+      "source": "associate-media-director-business-services",
+      "target": "art-director-business-services",
+      "weight": 0.63
+    },
+    {
+      "source": "associate-media-director-business-services",
+      "target": "interior-designer",
+      "weight": 0.47
+    },
+    {
+      "source": "creative-artworker-business-services",
+      "target": "graphic-designer",
+      "weight": 0.56
+    },
+    {
+      "source": "motion-graphic-designer-business-services",
+      "target": "creative-director-business-services",
+      "weight": 0.99
+    },
+    {
+      "source": "motion-graphic-designer-business-services",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.89
+    },
+    {
+      "source": "strategy-supervisor",
+      "target": "architect-business-services",
+      "weight": 0.68
+    },
+    {
+      "source": "strategist",
+      "target": "designer",
+      "weight": 0.73
+    },
+    {
+      "source": "communication-planning-manager",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.96
+    },
+    {
+      "source": "content-strategist-business-services",
+      "target": "designer",
+      "weight": 0.69
+    },
+    {
+      "source": "content-strategist-business-services",
+      "target": "senior-designer",
+      "weight": 0.79
+    },
+    {
+      "source": "senior-interior-designer",
+      "target": "interior-designer",
+      "weight": 0.91
+    },
+    {
+      "source": "civil-engineer-ii-business-services",
+      "target": "creative-director-business-services",
+      "weight": 0.49
+    },
+    {
+      "source": "senior-recruitment-consultant",
+      "target": "senior-designer",
+      "weight": 0.44
+    },
+    {
+      "source": "environmental-scientist-business-services",
+      "target": "senior-architect-business-services",
+      "weight": 0.58
+    },
+    {
+      "source": "environmental-scientist-business-services",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.55
+    },
+    {
+      "source": "online-marketing-manager",
+      "target": "architect-business-services",
+      "weight": 0.64
+    },
+    {
+      "source": "online-marketing-manager",
+      "target": "senior-designer",
+      "weight": 0.45
+    },
+    {
+      "source": "creative-designer",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.78
+    },
+    {
+      "source": "creative-designer",
+      "target": "designer",
+      "weight": 0.59
+    },
+    {
+      "source": "digital-designer-business-services",
+      "target": "senior-designer",
+      "weight": 0.4
+    },
+    {
+      "source": "digital-designer-business-services",
+      "target": "graphic-designer",
+      "weight": 0.95
+    },
+    {
+      "source": "associate-recruiter",
+      "target": "designer",
+      "weight": 0.76
+    },
+    {
+      "source": "online-marketing-executive",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.87
+    },
+    {
+      "source": "senior-user-experience-designer-business-services",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.48
+    },
+    {
+      "source": "senior-user-experience-designer-business-services",
+      "target": "interior-designer",
+      "weight": 0.94
+    },
+    {
+      "source": "talent-acquisition",
+      "target": "architect-business-services",
+      "weight": 0.55
+    },
+    {
+      "source": "creative-service-director-business-services",
+      "target": "interior-designer",
+      "weight": 0.69
+    },
+    {
+      "source": "creative-service-director-business-services",
+      "target": "creative-director-business-services",
+      "weight": 0.91
+    },
+    {
+      "source": "senior-media-planner-business-services",
+      "target": "creative-director-business-services",
+      "weight": 0.51
+    },
+    {
+      "source": "architectural-intern",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.42
+    },
+    {
+      "source": "structural-design-engineer-business-services",
+      "target": "senior-architect-business-services",
+      "weight": 0.71
+    },
+    {
+      "source": "digital-strategist-business-services",
+      "target": "senior-architect-business-services",
+      "weight": 0.75
+    },
+    {
+      "source": "digital-strategist-business-services",
+      "target": "freelance-designer",
+      "weight": 0.49
+    },
+    {
+      "source": "digital-media-planner-business-services",
+      "target": "art-director-business-services",
+      "weight": 0.49
+    },
+    {
+      "source": "senior-geotechnical-engineer-business-services",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.6
+    },
+    {
+      "source": "senior-geotechnical-engineer-business-services",
+      "target": "graphic-designer",
+      "weight": 0.49
+    },
+    {
+      "source": "civil-engineer-iii",
+      "target": "creative-director-business-services",
+      "weight": 0.89
+    },
+    {
+      "source": "highway-engineer-business-services",
+      "target": "senior-architect-business-services",
+      "weight": 0.48
+    },
+    {
+      "source": "environmental-consultant-business-services",
+      "target": "art-director-business-services",
+      "weight": 0.95
+    },
+    {
+      "source": "digital-marketing-executive",
+      "target": "art-director-business-services",
+      "weight": 0.54
+    },
+    {
+      "source": "desktop-publisher",
+      "target": "interior-designer",
+      "weight": 0.46
+    },
+    {
+      "source": "desktop-publisher",
+      "target": "designer",
+      "weight": 0.4
+    },
+    {
+      "source": "professional-engineer-business-services",
+      "target": "senior-architect-business-services",
+      "weight": 0.53
+    },
+    {
+      "source": "design-associate",
+      "target": "senior-designer",
+      "weight": 0.86
+    },
+    {
+      "source": "staffing-consultant",
+      "target": "designer",
+      "weight": 0.61
+    },
+    {
+      "source": "senior-structural-engineer-business-services",
+      "target": "freelance-designer",
+      "weight": 0.52
+    },
+    {
+      "source": "contract-recruiter",
+      "target": "art-director-business-services",
+      "weight": 0.46
+    },
+    {
+      "source": "contract-recruiter",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.95
+    },
+    {
+      "source": "online-marketing-assistant",
+      "target": "interior-designer",
+      "weight": 0.52
+    },
+    {
+      "source": "online-marketing-assistant",
+      "target": "senior-architect-business-services",
+      "weight": 0.43
+    },
+    {
+      "source": "land-planner",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.86
+    },
+    {
+      "source": "land-planner",
+      "target": "architect-business-services",
+      "weight": 0.78
+    },
+    {
+      "source": "menswear-designer-business-services",
+      "target": "senior-architect-business-services",
+      "weight": 0.78
+    },
+    {
+      "source": "menswear-designer-business-services",
+      "target": "designer",
+      "weight": 0.41
+    },
+    {
+      "source": "prepress-technician-business-services",
+      "target": "graphic-designer",
+      "weight": 0.95
+    },
+    {
+      "source": "senior-environmental-consultant-business-services",
+      "target": "senior-designer",
+      "weight": 0.69
+    },
+    {
+      "source": "recruiting-consultant",
+      "target": "creative-director-business-services",
+      "weight": 0.83
+    },
+    {
+      "source": "copy-supervisor-business-services",
+      "target": "assistant-account-executive-business-services",
+      "weight": 1
+    },
+    {
+      "source": "digital-marketing-specialist",
+      "target": "graphic-designer",
+      "weight": 0.57
+    },
+    {
+      "source": "digital-marketing-specialist",
+      "target": "freelance-designer",
+      "weight": 0.87
+    },
+    {
+      "source": "digital-planner-business-services",
+      "target": "interior-designer",
+      "weight": 0.67
+    },
+    {
+      "source": "digital-planner-business-services",
+      "target": "freelance-designer",
+      "weight": 0.71
+    },
+    {
+      "source": "creative-lead-business-services",
+      "target": "senior-designer",
+      "weight": 0.46
+    },
+    {
+      "source": "creative-lead-business-services",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.52
+    },
+    {
+      "source": "junior-architect-business-services",
+      "target": "architect-business-services",
+      "weight": 0.68
+    },
+    {
+      "source": "lead-recruiter",
+      "target": "art-director-business-services",
+      "weight": 0.82
+    },
+    {
+      "source": "lead-recruiter",
+      "target": "architect-business-services",
+      "weight": 0.56
+    },
+    {
+      "source": "account-recruiting-manager",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.68
+    },
+    {
+      "source": "junior-graphic-designer",
+      "target": "freelance-designer",
+      "weight": 0.74
+    },
+    {
+      "source": "junior-graphic-designer",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.83
+    },
+    {
+      "source": "talent-acquisition-consultant",
+      "target": "senior-designer",
+      "weight": 0.91
+    },
+    {
+      "source": "assistant-art-director-business-services",
+      "target": "designer",
+      "weight": 0.47
+    },
+    {
+      "source": "digital-project-manager-business-services",
+      "target": "art-director-business-services",
+      "weight": 0.82
+    },
+    {
+      "source": "digital-project-manager-business-services",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.7
+    },
+    {
+      "source": "middleweight-designer",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.52
+    },
+    {
+      "source": "talent-acquisition-specialist",
+      "target": "creative-director-business-services",
+      "weight": 0.71
+    },
+    {
+      "source": "executive-creative-director-business-services",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.46
+    },
+    {
+      "source": "campus-recruiter",
+      "target": "designer",
+      "weight": 0.86
+    },
+    {
+      "source": "campus-recruiter",
+      "target": "art-director-business-services",
+      "weight": 0.74
+    },
+    {
+      "source": "graphic-designer",
+      "target": "designer",
+      "weight": 0.94
+    },
+    {
+      "source": "graphic-designer",
+      "target": "interior-designer",
+      "weight": 0.91
+    },
+    {
+      "source": "graphic-designer",
+      "target": "creative-director-business-services",
+      "weight": 0.64
+    },
+    {
+      "source": "designer",
+      "target": "senior-designer",
+      "weight": 0.8
+    },
+    {
+      "source": "designer",
+      "target": "interior-designer",
+      "weight": 0.9
+    },
+    {
+      "source": "designer",
+      "target": "art-director-business-services",
+      "weight": 0.73
+    },
+    {
+      "source": "designer",
+      "target": "creative-director-business-services",
+      "weight": 0.65
+    },
+    {
+      "source": "designer",
+      "target": "freelance-designer",
+      "weight": 0.82
+    },
+    {
+      "source": "designer",
+      "target": "senior-architect-business-services",
+      "weight": 0.65
+    },
+    {
+      "source": "designer",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.94
+    },
+    {
+      "source": "senior-designer",
+      "target": "art-director-business-services",
+      "weight": 0.81
+    },
+    {
+      "source": "senior-designer",
+      "target": "creative-director-business-services",
+      "weight": 0.96
+    },
+    {
+      "source": "senior-designer",
+      "target": "architect-business-services",
+      "weight": 0.91
+    },
+    {
+      "source": "senior-designer",
+      "target": "freelance-designer",
+      "weight": 0.68
+    },
+    {
+      "source": "senior-designer",
+      "target": "senior-architect-business-services",
+      "weight": 0.91
+    },
+    {
+      "source": "senior-designer",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.68
+    },
+    {
+      "source": "interior-designer",
+      "target": "creative-director-business-services",
+      "weight": 0.83
+    },
+    {
+      "source": "interior-designer",
+      "target": "architect-business-services",
+      "weight": 0.95
+    },
+    {
+      "source": "interior-designer",
+      "target": "freelance-designer",
+      "weight": 0.9
+    },
+    {
+      "source": "interior-designer",
+      "target": "senior-architect-business-services",
+      "weight": 0.89
+    },
+    {
+      "source": "interior-designer",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.72
+    },
+    {
+      "source": "art-director-business-services",
+      "target": "architect-business-services",
+      "weight": 0.68
+    },
+    {
+      "source": "art-director-business-services",
+      "target": "freelance-designer",
+      "weight": 0.66
+    },
+    {
+      "source": "art-director-business-services",
+      "target": "senior-architect-business-services",
+      "weight": 0.73
+    },
+    {
+      "source": "art-director-business-services",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.75
+    },
+    {
+      "source": "creative-director-business-services",
+      "target": "architect-business-services",
+      "weight": 0.78
+    },
+    {
+      "source": "creative-director-business-services",
+      "target": "freelance-designer",
+      "weight": 0.76
+    },
+    {
+      "source": "creative-director-business-services",
+      "target": "senior-architect-business-services",
+      "weight": 0.99
+    },
+    {
+      "source": "creative-director-business-services",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.63
+    },
+    {
+      "source": "architect-business-services",
+      "target": "freelance-designer",
+      "weight": 0.74
+    },
+    {
+      "source": "architect-business-services",
+      "target": "senior-architect-business-services",
+      "weight": 0.85
+    },
+    {
+      "source": "architect-business-services",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.98
+    },
+    {
+      "source": "freelance-designer",
+      "target": "senior-architect-business-services",
+      "weight": 0.81
+    },
+    {
+      "source": "freelance-designer",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.96
+    },
+    {
+      "source": "senior-architect-business-services",
+      "target": "assistant-account-executive-business-services",
+      "weight": 0.62
+    },
+    {
+      "source": "designer",
+      "target": "architectural-technician-business-services",
+      "weight": 0.7
+    },
+    {
+      "source": "designer",
+      "target": "architectural-technologist-business-services",
+      "weight": 0.7
+    },
+    {
+      "source": "designer",
+      "target": "environmental-scientist-business-services",
+      "weight": 0.7
+    },
+    {
+      "source": "designer",
+      "target": "prepress-technician-business-services",
+      "weight": 0.7
+    },
+    {
+      "source": "architectural-technician-business-services",
+      "target": "architectural-technologist-business-services",
+      "weight": 0.7
+    },
+    {
+      "source": "architectural-technician-business-services",
+      "target": "environmental-scientist-business-services",
+      "weight": 0.7
+    },
+    {
+      "source": "architectural-technician-business-services",
+      "target": "prepress-technician-business-services",
+      "weight": 0.7
+    },
+    {
+      "source": "architectural-technologist-business-services",
+      "target": "environmental-scientist-business-services",
+      "weight": 0.7
+    },
+    {
+      "source": "architectural-technologist-business-services",
+      "target": "prepress-technician-business-services",
+      "weight": 0.7
+    },
+    {
+      "source": "environmental-scientist-business-services",
+      "target": "prepress-technician-business-services",
+      "weight": 0.7
+    },
+    {
+      "source": "copywriter-business-services",
+      "target": "senior-copywriter-business-services",
+      "weight": 0.7
+    },
+    {
+      "source": "creative-associate-director-business-services",
+      "target": "print-production-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "creative-associate-director-business-services",
+      "target": "associate-media-director-business-services",
+      "weight": 0.7
+    },
+    {
+      "source": "print-production-manager",
+      "target": "associate-media-director-business-services",
+      "weight": 0.7
+    },
+    {
+      "source": "media-supervisor-business-services",
+      "target": "strategy-supervisor",
+      "weight": 0.7
+    },
+    {
+      "source": "media-supervisor-business-services",
+      "target": "copy-supervisor-business-services",
+      "weight": 0.7
+    },
+    {
+      "source": "strategy-supervisor",
+      "target": "copy-supervisor-business-services",
+      "weight": 0.7
+    },
+    {
+      "source": "media-strategist-business-services",
+      "target": "digital-strategist-business-services",
+      "weight": 0.7
+    },
+    {
+      "source": "media-strategist-business-services",
+      "target": "digital-marketing-specialist",
+      "weight": 0.7
+    },
+    {
+      "source": "digital-strategist-business-services",
+      "target": "digital-marketing-specialist",
+      "weight": 0.7
+    },
+    {
+      "source": "communication-planning-manager",
+      "target": "creative-service-director-business-services",
+      "weight": 0.7
+    },
+    {
+      "source": "environmental-consultant-business-services",
+      "target": "senior-environmental-consultant-business-services",
+      "weight": 0.7
+    }
+  ]
+}

@@ -1,0 +1,2829 @@
+{
+  "sector": "Health Care",
+  "metadata": {
+    "nodeCount": 150,
+    "edgeCount": 265,
+    "generatedAt": "2026-01-31T16:46:30Z"
+  },
+  "nodes": [
+    {
+      "id": "registered-nurse",
+      "label": "Registered Nurse",
+      "soc": "29-1141",
+      "ptr": 0,
+      "nfc": 0.5539,
+      "quadrant": "LH",
+      "size": 22.5,
+      "aiExposure": 0.251
+    },
+    {
+      "id": "case-manager-health-care",
+      "label": "Case Manager",
+      "soc": "21-1022",
+      "ptr": 0.4219,
+      "nfc": 0.4889,
+      "quadrant": "LH",
+      "size": 11.45,
+      "aiExposure": 0.2662
+    },
+    {
+      "id": "medical-assistant",
+      "label": "Medical Assistant",
+      "soc": "25-1071",
+      "ptr": 0.7779,
+      "nfc": 0.8901,
+      "quadrant": "HH",
+      "size": 8.37,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "speech-language-pathologist-health-care",
+      "label": "Speech Language Pathologist",
+      "soc": "29-1222",
+      "ptr": 0.8723,
+      "nfc": 0.8839,
+      "quadrant": "HH",
+      "size": 7.84,
+      "aiExposure": 0.2966
+    },
+    {
+      "id": "pediatric-registered-nurse",
+      "label": "Pediatric Registered Nurse",
+      "soc": "29-1141",
+      "ptr": 0.5461,
+      "nfc": 0.5531,
+      "quadrant": "LH",
+      "size": 7.75,
+      "aiExposure": 0.251
+    },
+    {
+      "id": "certified-nursing-assistant",
+      "label": "Certified Nursing Assistant",
+      "soc": "29-9093",
+      "ptr": 0.0818,
+      "nfc": 0.0901,
+      "quadrant": "LH",
+      "size": 7.47,
+      "aiExposure": 0.0255
+    },
+    {
+      "id": "counselor-health-care",
+      "label": "Counselor",
+      "soc": "13-1075",
+      "ptr": 0.8935,
+      "nfc": 0.9536,
+      "quadrant": "HH",
+      "size": 7.26,
+      "aiExposure": 0.3072
+    },
+    {
+      "id": "personal-trainer-health-care",
+      "label": "Personal Trainer",
+      "soc": "13-1151",
+      "ptr": 0.9053,
+      "nfc": 0.966,
+      "quadrant": "HH",
+      "size": 6.99,
+      "aiExposure": 0.3972
+    },
+    {
+      "id": "therapist-health-care",
+      "label": "Therapist",
+      "soc": "31-2022",
+      "ptr": 0.2117,
+      "nfc": 0.224,
+      "quadrant": "LH",
+      "size": 6.91,
+      "aiExposure": 0.1097
+    },
+    {
+      "id": "social-worker-health-care",
+      "label": "Social Worker",
+      "soc": "21-1022",
+      "ptr": 0.4512,
+      "nfc": 0.4877,
+      "quadrant": "LH",
+      "size": 6.9,
+      "aiExposure": 0.2662
+    },
+    {
+      "id": "occupational-therapist",
+      "label": "Occupational Therapist",
+      "soc": "29-1125",
+      "ptr": 0.3676,
+      "nfc": 0.3867,
+      "quadrant": "LH",
+      "size": 6.74,
+      "aiExposure": 0.1917
+    },
+    {
+      "id": "medical-student",
+      "label": "Medical Student",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 6.66,
+      "aiExposure": 0
+    },
+    {
+      "id": "oncologist",
+      "label": "Oncologist",
+      "soc": "29-1299",
+      "ptr": 0.9182,
+      "nfc": 0.9168,
+      "quadrant": "HH",
+      "size": 6.59,
+      "aiExposure": 0.315
+    },
+    {
+      "id": "oncology-fellow",
+      "label": "Oncology Fellow",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 6.54,
+      "aiExposure": 0
+    },
+    {
+      "id": "physical-therapist",
+      "label": "Physical Therapist",
+      "soc": "31-2022",
+      "ptr": 0.2106,
+      "nfc": 0.2236,
+      "quadrant": "LH",
+      "size": 6.54,
+      "aiExposure": 0.1097
+    },
+    {
+      "id": "resident-physician",
+      "label": "Resident Physician",
+      "soc": "29-1242",
+      "ptr": 0.4156,
+      "nfc": 0.4533,
+      "quadrant": "LH",
+      "size": 6.39,
+      "aiExposure": 0.2089
+    },
+    {
+      "id": "mobile-therapist-health-care",
+      "label": "Mobile Therapist",
+      "soc": "29-1125",
+      "ptr": 0.3871,
+      "nfc": 0.386,
+      "quadrant": "LH",
+      "size": 6.38,
+      "aiExposure": 0.1917
+    },
+    {
+      "id": "clinical-research-coordinator-health-care",
+      "label": "Clinical Research Coordinator",
+      "soc": "11-9121",
+      "ptr": 0.9084,
+      "nfc": 0.9297,
+      "quadrant": "HH",
+      "size": 6.3,
+      "aiExposure": 0.3216
+    },
+    {
+      "id": "pediatric-resident",
+      "label": "Pediatric Resident",
+      "soc": "29-1229",
+      "ptr": 0.6947,
+      "nfc": 0.7197,
+      "quadrant": "LH",
+      "size": 6.23,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "clinical-fellow",
+      "label": "Clinical Fellow",
+      "soc": "29-1229",
+      "ptr": 0.7205,
+      "nfc": 0.7194,
+      "quadrant": "HH",
+      "size": 6.21,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "psychology-intern",
+      "label": "Psychology Intern",
+      "soc": "29-1229",
+      "ptr": 0.6841,
+      "nfc": 0.7192,
+      "quadrant": "LH",
+      "size": 6.17,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "emergency-medical-technician-health-care",
+      "label": "Emergency Medical Technician",
+      "soc": "17-3023",
+      "ptr": 0.6839,
+      "nfc": 0.6922,
+      "quadrant": "LH",
+      "size": 6.16,
+      "aiExposure": 0.3042
+    },
+    {
+      "id": "staff-nurse",
+      "label": "Staff Nurse",
+      "soc": "29-1141",
+      "ptr": 0.4138,
+      "nfc": 0.5499,
+      "quadrant": "LH",
+      "size": 6.04,
+      "aiExposure": 0.251
+    },
+    {
+      "id": "social-work-intern-health-care",
+      "label": "Social Work Intern",
+      "soc": "29-1229",
+      "ptr": 0.6475,
+      "nfc": 0.7185,
+      "quadrant": "LH",
+      "size": 6.01,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "physician-assistant",
+      "label": "Physician Assistant",
+      "soc": "29-1242",
+      "ptr": 0.4502,
+      "nfc": 0.452,
+      "quadrant": "LH",
+      "size": 5.91,
+      "aiExposure": 0.2089
+    },
+    {
+      "id": "pre-doctoral-intern",
+      "label": "Pre Doctoral Intern",
+      "soc": "29-1229",
+      "ptr": 0.7068,
+      "nfc": 0.718,
+      "quadrant": "HH",
+      "size": 5.86,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "clinical-coordinator",
+      "label": "Clinical Coordinator",
+      "soc": "11-9121",
+      "ptr": 0.9039,
+      "nfc": 0.927,
+      "quadrant": "HH",
+      "size": 5.79,
+      "aiExposure": 0.3216
+    },
+    {
+      "id": "senior-therapist",
+      "label": "Senior Therapist",
+      "soc": "29-1125",
+      "ptr": 0.3862,
+      "nfc": 0.3846,
+      "quadrant": "LH",
+      "size": 5.78,
+      "aiExposure": 0.1917
+    },
+    {
+      "id": "mental-health-counselor-health-care",
+      "label": "Mental Health Counselor",
+      "soc": "41-9099",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.75,
+      "aiExposure": 0
+    },
+    {
+      "id": "medical-social-work-intern-health-care",
+      "label": "Medical Social Work Intern",
+      "soc": "29-1229",
+      "ptr": 0.6999,
+      "nfc": 0.7171,
+      "quadrant": "HH",
+      "size": 5.71,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "mental-health-practitioner-health-care",
+      "label": "Mental Health Practitioner",
+      "soc": "21-1023",
+      "ptr": 0.3319,
+      "nfc": 0.3294,
+      "quadrant": "LH",
+      "size": 5.7,
+      "aiExposure": 0.2083
+    },
+    {
+      "id": "nurse-manager",
+      "label": "Nurse Manager",
+      "soc": "29-1141",
+      "ptr": 0.5395,
+      "nfc": 0.5483,
+      "quadrant": "LH",
+      "size": 5.7,
+      "aiExposure": 0.251
+    },
+    {
+      "id": "senior-house-officer",
+      "label": "Senior House Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.69,
+      "aiExposure": 0
+    },
+    {
+      "id": "phlebotomist",
+      "label": "Phlebotomist",
+      "soc": "31-9097",
+      "ptr": 0.2325,
+      "nfc": 0.2344,
+      "quadrant": "LH",
+      "size": 5.65,
+      "aiExposure": 0.1026
+    },
+    {
+      "id": "clinical-manager-health-care",
+      "label": "Clinical Manager",
+      "soc": "11-9179",
+      "ptr": 0.8427,
+      "nfc": 0.8515,
+      "quadrant": "HH",
+      "size": 5.62,
+      "aiExposure": 0.2992
+    },
+    {
+      "id": "health-educator",
+      "label": "Health Educator",
+      "soc": "25-2021",
+      "ptr": 0.3731,
+      "nfc": 0.3741,
+      "quadrant": "LH",
+      "size": 5.58,
+      "aiExposure": 0.2498
+    },
+    {
+      "id": "clinical-supervisor-health-care",
+      "label": "Clinical Supervisor",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.56,
+      "aiExposure": 0
+    },
+    {
+      "id": "veterinary-technician",
+      "label": "Veterinary Technician",
+      "soc": "29-2056",
+      "ptr": 0.2047,
+      "nfc": 0.2071,
+      "quadrant": "LH",
+      "size": 5.55,
+      "aiExposure": 0.1171
+    },
+    {
+      "id": "internal-medicine-resident",
+      "label": "Internal Medicine Resident",
+      "soc": "29-1229",
+      "ptr": 0.6805,
+      "nfc": 0.715,
+      "quadrant": "LH",
+      "size": 5.53,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "operating-room-nurse",
+      "label": "Operating Room Nurse",
+      "soc": "29-1141",
+      "ptr": 0.5487,
+      "nfc": 0.5469,
+      "quadrant": "LH",
+      "size": 5.51,
+      "aiExposure": 0.251
+    },
+    {
+      "id": "emergency-room-registered-nurse",
+      "label": "Emergency Room Registered Nurse",
+      "soc": "29-1141",
+      "ptr": 0.5435,
+      "nfc": 0.5467,
+      "quadrant": "LH",
+      "size": 5.5,
+      "aiExposure": 0.251
+    },
+    {
+      "id": "dietetic-intern",
+      "label": "Dietetic Intern",
+      "soc": "29-1229",
+      "ptr": 0.6999,
+      "nfc": 0.7143,
+      "quadrant": "HH",
+      "size": 5.48,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "counseling-intern-health-care",
+      "label": "Counseling Intern",
+      "soc": "29-1229",
+      "ptr": 0.6841,
+      "nfc": 0.714,
+      "quadrant": "LH",
+      "size": 5.47,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "resident",
+      "label": "Resident",
+      "soc": "39-9041",
+      "ptr": 0.2845,
+      "nfc": 0.2923,
+      "quadrant": "LH",
+      "size": 5.45,
+      "aiExposure": 0.1921
+    },
+    {
+      "id": "home-care-nurse",
+      "label": "Home Care Nurse",
+      "soc": "29-1141",
+      "ptr": 0.5526,
+      "nfc": 0.5459,
+      "quadrant": "LH",
+      "size": 5.45,
+      "aiExposure": 0.251
+    },
+    {
+      "id": "clinician-health-care",
+      "label": "Clinician",
+      "soc": "21-1023",
+      "ptr": 0.3248,
+      "nfc": 0.3278,
+      "quadrant": "LH",
+      "size": 5.44,
+      "aiExposure": 0.2083
+    },
+    {
+      "id": "hospitalist",
+      "label": "Hospitalist",
+      "soc": "29-1221",
+      "ptr": 0.9024,
+      "nfc": 0.8952,
+      "quadrant": "HH",
+      "size": 5.43,
+      "aiExposure": 0.3141
+    },
+    {
+      "id": "care-manager",
+      "label": "Care Manager",
+      "soc": "11-9111",
+      "ptr": 0.8073,
+      "nfc": 0.8102,
+      "quadrant": "HH",
+      "size": 5.43,
+      "aiExposure": 0.2959
+    },
+    {
+      "id": "clinical-pharmacist-health-care",
+      "label": "Clinical Pharmacist",
+      "soc": "29-1051",
+      "ptr": 0.7975,
+      "nfc": 0.81,
+      "quadrant": "HH",
+      "size": 5.4,
+      "aiExposure": 0.3534
+    },
+    {
+      "id": "dentist",
+      "label": "Dentist",
+      "soc": "29-1021",
+      "ptr": 0.3015,
+      "nfc": 0.3023,
+      "quadrant": "LH",
+      "size": 5.38,
+      "aiExposure": 0.1478
+    },
+    {
+      "id": "charge-nurse",
+      "label": "Charge Nurse",
+      "soc": "29-1141",
+      "ptr": 0.4997,
+      "nfc": 0.5449,
+      "quadrant": "LH",
+      "size": 5.38,
+      "aiExposure": 0.251
+    },
+    {
+      "id": "pharmacy-resident-health-care",
+      "label": "Pharmacy Resident",
+      "soc": "29-1229",
+      "ptr": 0.6787,
+      "nfc": 0.7119,
+      "quadrant": "LH",
+      "size": 5.37,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "care-coordinator",
+      "label": "Care Coordinator",
+      "soc": "21-2011",
+      "ptr": 0.4491,
+      "nfc": 0.4478,
+      "quadrant": "LH",
+      "size": 5.37,
+      "aiExposure": 0.3067
+    },
+    {
+      "id": "general-surgery-resident",
+      "label": "General Surgery Resident",
+      "soc": "29-1229",
+      "ptr": 0.7034,
+      "nfc": 0.7114,
+      "quadrant": "HH",
+      "size": 5.37,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "student-nurse",
+      "label": "Student Nurse",
+      "soc": "29-1141",
+      "ptr": 0.5342,
+      "nfc": 0.5441,
+      "quadrant": "LH",
+      "size": 5.36,
+      "aiExposure": 0.251
+    },
+    {
+      "id": "medical-technologist-health-care",
+      "label": "Medical Technologist",
+      "soc": "17-3023",
+      "ptr": 0.6722,
+      "nfc": 0.6845,
+      "quadrant": "LH",
+      "size": 5.36,
+      "aiExposure": 0.3042
+    },
+    {
+      "id": "physical-therapist-assistant",
+      "label": "Physical Therapist Assistant",
+      "soc": "29-1125",
+      "ptr": 0.3853,
+      "nfc": 0.3809,
+      "quadrant": "LH",
+      "size": 5.36,
+      "aiExposure": 0.1917
+    },
+    {
+      "id": "athletic-trainer-health-care",
+      "label": "Athletic Trainer",
+      "soc": "13-1151",
+      "ptr": 0.9523,
+      "nfc": 0.9502,
+      "quadrant": "HH",
+      "size": 5.35,
+      "aiExposure": 0.3972
+    },
+    {
+      "id": "clinical-psychologist",
+      "label": "Clinical Psychologist",
+      "soc": "19-3034",
+      "ptr": 0.6608,
+      "nfc": 0.6575,
+      "quadrant": "LH",
+      "size": 5.33,
+      "aiExposure": 0.3073
+    },
+    {
+      "id": "assistant-athletic-trainer-health-care",
+      "label": "Assistant Athletic Trainer",
+      "soc": "13-1151",
+      "ptr": 0.9477,
+      "nfc": 0.9496,
+      "quadrant": "HH",
+      "size": 5.33,
+      "aiExposure": 0.3972
+    },
+    {
+      "id": "clinical-assistant",
+      "label": "Clinical Assistant",
+      "soc": "25-1071",
+      "ptr": 0.8803,
+      "nfc": 0.8733,
+      "quadrant": "HH",
+      "size": 5.33,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "psychotherapist-health-care",
+      "label": "Psychotherapist",
+      "soc": "19-3099",
+      "ptr": 0.9257,
+      "nfc": 0.9137,
+      "quadrant": "HH",
+      "size": 5.32,
+      "aiExposure": 0.4263
+    },
+    {
+      "id": "clinical-specialist-health-care",
+      "label": "Clinical Specialist",
+      "soc": "29-1141",
+      "ptr": 0.5408,
+      "nfc": 0.5427,
+      "quadrant": "LH",
+      "size": 5.32,
+      "aiExposure": 0.251
+    },
+    {
+      "id": "clinical-nurse",
+      "label": "Clinical Nurse",
+      "soc": "29-1141",
+      "ptr": 0.5382,
+      "nfc": 0.5425,
+      "quadrant": "LH",
+      "size": 5.29,
+      "aiExposure": 0.251
+    },
+    {
+      "id": "cardiology-fellow",
+      "label": "Cardiology Fellow",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.29,
+      "aiExposure": 0
+    },
+    {
+      "id": "healthcare-assistant",
+      "label": "Healthcare Assistant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.28,
+      "aiExposure": 0
+    },
+    {
+      "id": "exercise-physiologist",
+      "label": "Exercise Physiologist",
+      "soc": "19-1029",
+      "ptr": 0.9512,
+      "nfc": 0.9441,
+      "quadrant": "HH",
+      "size": 5.27,
+      "aiExposure": 0.3948
+    },
+    {
+      "id": "activities-director",
+      "label": "Activities Director",
+      "soc": "11-9151",
+      "ptr": 0.678,
+      "nfc": 0.6679,
+      "quadrant": "LH",
+      "size": 5.26,
+      "aiExposure": 0.2743
+    },
+    {
+      "id": "clinical-instructor-health-care",
+      "label": "Clinical Instructor",
+      "soc": "25-1071",
+      "ptr": 0.8824,
+      "nfc": 0.871,
+      "quadrant": "HH",
+      "size": 5.26,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "patient-care-technician",
+      "label": "Patient Care Technician",
+      "soc": "17-3023",
+      "ptr": 0.6756,
+      "nfc": 0.6813,
+      "quadrant": "LH",
+      "size": 5.25,
+      "aiExposure": 0.3042
+    },
+    {
+      "id": "physician",
+      "label": "Physician",
+      "soc": "29-1222",
+      "ptr": 0.8744,
+      "nfc": 0.8645,
+      "quadrant": "HH",
+      "size": 5.25,
+      "aiExposure": 0.2966
+    },
+    {
+      "id": "family-therapist-trainee-health-care",
+      "label": "Family Therapist Trainee",
+      "soc": "29-1125",
+      "ptr": 0.377,
+      "nfc": 0.379,
+      "quadrant": "LH",
+      "size": 5.24,
+      "aiExposure": 0.1917
+    },
+    {
+      "id": "veterinary-assistant",
+      "label": "Veterinary Assistant",
+      "soc": "29-2056",
+      "ptr": 0.2072,
+      "nfc": 0.2047,
+      "quadrant": "LH",
+      "size": 5.24,
+      "aiExposure": 0.1171
+    },
+    {
+      "id": "physiotherapist",
+      "label": "Physiotherapist",
+      "soc": "29-1123",
+      "ptr": 0.2369,
+      "nfc": 0.2363,
+      "quadrant": "LH",
+      "size": 5.24,
+      "aiExposure": 0.1819
+    },
+    {
+      "id": "psychologist-health-care",
+      "label": "Psychologist",
+      "soc": "19-3034",
+      "ptr": 0.6639,
+      "nfc": 0.654,
+      "quadrant": "LH",
+      "size": 5.24,
+      "aiExposure": 0.3073
+    },
+    {
+      "id": "medical-doctor",
+      "label": "Medical Doctor",
+      "soc": "29-1242",
+      "ptr": 0.4502,
+      "nfc": 0.4444,
+      "quadrant": "LH",
+      "size": 5.23,
+      "aiExposure": 0.2089
+    },
+    {
+      "id": "chief-nursing-officer",
+      "label": "Chief Nursing Officer",
+      "soc": "11-1011",
+      "ptr": 0.9257,
+      "nfc": 0.907,
+      "quadrant": "HH",
+      "size": 5.22,
+      "aiExposure": 0.3316
+    },
+    {
+      "id": "internal-medicine-intern",
+      "label": "Internal Medicine Intern",
+      "soc": "29-1229",
+      "ptr": 0.7103,
+      "nfc": 0.7057,
+      "quadrant": "HH",
+      "size": 5.22,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "paramedic-health-care",
+      "label": "Paramedic",
+      "soc": "29-2043",
+      "ptr": 0.1885,
+      "nfc": 0.1885,
+      "quadrant": "LH",
+      "size": 5.22,
+      "aiExposure": 0.1154
+    },
+    {
+      "id": "practice-manager",
+      "label": "Practice Manager",
+      "soc": "11-9111",
+      "ptr": 0.817,
+      "nfc": 0.8016,
+      "quadrant": "HH",
+      "size": 5.21,
+      "aiExposure": 0.2959
+    },
+    {
+      "id": "medical-receptionist",
+      "label": "Medical Receptionist",
+      "soc": "43-6013",
+      "ptr": 0.9774,
+      "nfc": 0.9631,
+      "quadrant": "HH",
+      "size": 5.2,
+      "aiExposure": 0.4243
+    },
+    {
+      "id": "chief-resident",
+      "label": "Chief Resident",
+      "soc": "29-1229",
+      "ptr": 0.6964,
+      "nfc": 0.7047,
+      "quadrant": "HH",
+      "size": 5.18,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "dental-assistant",
+      "label": "Dental Assistant",
+      "soc": "25-1071",
+      "ptr": 0.8612,
+      "nfc": 0.8668,
+      "quadrant": "HH",
+      "size": 5.18,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "support-worker-health-care",
+      "label": "Support Worker",
+      "soc": "21-1022",
+      "ptr": 0.4764,
+      "nfc": 0.4758,
+      "quadrant": "LH",
+      "size": 5.18,
+      "aiExposure": 0.2662
+    },
+    {
+      "id": "counselor-intern-health-care",
+      "label": "Counselor Intern",
+      "soc": "41-9099",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.18,
+      "aiExposure": 0
+    },
+    {
+      "id": "radiation-therapist",
+      "label": "Radiation Therapist",
+      "soc": "29-1125",
+      "ptr": 0.3834,
+      "nfc": 0.3772,
+      "quadrant": "LH",
+      "size": 5.16,
+      "aiExposure": 0.1917
+    },
+    {
+      "id": "intensive-care-nurse",
+      "label": "Intensive Care Nurse",
+      "soc": "29-1141",
+      "ptr": 0.5368,
+      "nfc": 0.5383,
+      "quadrant": "LH",
+      "size": 5.15,
+      "aiExposure": 0.251
+    },
+    {
+      "id": "licensed-practical-nurse",
+      "label": "Licensed Practical Nurse",
+      "soc": "29-1141",
+      "ptr": 0.5248,
+      "nfc": 0.5381,
+      "quadrant": "LH",
+      "size": 5.15,
+      "aiExposure": 0.251
+    },
+    {
+      "id": "therapy-extern",
+      "label": "Therapy Extern",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.15,
+      "aiExposure": 0
+    },
+    {
+      "id": "nurse-practitioner",
+      "label": "Nurse Practitioner",
+      "soc": "29-1141",
+      "ptr": 0.5487,
+      "nfc": 0.5377,
+      "quadrant": "LH",
+      "size": 5.15,
+      "aiExposure": 0.251
+    },
+    {
+      "id": "obstetrician",
+      "label": "Obstetrician",
+      "soc": "29-1218",
+      "ptr": 0.678,
+      "nfc": 0.6627,
+      "quadrant": "LH",
+      "size": 5.15,
+      "aiExposure": 0.2745
+    },
+    {
+      "id": "behavior-therapist-health-care",
+      "label": "Behavior Therapist",
+      "soc": "29-1125",
+      "ptr": 0.3798,
+      "nfc": 0.3764,
+      "quadrant": "LH",
+      "size": 5.14,
+      "aiExposure": 0.1917
+    },
+    {
+      "id": "athletic-training-student-health-care",
+      "label": "Athletic Training Student",
+      "soc": "55-1019",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.14,
+      "aiExposure": 0
+    },
+    {
+      "id": "family-therapist-health-care",
+      "label": "Family Therapist",
+      "soc": "29-1125",
+      "ptr": 0.3761,
+      "nfc": 0.3762,
+      "quadrant": "LH",
+      "size": 5.13,
+      "aiExposure": 0.1917
+    },
+    {
+      "id": "medical-director-health-care",
+      "label": "Medical Director",
+      "soc": "29-1229",
+      "ptr": 0.7205,
+      "nfc": 0.7016,
+      "quadrant": "HH",
+      "size": 5.13,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "chiropractic-assistant",
+      "label": "Chiropractic Assistant",
+      "soc": "31-9092",
+      "ptr": 0.5226,
+      "nfc": 0.5148,
+      "quadrant": "LH",
+      "size": 5.13,
+      "aiExposure": 0.2142
+    },
+    {
+      "id": "medical-scribe",
+      "label": "Medical Scribe",
+      "soc": "31-9094",
+      "ptr": 0.9945,
+      "nfc": 0.9678,
+      "quadrant": "HH",
+      "size": 5.13,
+      "aiExposure": 0.4797
+    },
+    {
+      "id": "music-therapist-health-care",
+      "label": "Music Therapist",
+      "soc": "29-1125",
+      "ptr": 0.3871,
+      "nfc": 0.3757,
+      "quadrant": "LH",
+      "size": 5.13,
+      "aiExposure": 0.1917
+    },
+    {
+      "id": "nursing-director",
+      "label": "Nursing Director",
+      "soc": "11-9111",
+      "ptr": 0.8189,
+      "nfc": 0.7964,
+      "quadrant": "HH",
+      "size": 5.12,
+      "aiExposure": 0.2959
+    },
+    {
+      "id": "epic-credentialed-trainer",
+      "label": "Epic Credentialed Trainer",
+      "soc": "13-1151",
+      "ptr": 0.9637,
+      "nfc": 0.9365,
+      "quadrant": "HH",
+      "size": 5.12,
+      "aiExposure": 0.3972
+    },
+    {
+      "id": "quality-improvement-coordinator",
+      "label": "Quality Improvement Coordinator",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.12,
+      "aiExposure": 0
+    },
+    {
+      "id": "conditioning-coach-health-care",
+      "label": "Conditioning Coach",
+      "soc": "27-2022",
+      "ptr": 0.3574,
+      "nfc": 0.3489,
+      "quadrant": "LH",
+      "size": 5.12,
+      "aiExposure": 0.2347
+    },
+    {
+      "id": "pharmacy-intern-health-care",
+      "label": "Pharmacy Intern",
+      "soc": "29-1229",
+      "ptr": 0.7051,
+      "nfc": 0.6997,
+      "quadrant": "HH",
+      "size": 5.11,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "nurse-consultant",
+      "label": "Nurse Consultant",
+      "soc": "29-1141",
+      "ptr": 0.5526,
+      "nfc": 0.5352,
+      "quadrant": "LH",
+      "size": 5.11,
+      "aiExposure": 0.251
+    },
+    {
+      "id": "clinical-associate",
+      "label": "Clinical Associate",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.11,
+      "aiExposure": 0
+    },
+    {
+      "id": "graduate-student-intern-health-care",
+      "label": "Graduate Student Intern",
+      "soc": "29-1229",
+      "ptr": 0.7188,
+      "nfc": 0.699,
+      "quadrant": "HH",
+      "size": 5.11,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "facility-administrator",
+      "label": "Facility Administrator",
+      "soc": "11-9111",
+      "ptr": 0.8209,
+      "nfc": 0.7942,
+      "quadrant": "HH",
+      "size": 5.11,
+      "aiExposure": 0.2959
+    },
+    {
+      "id": "clinical-director",
+      "label": "Clinical Director",
+      "soc": "11-9111",
+      "ptr": 0.8209,
+      "nfc": 0.7939,
+      "quadrant": "HH",
+      "size": 5.11,
+      "aiExposure": 0.2959
+    },
+    {
+      "id": "clinical-program-manager-health-care",
+      "label": "Clinical Program Manager",
+      "soc": "11-9199",
+      "ptr": 0.9155,
+      "nfc": 0.8852,
+      "quadrant": "HH",
+      "size": 5.1,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "patient-care-coordinator",
+      "label": "Patient Care Coordinator",
+      "soc": "11-9111",
+      "ptr": 0.817,
+      "nfc": 0.7934,
+      "quadrant": "HH",
+      "size": 5.1,
+      "aiExposure": 0.2959
+    },
+    {
+      "id": "radiology-resident",
+      "label": "Radiology Resident",
+      "soc": "29-1229",
+      "ptr": 0.7137,
+      "nfc": 0.6978,
+      "quadrant": "HH",
+      "size": 5.1,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "art-therapist-health-care",
+      "label": "Art Therapist",
+      "soc": "29-1125",
+      "ptr": 0.3862,
+      "nfc": 0.3738,
+      "quadrant": "LH",
+      "size": 5.09,
+      "aiExposure": 0.1917
+    },
+    {
+      "id": "anesthesiology-resident",
+      "label": "Anesthesiology Resident",
+      "soc": "29-1229",
+      "ptr": 0.7137,
+      "nfc": 0.6973,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "surgery-resident",
+      "label": "Surgery Resident",
+      "soc": "29-1229",
+      "ptr": 0.7103,
+      "nfc": 0.697,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "graduate-clinician-health-care",
+      "label": "Graduate Clinician",
+      "soc": "21-1011",
+      "ptr": 0.2623,
+      "nfc": 0.2605,
+      "quadrant": "LH",
+      "size": 5.09,
+      "aiExposure": 0.1
+    },
+    {
+      "id": "medical-coder",
+      "label": "Medical Coder",
+      "soc": "29-2072",
+      "ptr": 0.9734,
+      "nfc": 0.9433,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.441
+    },
+    {
+      "id": "school-psychologist-health-care",
+      "label": "School Psychologist",
+      "soc": "19-3034",
+      "ptr": 0.6671,
+      "nfc": 0.6447,
+      "quadrant": "LH",
+      "size": 5.09,
+      "aiExposure": 0.3073
+    },
+    {
+      "id": "medical-laboratory-technician-health-care",
+      "label": "Medical Laboratory Technician",
+      "soc": "51-9081",
+      "ptr": 0.1229,
+      "nfc": 0.1196,
+      "quadrant": "LH",
+      "size": 5.09,
+      "aiExposure": 0.0409
+    },
+    {
+      "id": "clinical-intern",
+      "label": "Clinical Intern",
+      "soc": "29-1229",
+      "ptr": 0.7017,
+      "nfc": 0.6958,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "research-nurse-health-care",
+      "label": "Research Nurse",
+      "soc": "29-1141",
+      "ptr": 0.55,
+      "nfc": 0.5322,
+      "quadrant": "LH",
+      "size": 5.09,
+      "aiExposure": 0.251
+    },
+    {
+      "id": "staff-psychologist",
+      "label": "Staff Psychologist",
+      "soc": "19-3034",
+      "ptr": 0.6639,
+      "nfc": 0.6438,
+      "quadrant": "LH",
+      "size": 5.09,
+      "aiExposure": 0.3073
+    },
+    {
+      "id": "assistant-psychologist",
+      "label": "Assistant Psychologist",
+      "soc": "19-3034",
+      "ptr": 0.6608,
+      "nfc": 0.6435,
+      "quadrant": "LH",
+      "size": 5.09,
+      "aiExposure": 0.3073
+    },
+    {
+      "id": "registered-dietitian",
+      "label": "Registered Dietitian",
+      "soc": "29-1031",
+      "ptr": 0.9334,
+      "nfc": 0.9176,
+      "quadrant": "HH",
+      "size": 5.08,
+      "aiExposure": 0.385
+    },
+    {
+      "id": "ophthalmology-resident",
+      "label": "Ophthalmology Resident",
+      "soc": "29-1229",
+      "ptr": 0.7171,
+      "nfc": 0.6946,
+      "quadrant": "HH",
+      "size": 5.08,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "certified-medical-assistant",
+      "label": "Certified Medical Assistant",
+      "soc": "31-9092",
+      "ptr": 0.5251,
+      "nfc": 0.5097,
+      "quadrant": "LH",
+      "size": 5.08,
+      "aiExposure": 0.2142
+    },
+    {
+      "id": "mental-health-therapist-health-care",
+      "label": "Mental Health Therapist",
+      "soc": "29-1125",
+      "ptr": 0.3834,
+      "nfc": 0.372,
+      "quadrant": "LH",
+      "size": 5.08,
+      "aiExposure": 0.1917
+    },
+    {
+      "id": "certified-surgical-technologist",
+      "label": "Certified Surgical Technologist",
+      "soc": "29-2055",
+      "ptr": 0.1325,
+      "nfc": 0.1282,
+      "quadrant": "LH",
+      "size": 5.08,
+      "aiExposure": 0.048
+    },
+    {
+      "id": "clinical-social-worker-health-care",
+      "label": "Clinical Social Worker",
+      "soc": "21-1022",
+      "ptr": 0.4834,
+      "nfc": 0.4687,
+      "quadrant": "LH",
+      "size": 5.08,
+      "aiExposure": 0.2662
+    },
+    {
+      "id": "clinical-nurse-iii",
+      "label": "Clinical Nurse III",
+      "soc": "29-1141",
+      "ptr": 0.5526,
+      "nfc": 0.5305,
+      "quadrant": "LH",
+      "size": 5.07,
+      "aiExposure": 0.251
+    },
+    {
+      "id": "radiologic-technologist",
+      "label": "Radiologic Technologist",
+      "soc": "29-2031",
+      "ptr": 0.4907,
+      "nfc": 0.4947,
+      "quadrant": "LH",
+      "size": 5.07,
+      "aiExposure": 0.2231
+    },
+    {
+      "id": "outpatient-therapist-health-care",
+      "label": "Outpatient Therapist",
+      "soc": "29-1125",
+      "ptr": 0.3853,
+      "nfc": 0.3714,
+      "quadrant": "LH",
+      "size": 5.07,
+      "aiExposure": 0.1917
+    },
+    {
+      "id": "nephrology-fellow",
+      "label": "Nephrology Fellow",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.07,
+      "aiExposure": 0
+    },
+    {
+      "id": "mental-health-specialist-health-care",
+      "label": "Mental Health Specialist",
+      "soc": "45-2011",
+      "ptr": 0.3572,
+      "nfc": 0.344,
+      "quadrant": "LH",
+      "size": 5.07,
+      "aiExposure": 0.1905
+    },
+    {
+      "id": "clinical-assistant-professor",
+      "label": "Clinical Assistant Professor",
+      "soc": "25-1071",
+      "ptr": 0.8886,
+      "nfc": 0.8517,
+      "quadrant": "HH",
+      "size": 5.07,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "nutritionist",
+      "label": "Nutritionist",
+      "soc": "29-1031",
+      "ptr": 0.947,
+      "nfc": 0.9137,
+      "quadrant": "HH",
+      "size": 5.07,
+      "aiExposure": 0.385
+    },
+    {
+      "id": "admissions-director-health-care",
+      "label": "Admissions Director",
+      "soc": "11-9032",
+      "ptr": 0.809,
+      "nfc": 0.7767,
+      "quadrant": "HH",
+      "size": 5.07,
+      "aiExposure": 0.2768
+    },
+    {
+      "id": "clinical-dietitian",
+      "label": "Clinical Dietitian",
+      "soc": "29-1031",
+      "ptr": 0.9104,
+      "nfc": 0.9131,
+      "quadrant": "HH",
+      "size": 5.07,
+      "aiExposure": 0.385
+    },
+    {
+      "id": "general-dentist",
+      "label": "General Dentist",
+      "soc": "29-1021",
+      "ptr": 0.3058,
+      "nfc": 0.2933,
+      "quadrant": "LH",
+      "size": 5.07,
+      "aiExposure": 0.1478
+    },
+    {
+      "id": "ophthalmic-technician",
+      "label": "Ophthalmic Technician",
+      "soc": "51-9083",
+      "ptr": 0.142,
+      "nfc": 0.1361,
+      "quadrant": "LH",
+      "size": 5.07,
+      "aiExposure": 0.0779
+    },
+    {
+      "id": "mental-health-technician",
+      "label": "Mental Health Technician",
+      "soc": "17-3023",
+      "ptr": 0.6905,
+      "nfc": 0.665,
+      "quadrant": "LH",
+      "size": 5.07,
+      "aiExposure": 0.3042
+    },
+    {
+      "id": "music-therapy-intern-health-care",
+      "label": "Music Therapy Intern",
+      "soc": "29-1229",
+      "ptr": 0.7222,
+      "nfc": 0.6905,
+      "quadrant": "HH",
+      "size": 5.06,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "recreation-therapist-health-care",
+      "label": "Recreation Therapist",
+      "soc": "29-1125",
+      "ptr": 0.3862,
+      "nfc": 0.3699,
+      "quadrant": "LH",
+      "size": 5.06,
+      "aiExposure": 0.1917
+    },
+    {
+      "id": "certified-registered-nurse-anesthetist",
+      "label": "Certified Registered Nurse, Anesthetist",
+      "soc": "29-1211",
+      "ptr": 0.3065,
+      "nfc": 0.2928,
+      "quadrant": "LH",
+      "size": 5.06,
+      "aiExposure": 0.1432
+    },
+    {
+      "id": "patient-coordinator",
+      "label": "Patient Coordinator",
+      "soc": "29-2099",
+      "ptr": 0.7155,
+      "nfc": 0.6849,
+      "quadrant": "HH",
+      "size": 5.06,
+      "aiExposure": 0.254
+    },
+    {
+      "id": "application-coordinator",
+      "label": "Application Coordinator",
+      "soc": "15-2051",
+      "ptr": 0.9887,
+      "nfc": 0.9409,
+      "quadrant": "HH",
+      "size": 5.06,
+      "aiExposure": 0.526
+    },
+    {
+      "id": "nursing-assistant-professor",
+      "label": "Nursing Assistant Professor",
+      "soc": "25-1071",
+      "ptr": 0.8886,
+      "nfc": 0.8456,
+      "quadrant": "HH",
+      "size": 5.06,
+      "aiExposure": 0.3949
+    },
+    {
+      "id": "nurse-recruiter",
+      "label": "Nurse Recruiter",
+      "soc": "29-1141",
+      "ptr": 0.5526,
+      "nfc": 0.5258,
+      "quadrant": "LH",
+      "size": 5.06,
+      "aiExposure": 0.251
+    },
+    {
+      "id": "practice-nurse",
+      "label": "Practice Nurse",
+      "soc": "29-1141",
+      "ptr": 0.5513,
+      "nfc": 0.5258,
+      "quadrant": "LH",
+      "size": 5.06,
+      "aiExposure": 0.251
+    },
+    {
+      "id": "public-health-nurse",
+      "label": "Public Health Nurse",
+      "soc": "29-1141",
+      "ptr": 0.5487,
+      "nfc": 0.5258,
+      "quadrant": "LH",
+      "size": 5.06,
+      "aiExposure": 0.251
+    },
+    {
+      "id": "clinical-systems-analyst",
+      "label": "Clinical Systems Analyst",
+      "soc": "17-3027",
+      "ptr": 0.5489,
+      "nfc": 0.5223,
+      "quadrant": "LH",
+      "size": 5.06,
+      "aiExposure": 0.3019
+    }
+  ],
+  "edges": [
+    {
+      "source": "occupational-therapist",
+      "target": "pediatric-registered-nurse",
+      "weight": 0.57
+    },
+    {
+      "source": "medical-student",
+      "target": "social-worker-health-care",
+      "weight": 0.71
+    },
+    {
+      "source": "oncologist",
+      "target": "social-worker-health-care",
+      "weight": 0.82
+    },
+    {
+      "source": "oncologist",
+      "target": "registered-nurse",
+      "weight": 0.67
+    },
+    {
+      "source": "oncology-fellow",
+      "target": "counselor-health-care",
+      "weight": 0.68
+    },
+    {
+      "source": "oncology-fellow",
+      "target": "speech-language-pathologist-health-care",
+      "weight": 0.96
+    },
+    {
+      "source": "physical-therapist",
+      "target": "speech-language-pathologist-health-care",
+      "weight": 0.94
+    },
+    {
+      "source": "physical-therapist",
+      "target": "case-manager-health-care",
+      "weight": 0.48
+    },
+    {
+      "source": "resident-physician",
+      "target": "therapist-health-care",
+      "weight": 0.45
+    },
+    {
+      "source": "mobile-therapist-health-care",
+      "target": "pediatric-registered-nurse",
+      "weight": 0.84
+    },
+    {
+      "source": "mobile-therapist-health-care",
+      "target": "social-worker-health-care",
+      "weight": 0.89
+    },
+    {
+      "source": "clinical-research-coordinator-health-care",
+      "target": "personal-trainer-health-care",
+      "weight": 0.9
+    },
+    {
+      "source": "clinical-research-coordinator-health-care",
+      "target": "medical-assistant",
+      "weight": 0.4
+    },
+    {
+      "source": "pediatric-resident",
+      "target": "personal-trainer-health-care",
+      "weight": 0.98
+    },
+    {
+      "source": "pediatric-resident",
+      "target": "certified-nursing-assistant",
+      "weight": 0.66
+    },
+    {
+      "source": "clinical-fellow",
+      "target": "speech-language-pathologist-health-care",
+      "weight": 0.98
+    },
+    {
+      "source": "clinical-fellow",
+      "target": "certified-nursing-assistant",
+      "weight": 0.77
+    },
+    {
+      "source": "psychology-intern",
+      "target": "pediatric-registered-nurse",
+      "weight": 0.87
+    },
+    {
+      "source": "psychology-intern",
+      "target": "speech-language-pathologist-health-care",
+      "weight": 0.42
+    },
+    {
+      "source": "emergency-medical-technician-health-care",
+      "target": "medical-assistant",
+      "weight": 0.56
+    },
+    {
+      "source": "emergency-medical-technician-health-care",
+      "target": "personal-trainer-health-care",
+      "weight": 0.71
+    },
+    {
+      "source": "staff-nurse",
+      "target": "social-worker-health-care",
+      "weight": 0.86
+    },
+    {
+      "source": "social-work-intern-health-care",
+      "target": "certified-nursing-assistant",
+      "weight": 0.56
+    },
+    {
+      "source": "social-work-intern-health-care",
+      "target": "case-manager-health-care",
+      "weight": 0.9
+    },
+    {
+      "source": "physician-assistant",
+      "target": "pediatric-registered-nurse",
+      "weight": 0.48
+    },
+    {
+      "source": "physician-assistant",
+      "target": "case-manager-health-care",
+      "weight": 0.53
+    },
+    {
+      "source": "pre-doctoral-intern",
+      "target": "social-worker-health-care",
+      "weight": 0.4
+    },
+    {
+      "source": "pre-doctoral-intern",
+      "target": "personal-trainer-health-care",
+      "weight": 0.63
+    },
+    {
+      "source": "clinical-coordinator",
+      "target": "counselor-health-care",
+      "weight": 0.75
+    },
+    {
+      "source": "senior-therapist",
+      "target": "social-worker-health-care",
+      "weight": 0.79
+    },
+    {
+      "source": "mental-health-counselor-health-care",
+      "target": "speech-language-pathologist-health-care",
+      "weight": 0.45
+    },
+    {
+      "source": "medical-social-work-intern-health-care",
+      "target": "medical-assistant",
+      "weight": 0.8
+    },
+    {
+      "source": "mental-health-practitioner-health-care",
+      "target": "pediatric-registered-nurse",
+      "weight": 0.84
+    },
+    {
+      "source": "mental-health-practitioner-health-care",
+      "target": "personal-trainer-health-care",
+      "weight": 0.6
+    },
+    {
+      "source": "nurse-manager",
+      "target": "certified-nursing-assistant",
+      "weight": 0.78
+    },
+    {
+      "source": "nurse-manager",
+      "target": "case-manager-health-care",
+      "weight": 0.53
+    },
+    {
+      "source": "senior-house-officer",
+      "target": "case-manager-health-care",
+      "weight": 0.97
+    },
+    {
+      "source": "phlebotomist",
+      "target": "personal-trainer-health-care",
+      "weight": 0.72
+    },
+    {
+      "source": "phlebotomist",
+      "target": "counselor-health-care",
+      "weight": 0.4
+    },
+    {
+      "source": "clinical-manager-health-care",
+      "target": "therapist-health-care",
+      "weight": 0.67
+    },
+    {
+      "source": "clinical-manager-health-care",
+      "target": "speech-language-pathologist-health-care",
+      "weight": 0.72
+    },
+    {
+      "source": "health-educator",
+      "target": "pediatric-registered-nurse",
+      "weight": 0.61
+    },
+    {
+      "source": "health-educator",
+      "target": "certified-nursing-assistant",
+      "weight": 0.65
+    },
+    {
+      "source": "clinical-supervisor-health-care",
+      "target": "certified-nursing-assistant",
+      "weight": 0.98
+    },
+    {
+      "source": "clinical-supervisor-health-care",
+      "target": "registered-nurse",
+      "weight": 0.54
+    },
+    {
+      "source": "veterinary-technician",
+      "target": "pediatric-registered-nurse",
+      "weight": 0.76
+    },
+    {
+      "source": "internal-medicine-resident",
+      "target": "therapist-health-care",
+      "weight": 0.91
+    },
+    {
+      "source": "operating-room-nurse",
+      "target": "personal-trainer-health-care",
+      "weight": 0.77
+    },
+    {
+      "source": "operating-room-nurse",
+      "target": "counselor-health-care",
+      "weight": 0.49
+    },
+    {
+      "source": "emergency-room-registered-nurse",
+      "target": "pediatric-registered-nurse",
+      "weight": 0.84
+    },
+    {
+      "source": "dietetic-intern",
+      "target": "social-worker-health-care",
+      "weight": 0.58
+    },
+    {
+      "source": "counseling-intern-health-care",
+      "target": "social-worker-health-care",
+      "weight": 0.87
+    },
+    {
+      "source": "counseling-intern-health-care",
+      "target": "personal-trainer-health-care",
+      "weight": 0.64
+    },
+    {
+      "source": "resident",
+      "target": "therapist-health-care",
+      "weight": 0.42
+    },
+    {
+      "source": "home-care-nurse",
+      "target": "registered-nurse",
+      "weight": 0.73
+    },
+    {
+      "source": "clinician-health-care",
+      "target": "certified-nursing-assistant",
+      "weight": 0.67
+    },
+    {
+      "source": "clinician-health-care",
+      "target": "personal-trainer-health-care",
+      "weight": 0.59
+    },
+    {
+      "source": "hospitalist",
+      "target": "pediatric-registered-nurse",
+      "weight": 0.65
+    },
+    {
+      "source": "hospitalist",
+      "target": "registered-nurse",
+      "weight": 0.69
+    },
+    {
+      "source": "care-manager",
+      "target": "case-manager-health-care",
+      "weight": 0.89
+    },
+    {
+      "source": "clinical-pharmacist-health-care",
+      "target": "certified-nursing-assistant",
+      "weight": 0.59
+    },
+    {
+      "source": "clinical-pharmacist-health-care",
+      "target": "social-worker-health-care",
+      "weight": 0.56
+    },
+    {
+      "source": "dentist",
+      "target": "speech-language-pathologist-health-care",
+      "weight": 0.57
+    },
+    {
+      "source": "dentist",
+      "target": "case-manager-health-care",
+      "weight": 0.52
+    },
+    {
+      "source": "charge-nurse",
+      "target": "social-worker-health-care",
+      "weight": 0.47
+    },
+    {
+      "source": "charge-nurse",
+      "target": "therapist-health-care",
+      "weight": 0.85
+    },
+    {
+      "source": "pharmacy-resident-health-care",
+      "target": "personal-trainer-health-care",
+      "weight": 0.91
+    },
+    {
+      "source": "pharmacy-resident-health-care",
+      "target": "case-manager-health-care",
+      "weight": 0.67
+    },
+    {
+      "source": "care-coordinator",
+      "target": "case-manager-health-care",
+      "weight": 0.56
+    },
+    {
+      "source": "general-surgery-resident",
+      "target": "social-worker-health-care",
+      "weight": 0.74
+    },
+    {
+      "source": "general-surgery-resident",
+      "target": "therapist-health-care",
+      "weight": 0.61
+    },
+    {
+      "source": "student-nurse",
+      "target": "social-worker-health-care",
+      "weight": 0.69
+    },
+    {
+      "source": "medical-technologist-health-care",
+      "target": "pediatric-registered-nurse",
+      "weight": 0.98
+    },
+    {
+      "source": "physical-therapist-assistant",
+      "target": "social-worker-health-care",
+      "weight": 0.55
+    },
+    {
+      "source": "physical-therapist-assistant",
+      "target": "registered-nurse",
+      "weight": 0.61
+    },
+    {
+      "source": "athletic-trainer-health-care",
+      "target": "social-worker-health-care",
+      "weight": 0.73
+    },
+    {
+      "source": "athletic-trainer-health-care",
+      "target": "speech-language-pathologist-health-care",
+      "weight": 0.65
+    },
+    {
+      "source": "clinical-psychologist",
+      "target": "speech-language-pathologist-health-care",
+      "weight": 0.69
+    },
+    {
+      "source": "assistant-athletic-trainer-health-care",
+      "target": "registered-nurse",
+      "weight": 0.6
+    },
+    {
+      "source": "assistant-athletic-trainer-health-care",
+      "target": "therapist-health-care",
+      "weight": 0.51
+    },
+    {
+      "source": "clinical-assistant",
+      "target": "registered-nurse",
+      "weight": 0.74
+    },
+    {
+      "source": "psychotherapist-health-care",
+      "target": "registered-nurse",
+      "weight": 0.59
+    },
+    {
+      "source": "psychotherapist-health-care",
+      "target": "social-worker-health-care",
+      "weight": 0.97
+    },
+    {
+      "source": "clinical-specialist-health-care",
+      "target": "personal-trainer-health-care",
+      "weight": 0.48
+    },
+    {
+      "source": "clinical-specialist-health-care",
+      "target": "medical-assistant",
+      "weight": 0.87
+    },
+    {
+      "source": "clinical-nurse",
+      "target": "registered-nurse",
+      "weight": 0.59
+    },
+    {
+      "source": "clinical-nurse",
+      "target": "medical-assistant",
+      "weight": 0.64
+    },
+    {
+      "source": "cardiology-fellow",
+      "target": "personal-trainer-health-care",
+      "weight": 0.43
+    },
+    {
+      "source": "healthcare-assistant",
+      "target": "social-worker-health-care",
+      "weight": 0.5
+    },
+    {
+      "source": "exercise-physiologist",
+      "target": "therapist-health-care",
+      "weight": 0.6
+    },
+    {
+      "source": "activities-director",
+      "target": "medical-assistant",
+      "weight": 0.84
+    },
+    {
+      "source": "clinical-instructor-health-care",
+      "target": "therapist-health-care",
+      "weight": 0.42
+    },
+    {
+      "source": "patient-care-technician",
+      "target": "certified-nursing-assistant",
+      "weight": 0.6
+    },
+    {
+      "source": "physician",
+      "target": "certified-nursing-assistant",
+      "weight": 0.5
+    },
+    {
+      "source": "family-therapist-trainee-health-care",
+      "target": "certified-nursing-assistant",
+      "weight": 0.46
+    },
+    {
+      "source": "veterinary-assistant",
+      "target": "certified-nursing-assistant",
+      "weight": 0.53
+    },
+    {
+      "source": "veterinary-assistant",
+      "target": "speech-language-pathologist-health-care",
+      "weight": 0.96
+    },
+    {
+      "source": "physiotherapist",
+      "target": "social-worker-health-care",
+      "weight": 0.94
+    },
+    {
+      "source": "psychologist-health-care",
+      "target": "pediatric-registered-nurse",
+      "weight": 0.57
+    },
+    {
+      "source": "medical-doctor",
+      "target": "certified-nursing-assistant",
+      "weight": 0.62
+    },
+    {
+      "source": "chief-nursing-officer",
+      "target": "registered-nurse",
+      "weight": 0.64
+    },
+    {
+      "source": "chief-nursing-officer",
+      "target": "case-manager-health-care",
+      "weight": 0.81
+    },
+    {
+      "source": "internal-medicine-intern",
+      "target": "social-worker-health-care",
+      "weight": 0.89
+    },
+    {
+      "source": "internal-medicine-intern",
+      "target": "speech-language-pathologist-health-care",
+      "weight": 0.58
+    },
+    {
+      "source": "paramedic-health-care",
+      "target": "counselor-health-care",
+      "weight": 0.88
+    },
+    {
+      "source": "practice-manager",
+      "target": "pediatric-registered-nurse",
+      "weight": 0.97
+    },
+    {
+      "source": "medical-receptionist",
+      "target": "case-manager-health-care",
+      "weight": 0.75
+    },
+    {
+      "source": "medical-receptionist",
+      "target": "therapist-health-care",
+      "weight": 0.44
+    },
+    {
+      "source": "chief-resident",
+      "target": "social-worker-health-care",
+      "weight": 0.81
+    },
+    {
+      "source": "chief-resident",
+      "target": "therapist-health-care",
+      "weight": 0.97
+    },
+    {
+      "source": "dental-assistant",
+      "target": "medical-assistant",
+      "weight": 0.79
+    },
+    {
+      "source": "dental-assistant",
+      "target": "therapist-health-care",
+      "weight": 0.57
+    },
+    {
+      "source": "support-worker-health-care",
+      "target": "pediatric-registered-nurse",
+      "weight": 0.77
+    },
+    {
+      "source": "support-worker-health-care",
+      "target": "speech-language-pathologist-health-care",
+      "weight": 0.96
+    },
+    {
+      "source": "counselor-intern-health-care",
+      "target": "certified-nursing-assistant",
+      "weight": 0.45
+    },
+    {
+      "source": "radiation-therapist",
+      "target": "pediatric-registered-nurse",
+      "weight": 0.98
+    },
+    {
+      "source": "intensive-care-nurse",
+      "target": "certified-nursing-assistant",
+      "weight": 0.43
+    },
+    {
+      "source": "licensed-practical-nurse",
+      "target": "social-worker-health-care",
+      "weight": 0.68
+    },
+    {
+      "source": "therapy-extern",
+      "target": "counselor-health-care",
+      "weight": 0.89
+    },
+    {
+      "source": "therapy-extern",
+      "target": "social-worker-health-care",
+      "weight": 0.46
+    },
+    {
+      "source": "nurse-practitioner",
+      "target": "medical-assistant",
+      "weight": 0.45
+    },
+    {
+      "source": "obstetrician",
+      "target": "therapist-health-care",
+      "weight": 0.79
+    },
+    {
+      "source": "behavior-therapist-health-care",
+      "target": "medical-assistant",
+      "weight": 0.98
+    },
+    {
+      "source": "behavior-therapist-health-care",
+      "target": "case-manager-health-care",
+      "weight": 0.94
+    },
+    {
+      "source": "athletic-training-student-health-care",
+      "target": "speech-language-pathologist-health-care",
+      "weight": 0.78
+    },
+    {
+      "source": "family-therapist-health-care",
+      "target": "personal-trainer-health-care",
+      "weight": 0.46
+    },
+    {
+      "source": "medical-director-health-care",
+      "target": "pediatric-registered-nurse",
+      "weight": 0.63
+    },
+    {
+      "source": "medical-director-health-care",
+      "target": "speech-language-pathologist-health-care",
+      "weight": 0.47
+    },
+    {
+      "source": "chiropractic-assistant",
+      "target": "registered-nurse",
+      "weight": 0.56
+    },
+    {
+      "source": "medical-scribe",
+      "target": "certified-nursing-assistant",
+      "weight": 0.99
+    },
+    {
+      "source": "medical-scribe",
+      "target": "social-worker-health-care",
+      "weight": 0.89
+    },
+    {
+      "source": "music-therapist-health-care",
+      "target": "counselor-health-care",
+      "weight": 0.68
+    },
+    {
+      "source": "nursing-director",
+      "target": "case-manager-health-care",
+      "weight": 0.73
+    },
+    {
+      "source": "epic-credentialed-trainer",
+      "target": "social-worker-health-care",
+      "weight": 0.96
+    },
+    {
+      "source": "quality-improvement-coordinator",
+      "target": "case-manager-health-care",
+      "weight": 0.69
+    },
+    {
+      "source": "quality-improvement-coordinator",
+      "target": "medical-assistant",
+      "weight": 0.79
+    },
+    {
+      "source": "conditioning-coach-health-care",
+      "target": "speech-language-pathologist-health-care",
+      "weight": 0.91
+    },
+    {
+      "source": "pharmacy-intern-health-care",
+      "target": "certified-nursing-assistant",
+      "weight": 0.49
+    },
+    {
+      "source": "nurse-consultant",
+      "target": "medical-assistant",
+      "weight": 0.44
+    },
+    {
+      "source": "clinical-associate",
+      "target": "therapist-health-care",
+      "weight": 0.58
+    },
+    {
+      "source": "clinical-associate",
+      "target": "social-worker-health-care",
+      "weight": 0.55
+    },
+    {
+      "source": "graduate-student-intern-health-care",
+      "target": "counselor-health-care",
+      "weight": 0.64
+    },
+    {
+      "source": "graduate-student-intern-health-care",
+      "target": "medical-assistant",
+      "weight": 0.45
+    },
+    {
+      "source": "facility-administrator",
+      "target": "social-worker-health-care",
+      "weight": 0.78
+    },
+    {
+      "source": "facility-administrator",
+      "target": "case-manager-health-care",
+      "weight": 0.59
+    },
+    {
+      "source": "clinical-director",
+      "target": "medical-assistant",
+      "weight": 0.4
+    },
+    {
+      "source": "clinical-director",
+      "target": "registered-nurse",
+      "weight": 0.95
+    },
+    {
+      "source": "clinical-program-manager-health-care",
+      "target": "case-manager-health-care",
+      "weight": 0.76
+    },
+    {
+      "source": "patient-care-coordinator",
+      "target": "social-worker-health-care",
+      "weight": 0.87
+    },
+    {
+      "source": "radiology-resident",
+      "target": "social-worker-health-care",
+      "weight": 0.48
+    },
+    {
+      "source": "radiology-resident",
+      "target": "speech-language-pathologist-health-care",
+      "weight": 0.94
+    },
+    {
+      "source": "art-therapist-health-care",
+      "target": "counselor-health-care",
+      "weight": 0.55
+    },
+    {
+      "source": "anesthesiology-resident",
+      "target": "speech-language-pathologist-health-care",
+      "weight": 0.69
+    },
+    {
+      "source": "anesthesiology-resident",
+      "target": "certified-nursing-assistant",
+      "weight": 0.91
+    },
+    {
+      "source": "surgery-resident",
+      "target": "certified-nursing-assistant",
+      "weight": 0.51
+    },
+    {
+      "source": "graduate-clinician-health-care",
+      "target": "social-worker-health-care",
+      "weight": 0.42
+    },
+    {
+      "source": "medical-coder",
+      "target": "therapist-health-care",
+      "weight": 0.71
+    },
+    {
+      "source": "school-psychologist-health-care",
+      "target": "therapist-health-care",
+      "weight": 0.75
+    },
+    {
+      "source": "school-psychologist-health-care",
+      "target": "personal-trainer-health-care",
+      "weight": 0.49
+    },
+    {
+      "source": "medical-laboratory-technician-health-care",
+      "target": "pediatric-registered-nurse",
+      "weight": 0.49
+    },
+    {
+      "source": "clinical-intern",
+      "target": "social-worker-health-care",
+      "weight": 0.6
+    },
+    {
+      "source": "clinical-intern",
+      "target": "registered-nurse",
+      "weight": 0.49
+    },
+    {
+      "source": "research-nurse-health-care",
+      "target": "certified-nursing-assistant",
+      "weight": 0.89
+    },
+    {
+      "source": "staff-psychologist",
+      "target": "therapist-health-care",
+      "weight": 0.48
+    },
+    {
+      "source": "assistant-psychologist",
+      "target": "pediatric-registered-nurse",
+      "weight": 0.95
+    },
+    {
+      "source": "registered-dietitian",
+      "target": "pediatric-registered-nurse",
+      "weight": 0.54
+    },
+    {
+      "source": "ophthalmology-resident",
+      "target": "speech-language-pathologist-health-care",
+      "weight": 0.46
+    },
+    {
+      "source": "ophthalmology-resident",
+      "target": "case-manager-health-care",
+      "weight": 0.4
+    },
+    {
+      "source": "certified-medical-assistant",
+      "target": "therapist-health-care",
+      "weight": 0.53
+    },
+    {
+      "source": "mental-health-therapist-health-care",
+      "target": "medical-assistant",
+      "weight": 0.86
+    },
+    {
+      "source": "certified-surgical-technologist",
+      "target": "case-manager-health-care",
+      "weight": 0.61
+    },
+    {
+      "source": "clinical-social-worker-health-care",
+      "target": "personal-trainer-health-care",
+      "weight": 0.52
+    },
+    {
+      "source": "clinical-nurse-iii",
+      "target": "pediatric-registered-nurse",
+      "weight": 0.46
+    },
+    {
+      "source": "clinical-nurse-iii",
+      "target": "social-worker-health-care",
+      "weight": 0.95
+    },
+    {
+      "source": "radiologic-technologist",
+      "target": "speech-language-pathologist-health-care",
+      "weight": 0.52
+    },
+    {
+      "source": "radiologic-technologist",
+      "target": "therapist-health-care",
+      "weight": 0.43
+    },
+    {
+      "source": "outpatient-therapist-health-care",
+      "target": "social-worker-health-care",
+      "weight": 0.86
+    },
+    {
+      "source": "outpatient-therapist-health-care",
+      "target": "counselor-health-care",
+      "weight": 0.78
+    },
+    {
+      "source": "nephrology-fellow",
+      "target": "therapist-health-care",
+      "weight": 0.78
+    },
+    {
+      "source": "nephrology-fellow",
+      "target": "case-manager-health-care",
+      "weight": 0.41
+    },
+    {
+      "source": "mental-health-specialist-health-care",
+      "target": "registered-nurse",
+      "weight": 0.95
+    },
+    {
+      "source": "clinical-assistant-professor",
+      "target": "medical-assistant",
+      "weight": 0.69
+    },
+    {
+      "source": "nutritionist",
+      "target": "certified-nursing-assistant",
+      "weight": 0.83
+    },
+    {
+      "source": "admissions-director-health-care",
+      "target": "social-worker-health-care",
+      "weight": 1
+    },
+    {
+      "source": "clinical-dietitian",
+      "target": "registered-nurse",
+      "weight": 0.57
+    },
+    {
+      "source": "clinical-dietitian",
+      "target": "personal-trainer-health-care",
+      "weight": 0.87
+    },
+    {
+      "source": "general-dentist",
+      "target": "speech-language-pathologist-health-care",
+      "weight": 0.67
+    },
+    {
+      "source": "general-dentist",
+      "target": "personal-trainer-health-care",
+      "weight": 0.71
+    },
+    {
+      "source": "ophthalmic-technician",
+      "target": "medical-assistant",
+      "weight": 0.46
+    },
+    {
+      "source": "ophthalmic-technician",
+      "target": "social-worker-health-care",
+      "weight": 0.52
+    },
+    {
+      "source": "mental-health-technician",
+      "target": "counselor-health-care",
+      "weight": 0.68
+    },
+    {
+      "source": "music-therapy-intern-health-care",
+      "target": "pediatric-registered-nurse",
+      "weight": 0.82
+    },
+    {
+      "source": "music-therapy-intern-health-care",
+      "target": "counselor-health-care",
+      "weight": 0.56
+    },
+    {
+      "source": "recreation-therapist-health-care",
+      "target": "social-worker-health-care",
+      "weight": 0.68
+    },
+    {
+      "source": "certified-registered-nurse-anesthetist",
+      "target": "personal-trainer-health-care",
+      "weight": 0.74
+    },
+    {
+      "source": "certified-registered-nurse-anesthetist",
+      "target": "social-worker-health-care",
+      "weight": 0.83
+    },
+    {
+      "source": "patient-coordinator",
+      "target": "medical-assistant",
+      "weight": 0.91
+    },
+    {
+      "source": "application-coordinator",
+      "target": "case-manager-health-care",
+      "weight": 0.47
+    },
+    {
+      "source": "nursing-assistant-professor",
+      "target": "pediatric-registered-nurse",
+      "weight": 0.82
+    },
+    {
+      "source": "nursing-assistant-professor",
+      "target": "social-worker-health-care",
+      "weight": 0.7
+    },
+    {
+      "source": "nurse-recruiter",
+      "target": "social-worker-health-care",
+      "weight": 0.52
+    },
+    {
+      "source": "practice-nurse",
+      "target": "certified-nursing-assistant",
+      "weight": 0.71
+    },
+    {
+      "source": "public-health-nurse",
+      "target": "social-worker-health-care",
+      "weight": 0.46
+    },
+    {
+      "source": "clinical-systems-analyst",
+      "target": "case-manager-health-care",
+      "weight": 0.86
+    },
+    {
+      "source": "clinical-systems-analyst",
+      "target": "pediatric-registered-nurse",
+      "weight": 0.74
+    },
+    {
+      "source": "registered-nurse",
+      "target": "case-manager-health-care",
+      "weight": 0.94
+    },
+    {
+      "source": "registered-nurse",
+      "target": "speech-language-pathologist-health-care",
+      "weight": 0.91
+    },
+    {
+      "source": "registered-nurse",
+      "target": "certified-nursing-assistant",
+      "weight": 0.64
+    },
+    {
+      "source": "case-manager-health-care",
+      "target": "medical-assistant",
+      "weight": 0.8
+    },
+    {
+      "source": "case-manager-health-care",
+      "target": "speech-language-pathologist-health-care",
+      "weight": 0.9
+    },
+    {
+      "source": "case-manager-health-care",
+      "target": "pediatric-registered-nurse",
+      "weight": 0.73
+    },
+    {
+      "source": "case-manager-health-care",
+      "target": "certified-nursing-assistant",
+      "weight": 0.65
+    },
+    {
+      "source": "case-manager-health-care",
+      "target": "personal-trainer-health-care",
+      "weight": 0.82
+    },
+    {
+      "source": "case-manager-health-care",
+      "target": "therapist-health-care",
+      "weight": 0.65
+    },
+    {
+      "source": "case-manager-health-care",
+      "target": "social-worker-health-care",
+      "weight": 0.94
+    },
+    {
+      "source": "medical-assistant",
+      "target": "pediatric-registered-nurse",
+      "weight": 0.81
+    },
+    {
+      "source": "medical-assistant",
+      "target": "certified-nursing-assistant",
+      "weight": 0.96
+    },
+    {
+      "source": "medical-assistant",
+      "target": "counselor-health-care",
+      "weight": 0.91
+    },
+    {
+      "source": "medical-assistant",
+      "target": "personal-trainer-health-care",
+      "weight": 0.68
+    },
+    {
+      "source": "medical-assistant",
+      "target": "therapist-health-care",
+      "weight": 0.91
+    },
+    {
+      "source": "medical-assistant",
+      "target": "social-worker-health-care",
+      "weight": 0.68
+    },
+    {
+      "source": "speech-language-pathologist-health-care",
+      "target": "certified-nursing-assistant",
+      "weight": 0.83
+    },
+    {
+      "source": "speech-language-pathologist-health-care",
+      "target": "counselor-health-care",
+      "weight": 0.95
+    },
+    {
+      "source": "speech-language-pathologist-health-care",
+      "target": "personal-trainer-health-care",
+      "weight": 0.9
+    },
+    {
+      "source": "speech-language-pathologist-health-care",
+      "target": "therapist-health-care",
+      "weight": 0.89
+    },
+    {
+      "source": "speech-language-pathologist-health-care",
+      "target": "social-worker-health-care",
+      "weight": 0.72
+    },
+    {
+      "source": "pediatric-registered-nurse",
+      "target": "counselor-health-care",
+      "weight": 0.68
+    },
+    {
+      "source": "pediatric-registered-nurse",
+      "target": "personal-trainer-health-care",
+      "weight": 0.66
+    },
+    {
+      "source": "pediatric-registered-nurse",
+      "target": "therapist-health-care",
+      "weight": 0.73
+    },
+    {
+      "source": "pediatric-registered-nurse",
+      "target": "social-worker-health-care",
+      "weight": 0.75
+    },
+    {
+      "source": "certified-nursing-assistant",
+      "target": "counselor-health-care",
+      "weight": 0.78
+    },
+    {
+      "source": "certified-nursing-assistant",
+      "target": "personal-trainer-health-care",
+      "weight": 0.76
+    },
+    {
+      "source": "certified-nursing-assistant",
+      "target": "therapist-health-care",
+      "weight": 0.99
+    },
+    {
+      "source": "certified-nursing-assistant",
+      "target": "social-worker-health-care",
+      "weight": 0.63
+    },
+    {
+      "source": "counselor-health-care",
+      "target": "personal-trainer-health-care",
+      "weight": 0.74
+    },
+    {
+      "source": "counselor-health-care",
+      "target": "therapist-health-care",
+      "weight": 0.85
+    },
+    {
+      "source": "counselor-health-care",
+      "target": "social-worker-health-care",
+      "weight": 0.98
+    },
+    {
+      "source": "personal-trainer-health-care",
+      "target": "therapist-health-care",
+      "weight": 0.81
+    },
+    {
+      "source": "personal-trainer-health-care",
+      "target": "social-worker-health-care",
+      "weight": 0.96
+    },
+    {
+      "source": "therapist-health-care",
+      "target": "social-worker-health-care",
+      "weight": 0.62
+    },
+    {
+      "source": "personal-trainer-health-care",
+      "target": "athletic-trainer-health-care",
+      "weight": 0.7
+    },
+    {
+      "source": "personal-trainer-health-care",
+      "target": "assistant-athletic-trainer-health-care",
+      "weight": 0.7
+    },
+    {
+      "source": "personal-trainer-health-care",
+      "target": "epic-credentialed-trainer",
+      "weight": 0.7
+    },
+    {
+      "source": "athletic-trainer-health-care",
+      "target": "assistant-athletic-trainer-health-care",
+      "weight": 0.7
+    },
+    {
+      "source": "athletic-trainer-health-care",
+      "target": "epic-credentialed-trainer",
+      "weight": 0.7
+    },
+    {
+      "source": "assistant-athletic-trainer-health-care",
+      "target": "epic-credentialed-trainer",
+      "weight": 0.7
+    },
+    {
+      "source": "therapist-health-care",
+      "target": "physical-therapist",
+      "weight": 0.7
+    },
+    {
+      "source": "emergency-medical-technician-health-care",
+      "target": "medical-technologist-health-care",
+      "weight": 0.7
+    },
+    {
+      "source": "emergency-medical-technician-health-care",
+      "target": "patient-care-technician",
+      "weight": 0.7
+    },
+    {
+      "source": "emergency-medical-technician-health-care",
+      "target": "mental-health-technician",
+      "weight": 0.7
+    },
+    {
+      "source": "emergency-medical-technician-health-care",
+      "target": "clinical-systems-analyst",
+      "weight": 0.7
+    },
+    {
+      "source": "medical-technologist-health-care",
+      "target": "patient-care-technician",
+      "weight": 0.7
+    },
+    {
+      "source": "medical-technologist-health-care",
+      "target": "mental-health-technician",
+      "weight": 0.7
+    },
+    {
+      "source": "medical-technologist-health-care",
+      "target": "clinical-systems-analyst",
+      "weight": 0.7
+    },
+    {
+      "source": "patient-care-technician",
+      "target": "mental-health-technician",
+      "weight": 0.7
+    },
+    {
+      "source": "patient-care-technician",
+      "target": "clinical-systems-analyst",
+      "weight": 0.7
+    },
+    {
+      "source": "mental-health-technician",
+      "target": "clinical-systems-analyst",
+      "weight": 0.7
+    },
+    {
+      "source": "mental-health-counselor-health-care",
+      "target": "counselor-intern-health-care",
+      "weight": 0.7
+    },
+    {
+      "source": "phlebotomist",
+      "target": "chiropractic-assistant",
+      "weight": 0.7
+    },
+    {
+      "source": "phlebotomist",
+      "target": "medical-scribe",
+      "weight": 0.7
+    },
+    {
+      "source": "phlebotomist",
+      "target": "certified-medical-assistant",
+      "weight": 0.7
+    },
+    {
+      "source": "chiropractic-assistant",
+      "target": "medical-scribe",
+      "weight": 0.7
+    },
+    {
+      "source": "chiropractic-assistant",
+      "target": "certified-medical-assistant",
+      "weight": 0.7
+    },
+    {
+      "source": "medical-scribe",
+      "target": "certified-medical-assistant",
+      "weight": 0.7
+    },
+    {
+      "source": "medical-laboratory-technician-health-care",
+      "target": "ophthalmic-technician",
+      "weight": 0.7
+    }
+  ]
+}

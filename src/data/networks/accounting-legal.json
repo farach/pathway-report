@@ -1,0 +1,2779 @@
+{
+  "sector": "Accounting & Legal",
+  "metadata": {
+    "nodeCount": 150,
+    "edgeCount": 258,
+    "generatedAt": "2026-01-31T16:46:30Z"
+  },
+  "nodes": [
+    {
+      "id": "associate",
+      "label": "Associate",
+      "soc": "25-1126",
+      "ptr": 0.2604,
+      "nfc": 0.7085,
+      "quadrant": "LH",
+      "size": 18.16,
+      "aiExposure": 0.4248
+    },
+    {
+      "id": "accountant",
+      "label": "Accountant",
+      "soc": "13-2011",
+      "ptr": 0.497,
+      "nfc": 0.7799,
+      "quadrant": "LH",
+      "size": 14.08,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "senior-accountant",
+      "label": "Senior Accountant",
+      "soc": "13-2011",
+      "ptr": 0.5291,
+      "nfc": 0.7793,
+      "quadrant": "LH",
+      "size": 12.99,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "staff-accountant",
+      "label": "Staff Accountant",
+      "soc": "13-2011",
+      "ptr": 0.2029,
+      "nfc": 0.7788,
+      "quadrant": "LH",
+      "size": 11.5,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "senior-associate",
+      "label": "Senior Associate",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 10.82,
+      "aiExposure": 0
+    },
+    {
+      "id": "trainee-solicitor",
+      "label": "Trainee Solicitor",
+      "soc": "41-9041",
+      "ptr": 0.7344,
+      "nfc": 0.9711,
+      "quadrant": "HH",
+      "size": 9.91,
+      "aiExposure": 0.605
+    },
+    {
+      "id": "fund-accountant-accounting-legal",
+      "label": "Fund Accountant",
+      "soc": "13-2011",
+      "ptr": 0.7371,
+      "nfc": 0.777,
+      "quadrant": "HH",
+      "size": 9.3,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "attorney",
+      "label": "Attorney",
+      "soc": "23-1012",
+      "ptr": 0.5086,
+      "nfc": 0.7061,
+      "quadrant": "LH",
+      "size": 8.78,
+      "aiExposure": 0.2955
+    },
+    {
+      "id": "audit-senior",
+      "label": "Audit Senior",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 8.51,
+      "aiExposure": 0
+    },
+    {
+      "id": "law-clerk",
+      "label": "Law Clerk",
+      "soc": "43-9061",
+      "ptr": 0,
+      "nfc": 0.9046,
+      "quadrant": "LH",
+      "size": 7.84,
+      "aiExposure": 0.4088
+    },
+    {
+      "id": "senior-audit-associate",
+      "label": "Senior Audit Associate",
+      "soc": "13-2011",
+      "ptr": 0.7202,
+      "nfc": 0.7747,
+      "quadrant": "HH",
+      "size": 7.6,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "tax-associate",
+      "label": "Tax Associate",
+      "soc": "13-2081",
+      "ptr": 0.8005,
+      "nfc": 0.9208,
+      "quadrant": "HH",
+      "size": 7.54,
+      "aiExposure": 0.4603
+    },
+    {
+      "id": "legal-assistant",
+      "label": "Legal Assistant",
+      "soc": "23-2011",
+      "ptr": 0.496,
+      "nfc": 0.7048,
+      "quadrant": "LH",
+      "size": 7.39,
+      "aiExposure": 0.2911
+    },
+    {
+      "id": "paralegal",
+      "label": "Paralegal",
+      "soc": "25-1112",
+      "ptr": 0.4453,
+      "nfc": 0.6236,
+      "quadrant": "LH",
+      "size": 7.03,
+      "aiExposure": 0.3878
+    },
+    {
+      "id": "tax-manager",
+      "label": "Tax Manager",
+      "soc": "11-3031",
+      "ptr": 0.618,
+      "nfc": 0.6525,
+      "quadrant": "LH",
+      "size": 6.98,
+      "aiExposure": 0.3169
+    },
+    {
+      "id": "audit-manager",
+      "label": "Audit Manager",
+      "soc": "11-9199",
+      "ptr": 0.5892,
+      "nfc": 0.6883,
+      "quadrant": "LH",
+      "size": 6.88,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "solicitor",
+      "label": "Solicitor",
+      "soc": "41-9091",
+      "ptr": 0.0659,
+      "nfc": 0.0865,
+      "quadrant": "LH",
+      "size": 6.69,
+      "aiExposure": 0.2587
+    },
+    {
+      "id": "tax-consultant",
+      "label": "Tax Consultant",
+      "soc": "13-2082",
+      "ptr": 0.8711,
+      "nfc": 0.9247,
+      "quadrant": "HH",
+      "size": 6.64,
+      "aiExposure": 0.4683
+    },
+    {
+      "id": "account-assistant",
+      "label": "Account Assistant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 6.57,
+      "aiExposure": 0
+    },
+    {
+      "id": "partner",
+      "label": "Partner",
+      "soc": "13-2011",
+      "ptr": 0.7427,
+      "nfc": 0.7693,
+      "quadrant": "HH",
+      "size": 6.52,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "financial-accountant",
+      "label": "Financial Accountant",
+      "soc": "13-2011",
+      "ptr": 0.691,
+      "nfc": 0.7688,
+      "quadrant": "HH",
+      "size": 6.5,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "senior-auditor",
+      "label": "Senior Auditor",
+      "soc": "13-2011",
+      "ptr": 0.6286,
+      "nfc": 0.7682,
+      "quadrant": "LH",
+      "size": 6.41,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "tax-senior",
+      "label": "Tax Senior",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 6.39,
+      "aiExposure": 0
+    },
+    {
+      "id": "accounting-manager",
+      "label": "Accounting Manager",
+      "soc": "11-3031",
+      "ptr": 0.618,
+      "nfc": 0.648,
+      "quadrant": "LH",
+      "size": 6.31,
+      "aiExposure": 0.3169
+    },
+    {
+      "id": "associate-attorney",
+      "label": "Associate Attorney",
+      "soc": "23-1011",
+      "ptr": 0.3319,
+      "nfc": 0.4548,
+      "quadrant": "LH",
+      "size": 6.23,
+      "aiExposure": 0.3026
+    },
+    {
+      "id": "auditor",
+      "label": "Auditor",
+      "soc": "51-9061",
+      "ptr": 0.329,
+      "nfc": 0.4337,
+      "quadrant": "LH",
+      "size": 6.1,
+      "aiExposure": 0.2548
+    },
+    {
+      "id": "legal-intern",
+      "label": "Legal Intern",
+      "soc": "29-1229",
+      "ptr": 0.1937,
+      "nfc": 0.3564,
+      "quadrant": "LH",
+      "size": 5.97,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "summer-associate",
+      "label": "Summer Associate",
+      "soc": "23-2011",
+      "ptr": 0.5961,
+      "nfc": 0.6967,
+      "quadrant": "LH",
+      "size": 5.95,
+      "aiExposure": 0.2911
+    },
+    {
+      "id": "assistant-management-accountant",
+      "label": "Assistant Management Accountant",
+      "soc": "13-2011",
+      "ptr": 0.7537,
+      "nfc": 0.764,
+      "quadrant": "HH",
+      "size": 5.87,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "assistant-controller",
+      "label": "Assistant Controller",
+      "soc": "11-3031",
+      "ptr": 0.6459,
+      "nfc": 0.645,
+      "quadrant": "LH",
+      "size": 5.63,
+      "aiExposure": 0.3169
+    },
+    {
+      "id": "bookkeeper",
+      "label": "Bookkeeper",
+      "soc": "43-3051",
+      "ptr": 0.947,
+      "nfc": 0.9726,
+      "quadrant": "HH",
+      "size": 5.6,
+      "aiExposure": 0.5281
+    },
+    {
+      "id": "assistant-accountant",
+      "label": "Assistant Accountant",
+      "soc": "13-2011",
+      "ptr": 0.6729,
+      "nfc": 0.7622,
+      "quadrant": "HH",
+      "size": 5.6,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "senior-paralegal",
+      "label": "Senior Paralegal",
+      "soc": "23-2011",
+      "ptr": 0.7063,
+      "nfc": 0.6939,
+      "quadrant": "HH",
+      "size": 5.58,
+      "aiExposure": 0.2911
+    },
+    {
+      "id": "tax-senior-associate",
+      "label": "Tax Senior Associate",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.54,
+      "aiExposure": 0
+    },
+    {
+      "id": "assurance-manager",
+      "label": "Assurance Manager",
+      "soc": "11-3051",
+      "ptr": 0.3376,
+      "nfc": 0.3358,
+      "quadrant": "LH",
+      "size": 5.5,
+      "aiExposure": 0.263
+    },
+    {
+      "id": "audit-associate",
+      "label": "Audit Associate",
+      "soc": "13-2011",
+      "ptr": 0.6667,
+      "nfc": 0.7598,
+      "quadrant": "HH",
+      "size": 5.41,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "cost-accountant",
+      "label": "Cost Accountant",
+      "soc": "13-2011",
+      "ptr": 0.7259,
+      "nfc": 0.7592,
+      "quadrant": "HH",
+      "size": 5.41,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "accounting-supervisor",
+      "label": "Accounting Supervisor",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.41,
+      "aiExposure": 0
+    },
+    {
+      "id": "associate-accountant",
+      "label": "Associate Accountant",
+      "soc": "13-2011",
+      "ptr": 0.7591,
+      "nfc": 0.758,
+      "quadrant": "HH",
+      "size": 5.39,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "legal-secretary",
+      "label": "Legal Secretary",
+      "soc": "43-6014",
+      "ptr": 0.8749,
+      "nfc": 0.9129,
+      "quadrant": "HH",
+      "size": 5.38,
+      "aiExposure": 0.4504
+    },
+    {
+      "id": "assistant-general-attorney",
+      "label": "Assistant General Attorney",
+      "soc": "23-1011",
+      "ptr": 0.4473,
+      "nfc": 0.4491,
+      "quadrant": "LH",
+      "size": 5.37,
+      "aiExposure": 0.3026
+    },
+    {
+      "id": "assistant-general-counsel",
+      "label": "Assistant General Counsel",
+      "soc": "23-1011",
+      "ptr": 0.444,
+      "nfc": 0.4488,
+      "quadrant": "LH",
+      "size": 5.35,
+      "aiExposure": 0.3026
+    },
+    {
+      "id": "assistant-solicitor",
+      "label": "Assistant Solicitor",
+      "soc": "41-9041",
+      "ptr": 0.9136,
+      "nfc": 0.9437,
+      "quadrant": "HH",
+      "size": 5.35,
+      "aiExposure": 0.605
+    },
+    {
+      "id": "international-tax-manager",
+      "label": "International Tax Manager",
+      "soc": "11-3031",
+      "ptr": 0.6505,
+      "nfc": 0.6379,
+      "quadrant": "LH",
+      "size": 5.34,
+      "aiExposure": 0.3169
+    },
+    {
+      "id": "general-counsel",
+      "label": "General Counsel",
+      "soc": "23-1011",
+      "ptr": 0.4601,
+      "nfc": 0.4477,
+      "quadrant": "LH",
+      "size": 5.34,
+      "aiExposure": 0.3026
+    },
+    {
+      "id": "accounting-intern",
+      "label": "Accounting Intern",
+      "soc": "29-1229",
+      "ptr": 0.2639,
+      "nfc": 0.3511,
+      "quadrant": "LH",
+      "size": 5.32,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "tax-senior-manager",
+      "label": "Tax Senior Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.32,
+      "aiExposure": 0
+    },
+    {
+      "id": "litigation-executive",
+      "label": "Litigation Executive",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.3,
+      "aiExposure": 0
+    },
+    {
+      "id": "experienced-associate",
+      "label": "Experienced Associate",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.29,
+      "aiExposure": 0
+    },
+    {
+      "id": "accounting-clerk",
+      "label": "Accounting Clerk",
+      "soc": "43-9061",
+      "ptr": 0.8132,
+      "nfc": 0.8768,
+      "quadrant": "HH",
+      "size": 5.29,
+      "aiExposure": 0.4088
+    },
+    {
+      "id": "law-student",
+      "label": "Law Student",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.29,
+      "aiExposure": 0
+    },
+    {
+      "id": "legal-executive",
+      "label": "Legal Executive",
+      "soc": "43-6012",
+      "ptr": 0.9419,
+      "nfc": 0.9178,
+      "quadrant": "HH",
+      "size": 5.28,
+      "aiExposure": 0.4512
+    },
+    {
+      "id": "accounting-consultant",
+      "label": "Accounting Consultant",
+      "soc": "13-2011",
+      "ptr": 0.7752,
+      "nfc": 0.7496,
+      "quadrant": "HH",
+      "size": 5.28,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "account-payable-specialist",
+      "label": "Account Payable Specialist",
+      "soc": "43-3031",
+      "ptr": 0.9508,
+      "nfc": 0.9249,
+      "quadrant": "HH",
+      "size": 5.27,
+      "aiExposure": 0.5232
+    },
+    {
+      "id": "corporate-tax-manager",
+      "label": "Corporate Tax Manager",
+      "soc": "11-3031",
+      "ptr": 0.6505,
+      "nfc": 0.6323,
+      "quadrant": "LH",
+      "size": 5.26,
+      "aiExposure": 0.3169
+    },
+    {
+      "id": "finance-officer",
+      "label": "Finance Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.26,
+      "aiExposure": 0
+    },
+    {
+      "id": "corporate-accounting-manager",
+      "label": "Corporate Accounting Manager",
+      "soc": "11-3031",
+      "ptr": 0.655,
+      "nfc": 0.6312,
+      "quadrant": "LH",
+      "size": 5.26,
+      "aiExposure": 0.3169
+    },
+    {
+      "id": "cost-accounting-manager",
+      "label": "Cost Accounting Manager",
+      "soc": "11-3031",
+      "ptr": 0.6505,
+      "nfc": 0.6307,
+      "quadrant": "LH",
+      "size": 5.25,
+      "aiExposure": 0.3169
+    },
+    {
+      "id": "legal-counsel",
+      "label": "Legal Counsel",
+      "soc": "23-1011",
+      "ptr": 0.4408,
+      "nfc": 0.4427,
+      "quadrant": "LH",
+      "size": 5.25,
+      "aiExposure": 0.3026
+    },
+    {
+      "id": "group-accountant",
+      "label": "Group Accountant",
+      "soc": "13-2011",
+      "ptr": 0.7752,
+      "nfc": 0.7453,
+      "quadrant": "HH",
+      "size": 5.25,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "lead-accountant",
+      "label": "Lead Accountant",
+      "soc": "13-2011",
+      "ptr": 0.7645,
+      "nfc": 0.7447,
+      "quadrant": "HH",
+      "size": 5.25,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "tax-analyst",
+      "label": "Tax Analyst",
+      "soc": "13-2081",
+      "ptr": 0.9095,
+      "nfc": 0.8851,
+      "quadrant": "HH",
+      "size": 5.23,
+      "aiExposure": 0.4603
+    },
+    {
+      "id": "senior-corporate-counsel",
+      "label": "Senior Corporate Counsel",
+      "soc": "23-1011",
+      "ptr": 0.4537,
+      "nfc": 0.4412,
+      "quadrant": "LH",
+      "size": 5.21,
+      "aiExposure": 0.3026
+    },
+    {
+      "id": "judicial-intern",
+      "label": "Judicial Intern",
+      "soc": "29-1229",
+      "ptr": 0.3246,
+      "nfc": 0.346,
+      "quadrant": "LH",
+      "size": 5.2,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "legal-director",
+      "label": "Legal Director",
+      "soc": "27-2012",
+      "ptr": 0.6271,
+      "nfc": 0.6046,
+      "quadrant": "LH",
+      "size": 5.2,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "tax-specialist",
+      "label": "Tax Specialist",
+      "soc": "43-3051",
+      "ptr": 0.9817,
+      "nfc": 0.9448,
+      "quadrant": "HH",
+      "size": 5.2,
+      "aiExposure": 0.5281
+    },
+    {
+      "id": "intellectual-property-counsel",
+      "label": "Intellectual Property Counsel",
+      "soc": "23-1011",
+      "ptr": 0.4601,
+      "nfc": 0.4398,
+      "quadrant": "LH",
+      "size": 5.2,
+      "aiExposure": 0.3026
+    },
+    {
+      "id": "assistant-united-states-attorney-accounting-legal",
+      "label": "Assistant United States Attorney",
+      "soc": "23-1011",
+      "ptr": 0.4569,
+      "nfc": 0.439,
+      "quadrant": "LH",
+      "size": 5.19,
+      "aiExposure": 0.3026
+    },
+    {
+      "id": "managing-associate",
+      "label": "Managing Associate",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.19,
+      "aiExposure": 0
+    },
+    {
+      "id": "claims-counsel-accounting-legal",
+      "label": "Claims Counsel",
+      "soc": "23-1011",
+      "ptr": 0.4601,
+      "nfc": 0.4383,
+      "quadrant": "LH",
+      "size": 5.19,
+      "aiExposure": 0.3026
+    },
+    {
+      "id": "judge-accounting-legal",
+      "label": "Judge",
+      "soc": "23-1023",
+      "ptr": 0.439,
+      "nfc": 0.4183,
+      "quadrant": "LH",
+      "size": 5.19,
+      "aiExposure": 0.2465
+    },
+    {
+      "id": "assurance-senior-associate",
+      "label": "Assurance Senior Associate",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.19,
+      "aiExposure": 0
+    },
+    {
+      "id": "staff-attorney",
+      "label": "Staff Attorney",
+      "soc": "23-1011",
+      "ptr": 0.403,
+      "nfc": 0.4376,
+      "quadrant": "LH",
+      "size": 5.19,
+      "aiExposure": 0.3026
+    },
+    {
+      "id": "lawyer-accounting-legal",
+      "label": "Lawyer",
+      "soc": "23-1011",
+      "ptr": 0.444,
+      "nfc": 0.4372,
+      "quadrant": "LH",
+      "size": 5.18,
+      "aiExposure": 0.3026
+    },
+    {
+      "id": "audit-executive",
+      "label": "Audit Executive",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.17,
+      "aiExposure": 0
+    },
+    {
+      "id": "revenue-accountant-accounting-legal",
+      "label": "Revenue Accountant",
+      "soc": "13-2011",
+      "ptr": 0.7699,
+      "nfc": 0.7317,
+      "quadrant": "HH",
+      "size": 5.17,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "payroll-accountant",
+      "label": "Payroll Accountant",
+      "soc": "13-2011",
+      "ptr": 0.7699,
+      "nfc": 0.7317,
+      "quadrant": "HH",
+      "size": 5.17,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "plant-accountant",
+      "label": "Plant Accountant",
+      "soc": "13-2011",
+      "ptr": 0.7591,
+      "nfc": 0.7317,
+      "quadrant": "HH",
+      "size": 5.17,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "general-ledger-accountant",
+      "label": "General Ledger Accountant",
+      "soc": "13-2011",
+      "ptr": 0.7537,
+      "nfc": 0.7317,
+      "quadrant": "HH",
+      "size": 5.17,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "legal-analyst",
+      "label": "Legal Analyst",
+      "soc": "23-2011",
+      "ptr": 0.7015,
+      "nfc": 0.6667,
+      "quadrant": "HH",
+      "size": 5.17,
+      "aiExposure": 0.2911
+    },
+    {
+      "id": "legal-consultant",
+      "label": "Legal Consultant",
+      "soc": "23-1011",
+      "ptr": 0.4569,
+      "nfc": 0.4343,
+      "quadrant": "LH",
+      "size": 5.17,
+      "aiExposure": 0.3026
+    },
+    {
+      "id": "legal-adviser",
+      "label": "Legal Adviser",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.17,
+      "aiExposure": 0
+    },
+    {
+      "id": "inventory-accountant",
+      "label": "Inventory Accountant",
+      "soc": "13-2011",
+      "ptr": 0.7645,
+      "nfc": 0.7311,
+      "quadrant": "HH",
+      "size": 5.17,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "contract-attorney",
+      "label": "Contract Attorney",
+      "soc": "23-1011",
+      "ptr": 0.4537,
+      "nfc": 0.4335,
+      "quadrant": "LH",
+      "size": 5.16,
+      "aiExposure": 0.3026
+    },
+    {
+      "id": "accounting-assistant",
+      "label": "Accounting Assistant",
+      "soc": "43-3051",
+      "ptr": 0.818,
+      "nfc": 0.9306,
+      "quadrant": "HH",
+      "size": 5.16,
+      "aiExposure": 0.5281
+    },
+    {
+      "id": "senior-counsel",
+      "label": "Senior Counsel",
+      "soc": "23-1011",
+      "ptr": 0.4537,
+      "nfc": 0.4328,
+      "quadrant": "LH",
+      "size": 5.15,
+      "aiExposure": 0.3026
+    },
+    {
+      "id": "patent-attorney",
+      "label": "Patent Attorney",
+      "soc": "23-1011",
+      "ptr": 0.4408,
+      "nfc": 0.4324,
+      "quadrant": "LH",
+      "size": 5.14,
+      "aiExposure": 0.3026
+    },
+    {
+      "id": "project-accountant",
+      "label": "Project Accountant",
+      "soc": "13-2011",
+      "ptr": 0.7427,
+      "nfc": 0.728,
+      "quadrant": "HH",
+      "size": 5.14,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "litigation-paralegal",
+      "label": "Litigation Paralegal",
+      "soc": "23-2011",
+      "ptr": 0.6716,
+      "nfc": 0.6627,
+      "quadrant": "HH",
+      "size": 5.14,
+      "aiExposure": 0.2911
+    },
+    {
+      "id": "audit-intern",
+      "label": "Audit Intern",
+      "soc": "29-1229",
+      "ptr": 0.2989,
+      "nfc": 0.3385,
+      "quadrant": "LH",
+      "size": 5.13,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "senior-solicitor",
+      "label": "Senior Solicitor",
+      "soc": "41-9041",
+      "ptr": 0.9548,
+      "nfc": 0.9068,
+      "quadrant": "HH",
+      "size": 5.13,
+      "aiExposure": 0.605
+    },
+    {
+      "id": "judicial-law-clerk",
+      "label": "Judicial Law Clerk",
+      "soc": "43-9061",
+      "ptr": 0.7993,
+      "nfc": 0.8466,
+      "quadrant": "HH",
+      "size": 5.12,
+      "aiExposure": 0.4088
+    },
+    {
+      "id": "advisor-associate",
+      "label": "Advisor Associate",
+      "soc": "21-1012",
+      "ptr": 0.0965,
+      "nfc": 0.0909,
+      "quadrant": "LH",
+      "size": 5.12,
+      "aiExposure": 0.3073
+    },
+    {
+      "id": "litigation-associate",
+      "label": "Litigation Associate",
+      "soc": "23-1011",
+      "ptr": 0.424,
+      "nfc": 0.4298,
+      "quadrant": "LH",
+      "size": 5.11,
+      "aiExposure": 0.3026
+    },
+    {
+      "id": "accounting-analyst",
+      "label": "Accounting Analyst",
+      "soc": "13-2054",
+      "ptr": 0.7351,
+      "nfc": 0.6958,
+      "quadrant": "HH",
+      "size": 5.1,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "junior-accountant",
+      "label": "Junior Accountant",
+      "soc": "13-2011",
+      "ptr": 0.7202,
+      "nfc": 0.723,
+      "quadrant": "HH",
+      "size": 5.1,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "tax-accountant",
+      "label": "Tax Accountant",
+      "soc": "13-2011",
+      "ptr": 0.7202,
+      "nfc": 0.7223,
+      "quadrant": "HH",
+      "size": 5.1,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "tax-intern",
+      "label": "Tax Intern",
+      "soc": "29-1229",
+      "ptr": 0.2835,
+      "nfc": 0.3362,
+      "quadrant": "LH",
+      "size": 5.1,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "accountant-ii",
+      "label": "Accountant II",
+      "soc": "13-2011",
+      "ptr": 0.7537,
+      "nfc": 0.7211,
+      "quadrant": "HH",
+      "size": 5.09,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "principal-auditor",
+      "label": "Principal Auditor",
+      "soc": "11-9032",
+      "ptr": 0.4518,
+      "nfc": 0.4199,
+      "quadrant": "LH",
+      "size": 5.09,
+      "aiExposure": 0.2768
+    },
+    {
+      "id": "audit-supervisor",
+      "label": "Audit Supervisor",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.09,
+      "aiExposure": 0
+    },
+    {
+      "id": "assistant-district-attorney-accounting-legal",
+      "label": "Assistant District Attorney",
+      "soc": "23-1011",
+      "ptr": 0.424,
+      "nfc": 0.4268,
+      "quadrant": "LH",
+      "size": 5.09,
+      "aiExposure": 0.3026
+    },
+    {
+      "id": "tax-senior-accountant",
+      "label": "Tax Senior Accountant",
+      "soc": "13-2011",
+      "ptr": 0.7482,
+      "nfc": 0.7185,
+      "quadrant": "HH",
+      "size": 5.08,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "accountant-iii",
+      "label": "Accountant III",
+      "soc": "13-2011",
+      "ptr": 0.7699,
+      "nfc": 0.7179,
+      "quadrant": "HH",
+      "size": 5.08,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "assurance-associate",
+      "label": "Assurance Associate",
+      "soc": "51-9061",
+      "ptr": 0.4046,
+      "nfc": 0.4062,
+      "quadrant": "LH",
+      "size": 5.08,
+      "aiExposure": 0.2548
+    },
+    {
+      "id": "summer-legal-intern",
+      "label": "Summer Legal Intern",
+      "soc": "29-1229",
+      "ptr": 0.3485,
+      "nfc": 0.3338,
+      "quadrant": "LH",
+      "size": 5.08,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "counsel",
+      "label": "Counsel",
+      "soc": "23-1011",
+      "ptr": 0.4341,
+      "nfc": 0.4249,
+      "quadrant": "LH",
+      "size": 5.07,
+      "aiExposure": 0.3026
+    },
+    {
+      "id": "staff-auditor",
+      "label": "Staff Auditor",
+      "soc": "13-2011",
+      "ptr": 0.6729,
+      "nfc": 0.7154,
+      "quadrant": "HH",
+      "size": 5.07,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "assistant-city-attorney-accounting-legal",
+      "label": "Assistant City Attorney",
+      "soc": "23-1011",
+      "ptr": 0.4569,
+      "nfc": 0.4242,
+      "quadrant": "LH",
+      "size": 5.06,
+      "aiExposure": 0.3026
+    },
+    {
+      "id": "judicial-extern",
+      "label": "Judicial Extern",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.06,
+      "aiExposure": 0
+    },
+    {
+      "id": "certified-public-accountant",
+      "label": "Certified Public Accountant",
+      "soc": "13-2011",
+      "ptr": 0.7645,
+      "nfc": 0.7135,
+      "quadrant": "HH",
+      "size": 5.06,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "legal-manager",
+      "label": "Legal Manager",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.06,
+      "aiExposure": 0
+    },
+    {
+      "id": "attorney-advisor-accounting-legal",
+      "label": "Attorney Advisor",
+      "soc": "21-1012",
+      "ptr": 0.0972,
+      "nfc": 0.0893,
+      "quadrant": "LH",
+      "size": 5.06,
+      "aiExposure": 0.3073
+    },
+    {
+      "id": "senior-fund-accountant-accounting-legal",
+      "label": "Senior Fund Accountant",
+      "soc": "13-2011",
+      "ptr": 0.7645,
+      "nfc": 0.7115,
+      "quadrant": "HH",
+      "size": 5.06,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "immigration-paralegal",
+      "label": "Immigration Paralegal",
+      "soc": "23-2011",
+      "ptr": 0.6966,
+      "nfc": 0.6477,
+      "quadrant": "HH",
+      "size": 5.05,
+      "aiExposure": 0.2911
+    },
+    {
+      "id": "tax-supervisor",
+      "label": "Tax Supervisor",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.05,
+      "aiExposure": 0
+    },
+    {
+      "id": "legal-officer",
+      "label": "Legal Officer",
+      "soc": "21-1029",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.05,
+      "aiExposure": 0
+    },
+    {
+      "id": "senior-staff-accountant",
+      "label": "Senior Staff Accountant",
+      "soc": "13-2011",
+      "ptr": 0.7482,
+      "nfc": 0.709,
+      "quadrant": "HH",
+      "size": 5.05,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "assistant-public-defender",
+      "label": "Assistant Public Defender",
+      "soc": "23-1011",
+      "ptr": 0.4473,
+      "nfc": 0.4204,
+      "quadrant": "LH",
+      "size": 5.04,
+      "aiExposure": 0.3026
+    },
+    {
+      "id": "deputy-district-attorney-accounting-legal",
+      "label": "Deputy District Attorney",
+      "soc": "33-3051",
+      "ptr": 0.25,
+      "nfc": 0.2348,
+      "quadrant": "LH",
+      "size": 5.04,
+      "aiExposure": 0.2473
+    },
+    {
+      "id": "law-intern",
+      "label": "Law Intern",
+      "soc": "29-1229",
+      "ptr": 0.3459,
+      "nfc": 0.3294,
+      "quadrant": "LH",
+      "size": 5.04,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "legal-clerk",
+      "label": "Legal Clerk",
+      "soc": "43-9061",
+      "ptr": 0.8601,
+      "nfc": 0.8243,
+      "quadrant": "HH",
+      "size": 5.04,
+      "aiExposure": 0.4088
+    },
+    {
+      "id": "corporate-paralegal",
+      "label": "Corporate Paralegal",
+      "soc": "23-2011",
+      "ptr": 0.6917,
+      "nfc": 0.6431,
+      "quadrant": "HH",
+      "size": 5.04,
+      "aiExposure": 0.2911
+    },
+    {
+      "id": "finance-associate-accounting-legal",
+      "label": "Finance Associate",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.04,
+      "aiExposure": 0
+    },
+    {
+      "id": "corporate-counsel",
+      "label": "Corporate Counsel",
+      "soc": "23-1011",
+      "ptr": 0.444,
+      "nfc": 0.4181,
+      "quadrant": "LH",
+      "size": 5.04,
+      "aiExposure": 0.3026
+    },
+    {
+      "id": "corporate-associate",
+      "label": "Corporate Associate",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.04,
+      "aiExposure": 0
+    },
+    {
+      "id": "patent-agent-accounting-legal",
+      "label": "Patent Agent",
+      "soc": "13-1011",
+      "ptr": 0.7609,
+      "nfc": 0.6999,
+      "quadrant": "HH",
+      "size": 5.03,
+      "aiExposure": 0.4062
+    },
+    {
+      "id": "assistant-state-attorney-accounting-legal",
+      "label": "Assistant State Attorney",
+      "soc": "23-1011",
+      "ptr": 0.4408,
+      "nfc": 0.4169,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.3026
+    },
+    {
+      "id": "litigation-assistant",
+      "label": "Litigation Assistant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.03,
+      "aiExposure": 0
+    },
+    {
+      "id": "assurance-intern",
+      "label": "Assurance Intern",
+      "soc": "29-1229",
+      "ptr": 0.3355,
+      "nfc": 0.3266,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "client-accountant",
+      "label": "Client Accountant",
+      "soc": "13-2011",
+      "ptr": 0.7752,
+      "nfc": 0.6999,
+      "quadrant": "HH",
+      "size": 5.03,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "commercial-accountant",
+      "label": "Commercial Accountant",
+      "soc": "13-2011",
+      "ptr": 0.7752,
+      "nfc": 0.6999,
+      "quadrant": "HH",
+      "size": 5.03,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "auditor-ii",
+      "label": "Auditor II",
+      "soc": "13-2011",
+      "ptr": 0.7699,
+      "nfc": 0.6993,
+      "quadrant": "HH",
+      "size": 5.03,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "account-senior",
+      "label": "Account Senior",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.03,
+      "aiExposure": 0
+    },
+    {
+      "id": "assistant-tax-manager",
+      "label": "Assistant Tax Manager",
+      "soc": "11-3031",
+      "ptr": 0.6459,
+      "nfc": 0.5897,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.3169
+    },
+    {
+      "id": "legal-administrative-assistant",
+      "label": "Legal Administrative Assistant",
+      "soc": "43-6014",
+      "ptr": 0.9344,
+      "nfc": 0.8405,
+      "quadrant": "HH",
+      "size": 5.03,
+      "aiExposure": 0.4504
+    },
+    {
+      "id": "legal-advisor",
+      "label": "Legal Advisor",
+      "soc": "21-1012",
+      "ptr": 0.0965,
+      "nfc": 0.0874,
+      "quadrant": "LH",
+      "size": 5.03,
+      "aiExposure": 0.3073
+    },
+    {
+      "id": "financial-reporting-analyst-accounting-legal",
+      "label": "Financial Reporting Analyst",
+      "soc": "13-2054",
+      "ptr": 0.7454,
+      "nfc": 0.6692,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3872
+    },
+    {
+      "id": "legal-specialist",
+      "label": "Legal Specialist",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.02,
+      "aiExposure": 0
+    },
+    {
+      "id": "tax-advisor",
+      "label": "Tax Advisor",
+      "soc": "21-1012",
+      "ptr": 0.0972,
+      "nfc": 0.0871,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.3073
+    },
+    {
+      "id": "senior-attorney",
+      "label": "Senior Attorney",
+      "soc": "23-1011",
+      "ptr": 0.444,
+      "nfc": 0.4119,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.3026
+    },
+    {
+      "id": "financial-reporting-manager",
+      "label": "Financial Reporting Manager",
+      "soc": "11-3031",
+      "ptr": 0.655,
+      "nfc": 0.5858,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.3169
+    },
+    {
+      "id": "senior-audit-manager",
+      "label": "Senior Audit Manager",
+      "soc": "11-9199",
+      "ptr": 0.6867,
+      "nfc": 0.6179,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3185
+    },
+    {
+      "id": "purchase-ledger-assistant",
+      "label": "Purchase Ledger Assistant",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.02,
+      "aiExposure": 0
+    },
+    {
+      "id": "accounting-specialist",
+      "label": "Accounting Specialist",
+      "soc": "43-3031",
+      "ptr": 0.9308,
+      "nfc": 0.8539,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.5232
+    },
+    {
+      "id": "senior-cost-accountant",
+      "label": "Senior Cost Accountant",
+      "soc": "13-2011",
+      "ptr": 0.7645,
+      "nfc": 0.6908,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.3773
+    },
+    {
+      "id": "accounting-coordinator",
+      "label": "Accounting Coordinator",
+      "soc": "43-3031",
+      "ptr": 0.9308,
+      "nfc": 0.8523,
+      "quadrant": "HH",
+      "size": 5.02,
+      "aiExposure": 0.5232
+    },
+    {
+      "id": "tax-executive",
+      "label": "Tax Executive",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.02,
+      "aiExposure": 0
+    },
+    {
+      "id": "finance-intern-accounting-legal",
+      "label": "Finance Intern",
+      "soc": "29-1229",
+      "ptr": 0.3434,
+      "nfc": 0.3208,
+      "quadrant": "LH",
+      "size": 5.02,
+      "aiExposure": 0.2646
+    },
+    {
+      "id": "legal-extern",
+      "label": "Legal Extern",
+      "ptr": 0,
+      "nfc": 0,
+      "quadrant": "LL",
+      "size": 5.01,
+      "aiExposure": 0
+    }
+  ],
+  "edges": [
+    {
+      "source": "senior-audit-associate",
+      "target": "senior-associate",
+      "weight": 0.57
+    },
+    {
+      "source": "tax-associate",
+      "target": "law-clerk",
+      "weight": 0.71
+    },
+    {
+      "source": "legal-assistant",
+      "target": "law-clerk",
+      "weight": 0.82
+    },
+    {
+      "source": "legal-assistant",
+      "target": "associate",
+      "weight": 0.67
+    },
+    {
+      "source": "paralegal",
+      "target": "fund-accountant-accounting-legal",
+      "weight": 0.68
+    },
+    {
+      "source": "paralegal",
+      "target": "staff-accountant",
+      "weight": 0.96
+    },
+    {
+      "source": "tax-manager",
+      "target": "staff-accountant",
+      "weight": 0.94
+    },
+    {
+      "source": "tax-manager",
+      "target": "accountant",
+      "weight": 0.48
+    },
+    {
+      "source": "audit-manager",
+      "target": "audit-senior",
+      "weight": 0.45
+    },
+    {
+      "source": "solicitor",
+      "target": "senior-associate",
+      "weight": 0.84
+    },
+    {
+      "source": "solicitor",
+      "target": "law-clerk",
+      "weight": 0.89
+    },
+    {
+      "source": "tax-consultant",
+      "target": "attorney",
+      "weight": 0.9
+    },
+    {
+      "source": "tax-consultant",
+      "target": "senior-accountant",
+      "weight": 0.4
+    },
+    {
+      "source": "account-assistant",
+      "target": "attorney",
+      "weight": 0.98
+    },
+    {
+      "source": "account-assistant",
+      "target": "trainee-solicitor",
+      "weight": 0.66
+    },
+    {
+      "source": "partner",
+      "target": "staff-accountant",
+      "weight": 0.98
+    },
+    {
+      "source": "partner",
+      "target": "trainee-solicitor",
+      "weight": 0.77
+    },
+    {
+      "source": "financial-accountant",
+      "target": "senior-associate",
+      "weight": 0.87
+    },
+    {
+      "source": "financial-accountant",
+      "target": "staff-accountant",
+      "weight": 0.42
+    },
+    {
+      "source": "senior-auditor",
+      "target": "senior-accountant",
+      "weight": 0.56
+    },
+    {
+      "source": "senior-auditor",
+      "target": "attorney",
+      "weight": 0.71
+    },
+    {
+      "source": "tax-senior",
+      "target": "law-clerk",
+      "weight": 0.86
+    },
+    {
+      "source": "accounting-manager",
+      "target": "trainee-solicitor",
+      "weight": 0.56
+    },
+    {
+      "source": "accounting-manager",
+      "target": "accountant",
+      "weight": 0.9
+    },
+    {
+      "source": "associate-attorney",
+      "target": "senior-associate",
+      "weight": 0.48
+    },
+    {
+      "source": "associate-attorney",
+      "target": "accountant",
+      "weight": 0.53
+    },
+    {
+      "source": "auditor",
+      "target": "law-clerk",
+      "weight": 0.4
+    },
+    {
+      "source": "auditor",
+      "target": "attorney",
+      "weight": 0.63
+    },
+    {
+      "source": "legal-intern",
+      "target": "fund-accountant-accounting-legal",
+      "weight": 0.75
+    },
+    {
+      "source": "summer-associate",
+      "target": "law-clerk",
+      "weight": 0.79
+    },
+    {
+      "source": "assistant-management-accountant",
+      "target": "staff-accountant",
+      "weight": 0.45
+    },
+    {
+      "source": "assistant-controller",
+      "target": "senior-accountant",
+      "weight": 0.8
+    },
+    {
+      "source": "bookkeeper",
+      "target": "senior-associate",
+      "weight": 0.84
+    },
+    {
+      "source": "bookkeeper",
+      "target": "attorney",
+      "weight": 0.6
+    },
+    {
+      "source": "assistant-accountant",
+      "target": "trainee-solicitor",
+      "weight": 0.78
+    },
+    {
+      "source": "assistant-accountant",
+      "target": "accountant",
+      "weight": 0.53
+    },
+    {
+      "source": "senior-paralegal",
+      "target": "accountant",
+      "weight": 0.97
+    },
+    {
+      "source": "tax-senior-associate",
+      "target": "attorney",
+      "weight": 0.72
+    },
+    {
+      "source": "tax-senior-associate",
+      "target": "fund-accountant-accounting-legal",
+      "weight": 0.4
+    },
+    {
+      "source": "assurance-manager",
+      "target": "audit-senior",
+      "weight": 0.67
+    },
+    {
+      "source": "assurance-manager",
+      "target": "staff-accountant",
+      "weight": 0.72
+    },
+    {
+      "source": "audit-associate",
+      "target": "senior-associate",
+      "weight": 0.61
+    },
+    {
+      "source": "audit-associate",
+      "target": "trainee-solicitor",
+      "weight": 0.65
+    },
+    {
+      "source": "cost-accountant",
+      "target": "trainee-solicitor",
+      "weight": 0.98
+    },
+    {
+      "source": "cost-accountant",
+      "target": "associate",
+      "weight": 0.54
+    },
+    {
+      "source": "accounting-supervisor",
+      "target": "senior-associate",
+      "weight": 0.76
+    },
+    {
+      "source": "associate-accountant",
+      "target": "audit-senior",
+      "weight": 0.91
+    },
+    {
+      "source": "legal-secretary",
+      "target": "attorney",
+      "weight": 0.77
+    },
+    {
+      "source": "legal-secretary",
+      "target": "fund-accountant-accounting-legal",
+      "weight": 0.49
+    },
+    {
+      "source": "assistant-general-attorney",
+      "target": "senior-associate",
+      "weight": 0.84
+    },
+    {
+      "source": "assistant-general-counsel",
+      "target": "law-clerk",
+      "weight": 0.58
+    },
+    {
+      "source": "assistant-solicitor",
+      "target": "law-clerk",
+      "weight": 0.87
+    },
+    {
+      "source": "assistant-solicitor",
+      "target": "attorney",
+      "weight": 0.64
+    },
+    {
+      "source": "international-tax-manager",
+      "target": "audit-senior",
+      "weight": 0.42
+    },
+    {
+      "source": "general-counsel",
+      "target": "associate",
+      "weight": 0.73
+    },
+    {
+      "source": "accounting-intern",
+      "target": "trainee-solicitor",
+      "weight": 0.67
+    },
+    {
+      "source": "accounting-intern",
+      "target": "attorney",
+      "weight": 0.59
+    },
+    {
+      "source": "tax-senior-manager",
+      "target": "senior-associate",
+      "weight": 0.65
+    },
+    {
+      "source": "tax-senior-manager",
+      "target": "associate",
+      "weight": 0.69
+    },
+    {
+      "source": "litigation-executive",
+      "target": "accountant",
+      "weight": 0.89
+    },
+    {
+      "source": "experienced-associate",
+      "target": "trainee-solicitor",
+      "weight": 0.59
+    },
+    {
+      "source": "experienced-associate",
+      "target": "law-clerk",
+      "weight": 0.56
+    },
+    {
+      "source": "accounting-clerk",
+      "target": "staff-accountant",
+      "weight": 0.57
+    },
+    {
+      "source": "accounting-clerk",
+      "target": "accountant",
+      "weight": 0.52
+    },
+    {
+      "source": "law-student",
+      "target": "law-clerk",
+      "weight": 0.47
+    },
+    {
+      "source": "law-student",
+      "target": "audit-senior",
+      "weight": 0.85
+    },
+    {
+      "source": "legal-executive",
+      "target": "attorney",
+      "weight": 0.91
+    },
+    {
+      "source": "legal-executive",
+      "target": "accountant",
+      "weight": 0.67
+    },
+    {
+      "source": "accounting-consultant",
+      "target": "accountant",
+      "weight": 0.56
+    },
+    {
+      "source": "account-payable-specialist",
+      "target": "law-clerk",
+      "weight": 0.74
+    },
+    {
+      "source": "account-payable-specialist",
+      "target": "audit-senior",
+      "weight": 0.61
+    },
+    {
+      "source": "corporate-tax-manager",
+      "target": "law-clerk",
+      "weight": 0.69
+    },
+    {
+      "source": "finance-officer",
+      "target": "senior-associate",
+      "weight": 0.98
+    },
+    {
+      "source": "corporate-accounting-manager",
+      "target": "law-clerk",
+      "weight": 0.55
+    },
+    {
+      "source": "corporate-accounting-manager",
+      "target": "associate",
+      "weight": 0.61
+    },
+    {
+      "source": "cost-accounting-manager",
+      "target": "law-clerk",
+      "weight": 0.73
+    },
+    {
+      "source": "cost-accounting-manager",
+      "target": "staff-accountant",
+      "weight": 0.65
+    },
+    {
+      "source": "legal-counsel",
+      "target": "staff-accountant",
+      "weight": 0.69
+    },
+    {
+      "source": "group-accountant",
+      "target": "associate",
+      "weight": 0.6
+    },
+    {
+      "source": "group-accountant",
+      "target": "audit-senior",
+      "weight": 0.51
+    },
+    {
+      "source": "lead-accountant",
+      "target": "associate",
+      "weight": 0.74
+    },
+    {
+      "source": "tax-analyst",
+      "target": "associate",
+      "weight": 0.59
+    },
+    {
+      "source": "tax-analyst",
+      "target": "law-clerk",
+      "weight": 0.97
+    },
+    {
+      "source": "senior-corporate-counsel",
+      "target": "attorney",
+      "weight": 0.48
+    },
+    {
+      "source": "senior-corporate-counsel",
+      "target": "senior-accountant",
+      "weight": 0.87
+    },
+    {
+      "source": "judicial-intern",
+      "target": "associate",
+      "weight": 0.59
+    },
+    {
+      "source": "judicial-intern",
+      "target": "senior-accountant",
+      "weight": 0.64
+    },
+    {
+      "source": "legal-director",
+      "target": "attorney",
+      "weight": 0.43
+    },
+    {
+      "source": "tax-specialist",
+      "target": "law-clerk",
+      "weight": 0.5
+    },
+    {
+      "source": "intellectual-property-counsel",
+      "target": "audit-senior",
+      "weight": 0.6
+    },
+    {
+      "source": "assistant-united-states-attorney-accounting-legal",
+      "target": "senior-accountant",
+      "weight": 0.84
+    },
+    {
+      "source": "managing-associate",
+      "target": "audit-senior",
+      "weight": 0.42
+    },
+    {
+      "source": "claims-counsel-accounting-legal",
+      "target": "trainee-solicitor",
+      "weight": 0.6
+    },
+    {
+      "source": "judge-accounting-legal",
+      "target": "trainee-solicitor",
+      "weight": 0.5
+    },
+    {
+      "source": "assurance-senior-associate",
+      "target": "trainee-solicitor",
+      "weight": 0.46
+    },
+    {
+      "source": "staff-attorney",
+      "target": "trainee-solicitor",
+      "weight": 0.53
+    },
+    {
+      "source": "staff-attorney",
+      "target": "staff-accountant",
+      "weight": 0.96
+    },
+    {
+      "source": "lawyer-accounting-legal",
+      "target": "law-clerk",
+      "weight": 0.94
+    },
+    {
+      "source": "audit-executive",
+      "target": "senior-associate",
+      "weight": 0.57
+    },
+    {
+      "source": "revenue-accountant-accounting-legal",
+      "target": "trainee-solicitor",
+      "weight": 0.62
+    },
+    {
+      "source": "payroll-accountant",
+      "target": "associate",
+      "weight": 0.64
+    },
+    {
+      "source": "payroll-accountant",
+      "target": "accountant",
+      "weight": 0.81
+    },
+    {
+      "source": "plant-accountant",
+      "target": "law-clerk",
+      "weight": 0.89
+    },
+    {
+      "source": "plant-accountant",
+      "target": "staff-accountant",
+      "weight": 0.58
+    },
+    {
+      "source": "general-ledger-accountant",
+      "target": "fund-accountant-accounting-legal",
+      "weight": 0.88
+    },
+    {
+      "source": "legal-analyst",
+      "target": "senior-associate",
+      "weight": 0.97
+    },
+    {
+      "source": "legal-consultant",
+      "target": "accountant",
+      "weight": 0.75
+    },
+    {
+      "source": "legal-consultant",
+      "target": "audit-senior",
+      "weight": 0.44
+    },
+    {
+      "source": "legal-adviser",
+      "target": "law-clerk",
+      "weight": 0.81
+    },
+    {
+      "source": "legal-adviser",
+      "target": "audit-senior",
+      "weight": 0.97
+    },
+    {
+      "source": "inventory-accountant",
+      "target": "senior-accountant",
+      "weight": 0.79
+    },
+    {
+      "source": "inventory-accountant",
+      "target": "audit-senior",
+      "weight": 0.57
+    },
+    {
+      "source": "contract-attorney",
+      "target": "senior-associate",
+      "weight": 0.77
+    },
+    {
+      "source": "contract-attorney",
+      "target": "staff-accountant",
+      "weight": 0.96
+    },
+    {
+      "source": "accounting-assistant",
+      "target": "trainee-solicitor",
+      "weight": 0.45
+    },
+    {
+      "source": "senior-counsel",
+      "target": "senior-associate",
+      "weight": 0.98
+    },
+    {
+      "source": "patent-attorney",
+      "target": "trainee-solicitor",
+      "weight": 0.43
+    },
+    {
+      "source": "project-accountant",
+      "target": "law-clerk",
+      "weight": 0.68
+    },
+    {
+      "source": "litigation-paralegal",
+      "target": "fund-accountant-accounting-legal",
+      "weight": 0.89
+    },
+    {
+      "source": "litigation-paralegal",
+      "target": "law-clerk",
+      "weight": 0.46
+    },
+    {
+      "source": "audit-intern",
+      "target": "senior-accountant",
+      "weight": 0.45
+    },
+    {
+      "source": "senior-solicitor",
+      "target": "audit-senior",
+      "weight": 0.79
+    },
+    {
+      "source": "judicial-law-clerk",
+      "target": "senior-accountant",
+      "weight": 0.98
+    },
+    {
+      "source": "judicial-law-clerk",
+      "target": "accountant",
+      "weight": 0.94
+    },
+    {
+      "source": "advisor-associate",
+      "target": "staff-accountant",
+      "weight": 0.78
+    },
+    {
+      "source": "litigation-associate",
+      "target": "attorney",
+      "weight": 0.46
+    },
+    {
+      "source": "accounting-analyst",
+      "target": "senior-associate",
+      "weight": 0.63
+    },
+    {
+      "source": "accounting-analyst",
+      "target": "staff-accountant",
+      "weight": 0.47
+    },
+    {
+      "source": "junior-accountant",
+      "target": "associate",
+      "weight": 0.56
+    },
+    {
+      "source": "tax-accountant",
+      "target": "trainee-solicitor",
+      "weight": 0.99
+    },
+    {
+      "source": "tax-accountant",
+      "target": "law-clerk",
+      "weight": 0.89
+    },
+    {
+      "source": "tax-intern",
+      "target": "fund-accountant-accounting-legal",
+      "weight": 0.68
+    },
+    {
+      "source": "accountant-ii",
+      "target": "accountant",
+      "weight": 0.73
+    },
+    {
+      "source": "principal-auditor",
+      "target": "law-clerk",
+      "weight": 0.96
+    },
+    {
+      "source": "audit-supervisor",
+      "target": "accountant",
+      "weight": 0.69
+    },
+    {
+      "source": "audit-supervisor",
+      "target": "senior-accountant",
+      "weight": 0.79
+    },
+    {
+      "source": "assistant-district-attorney-accounting-legal",
+      "target": "staff-accountant",
+      "weight": 0.91
+    },
+    {
+      "source": "tax-senior-accountant",
+      "target": "trainee-solicitor",
+      "weight": 0.49
+    },
+    {
+      "source": "accountant-iii",
+      "target": "senior-accountant",
+      "weight": 0.44
+    },
+    {
+      "source": "assurance-associate",
+      "target": "audit-senior",
+      "weight": 0.58
+    },
+    {
+      "source": "assurance-associate",
+      "target": "law-clerk",
+      "weight": 0.55
+    },
+    {
+      "source": "summer-legal-intern",
+      "target": "fund-accountant-accounting-legal",
+      "weight": 0.64
+    },
+    {
+      "source": "summer-legal-intern",
+      "target": "senior-accountant",
+      "weight": 0.45
+    },
+    {
+      "source": "counsel",
+      "target": "law-clerk",
+      "weight": 0.78
+    },
+    {
+      "source": "counsel",
+      "target": "accountant",
+      "weight": 0.59
+    },
+    {
+      "source": "staff-auditor",
+      "target": "senior-accountant",
+      "weight": 0.4
+    },
+    {
+      "source": "staff-auditor",
+      "target": "associate",
+      "weight": 0.95
+    },
+    {
+      "source": "assistant-city-attorney-accounting-legal",
+      "target": "accountant",
+      "weight": 0.76
+    },
+    {
+      "source": "judicial-extern",
+      "target": "law-clerk",
+      "weight": 0.87
+    },
+    {
+      "source": "certified-public-accountant",
+      "target": "law-clerk",
+      "weight": 0.48
+    },
+    {
+      "source": "certified-public-accountant",
+      "target": "staff-accountant",
+      "weight": 0.94
+    },
+    {
+      "source": "legal-manager",
+      "target": "fund-accountant-accounting-legal",
+      "weight": 0.55
+    },
+    {
+      "source": "attorney-advisor-accounting-legal",
+      "target": "staff-accountant",
+      "weight": 0.69
+    },
+    {
+      "source": "attorney-advisor-accounting-legal",
+      "target": "trainee-solicitor",
+      "weight": 0.91
+    },
+    {
+      "source": "senior-fund-accountant-accounting-legal",
+      "target": "trainee-solicitor",
+      "weight": 0.51
+    },
+    {
+      "source": "immigration-paralegal",
+      "target": "law-clerk",
+      "weight": 0.42
+    },
+    {
+      "source": "tax-supervisor",
+      "target": "audit-senior",
+      "weight": 0.71
+    },
+    {
+      "source": "legal-officer",
+      "target": "audit-senior",
+      "weight": 0.75
+    },
+    {
+      "source": "legal-officer",
+      "target": "attorney",
+      "weight": 0.49
+    },
+    {
+      "source": "senior-staff-accountant",
+      "target": "senior-associate",
+      "weight": 0.49
+    },
+    {
+      "source": "assistant-public-defender",
+      "target": "law-clerk",
+      "weight": 0.6
+    },
+    {
+      "source": "assistant-public-defender",
+      "target": "associate",
+      "weight": 0.49
+    },
+    {
+      "source": "deputy-district-attorney-accounting-legal",
+      "target": "trainee-solicitor",
+      "weight": 0.89
+    },
+    {
+      "source": "law-intern",
+      "target": "audit-senior",
+      "weight": 0.48
+    },
+    {
+      "source": "legal-clerk",
+      "target": "senior-associate",
+      "weight": 0.95
+    },
+    {
+      "source": "corporate-paralegal",
+      "target": "senior-associate",
+      "weight": 0.54
+    },
+    {
+      "source": "finance-associate-accounting-legal",
+      "target": "staff-accountant",
+      "weight": 0.46
+    },
+    {
+      "source": "finance-associate-accounting-legal",
+      "target": "accountant",
+      "weight": 0.4
+    },
+    {
+      "source": "corporate-counsel",
+      "target": "audit-senior",
+      "weight": 0.53
+    },
+    {
+      "source": "corporate-associate",
+      "target": "senior-accountant",
+      "weight": 0.86
+    },
+    {
+      "source": "patent-agent-accounting-legal",
+      "target": "accountant",
+      "weight": 0.61
+    },
+    {
+      "source": "assistant-state-attorney-accounting-legal",
+      "target": "attorney",
+      "weight": 0.52
+    },
+    {
+      "source": "litigation-assistant",
+      "target": "senior-associate",
+      "weight": 0.46
+    },
+    {
+      "source": "litigation-assistant",
+      "target": "law-clerk",
+      "weight": 0.95
+    },
+    {
+      "source": "assurance-intern",
+      "target": "staff-accountant",
+      "weight": 0.52
+    },
+    {
+      "source": "assurance-intern",
+      "target": "audit-senior",
+      "weight": 0.43
+    },
+    {
+      "source": "client-accountant",
+      "target": "law-clerk",
+      "weight": 0.86
+    },
+    {
+      "source": "client-accountant",
+      "target": "fund-accountant-accounting-legal",
+      "weight": 0.78
+    },
+    {
+      "source": "commercial-accountant",
+      "target": "audit-senior",
+      "weight": 0.78
+    },
+    {
+      "source": "commercial-accountant",
+      "target": "accountant",
+      "weight": 0.41
+    },
+    {
+      "source": "auditor-ii",
+      "target": "associate",
+      "weight": 0.95
+    },
+    {
+      "source": "account-senior",
+      "target": "senior-accountant",
+      "weight": 0.69
+    },
+    {
+      "source": "assistant-tax-manager",
+      "target": "trainee-solicitor",
+      "weight": 0.83
+    },
+    {
+      "source": "legal-administrative-assistant",
+      "target": "law-clerk",
+      "weight": 1
+    },
+    {
+      "source": "legal-advisor",
+      "target": "associate",
+      "weight": 0.57
+    },
+    {
+      "source": "legal-advisor",
+      "target": "attorney",
+      "weight": 0.87
+    },
+    {
+      "source": "financial-reporting-analyst-accounting-legal",
+      "target": "staff-accountant",
+      "weight": 0.67
+    },
+    {
+      "source": "financial-reporting-analyst-accounting-legal",
+      "target": "attorney",
+      "weight": 0.71
+    },
+    {
+      "source": "legal-specialist",
+      "target": "senior-accountant",
+      "weight": 0.46
+    },
+    {
+      "source": "legal-specialist",
+      "target": "law-clerk",
+      "weight": 0.52
+    },
+    {
+      "source": "tax-advisor",
+      "target": "fund-accountant-accounting-legal",
+      "weight": 0.68
+    },
+    {
+      "source": "senior-attorney",
+      "target": "senior-associate",
+      "weight": 0.82
+    },
+    {
+      "source": "senior-attorney",
+      "target": "fund-accountant-accounting-legal",
+      "weight": 0.56
+    },
+    {
+      "source": "financial-reporting-manager",
+      "target": "law-clerk",
+      "weight": 0.68
+    },
+    {
+      "source": "senior-audit-manager",
+      "target": "attorney",
+      "weight": 0.74
+    },
+    {
+      "source": "senior-audit-manager",
+      "target": "law-clerk",
+      "weight": 0.83
+    },
+    {
+      "source": "purchase-ledger-assistant",
+      "target": "senior-accountant",
+      "weight": 0.91
+    },
+    {
+      "source": "accounting-specialist",
+      "target": "accountant",
+      "weight": 0.47
+    },
+    {
+      "source": "senior-cost-accountant",
+      "target": "senior-associate",
+      "weight": 0.82
+    },
+    {
+      "source": "senior-cost-accountant",
+      "target": "law-clerk",
+      "weight": 0.7
+    },
+    {
+      "source": "accounting-coordinator",
+      "target": "law-clerk",
+      "weight": 0.52
+    },
+    {
+      "source": "tax-executive",
+      "target": "trainee-solicitor",
+      "weight": 0.71
+    },
+    {
+      "source": "finance-intern-accounting-legal",
+      "target": "law-clerk",
+      "weight": 0.46
+    },
+    {
+      "source": "legal-extern",
+      "target": "accountant",
+      "weight": 0.86
+    },
+    {
+      "source": "legal-extern",
+      "target": "senior-associate",
+      "weight": 0.74
+    },
+    {
+      "source": "associate",
+      "target": "accountant",
+      "weight": 0.94
+    },
+    {
+      "source": "associate",
+      "target": "staff-accountant",
+      "weight": 0.91
+    },
+    {
+      "source": "associate",
+      "target": "trainee-solicitor",
+      "weight": 0.64
+    },
+    {
+      "source": "accountant",
+      "target": "senior-accountant",
+      "weight": 0.8
+    },
+    {
+      "source": "accountant",
+      "target": "staff-accountant",
+      "weight": 0.9
+    },
+    {
+      "source": "accountant",
+      "target": "senior-associate",
+      "weight": 0.73
+    },
+    {
+      "source": "accountant",
+      "target": "trainee-solicitor",
+      "weight": 0.65
+    },
+    {
+      "source": "accountant",
+      "target": "attorney",
+      "weight": 0.82
+    },
+    {
+      "source": "accountant",
+      "target": "audit-senior",
+      "weight": 0.65
+    },
+    {
+      "source": "accountant",
+      "target": "law-clerk",
+      "weight": 0.94
+    },
+    {
+      "source": "senior-accountant",
+      "target": "senior-associate",
+      "weight": 0.81
+    },
+    {
+      "source": "senior-accountant",
+      "target": "trainee-solicitor",
+      "weight": 0.96
+    },
+    {
+      "source": "senior-accountant",
+      "target": "fund-accountant-accounting-legal",
+      "weight": 0.91
+    },
+    {
+      "source": "senior-accountant",
+      "target": "attorney",
+      "weight": 0.68
+    },
+    {
+      "source": "senior-accountant",
+      "target": "audit-senior",
+      "weight": 0.91
+    },
+    {
+      "source": "senior-accountant",
+      "target": "law-clerk",
+      "weight": 0.68
+    },
+    {
+      "source": "staff-accountant",
+      "target": "trainee-solicitor",
+      "weight": 0.83
+    },
+    {
+      "source": "staff-accountant",
+      "target": "fund-accountant-accounting-legal",
+      "weight": 0.95
+    },
+    {
+      "source": "staff-accountant",
+      "target": "attorney",
+      "weight": 0.9
+    },
+    {
+      "source": "staff-accountant",
+      "target": "audit-senior",
+      "weight": 0.89
+    },
+    {
+      "source": "staff-accountant",
+      "target": "law-clerk",
+      "weight": 0.72
+    },
+    {
+      "source": "senior-associate",
+      "target": "fund-accountant-accounting-legal",
+      "weight": 0.68
+    },
+    {
+      "source": "senior-associate",
+      "target": "attorney",
+      "weight": 0.66
+    },
+    {
+      "source": "senior-associate",
+      "target": "audit-senior",
+      "weight": 0.73
+    },
+    {
+      "source": "senior-associate",
+      "target": "law-clerk",
+      "weight": 0.75
+    },
+    {
+      "source": "trainee-solicitor",
+      "target": "fund-accountant-accounting-legal",
+      "weight": 0.78
+    },
+    {
+      "source": "trainee-solicitor",
+      "target": "attorney",
+      "weight": 0.76
+    },
+    {
+      "source": "trainee-solicitor",
+      "target": "audit-senior",
+      "weight": 0.99
+    },
+    {
+      "source": "trainee-solicitor",
+      "target": "law-clerk",
+      "weight": 0.63
+    },
+    {
+      "source": "fund-accountant-accounting-legal",
+      "target": "attorney",
+      "weight": 0.74
+    },
+    {
+      "source": "fund-accountant-accounting-legal",
+      "target": "audit-senior",
+      "weight": 0.85
+    },
+    {
+      "source": "fund-accountant-accounting-legal",
+      "target": "law-clerk",
+      "weight": 0.98
+    },
+    {
+      "source": "attorney",
+      "target": "audit-senior",
+      "weight": 0.81
+    },
+    {
+      "source": "attorney",
+      "target": "law-clerk",
+      "weight": 0.96
+    },
+    {
+      "source": "audit-senior",
+      "target": "law-clerk",
+      "weight": 0.62
+    },
+    {
+      "source": "associate",
+      "target": "paralegal",
+      "weight": 0.7
+    },
+    {
+      "source": "trainee-solicitor",
+      "target": "solicitor",
+      "weight": 0.7
+    },
+    {
+      "source": "trainee-solicitor",
+      "target": "assistant-solicitor",
+      "weight": 0.7
+    },
+    {
+      "source": "trainee-solicitor",
+      "target": "senior-solicitor",
+      "weight": 0.7
+    },
+    {
+      "source": "solicitor",
+      "target": "assistant-solicitor",
+      "weight": 0.7
+    },
+    {
+      "source": "solicitor",
+      "target": "senior-solicitor",
+      "weight": 0.7
+    },
+    {
+      "source": "assistant-solicitor",
+      "target": "senior-solicitor",
+      "weight": 0.7
+    },
+    {
+      "source": "law-clerk",
+      "target": "accounting-clerk",
+      "weight": 0.7
+    },
+    {
+      "source": "law-clerk",
+      "target": "judicial-law-clerk",
+      "weight": 0.7
+    },
+    {
+      "source": "law-clerk",
+      "target": "legal-clerk",
+      "weight": 0.7
+    },
+    {
+      "source": "accounting-clerk",
+      "target": "judicial-law-clerk",
+      "weight": 0.7
+    },
+    {
+      "source": "accounting-clerk",
+      "target": "legal-clerk",
+      "weight": 0.7
+    },
+    {
+      "source": "judicial-law-clerk",
+      "target": "legal-clerk",
+      "weight": 0.7
+    },
+    {
+      "source": "audit-manager",
+      "target": "senior-audit-manager",
+      "weight": 0.7
+    },
+    {
+      "source": "auditor",
+      "target": "assurance-associate",
+      "weight": 0.7
+    },
+    {
+      "source": "legal-secretary",
+      "target": "legal-executive",
+      "weight": 0.7
+    },
+    {
+      "source": "legal-secretary",
+      "target": "legal-administrative-assistant",
+      "weight": 0.7
+    },
+    {
+      "source": "legal-executive",
+      "target": "legal-administrative-assistant",
+      "weight": 0.7
+    }
+  ]
+}
