@@ -90,6 +90,33 @@ export function Hero() {
             career constraints capture distinct vulnerabilities.
           </p>
         </motion.div>
+
+        {/* Research Context */}
+        <motion.div
+          className="mt-16 max-w-3xl mx-auto text-left"
+          initial={{ opacity: 0, y: 30 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.6, delay: 0.5 }}
+        >
+          <div className="prose prose-slate dark:prose-invert">
+            <p className="text-lg text-slate-600 dark:text-slate-300 leading-relaxed">
+              The debate over AI's labor market impact has largely focused on{" "}
+              <em>which jobs</em> are susceptible to automation—a question of task-level
+              exposure. Yet this framing misses a crucial dimension: workers don't simply
+              occupy static positions, they move through career networks over time. A role's
+              vulnerability depends not only on what tasks it contains, but on where it sits
+              within the broader landscape of professional advancement.
+            </p>
+            <p className="text-slate-600 dark:text-slate-300 leading-relaxed mt-4">
+              This analysis applies a framework for understanding <strong>structural
+              vulnerability</strong>: the degree to which AI-exposed positions are embedded
+              in constrained career pathways. By analyzing over 500,000 validated promotion
+              transitions across 20 industry sectors, we map the career networks that workers
+              actually navigate—and identify the positions where AI exposure combines with
+              limited mobility options to create compounding risk.
+            </p>
+          </div>
+        </motion.div>
       </div>
 
       {/* Scroll indicator */}

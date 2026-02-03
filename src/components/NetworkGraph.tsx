@@ -42,6 +42,16 @@ export function NetworkGraph({
   const [dimensions, setDimensions] = useState({ width, height });
   const simulationRef = useRef<d3.Simulation<SimulationNode, SimulationEdge> | null>(null);
 
+  // Store callbacks in refs to avoid re-creating the visualization on hover
+  const onNodeHoverRef = useRef(onNodeHover);
+  const onNodeClickRef = useRef(onNodeClick);
+
+  // Keep refs updated
+  useEffect(() => {
+    onNodeHoverRef.current = onNodeHover;
+    onNodeClickRef.current = onNodeClick;
+  }, [onNodeHover, onNodeClick]);
+
   // Responsive sizing
   useEffect(() => {
     const updateDimensions = () => {
@@ -91,6 +101,22 @@ export function NetworkGraph({
 
     const { width: w, height: h } = dimensions;
 
+    // Add arrow marker definitions
+    const defs = svg.append('defs');
+
+    // Arrow marker for edges
+    defs.append('marker')
+      .attr('id', 'arrowhead')
+      .attr('viewBox', '0 -5 10 10')
+      .attr('refX', 20) // Position arrow away from node center
+      .attr('refY', 0)
+      .attr('markerWidth', 6)
+      .attr('markerHeight', 6)
+      .attr('orient', 'auto')
+      .append('path')
+      .attr('d', 'M0,-5L10,0L0,5')
+      .attr('fill', '#64748b');
+
     // Create zoom behavior
     const zoom = d3.zoom<SVGSVGElement, unknown>()
       .scaleExtent([0.2, 4])
@@ -123,7 +149,7 @@ export function NetworkGraph({
       })
       .filter((e): e is SimulationEdge => e !== null);
 
-    // Create simulation
+    // Create simulation - runs once then stops completely
     const simulation = d3
       .forceSimulation(simNodes)
       .force(
@@ -131,42 +157,28 @@ export function NetworkGraph({
         d3
           .forceLink<SimulationNode, SimulationEdge>(simEdges)
           .id((d) => d.id)
-          .distance(80)
+          .distance(120)
           .strength(0.3)
       )
-      .force('charge', d3.forceManyBody().strength(-150))
+      .force('charge', d3.forceManyBody().strength(-300))
       .force('center', d3.forceCenter(w / 2, h / 2))
-      .force('collision', d3.forceCollide<SimulationNode>().radius((d) => d.size + 3));
+      .force('collision', d3.forceCollide<SimulationNode>().radius((d) => d.size + 10))
+      .alphaDecay(0.05) // Even faster stabilization
+      .velocityDecay(0.6); // More damping
 
     simulationRef.current = simulation;
 
-    // Draw edges
+    // Draw edges FIRST (so they appear behind nodes) - using path for arrows
     const links = container
       .append('g')
       .attr('class', 'links')
       .selectAll('line')
       .data(simEdges)
       .join('line')
-      .attr('class', 'network-link')
-      .attr('stroke-width', (d) => Math.max(1, d.weight * 2));
-
-    // Drag behavior
-    const dragBehavior = d3
-      .drag<SVGGElement, SimulationNode>()
-      .on('start', (event, d) => {
-        if (!event.active) simulation.alphaTarget(0.3).restart();
-        d.fx = d.x;
-        d.fy = d.y;
-      })
-      .on('drag', (event, d) => {
-        d.fx = event.x;
-        d.fy = event.y;
-      })
-      .on('end', (event, d) => {
-        if (!event.active) simulation.alphaTarget(0);
-        d.fx = null;
-        d.fy = null;
-      });
+      .attr('stroke', '#64748b')
+      .attr('stroke-opacity', 0.5)
+      .attr('stroke-width', (d) => Math.max(1.5, d.weight * 2))
+      .attr('marker-end', 'url(#arrowhead)');
 
     // Draw nodes
     const nodeGroup = container
@@ -176,7 +188,37 @@ export function NetworkGraph({
       .data(simNodes)
       .join('g')
       .attr('class', 'node-group')
-      .style('cursor', 'pointer');
+      .style('cursor', 'grab');
+
+    // Drag behavior - only for explicit dragging, simulation stays stopped
+    const dragBehavior = d3
+      .drag<SVGGElement, SimulationNode>()
+      .on('start', function (_event, d) {
+        d3.select(this).style('cursor', 'grabbing');
+        d.fx = d.x;
+        d.fy = d.y;
+      })
+      .on('drag', function (event, d) {
+        d.fx = event.x;
+        d.fy = event.y;
+        d.x = event.x;
+        d.y = event.y;
+        // Update this node's position immediately
+        d3.select(this).attr('transform', `translate(${event.x},${event.y})`);
+        // Update connected edges
+        links
+          .filter((l) => l.source === d || l.target === d)
+          .attr('x1', (l) => l.source.x)
+          .attr('y1', (l) => l.source.y)
+          .attr('x2', (l) => l.target.x)
+          .attr('y2', (l) => l.target.y);
+      })
+      .on('end', function (_event, d) {
+        d3.select(this).style('cursor', 'grab');
+        // Keep node fixed where user dropped it
+        d.fx = d.x;
+        d.fy = d.y;
+      });
 
     // Apply drag to node groups
     nodeGroup.call(dragBehavior);
@@ -196,25 +238,26 @@ export function NetworkGraph({
       .append('text')
       .attr('dy', (d) => d.size + 12)
       .attr('text-anchor', 'middle')
-      .attr('class', 'text-xs fill-slate-600 dark:fill-slate-400 pointer-events-none')
+      .attr('class', 'text-xs pointer-events-none')
+      .attr('fill', '#475569')
       .text((d) => d.label.length > 20 ? d.label.slice(0, 18) + '...' : d.label);
 
-    // Hover and click handlers
+    // Hover and click handlers - use refs to avoid re-render issues
     nodeGroup
       .on('mouseenter', function (_event, d) {
         d3.select(this).select('circle').attr('stroke', '#000').attr('stroke-width', 3);
-        onNodeHover?.(d);
+        onNodeHoverRef.current?.(d);
       })
       .on('mouseleave', function () {
         d3.select(this).select('circle').attr('stroke', '#fff').attr('stroke-width', 2);
-        onNodeHover?.(null);
+        onNodeHoverRef.current?.(null);
       })
-      .on('click', (event, d) => {
+      .on('click', function (event, d) {
         event.stopPropagation();
-        onNodeClick?.(d);
+        onNodeClickRef.current?.(d);
       });
 
-    // Update positions on tick
+    // Update positions on tick during initial layout
     simulation.on('tick', () => {
       links
         .attr('x1', (d) => d.source.x)
@@ -223,6 +266,16 @@ export function NetworkGraph({
         .attr('y2', (d) => d.target.y);
 
       nodeGroup.attr('transform', (d) => `translate(${d.x},${d.y})`);
+    });
+
+    // Stop simulation completely after it stabilizes
+    simulation.on('end', () => {
+      // Fix all nodes in place so no more physics
+      simNodes.forEach((n) => {
+        n.fx = n.x;
+        n.fy = n.y;
+      });
+      console.log('Network layout stabilized - simulation stopped');
     });
 
     // Initial zoom to fit
@@ -235,7 +288,7 @@ export function NetworkGraph({
     return () => {
       simulation.stop();
     };
-  }, [nodes, edges, dimensions, onNodeClick, onNodeHover, getNodeOpacity]);
+  }, [nodes, edges, dimensions, getNodeOpacity]);
 
   // Update opacities when filters change
   useEffect(() => {

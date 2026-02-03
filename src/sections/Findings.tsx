@@ -80,7 +80,7 @@ export function Findings() {
       <div className="section-container">
         {/* Header */}
         <motion.div
-          className="text-center max-w-3xl mx-auto mb-16"
+          className="text-center max-w-3xl mx-auto mb-8"
           initial={{ opacity: 0, y: 30 }}
           animate={isVisible ? { opacity: 1, y: 0 } : {}}
           transition={{ duration: 0.6 }}
@@ -91,6 +91,40 @@ export function Findings() {
           <p className="mt-4 text-lg text-slate-600 dark:text-slate-300">
             Four critical insights from analyzing {stats?.totalRoles.toLocaleString() || '15,759'} roles
             across {stats?.totalSectors || 20} sectors.
+          </p>
+        </motion.div>
+
+        {/* Research findings narrative */}
+        <motion.div
+          className="prose prose-slate dark:prose-invert max-w-3xl mx-auto mb-12"
+          initial={{ opacity: 0, y: 30 }}
+          animate={isVisible ? { opacity: 1, y: 0 } : {}}
+          transition={{ duration: 0.6, delay: 0.1 }}
+        >
+          <p className="leading-relaxed">
+            Our analysis yields four principal findings about how AI exposure intersects with
+            career network structure. These results suggest that traditional policy
+            approaches—which focus exclusively on task-level exposure—miss a substantial
+            portion of structural vulnerability in the labor market.
+          </p>
+          <p className="leading-relaxed">
+            A central finding is the <strong>near-orthogonality</strong> of our two
+            vulnerability dimensions. The near-zero correlation between PTR and NFC means that
+            knowing a worker's direct AI exposure tells us almost nothing about their career
+            mobility constraints, and vice versa. This independence implies that single-metric
+            approaches to identifying "at-risk" workers will systematically overlook roughly
+            half of the vulnerability landscape. Policy interventions must account for both
+            dimensions simultaneously.
+          </p>
+          <p className="leading-relaxed">
+            The <strong>cascade validation</strong> results provide clear evidence that high-PTR
+            roles occupy structurally important positions. When we simulate removing high-PTR roles from the career
+            network—a rough proxy for what would happen if AI displaced workers in these
+            positions—the network fragments at three times the rate of random removal. This
+            confirms that high-PTR positions aren't just individually vulnerable; they serve
+            as critical connectors in the career mobility infrastructure. Their disruption
+            would ripple through adjacent positions, potentially stranding workers who themselves
+            face no direct AI exposure.
           </p>
         </motion.div>
 

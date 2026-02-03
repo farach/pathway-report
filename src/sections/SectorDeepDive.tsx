@@ -67,7 +67,7 @@ export function SectorDeepDive() {
       <div className="section-container">
         {/* Header */}
         <motion.div
-          className="text-center max-w-3xl mx-auto mb-12"
+          className="text-center max-w-3xl mx-auto mb-8"
           initial={{ opacity: 0, y: 30 }}
           animate={isVisible ? { opacity: 1, y: 0 } : {}}
           transition={{ duration: 0.6 }}
@@ -78,6 +78,35 @@ export function SectorDeepDive() {
           <p className="mt-4 text-lg text-slate-600 dark:text-slate-300">
             Vulnerability metrics vary significantly across sectors, suggesting the need for
             targeted intervention strategies.
+          </p>
+        </motion.div>
+
+        {/* Sector narrative prose */}
+        <motion.div
+          className="prose prose-slate dark:prose-invert max-w-3xl mx-auto mb-12"
+          initial={{ opacity: 0, y: 30 }}
+          animate={isVisible ? { opacity: 1, y: 0 } : {}}
+          transition={{ duration: 0.6, delay: 0.05 }}
+        >
+          <p className="leading-relaxed">
+            One of the clearest patterns from this analysis is the <strong>substantial heterogeneity</strong>{" "}
+            across industry sectors. The proportion of "double jeopardy" (HH) roles—those facing both
+            high AI exposure and constrained career mobility—ranges from roughly 35% in some sectors
+            to over 45% in others. This 10+ percentage point spread represents meaningful variation
+            that should inform sector-specific workforce development strategies.
+          </p>
+          <p className="leading-relaxed">
+            The table below is sorted by HH share by default, highlighting the sectors with the
+            highest concentrations of structurally vulnerable positions. However, raw HH percentage
+            is not the only relevant dimension. A sector with moderate HH share but extremely high
+            average PTR may face different challenges than one with high HH share but lower typical
+            exposure. Click any row to see additional detail on the role composition within each sector.
+          </p>
+          <p className="leading-relaxed">
+            <strong>Policy implication:</strong> Workforce interventions should not apply uniformly
+            across industries. Sectors with high HH concentration may require systematic career pathway
+            redesign, while those with high PTR but low NFC may benefit more from traditional upskilling
+            programs that help workers leverage existing mobility options.
           </p>
         </motion.div>
 

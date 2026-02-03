@@ -63,49 +63,54 @@ export function QuadrantLegend({
 
 export function QuadrantDiagram({ className }: { className?: string }) {
   return (
-    <div className={cn('relative aspect-square max-w-md mx-auto', className)}>
-      {/* Grid */}
-      <div className="absolute inset-0 grid grid-cols-2 grid-rows-2 gap-1">
-        {/* High-High (top-right) */}
-        <div className="order-2 bg-red-100 dark:bg-red-900/30 rounded-tr-2xl p-4 flex flex-col justify-center items-center">
-          <span className="font-bold text-red-700 dark:text-red-400 text-xl">HH</span>
-          <span className="text-xs text-red-600 dark:text-red-400 text-center mt-1">
-            High PTR<br />High NFC
-          </span>
+    <div className={cn('relative max-w-md mx-auto', className)}>
+      {/* Container with space for axis labels */}
+      <div className="ml-16 mb-10">
+        {/* Grid */}
+        <div className="aspect-square grid grid-cols-2 grid-rows-2 gap-1">
+          {/* Low-High (top-left) */}
+          <div className="bg-purple-100 dark:bg-purple-900/30 rounded-tl-2xl p-4 flex flex-col justify-center items-center">
+            <span className="font-bold text-purple-700 dark:text-purple-400 text-xl">LH</span>
+            <span className="text-xs text-purple-600 dark:text-purple-400 text-center mt-1">
+              Low PTR<br />High NFC
+            </span>
+          </div>
+
+          {/* High-High (top-right) */}
+          <div className="bg-red-100 dark:bg-red-900/30 rounded-tr-2xl p-4 flex flex-col justify-center items-center">
+            <span className="font-bold text-red-700 dark:text-red-400 text-xl">HH</span>
+            <span className="text-xs text-red-600 dark:text-red-400 text-center mt-1">
+              High PTR<br />High NFC
+            </span>
+          </div>
+
+          {/* Low-Low (bottom-left) */}
+          <div className="bg-green-100 dark:bg-green-900/30 rounded-bl-2xl p-4 flex flex-col justify-center items-center">
+            <span className="font-bold text-green-700 dark:text-green-400 text-xl">LL</span>
+            <span className="text-xs text-green-600 dark:text-green-400 text-center mt-1">
+              Low PTR<br />Low NFC
+            </span>
+          </div>
+
+          {/* High-Low (bottom-right) */}
+          <div className="bg-orange-100 dark:bg-orange-900/30 rounded-br-2xl p-4 flex flex-col justify-center items-center">
+            <span className="font-bold text-orange-700 dark:text-orange-400 text-xl">HL</span>
+            <span className="text-xs text-orange-600 dark:text-orange-400 text-center mt-1">
+              High PTR<br />Low NFC
+            </span>
+          </div>
         </div>
 
-        {/* Low-High (top-left) */}
-        <div className="order-1 bg-purple-100 dark:bg-purple-900/30 rounded-tl-2xl p-4 flex flex-col justify-center items-center">
-          <span className="font-bold text-purple-700 dark:text-purple-400 text-xl">LH</span>
-          <span className="text-xs text-purple-600 dark:text-purple-400 text-center mt-1">
-            Low PTR<br />High NFC
-          </span>
-        </div>
-
-        {/* High-Low (bottom-right) */}
-        <div className="order-4 bg-orange-100 dark:bg-orange-900/30 rounded-br-2xl p-4 flex flex-col justify-center items-center">
-          <span className="font-bold text-orange-700 dark:text-orange-400 text-xl">HL</span>
-          <span className="text-xs text-orange-600 dark:text-orange-400 text-center mt-1">
-            High PTR<br />Low NFC
-          </span>
-        </div>
-
-        {/* Low-Low (bottom-left) */}
-        <div className="order-3 bg-green-100 dark:bg-green-900/30 rounded-bl-2xl p-4 flex flex-col justify-center items-center">
-          <span className="font-bold text-green-700 dark:text-green-400 text-xl">LL</span>
-          <span className="text-xs text-green-600 dark:text-green-400 text-center mt-1">
-            Low PTR<br />Low NFC
-          </span>
+        {/* X-axis label (bottom) */}
+        <div className="mt-3 text-center text-sm font-medium text-slate-600 dark:text-slate-400">
+          Personal Transition Risk (PTR) →
         </div>
       </div>
 
-      {/* Axis labels */}
-      <div className="absolute -bottom-8 left-0 right-0 text-center text-sm font-medium text-slate-600 dark:text-slate-400">
-        Personal Transition Risk (PTR) →
-      </div>
-      <div className="absolute -left-8 top-0 bottom-0 flex items-center justify-center">
-        <span className="text-sm font-medium text-slate-600 dark:text-slate-400 transform -rotate-90 whitespace-nowrap">
-          ← Network Flexibility Constraint (NFC)
+      {/* Y-axis label (left side, outside the grid) */}
+      <div className="absolute left-0 top-0 bottom-10 w-14 flex items-center justify-center">
+        <span className="text-sm font-medium text-slate-600 dark:text-slate-400 transform -rotate-90 whitespace-nowrap origin-center">
+          Network Flexibility Constraint (NFC) →
         </span>
       </div>
     </div>

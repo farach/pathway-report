@@ -48,7 +48,7 @@ export function NetworkExplorer() {
       <div className="section-container">
         {/* Header */}
         <motion.div
-          className="text-center max-w-3xl mx-auto mb-12"
+          className="text-center max-w-3xl mx-auto mb-8"
           initial={{ opacity: 0, y: 30 }}
           animate={isVisible ? { opacity: 1, y: 0 } : {}}
           transition={{ duration: 0.6 }}
@@ -57,8 +57,46 @@ export function NetworkExplorer() {
             Explore Career Networks
           </h2>
           <p className="mt-4 text-lg text-slate-600 dark:text-slate-300">
-            Interactive visualization of career mobility pathways. Each node represents a job role,
-            sized by its centrality in the promotion network.
+            Interactive visualization of promotion pathways within each sector
+          </p>
+        </motion.div>
+
+        {/* Explanatory prose */}
+        <motion.div
+          className="prose prose-slate dark:prose-invert max-w-3xl mx-auto mb-12"
+          initial={{ opacity: 0, y: 30 }}
+          animate={isVisible ? { opacity: 1, y: 0 } : {}}
+          transition={{ duration: 0.6, delay: 0.1 }}
+        >
+          <p className="leading-relaxed">
+            The network below visualizes career progression pathways within each sector.
+            <strong> Nodes</strong> represent distinct job roles, sized by their betweenness
+            centrality—a measure of how many career paths flow through that position.
+            Larger nodes are "chokepoint" roles that many workers must pass through to advance.
+            <strong> Edges</strong> represent validated promotion transitions observed in
+            resume data; thicker lines indicate more frequently traveled pathways.
+          </p>
+          <p className="leading-relaxed">
+            Node colors indicate quadrant membership: <span className="text-red-600 font-semibold">red (HH)</span> for
+            double jeopardy roles, <span className="text-orange-600 font-semibold">orange (HL)</span> for
+            exposed but mobile, <span className="text-purple-600 font-semibold">purple (LH)</span> for
+            network trapped, and <span className="text-green-600 font-semibold">green (LL)</span> for
+            structurally resilient positions. Use the filters below to highlight specific
+            vulnerability profiles or search for particular job titles.
+          </p>
+        </motion.div>
+
+        {/* How to read callout */}
+        <motion.div
+          className="bg-amber-50 dark:bg-amber-950/30 border border-amber-200 dark:border-amber-800 rounded-xl p-4 mb-8 max-w-3xl mx-auto"
+          initial={{ opacity: 0, y: 20 }}
+          animate={isVisible ? { opacity: 1, y: 0 } : {}}
+          transition={{ duration: 0.6, delay: 0.15 }}
+        >
+          <p className="text-sm text-amber-800 dark:text-amber-200">
+            <strong>How to interact:</strong> Hover over nodes to see role details. Click and drag
+            nodes to reposition them. Use your scroll wheel or trackpad to zoom in/out. Filter by
+            quadrant to isolate vulnerability categories, or search for specific job titles.
           </p>
         </motion.div>
 
