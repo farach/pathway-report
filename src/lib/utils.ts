@@ -12,18 +12,41 @@ export const quadrantColors = {
   LL: "#16A34A", // green-600
 } as const;
 
+export const metricDisplayNames = {
+  ptr: {
+    short: "PTR",
+    medium: "AI Pathway Risk",
+    full: "AI Pathway Risk (PTR)",
+    subtitle:
+      "How exposed is this role to AI, and how few escape routes does it have?",
+  },
+  nfc: {
+    short: "NFC",
+    medium: "Career Network Constraint",
+    full: "Career Network Constraint (NFC)",
+    subtitle: "Are the roles you could move to also at risk?",
+  },
+} as const;
+
+export const quadrantNames = {
+  HH: "Double Jeopardy",
+  HL: "Exposed but Mobile",
+  LH: "Network Trapped",
+  LL: "Structurally Resilient",
+} as const;
+
 export const quadrantLabels = {
-  HH: "High PTR, High NFC",
-  HL: "High PTR, Low NFC",
-  LH: "Low PTR, High NFC",
-  LL: "Low PTR, Low NFC",
+  HH: "High Pathway Risk, High Network Constraint",
+  HL: "High Pathway Risk, Low Network Constraint",
+  LH: "Low Pathway Risk, High Network Constraint",
+  LL: "Low Pathway Risk, Low Network Constraint",
 } as const;
 
 export const quadrantDescriptions = {
-  HH: "Positions with both high promotion traffic AND career flexibility constraints",
-  HL: "High promotion traffic positions in less constrained networks",
-  LH: "Lower traffic positions but in constrained network neighborhoods",
-  LL: "Positions with both low promotion traffic AND high flexibility",
+  HH: "High direct AI exposure combined with constrained escape routes",
+  HL: "High AI exposure, but the career network provides viable alternatives",
+  LH: "Currently safe from direct AI impact, but surrounded by constrained positions",
+  LL: "Low AI exposure and high network flexibility",
 } as const;
 
 export function formatNumber(num: number): string {

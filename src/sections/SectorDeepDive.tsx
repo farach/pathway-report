@@ -99,13 +99,13 @@ export function SectorDeepDive() {
             The table below is sorted by HH share by default, highlighting the sectors with the
             highest concentrations of structurally vulnerable positions. However, raw HH percentage
             is not the only relevant dimension. A sector with moderate HH share but extremely high
-            average PTR may face different challenges than one with high HH share but lower typical
+            average Pathway Risk may face different challenges than one with high HH share but lower typical
             exposure. Click any row to see additional detail on the role composition within each sector.
           </p>
           <p className="leading-relaxed">
             <strong>Policy implication:</strong> Workforce interventions should not apply uniformly
             across industries. Sectors with high HH concentration may require systematic career pathway
-            redesign, while those with high PTR but low NFC may benefit more from traditional upskilling
+            redesign, while those with high Pathway Risk but low Network Constraint may benefit more from traditional upskilling
             programs that help workers leverage existing mobility options.
           </p>
         </motion.div>
@@ -146,10 +146,10 @@ export function SectorDeepDive() {
                   <SortButton column="hh_share" label="HH %" />
                 </th>
                 <th className="py-3 px-4 text-right hidden md:table-cell">
-                  <SortButton column="avg_ptr" label="Avg PTR" />
+                  <SortButton column="avg_ptr" label="Avg Pathway Risk" />
                 </th>
                 <th className="py-3 px-4 text-right hidden md:table-cell">
-                  <SortButton column="avg_nfc" label="Avg NFC" />
+                  <SortButton column="avg_nfc" label="Avg Net. Constraint" />
                 </th>
                 <th className="py-3 px-4 text-right hidden lg:table-cell">
                   <SortButton column="avg_ai_exposure" label="AI Exp" />
@@ -306,8 +306,8 @@ function SectorRow({
         <tr className="bg-slate-50 dark:bg-slate-800/30">
           <td colSpan={7} className="p-4">
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-              <DetailStat label="High PTR Roles" value={sector.high_ptr_count} />
-              <DetailStat label="High NFC Roles" value={sector.high_nfc_count} />
+              <DetailStat label="High Pathway Risk Roles" value={sector.high_ptr_count} />
+              <DetailStat label="High Net. Constraint Roles" value={sector.high_nfc_count} />
               <DetailStat label="HH Count" value={sector.hh_count} />
               <DetailStat label="Indexed Roles" value={sector.roles_with_indices} />
             </div>

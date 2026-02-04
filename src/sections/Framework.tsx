@@ -1,6 +1,7 @@
 import { motion } from 'framer-motion';
 import { useScrollAnimation } from '../hooks/useScrollAnimation';
 import { QuadrantDiagram, QuadrantLegend } from '../components/QuadrantLegend';
+import { ExpandableDetail } from '../components/ExpandableDetail';
 
 export function Framework() {
   const { ref: sectionRef, isVisible } = useScrollAnimation();
@@ -20,10 +21,14 @@ export function Framework() {
           transition={{ duration: 0.6 }}
         >
           <h2 className="text-3xl md:text-4xl font-bold font-heading text-slate-900 dark:text-white">
-            The PTR-NFC Framework
+            The Vulnerability Framework
           </h2>
           <p className="mt-4 text-lg text-slate-600 dark:text-slate-300">
-            A two-dimensional approach to understanding structural vulnerability in career networks
+            This analysis measures two things about each job role: (1) how directly AI threatens the
+            role's tasks <em>and</em> how few promotion options the worker
+            has—<strong>AI Pathway Risk</strong>—and (2) whether the roles a worker could move
+            into are also at risk—<strong>Career Network Constraint</strong>. Together, these two
+            independent measures create four vulnerability profiles.
           </p>
         </motion.div>
 
@@ -48,7 +53,7 @@ export function Framework() {
             would classify them identically.
           </p>
           <p className="leading-relaxed">
-            The PTR-NFC framework addresses this gap by combining task-level AI applicability
+            Our vulnerability framework addresses this gap by combining task-level AI applicability
             with network-level career mobility constraints. Drawing on validated promotion data
             from over 500,000 career transitions, we construct sector-specific career networks
             and compute two complementary indices that together characterize a role's structural
@@ -69,61 +74,79 @@ export function Framework() {
               <div className="p-6 rounded-xl bg-gradient-to-br from-orange-50 to-red-50 dark:from-orange-950/30 dark:to-red-950/30 border border-orange-200/50 dark:border-orange-800/50">
                 <h3 className="text-xl font-bold text-slate-900 dark:text-white flex items-center gap-2">
                   <span className="w-3 h-3 rounded-full bg-orange-500" />
-                  Personal Transition Risk (PTR)
+                  AI Pathway Risk (PTR)
                 </h3>
-                <p className="mt-3 text-slate-600 dark:text-slate-300">
-                  PTR captures an individual role's direct vulnerability by combining two factors:
-                  the proportion of the role's tasks susceptible to AI automation (drawing on
-                  Eloundou et al.'s GPT-4 exposure estimates and Microsoft Research's occupational
-                  AI applicability scores), and the role's <em>lack of alternatives</em>—the
-                  inverse of its out-degree in the promotion network.
+                <p className="mt-1 text-sm italic text-slate-500 dark:text-slate-400">
+                  How exposed is this role to AI, and how few escape routes does it have?
                 </p>
                 <p className="mt-3 text-slate-600 dark:text-slate-300">
-                  A role with high AI exposure but many outbound promotion pathways has lower PTR
-                  than one with fewer escape routes. This reflects the intuition that mobility
-                  options provide a buffer against task-level disruption.
+                  AI Pathway Risk captures how vulnerable a role is by combining two factors:
+                  the proportion of the role's tasks that AI can automate, and whether the
+                  worker has good promotion options to move elsewhere. A role with high AI
+                  exposure but many outbound promotion pathways has lower risk than one with
+                  fewer escape routes—mobility options provide a buffer against disruption.
                 </p>
-                <div className="mt-4 text-sm text-slate-500 dark:text-slate-400 font-mono bg-white/50 dark:bg-slate-800/50 p-3 rounded">
-                  PTR = AI_Exposure × (1 − OutDegree / MaxOutDegree)
-                </div>
+                <ExpandableDetail summary="Show formula and data sources">
+                  <p>
+                    PTR draws on Eloundou et al.'s GPT-4 exposure estimates and Microsoft
+                    Research's occupational AI applicability scores for task-level exposure,
+                    combined with the inverse of a role's out-degree in the promotion network
+                    (lack of alternatives).
+                  </p>
+                  <div className="mt-2 font-mono bg-white/50 dark:bg-slate-800/50 p-2 rounded text-xs">
+                    PTR = AI_Exposure × (1 − OutDegree / MaxOutDegree)
+                  </div>
+                </ExpandableDetail>
               </div>
 
               {/* NFC */}
               <div className="p-6 rounded-xl bg-gradient-to-br from-purple-50 to-blue-50 dark:from-purple-950/30 dark:to-blue-950/30 border border-purple-200/50 dark:border-purple-800/50">
                 <h3 className="text-xl font-bold text-slate-900 dark:text-white flex items-center gap-2">
                   <span className="w-3 h-3 rounded-full bg-purple-500" />
-                  Network Flexibility Constraint (NFC)
+                  Career Network Constraint (NFC)
                 </h3>
-                <p className="mt-3 text-slate-600 dark:text-slate-300">
-                  NFC extends the analysis beyond individual roles to their network neighborhood.
-                  It measures whether a role's potential destination positions are themselves
-                  constrained, capturing the phenomenon of being surrounded by vulnerability.
+                <p className="mt-1 text-sm italic text-slate-500 dark:text-slate-400">
+                  Are the roles you could move to also at risk?
                 </p>
                 <p className="mt-3 text-slate-600 dark:text-slate-300">
-                  The metric combines the average PTR of neighboring roles (weighted by edge
-                  frequency) with local network density. High NFC indicates that even if a
-                  worker can transition out of their current role, they may find themselves
-                  in an equally precarious position—a form of structural entrapment.
+                  Career Network Constraint looks beyond a single role to its neighborhood in
+                  the career network. It measures whether a role's potential destination
+                  positions are themselves at risk. High NFC indicates that even if a worker
+                  can transition out of their current role, they may find themselves in an
+                  equally precarious position—a form of structural entrapment.
                 </p>
-                <div className="mt-4 text-sm text-slate-500 dark:text-slate-400 font-mono bg-white/50 dark:bg-slate-800/50 p-3 rounded">
-                  NFC = AvgNeighborPTR × LocalClusteringCoefficient
-                </div>
+                <ExpandableDetail summary="Show formula and technical detail">
+                  <p>
+                    NFC combines the average AI Pathway Risk of neighboring roles (weighted by
+                    promotion frequency) with local network density (clustering coefficient).
+                    This captures both the vulnerability of adjacent positions and how tightly
+                    interconnected the local career neighborhood is.
+                  </p>
+                  <div className="mt-2 font-mono bg-white/50 dark:bg-slate-800/50 p-2 rounded text-xs">
+                    NFC = AvgNeighborPTR × LocalClusteringCoefficient
+                  </div>
+                </ExpandableDetail>
               </div>
 
-              {/* Orthogonality insight */}
+              {/* Independence insight */}
               <div className="p-5 rounded-xl bg-blue-50 dark:bg-blue-950/30 border border-blue-200/50 dark:border-blue-800/50">
                 <h4 className="font-semibold text-blue-900 dark:text-blue-100 mb-2">
-                  The Orthogonality Finding
+                  A Surprising Independence
                 </h4>
                 <p className="text-sm text-blue-800 dark:text-blue-200 leading-relaxed">
-                  A notable empirical result: PTR and NFC correlate at only r ≈ 0.10 across
-                  our sample of 15,759 roles. This near-orthogonality means the two metrics
-                  capture genuinely distinct dimensions of vulnerability. High task-level AI
-                  exposure does not mechanically imply constrained career mobility, nor does
-                  network entrapment require current AI susceptibility. This independence
-                  justifies treating them as complementary axes in a two-dimensional
-                  vulnerability space.
+                  These two metrics turn out to be largely independent of each other. Knowing
+                  a role's AI exposure tells you almost nothing about its career mobility
+                  constraints, and vice versa. This means a single score cannot capture the
+                  full picture of vulnerability—both dimensions matter.
                 </p>
+                <ExpandableDetail summary="Show technical detail" className="mt-2 bg-blue-100/50 dark:bg-blue-900/30 border-blue-200/50 dark:border-blue-700/50">
+                  <p>
+                    AI Pathway Risk and Career Network Constraint correlate at only r ≈ 0.10
+                    across our sample of 15,759 roles. This near-orthogonality confirms the two
+                    metrics capture genuinely distinct dimensions of vulnerability, justifying
+                    their treatment as complementary axes in a two-dimensional vulnerability space.
+                  </p>
+                </ExpandableDetail>
               </div>
             </div>
           </motion.div>
@@ -155,8 +178,9 @@ export function Framework() {
         >
           <h3>Interpreting the Quadrants</h3>
           <p>
-            The intersection of PTR and NFC creates four distinct vulnerability profiles,
-            each with different implications for workforce policy and individual career strategy:
+            The intersection of AI Pathway Risk and Career Network Constraint creates four
+            distinct vulnerability profiles, each with different implications for workforce
+            policy and individual career strategy:
           </p>
         </motion.div>
 
@@ -232,9 +256,10 @@ export function Framework() {
             A Note on Quadrant Assignment
           </h4>
           <p className="text-sm text-slate-600 dark:text-slate-300 leading-relaxed">
-            Roles are assigned to quadrants based on sector-specific median splits of PTR
-            and NFC. This within-sector normalization ensures that "high" and "low" are
-            interpreted relative to the relevant labor market context. A financial analyst's
+            Roles are assigned to quadrants based on sector-specific median splits of AI
+            Pathway Risk and Career Network Constraint. This within-sector normalization
+            ensures that "high" and "low" are interpreted relative to the relevant labor
+            market context. A financial analyst's
             vulnerability is compared to other finance roles, not to healthcare workers with
             fundamentally different career structures. This approach sacrifices some
             cross-sector comparability in exchange for more meaningful within-sector insights.

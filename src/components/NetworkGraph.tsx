@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState, useCallback } from 'react';
 import * as d3 from 'd3';
 import type { NetworkNode, NetworkEdge, QuadrantCode } from '../data/types';
-import { quadrantColors } from '../lib/utils';
+import { quadrantColors, quadrantNames } from '../lib/utils';
 
 interface NetworkGraphProps {
   nodes: NetworkNode[];
@@ -101,21 +101,74 @@ export function NetworkGraph({
 
     const { width: w, height: h } = dimensions;
 
-    // Add arrow marker definitions
+    // Add definitions for filters and markers
     const defs = svg.append('defs');
 
-    // Arrow marker for edges
+    // Glow filters for each quadrant color
+    const glowColors: Record<string, string> = {
+      HH: quadrantColors.HH,
+      HL: quadrantColors.HL,
+      LH: quadrantColors.LH,
+      LL: quadrantColors.LL,
+    };
+
+    Object.entries(glowColors).forEach(([quadrant, color]) => {
+      const filter = defs.append('filter')
+        .attr('id', `glow-${quadrant}`)
+        .attr('x', '-50%')
+        .attr('y', '-50%')
+        .attr('width', '200%')
+        .attr('height', '200%');
+
+      filter.append('feGaussianBlur')
+        .attr('stdDeviation', '3')
+        .attr('result', 'coloredBlur');
+
+      filter.append('feFlood')
+        .attr('flood-color', color)
+        .attr('flood-opacity', '0.4')
+        .attr('result', 'glowColor');
+
+      filter.append('feComposite')
+        .attr('in', 'glowColor')
+        .attr('in2', 'coloredBlur')
+        .attr('operator', 'in')
+        .attr('result', 'softGlow');
+
+      const feMerge = filter.append('feMerge');
+      feMerge.append('feMergeNode').attr('in', 'softGlow');
+      feMerge.append('feMergeNode').attr('in', 'SourceGraphic');
+    });
+
+    // Arrow markers for each quadrant color
+    Object.entries(glowColors).forEach(([quadrant, color]) => {
+      defs.append('marker')
+        .attr('id', `arrowhead-${quadrant}`)
+        .attr('viewBox', '0 -5 10 10')
+        .attr('refX', 20)
+        .attr('refY', 0)
+        .attr('markerWidth', 5)
+        .attr('markerHeight', 5)
+        .attr('orient', 'auto')
+        .append('path')
+        .attr('d', 'M0,-4L10,0L0,4')
+        .attr('fill', color)
+        .attr('opacity', 0.6);
+    });
+
+    // Default arrow marker (fallback)
     defs.append('marker')
       .attr('id', 'arrowhead')
       .attr('viewBox', '0 -5 10 10')
-      .attr('refX', 20) // Position arrow away from node center
+      .attr('refX', 20)
       .attr('refY', 0)
-      .attr('markerWidth', 6)
-      .attr('markerHeight', 6)
+      .attr('markerWidth', 5)
+      .attr('markerHeight', 5)
       .attr('orient', 'auto')
       .append('path')
-      .attr('d', 'M0,-5L10,0L0,5')
-      .attr('fill', '#64748b');
+      .attr('d', 'M0,-4L10,0L0,4')
+      .attr('fill', '#94a3b8')
+      .attr('opacity', 0.5);
 
     // Create zoom behavior
     const zoom = d3.zoom<SVGSVGElement, unknown>()
@@ -168,17 +221,27 @@ export function NetworkGraph({
 
     simulationRef.current = simulation;
 
-    // Draw edges FIRST (so they appear behind nodes) - using path for arrows
+    // Helper function to generate curved path
+    const linkArc = (d: SimulationEdge) => {
+      const dx = d.target.x - d.source.x;
+      const dy = d.target.y - d.source.y;
+      const dr = Math.sqrt(dx * dx + dy * dy) * 1.2; // Curve radius
+      return `M${d.source.x},${d.source.y}A${dr},${dr} 0 0,1 ${d.target.x},${d.target.y}`;
+    };
+
+    // Draw edges FIRST (so they appear behind nodes) - curved paths with quadrant colors
     const links = container
       .append('g')
       .attr('class', 'links')
-      .selectAll('line')
+      .selectAll('path')
       .data(simEdges)
-      .join('line')
-      .attr('stroke', '#64748b')
-      .attr('stroke-opacity', 0.5)
-      .attr('stroke-width', (d) => Math.max(1.5, d.weight * 2))
-      .attr('marker-end', 'url(#arrowhead)');
+      .join('path')
+      .attr('fill', 'none')
+      .attr('stroke', (d) => quadrantColors[d.source.quadrant])
+      .attr('stroke-opacity', 0.35)
+      .attr('stroke-width', (d) => Math.max(1, d.weight * 1.5))
+      .attr('marker-end', (d) => `url(#arrowhead-${d.source.quadrant})`)
+      .attr('d', linkArc);
 
     // Draw nodes
     const nodeGroup = container
@@ -205,13 +268,10 @@ export function NetworkGraph({
         d.y = event.y;
         // Update this node's position immediately
         d3.select(this).attr('transform', `translate(${event.x},${event.y})`);
-        // Update connected edges
+        // Update connected edges with curved paths
         links
           .filter((l) => l.source === d || l.target === d)
-          .attr('x1', (l) => l.source.x)
-          .attr('y1', (l) => l.source.y)
-          .attr('x2', (l) => l.target.x)
-          .attr('y2', (l) => l.target.y);
+          .attr('d', linkArc);
       })
       .on('end', function (_event, d) {
         d3.select(this).style('cursor', 'grab');
@@ -223,14 +283,16 @@ export function NetworkGraph({
     // Apply drag to node groups
     nodeGroup.call(dragBehavior);
 
-    // Node circles
+    // Node circles with glow effect
     nodeGroup
       .append('circle')
       .attr('r', (d) => d.size)
       .attr('fill', (d) => quadrantColors[d.quadrant])
       .attr('stroke', '#fff')
       .attr('stroke-width', 2)
-      .attr('opacity', (d) => getNodeOpacity(d));
+      .attr('opacity', (d) => getNodeOpacity(d))
+      .attr('filter', (d) => `url(#glow-${d.quadrant})`)
+      .style('transition', 'transform 150ms ease-out');
 
     // Node labels (only for larger nodes)
     nodeGroup
@@ -242,14 +304,26 @@ export function NetworkGraph({
       .attr('fill', '#475569')
       .text((d) => d.label.length > 20 ? d.label.slice(0, 18) + '...' : d.label);
 
-    // Hover and click handlers - use refs to avoid re-render issues
+    // Hover and click handlers with animation - use refs to avoid re-render issues
     nodeGroup
       .on('mouseenter', function (_event, d) {
-        d3.select(this).select('circle').attr('stroke', '#000').attr('stroke-width', 3);
+        const circle = d3.select(this).select('circle');
+        circle
+          .transition()
+          .duration(150)
+          .attr('stroke', '#1e293b')
+          .attr('stroke-width', 3)
+          .attr('r', d.size * 1.15); // Scale up
         onNodeHoverRef.current?.(d);
       })
-      .on('mouseleave', function () {
-        d3.select(this).select('circle').attr('stroke', '#fff').attr('stroke-width', 2);
+      .on('mouseleave', function (_event, d) {
+        const circle = d3.select(this).select('circle');
+        circle
+          .transition()
+          .duration(150)
+          .attr('stroke', '#fff')
+          .attr('stroke-width', 2)
+          .attr('r', d.size); // Scale back
         onNodeHoverRef.current?.(null);
       })
       .on('click', function (event, d) {
@@ -259,12 +333,7 @@ export function NetworkGraph({
 
     // Update positions on tick during initial layout
     simulation.on('tick', () => {
-      links
-        .attr('x1', (d) => d.source.x)
-        .attr('y1', (d) => d.source.y)
-        .attr('x2', (d) => d.target.x)
-        .attr('y2', (d) => d.target.y);
-
+      links.attr('d', linkArc);
       nodeGroup.attr('transform', (d) => `translate(${d.x},${d.y})`);
     });
 
@@ -336,13 +405,13 @@ export function NetworkTooltip({ node }: NetworkTooltipProps) {
       <p className="text-sm text-slate-500 dark:text-slate-400 mt-1">SOC: {node.soc}</p>
       <div className="mt-3 grid grid-cols-2 gap-2 text-sm">
         <div>
-          <span className="text-slate-500 dark:text-slate-400">PTR:</span>
+          <span className="text-slate-500 dark:text-slate-400">Pathway Risk:</span>
           <span className="ml-1 font-medium text-slate-900 dark:text-white">
             {(node.ptr * 100).toFixed(1)}%
           </span>
         </div>
         <div>
-          <span className="text-slate-500 dark:text-slate-400">NFC:</span>
+          <span className="text-slate-500 dark:text-slate-400">Net. Constraint:</span>
           <span className="ml-1 font-medium text-slate-900 dark:text-white">
             {(node.nfc * 100).toFixed(1)}%
           </span>
@@ -354,12 +423,11 @@ export function NetworkTooltip({ node }: NetworkTooltipProps) {
           </span>
         </div>
         <div>
-          <span className="text-slate-500 dark:text-slate-400">Quadrant:</span>
           <span
-            className="ml-1 inline-block px-1.5 py-0.5 text-xs font-semibold rounded text-white"
+            className="inline-block px-1.5 py-0.5 text-xs font-semibold rounded text-white"
             style={{ backgroundColor: quadrantColors[node.quadrant] }}
           >
-            {node.quadrant}
+            {node.quadrant} — {quadrantNames[node.quadrant]}
           </span>
         </div>
       </div>

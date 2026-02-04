@@ -1,6 +1,7 @@
 import { motion } from 'framer-motion';
 import { ChevronDown } from 'lucide-react';
 import { StatCard } from '../components/StatCard';
+import { ExpandableDetail } from '../components/ExpandableDetail';
 import { DISPLAY_STATS } from '../data/types';
 
 export function Hero() {
@@ -67,9 +68,9 @@ export function Hero() {
             label="Sectors"
           />
           <StatCard
-            value={10}
-            suffix="%"
-            label="PTR-NFC Correlation"
+            value={500}
+            suffix="K+"
+            label="Career Transitions Analyzed"
           />
         </motion.div>
 
@@ -84,11 +85,20 @@ export function Hero() {
             Key Finding
           </h2>
           <p className="text-slate-600 dark:text-slate-300">
-            Personal Transition Risk (PTR) and Network Flexibility Constraint (NFC) are
-            <strong className="text-blue-600 dark:text-blue-400"> orthogonal dimensions</strong>
-            {" "}(r = 0.10), revealing that task-level AI exposure and network-level
-            career constraints capture distinct vulnerabilities.
+            The two types of risk we measure—<strong className="text-blue-600 dark:text-blue-400">AI Pathway Risk</strong> and{' '}
+            <strong className="text-blue-600 dark:text-blue-400">Career Network Constraint</strong>—are
+            largely independent of each other. Knowing that a role is exposed to AI tells you almost
+            nothing about whether the worker has good career options, and vice versa. This means we
+            need to measure both to understand the full picture.
           </p>
+          <ExpandableDetail summary="Show technical detail">
+            <p>
+              Formally, AI Pathway Risk (PTR) and Career Network Constraint (NFC) correlate at only
+              r ≈ 0.10 across 15,759 roles—near-orthogonality indicating they capture genuinely
+              distinct vulnerability dimensions. This independence justifies treating them as
+              complementary axes in a two-dimensional vulnerability space.
+            </p>
+          </ExpandableDetail>
         </motion.div>
 
         {/* Research Context */}
@@ -103,9 +113,10 @@ export function Hero() {
               The debate over AI's labor market impact has largely focused on{" "}
               <em>which jobs</em> are susceptible to automation—a question of task-level
               exposure. Yet this framing misses a crucial dimension: workers don't simply
-              occupy static positions, they move through career networks over time. A role's
-              vulnerability depends not only on what tasks it contains, but on where it sits
-              within the broader landscape of professional advancement.
+              occupy static positions—they move through <strong>career networks</strong>,
+              the web of promotion pathways that connect one role to another, over time.
+              A role's vulnerability depends not only on what tasks it contains, but on where
+              it sits within the broader landscape of professional advancement.
             </p>
             <p className="text-slate-600 dark:text-slate-300 leading-relaxed mt-4">
               This analysis applies a framework for understanding <strong>structural
@@ -115,6 +126,44 @@ export function Hero() {
               actually navigate—and identify the positions where AI exposure combines with
               limited mobility options to create compounding risk.
             </p>
+          </div>
+        </motion.div>
+
+        {/* Key Terms Glossary */}
+        <motion.div
+          className="mt-10 max-w-3xl mx-auto"
+          initial={{ opacity: 0, y: 30 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.6, delay: 0.6 }}
+        >
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+            <div className="p-4 rounded-xl bg-white/80 dark:bg-slate-800/60 border border-slate-200 dark:border-slate-700">
+              <h3 className="text-sm font-bold text-slate-900 dark:text-white">
+                Career Network
+              </h3>
+              <p className="mt-1.5 text-sm text-slate-600 dark:text-slate-400 leading-relaxed">
+                A map of how workers actually move between jobs within a sector, built from real
+                promotion data. Each job is a node; each observed promotion is a connection.
+              </p>
+            </div>
+            <div className="p-4 rounded-xl bg-white/80 dark:bg-slate-800/60 border border-slate-200 dark:border-slate-700">
+              <h3 className="text-sm font-bold text-slate-900 dark:text-white">
+                Promotion Transitions
+              </h3>
+              <p className="mt-1.5 text-sm text-slate-600 dark:text-slate-400 leading-relaxed">
+                Documented cases where a person moved from one job to another as a promotion,
+                extracted from resume data. Our analysis uses over 500,000 of these across 20 sectors.
+              </p>
+            </div>
+            <div className="p-4 rounded-xl bg-white/80 dark:bg-slate-800/60 border border-slate-200 dark:border-slate-700">
+              <h3 className="text-sm font-bold text-slate-900 dark:text-white">
+                Structural Vulnerability
+              </h3>
+              <p className="mt-1.5 text-sm text-slate-600 dark:text-slate-400 leading-relaxed">
+                The idea that a job's risk from AI depends not just on whether AI can do its tasks,
+                but on whether the worker has viable options to move elsewhere if disrupted.
+              </p>
+            </div>
           </div>
         </motion.div>
       </div>

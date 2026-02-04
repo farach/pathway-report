@@ -204,7 +204,7 @@ export function Methodology() {
           >
             <div className="space-y-4">
               <div>
-                <h4 className="font-semibold">Personal Transition Risk (PTR)</h4>
+                <h4 className="font-semibold">AI Pathway Risk (PTR)</h4>
                 <p>
                   Combines AI exposure with "lack of alternatives" (1 - normalized out-degree).
                   Higher values indicate roles that are both AI-exposed and have few
@@ -215,7 +215,7 @@ export function Methodology() {
                 </code>
               </div>
               <div>
-                <h4 className="font-semibold">Network Flexibility Constraint (NFC)</h4>
+                <h4 className="font-semibold">Career Network Constraint (NFC)</h4>
                 <p>
                   Captures neighborhood-level constraints: average PTR of neighboring roles
                   weighted by local clustering. High NFC indicates being surrounded by

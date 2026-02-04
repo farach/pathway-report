@@ -7,9 +7,9 @@ import { cn, formatPercent } from '../lib/utils';
 const findings = [
   {
     icon: GitBranch,
-    title: 'Orthogonal Dimensions',
+    title: 'Two Independent Risk Dimensions',
     description:
-      'PTR and NFC are nearly independent (r ≈ 0.10), meaning task-level AI exposure and network-level career constraints capture fundamentally different vulnerabilities.',
+      'AI Pathway Risk and Career Network Constraint are nearly independent of each other, meaning task-level AI exposure and career mobility constraints capture fundamentally different vulnerabilities. A single metric misses half the picture.',
     color: 'blue',
     stat: 'r = 0.10',
     statLabel: 'Correlation',
@@ -18,16 +18,16 @@ const findings = [
     icon: AlertTriangle,
     title: 'Double Jeopardy Roles',
     description:
-      'High-High (HH) quadrant roles face compounding risk: they are both directly exposed to AI automation AND surrounded by other constrained roles in their career network.',
+      'Roles in the "Double Jeopardy" category face compounding risk: they are both directly exposed to AI automation AND surrounded by other constrained roles in their career network.',
     color: 'red',
     stat: '40%+',
     statLabel: 'HH Share',
   },
   {
     icon: Target,
-    title: 'Cascade Validation',
+    title: 'Network Fragmentation Test',
     description:
-      'Removing top PTR roles fragments the career network 3x more than random removal, confirming that high-PTR positions are structurally critical chokepoints.',
+      'What happens if high-risk roles disappear? Simulating the removal of top AI Pathway Risk roles fragments the career network 3x more than random removal, confirming these positions are structurally critical chokepoints.',
     color: 'orange',
     stat: '3×',
     statLabel: 'Fragmentation',
@@ -36,7 +36,7 @@ const findings = [
     icon: TrendingUp,
     title: 'Sector Variation',
     description:
-      'HH role concentration varies dramatically across sectors—from 35% in Non-Profit to 45% in Manufacturing—suggesting sector-specific intervention strategies.',
+      'Double Jeopardy role concentration varies dramatically across sectors—from 35% in Non-Profit to 45% in Manufacturing—suggesting sector-specific intervention strategies are needed.',
     color: 'purple',
     stat: '35-45%',
     statLabel: 'Range',
@@ -108,23 +108,23 @@ export function Findings() {
             portion of structural vulnerability in the labor market.
           </p>
           <p className="leading-relaxed">
-            A central finding is the <strong>near-orthogonality</strong> of our two
-            vulnerability dimensions. The near-zero correlation between PTR and NFC means that
-            knowing a worker's direct AI exposure tells us almost nothing about their career
-            mobility constraints, and vice versa. This independence implies that single-metric
-            approaches to identifying "at-risk" workers will systematically overlook roughly
-            half of the vulnerability landscape. Policy interventions must account for both
-            dimensions simultaneously.
+            A central finding is that our two vulnerability dimensions—<strong>AI Pathway
+            Risk</strong> and <strong>Career Network Constraint</strong>—are largely
+            independent of each other. Knowing a worker's direct AI exposure tells us almost
+            nothing about their career mobility constraints, and vice versa. This independence
+            implies that single-metric approaches to identifying "at-risk" workers will
+            systematically overlook roughly half of the vulnerability landscape. Policy
+            interventions must account for both dimensions simultaneously.
           </p>
           <p className="leading-relaxed">
-            The <strong>cascade validation</strong> results provide clear evidence that high-PTR
-            roles occupy structurally important positions. When we simulate removing high-PTR roles from the career
-            network—a rough proxy for what would happen if AI displaced workers in these
-            positions—the network fragments at three times the rate of random removal. This
-            confirms that high-PTR positions aren't just individually vulnerable; they serve
-            as critical connectors in the career mobility infrastructure. Their disruption
-            would ripple through adjacent positions, potentially stranding workers who themselves
-            face no direct AI exposure.
+            We also tested what would happen if high-risk roles were disrupted: when we simulate
+            removing the most AI-exposed roles from the career network—a rough proxy for what
+            would happen if AI displaced workers in these positions—the network fragments at
+            three times the rate of random removal. This <strong>network fragmentation
+            test</strong> confirms that high-risk positions aren't just individually
+            vulnerable; they serve as critical connectors in the career mobility
+            infrastructure. Their disruption would ripple through adjacent positions,
+            potentially stranding workers who themselves face no direct AI exposure.
           </p>
         </motion.div>
 
@@ -181,10 +181,11 @@ export function Findings() {
             transition={{ duration: 0.6, delay: 0.5 }}
           >
             <h3 className="text-xl font-bold text-slate-900 dark:text-white mb-4">
-              Cascade Validation Results
+              Network Fragmentation Test Results
             </h3>
             <p className="text-slate-600 dark:text-slate-300 mb-6">
-              Network fragmentation after removing top roles by different strategies:
+              What happens to the career network when we remove the most at-risk roles?
+              Higher numbers mean more fragmentation:
             </p>
 
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -193,9 +194,9 @@ export function Findings() {
                   key={result.strategy}
                   className={cn(
                     'p-4 rounded-xl text-center',
-                    result.strategy === 'Top PTR'
+                    result.strategy === 'Top PTR' || result.strategy === 'Top Pathway Risk'
                       ? 'bg-orange-100 dark:bg-orange-900/30'
-                      : result.strategy === 'Top NFC'
+                      : result.strategy === 'Top NFC' || result.strategy === 'Top Network Constraint'
                       ? 'bg-purple-100 dark:bg-purple-900/30'
                       : 'bg-slate-100 dark:bg-slate-700/50'
                   )}

@@ -6,7 +6,7 @@ import { QuadrantLegend } from '../components/QuadrantLegend';
 import { useNetworkData, useSectors, preloadNetworks } from '../hooks/useNetworkData';
 import { useScrollAnimation } from '../hooks/useScrollAnimation';
 import type { NetworkNode, QuadrantCode } from '../data/types';
-import { cn } from '../lib/utils';
+import { cn, quadrantColors } from '../lib/utils';
 
 export function NetworkExplorer() {
   const { ref: sectionRef, isVisible } = useScrollAnimation({ threshold: 0.05 });
@@ -61,43 +61,93 @@ export function NetworkExplorer() {
           </p>
         </motion.div>
 
-        {/* Explanatory prose */}
+        {/* Visual Key — What you're seeing */}
         <motion.div
-          className="prose prose-slate dark:prose-invert max-w-3xl mx-auto mb-12"
+          className="max-w-3xl mx-auto mb-6"
           initial={{ opacity: 0, y: 30 }}
           animate={isVisible ? { opacity: 1, y: 0 } : {}}
           transition={{ duration: 0.6, delay: 0.1 }}
         >
-          <p className="leading-relaxed">
-            The network below visualizes career progression pathways within each sector.
-            <strong> Nodes</strong> represent distinct job roles, sized by their betweenness
-            centrality—a measure of how many career paths flow through that position.
-            Larger nodes are "chokepoint" roles that many workers must pass through to advance.
-            <strong> Edges</strong> represent validated promotion transitions observed in
-            resume data; thicker lines indicate more frequently traveled pathways.
-          </p>
-          <p className="leading-relaxed">
-            Node colors indicate quadrant membership: <span className="text-red-600 font-semibold">red (HH)</span> for
-            double jeopardy roles, <span className="text-orange-600 font-semibold">orange (HL)</span> for
-            exposed but mobile, <span className="text-purple-600 font-semibold">purple (LH)</span> for
-            network trapped, and <span className="text-green-600 font-semibold">green (LL)</span> for
-            structurally resilient positions. Use the filters below to highlight specific
-            vulnerability profiles or search for particular job titles.
-          </p>
-        </motion.div>
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
+            <div className="flex items-start gap-2.5 p-3 rounded-lg bg-slate-50 dark:bg-slate-800/50">
+              <span className="mt-0.5 w-4 h-4 rounded-full bg-slate-400 shrink-0" />
+              <div>
+                <span className="text-sm font-semibold text-slate-900 dark:text-white">Dots</span>
+                <p className="text-xs text-slate-500 dark:text-slate-400">Each dot is a job role in this sector</p>
+              </div>
+            </div>
+            <div className="flex items-start gap-2.5 p-3 rounded-lg bg-slate-50 dark:bg-slate-800/50">
+              <div className="mt-0.5 flex gap-0.5 shrink-0">
+                <span className="w-2 h-4 rounded-sm" style={{ backgroundColor: quadrantColors.HH }} />
+                <span className="w-2 h-4 rounded-sm" style={{ backgroundColor: quadrantColors.HL }} />
+                <span className="w-2 h-4 rounded-sm" style={{ backgroundColor: quadrantColors.LH }} />
+                <span className="w-2 h-4 rounded-sm" style={{ backgroundColor: quadrantColors.LL }} />
+              </div>
+              <div>
+                <span className="text-sm font-semibold text-slate-900 dark:text-white">Colors</span>
+                <p className="text-xs text-slate-500 dark:text-slate-400">Vulnerability category (see legend below)</p>
+              </div>
+            </div>
+            <div className="flex items-start gap-2.5 p-3 rounded-lg bg-slate-50 dark:bg-slate-800/50">
+              <div className="mt-0.5 flex items-end gap-0.5 shrink-0">
+                <span className="w-2 h-2 rounded-full bg-slate-400" />
+                <span className="w-3 h-3 rounded-full bg-slate-400" />
+                <span className="w-4 h-4 rounded-full bg-slate-400" />
+              </div>
+              <div>
+                <span className="text-sm font-semibold text-slate-900 dark:text-white">Size</span>
+                <p className="text-xs text-slate-500 dark:text-slate-400">Bigger = more career paths flow through that role</p>
+              </div>
+            </div>
+            <div className="flex items-start gap-2.5 p-3 rounded-lg bg-slate-50 dark:bg-slate-800/50">
+              <div className="mt-1 w-6 shrink-0">
+                <div className="h-0.5 bg-slate-400 rounded" />
+                <div className="h-1 bg-slate-400 rounded mt-1" />
+              </div>
+              <div>
+                <span className="text-sm font-semibold text-slate-900 dark:text-white">Lines</span>
+                <p className="text-xs text-slate-500 dark:text-slate-400">Observed promotions between roles; thicker = more common</p>
+              </div>
+            </div>
+          </div>
 
-        {/* How to read callout */}
-        <motion.div
-          className="bg-amber-50 dark:bg-amber-950/30 border border-amber-200 dark:border-amber-800 rounded-xl p-4 mb-8 max-w-3xl mx-auto"
-          initial={{ opacity: 0, y: 20 }}
-          animate={isVisible ? { opacity: 1, y: 0 } : {}}
-          transition={{ duration: 0.6, delay: 0.15 }}
-        >
-          <p className="text-sm text-amber-800 dark:text-amber-200">
-            <strong>How to interact:</strong> Hover over nodes to see role details. Click and drag
-            nodes to reposition them. Use your scroll wheel or trackpad to zoom in/out. Filter by
-            quadrant to isolate vulnerability categories, or search for specific job titles.
-          </p>
+          {/* Collapsible reading guide */}
+          <details className="mt-4 rounded-xl bg-amber-50 dark:bg-amber-950/30 border border-amber-200 dark:border-amber-800 group">
+            <summary className="cursor-pointer select-none px-4 py-3 text-sm font-medium text-amber-800 dark:text-amber-200 list-none flex items-center gap-1.5">
+              <svg
+                className="w-4 h-4 shrink-0 transition-transform group-open:rotate-90"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke="currentColor"
+                strokeWidth={2}
+                aria-hidden="true"
+              >
+                <path strokeLinecap="round" strokeLinejoin="round" d="M9 5l7 7-7 7" />
+              </svg>
+              How to read this chart
+            </summary>
+            <div className="px-4 pb-4 space-y-3 text-sm text-amber-900 dark:text-amber-100">
+              <div>
+                <strong>Understanding the layout:</strong>
+                <ul className="mt-1 ml-4 list-disc space-y-1 text-amber-800 dark:text-amber-200">
+                  <li>Clusters of connected dots = groups of roles with many promotion paths between them</li>
+                  <li>Isolated dots at the edges = roles with few connections (potential career dead-ends)</li>
+                  <li>Large red dots near the center = high-traffic, high-risk chokepoints — the most structurally critical roles</li>
+                </ul>
+              </div>
+              <div>
+                <strong>Important note:</strong> The position of dots is determined by how they connect to each other
+                (a physics simulation), <em>not</em> by their risk scores. Unlike a scatterplot, the x/y position on
+                screen does not correspond to a data axis. Instead, roles that share many promotion connections are
+                pulled closer together.
+              </div>
+              <div>
+                <strong>Interacting:</strong> Hover over any dot to see role details. Click and drag to
+                reposition nodes. Scroll or pinch to zoom. Use the quadrant filter below to isolate
+                vulnerability categories, or search for specific job titles.
+              </div>
+            </div>
+          </details>
         </motion.div>
 
         {/* Controls */}
@@ -241,7 +291,7 @@ export function NetworkExplorer() {
               className="bg-red-50 dark:bg-red-950/30"
             />
             <SummaryCard
-              label="Average PTR"
+              label="Avg Pathway Risk"
               value={`${(
                 (networkData.nodes.reduce((sum, n) => sum + n.ptr, 0) /
                   networkData.nodes.length) *
@@ -250,7 +300,7 @@ export function NetworkExplorer() {
               className="bg-orange-50 dark:bg-orange-950/30"
             />
             <SummaryCard
-              label="Average NFC"
+              label="Avg Net. Constraint"
               value={`${(
                 (networkData.nodes.reduce((sum, n) => sum + n.nfc, 0) /
                   networkData.nodes.length) *
