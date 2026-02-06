@@ -49,7 +49,7 @@ export function QuadrantLegend({
           />
           <div className={cn('text-left', showDescriptions ? 'flex flex-col gap-0.5' : 'flex items-center gap-2')}>
             <span className="font-semibold text-sm text-slate-900 dark:text-white">
-              {q} — {quadrantNames[q]}
+              {q}: {quadrantNames[q]}
             </span>
             <span className="text-sm text-slate-600 dark:text-slate-400">
               {showDescriptions ? quadrantDescriptions[q] : quadrantLabels[q]}

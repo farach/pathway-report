@@ -26,8 +26,8 @@ export function Framework() {
           <p className="mt-4 text-lg text-slate-600 dark:text-slate-300">
             This analysis measures two things about each job role: (1) how directly AI threatens the
             role's tasks <em>and</em> how few promotion options the worker
-            has—<strong>AI Pathway Risk</strong>—and (2) whether the roles a worker could move
-            into are also at risk—<strong>Career Network Constraint</strong>. Together, these two
+            has (<strong>AI Pathway Risk</strong>) and (2) whether the roles a worker could move
+            into are also at risk (<strong>Career Network Constraint</strong>). Together, these two
             independent measures create four vulnerability profiles.
           </p>
         </motion.div>
@@ -43,7 +43,7 @@ export function Framework() {
             Most analyses of AI's labor market impact focus on what might be called the <em>inner loop</em>:
             the degree to which specific job tasks can be automated or augmented by AI systems.
             While valuable, this task-centric view misses a critical dimension of workforce
-            vulnerability—the <em>outer loop</em> of career mobility.
+            vulnerability: the <em>outer loop</em> of career mobility.
           </p>
           <p className="leading-relaxed">
             Consider two workers with identical AI exposure scores. One occupies a position
@@ -84,7 +84,7 @@ export function Framework() {
                   the proportion of the role's tasks that AI can automate, and whether the
                   worker has good promotion options to move elsewhere. A role with high AI
                   exposure but many outbound promotion pathways has lower risk than one with
-                  fewer escape routes—mobility options provide a buffer against disruption.
+                  fewer escape routes. Mobility options provide a buffer against disruption.
                 </p>
                 <ExpandableDetail summary="Show formula and data sources">
                   <p>
@@ -113,7 +113,7 @@ export function Framework() {
                   the career network. It measures whether a role's potential destination
                   positions are themselves at risk. High NFC indicates that even if a worker
                   can transition out of their current role, they may find themselves in an
-                  equally precarious position—a form of structural entrapment.
+                  equally precarious position, a form of structural entrapment.
                 </p>
                 <ExpandableDetail summary="Show formula and technical detail">
                   <p>
@@ -137,7 +137,7 @@ export function Framework() {
                   These two metrics turn out to be largely independent of each other. Knowing
                   a role's AI exposure tells you almost nothing about its career mobility
                   constraints, and vice versa. This means a single score cannot capture the
-                  full picture of vulnerability—both dimensions matter.
+                  full picture of vulnerability. Both dimensions matter.
                 </p>
                 <ExpandableDetail summary="Show technical detail" className="mt-2 bg-blue-100/50 dark:bg-blue-900/30 border-blue-200/50 dark:border-blue-700/50">
                   <p>
@@ -200,7 +200,7 @@ export function Framework() {
               These roles face compounding risk: high direct AI exposure combined with
               constrained escape routes. Workers here cannot simply "skill up" into adjacent
               positions because those positions are similarly vulnerable. This quadrant
-              demands systemic intervention—retraining programs, credential pathways, and
+              may demand systemic intervention: retraining programs, credential pathways, and
               potentially new career ladders that don't currently exist.
             </p>
           </div>
@@ -212,7 +212,7 @@ export function Framework() {
             </div>
             <p className="mt-3 text-sm text-slate-600 dark:text-slate-300 leading-relaxed">
               High personal AI exposure, but the career network provides viable alternatives.
-              These workers have options—the challenge is awareness and timing. Early
+              These workers have options; the challenge is awareness and timing. Early
               intervention can facilitate transitions before displacement occurs. This is
               the quadrant where traditional upskilling programs are most likely to succeed.
             </p>
@@ -225,9 +225,9 @@ export function Framework() {
             </div>
             <p className="mt-3 text-sm text-slate-600 dark:text-slate-300 leading-relaxed">
               Currently safe from direct AI impact, but surrounded by constrained positions.
-              These workers may feel secure today, but their future mobility is compromised.
-              As AI capabilities expand, they risk finding themselves stuck with nowhere to
-              go. Proactive career diversification is advisable.
+              These workers may feel secure today, but their future mobility could be compromised.
+              If AI capabilities expand into adjacent areas, they could find themselves stuck with
+              limited options. Proactive career diversification may be advisable.
             </p>
           </div>
 
@@ -238,8 +238,8 @@ export function Framework() {
             </div>
             <p className="mt-3 text-sm text-slate-600 dark:text-slate-300 leading-relaxed">
               Low AI exposure and high network flexibility. These roles occupy favorable
-              positions in the career landscape—not only are they currently insulated from
-              automation, but their promotion pathways lead to similarly resilient positions.
+              positions in the career landscape: not only are they currently insulated from
+              automation, but their observed promotion pathways lead to similarly resilient positions.
               This is the benchmark against which vulnerability should be assessed.
             </p>
           </div>

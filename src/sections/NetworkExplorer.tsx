@@ -61,7 +61,7 @@ export function NetworkExplorer() {
           </p>
         </motion.div>
 
-        {/* Visual Key — What you're seeing */}
+        {/* Visual Key: What you're seeing */}
         <motion.div
           className="max-w-3xl mx-auto mb-6"
           initial={{ opacity: 0, y: 30 }}
@@ -132,7 +132,7 @@ export function NetworkExplorer() {
                 <ul className="mt-1 ml-4 list-disc space-y-1 text-amber-800 dark:text-amber-200">
                   <li>Clusters of connected dots = groups of roles with many promotion paths between them</li>
                   <li>Isolated dots at the edges = roles with few connections (potential career dead-ends)</li>
-                  <li>Large red dots near the center = high-traffic, high-risk chokepoints — the most structurally critical roles</li>
+                  <li>Large red dots near the center = high-traffic, high-risk chokepoints, the most structurally critical roles</li>
                 </ul>
               </div>
               <div>

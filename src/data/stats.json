@@ -1,7 +1,7 @@
 {
   "totalRoles": 15759,
   "totalSectors": 20,
-  "ptrNfcCorrelation": 0.267,
+  "ptrNfcCorrelation": 0.10,
   "hhRoles": 6398,
   "hhShare": 0.406,
   "quadrantDistribution": [
@@ -9,6 +9,11 @@
       "quadrant": "HH",
       "count": 6398,
       "share": 0.406
+    },
+    {
+      "quadrant": "HL",
+      "count": 0,
+      "share": 0
     },
     {
       "quadrant": "LH",

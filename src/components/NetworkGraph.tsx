@@ -427,7 +427,7 @@ export function NetworkTooltip({ node }: NetworkTooltipProps) {
             className="inline-block px-1.5 py-0.5 text-xs font-semibold rounded text-white"
             style={{ backgroundColor: quadrantColors[node.quadrant] }}
           >
-            {node.quadrant} — {quadrantNames[node.quadrant]}
+            {node.quadrant}: {quadrantNames[node.quadrant]}
           </span>
         </div>
       </div>

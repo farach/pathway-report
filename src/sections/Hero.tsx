@@ -85,16 +85,16 @@ export function Hero() {
             Key Finding
           </h2>
           <p className="text-slate-600 dark:text-slate-300">
-            The two types of risk we measure—<strong className="text-blue-600 dark:text-blue-400">AI Pathway Risk</strong> and{' '}
-            <strong className="text-blue-600 dark:text-blue-400">Career Network Constraint</strong>—are
-            largely independent of each other. Knowing that a role is exposed to AI tells you almost
+            The two types of risk we measure, <strong className="text-blue-600 dark:text-blue-400">AI Pathway Risk</strong> and{' '}
+            <strong className="text-blue-600 dark:text-blue-400">Career Network Constraint</strong>, appear
+            to be largely independent of each other in our data. Knowing that a role is exposed to AI tells you almost
             nothing about whether the worker has good career options, and vice versa. This means we
             need to measure both to understand the full picture.
           </p>
           <ExpandableDetail summary="Show technical detail">
             <p>
               Formally, AI Pathway Risk (PTR) and Career Network Constraint (NFC) correlate at only
-              r ≈ 0.10 across 15,759 roles—near-orthogonality indicating they capture genuinely
+              r ≈ 0.10 across 15,759 roles. This near-orthogonality indicates they capture genuinely
               distinct vulnerability dimensions. This independence justifies treating them as
               complementary axes in a two-dimensional vulnerability space.
             </p>
@@ -111,9 +111,9 @@ export function Hero() {
           <div className="prose prose-slate dark:prose-invert">
             <p className="text-lg text-slate-600 dark:text-slate-300 leading-relaxed">
               The debate over AI's labor market impact has largely focused on{" "}
-              <em>which jobs</em> are susceptible to automation—a question of task-level
+              <em>which jobs</em> are susceptible to automation, a question of task-level
               exposure. Yet this framing misses a crucial dimension: workers don't simply
-              occupy static positions—they move through <strong>career networks</strong>,
+              occupy static positions. They move through <strong>career networks</strong>,
               the web of promotion pathways that connect one role to another, over time.
               A role's vulnerability depends not only on what tasks it contains, but on where
               it sits within the broader landscape of professional advancement.
@@ -123,7 +123,7 @@ export function Hero() {
               vulnerability</strong>: the degree to which AI-exposed positions are embedded
               in constrained career pathways. By analyzing over 500,000 validated promotion
               transitions across 20 industry sectors, we map the career networks that workers
-              actually navigate—and identify the positions where AI exposure combines with
+              actually navigate, and identify the positions where AI exposure combines with
               limited mobility options to create compounding risk.
             </p>
           </div>

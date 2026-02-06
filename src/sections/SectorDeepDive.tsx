@@ -90,10 +90,10 @@ export function SectorDeepDive() {
         >
           <p className="leading-relaxed">
             One of the clearest patterns from this analysis is the <strong>substantial heterogeneity</strong>{" "}
-            across industry sectors. The proportion of "double jeopardy" (HH) roles—those facing both
-            high AI exposure and constrained career mobility—ranges from roughly 35% in some sectors
+            across industry sectors. The proportion of "double jeopardy" (HH) roles (those facing both
+            high AI exposure and constrained career mobility) ranges from roughly 35% in some sectors
             to over 45% in others. This 10+ percentage point spread represents meaningful variation
-            that should inform sector-specific workforce development strategies.
+            that may inform sector-specific workforce development strategies.
           </p>
           <p className="leading-relaxed">
             The table below is sorted by HH share by default, highlighting the sectors with the

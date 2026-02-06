@@ -90,7 +90,7 @@ export function Methodology() {
             economy, we classify roles relative to their sector peers. A "high PTR" role in
             healthcare is high relative to other healthcare positions, not relative to financial
             analysts. This approach sacrifices some cross-sector comparability in exchange for
-            more actionable within-sector insights—a tradeoff we believe is appropriate given
+            more actionable within-sector insights, a tradeoff we believe is appropriate given
             that career mobility tends to occur within, not across, industry boundaries.
           </p>
           <p className="leading-relaxed">
