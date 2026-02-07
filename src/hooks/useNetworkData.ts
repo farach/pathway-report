@@ -29,7 +29,7 @@ export function useNetworkData(sector: string) {
           .replace(/[^a-z0-9]+/g, '-')
           .replace(/(^-|-$)/g, '');
 
-        const response = await fetch(`/data/networks/${filename}.json`);
+        const response = await fetch(`${import.meta.env.BASE_URL}data/networks/${filename}.json`);
         if (!response.ok) {
           throw new Error(`Failed to load network for ${sector}`);
         }
@@ -60,7 +60,7 @@ export function useSectors() {
   useEffect(() => {
     const loadSectors = async () => {
       try {
-        const response = await fetch('/data/sectors.json');
+        const response = await fetch(`${import.meta.env.BASE_URL}data/sectors.json`);
         if (!response.ok) throw new Error('Failed to load sectors');
 
         const data: SectorSummary[] = await response.json();
@@ -87,7 +87,7 @@ export function useStats() {
   useEffect(() => {
     const loadStats = async () => {
       try {
-        const response = await fetch('/data/stats.json');
+        const response = await fetch(`${import.meta.env.BASE_URL}data/stats.json`);
         if (!response.ok) throw new Error('Failed to load stats');
         const data = await response.json();
         setStats(data);
@@ -119,7 +119,7 @@ export function useCascadeResults() {
   useEffect(() => {
     const load = async () => {
       try {
-        const response = await fetch('/data/cascade.json');
+        const response = await fetch(`${import.meta.env.BASE_URL}data/cascade.json`);
         if (!response.ok) throw new Error('Failed to load cascade');
         const data = await response.json();
         setResults(data);
@@ -143,7 +143,7 @@ export function useRoles() {
 
   const loadRoles = useCallback(async () => {
     try {
-      const response = await fetch('/data/roles.json');
+      const response = await fetch(`${import.meta.env.BASE_URL}data/roles.json`);
       if (!response.ok) throw new Error('Failed to load roles');
       const data = await response.json();
       setRoles(data);
@@ -172,7 +172,7 @@ export function preloadNetworks(sectors: string[]) {
         .replace(/[^a-z0-9]+/g, '-')
         .replace(/(^-|-$)/g, '');
 
-      const response = await fetch(`/data/networks/${filename}.json`);
+      const response = await fetch(`${import.meta.env.BASE_URL}data/networks/${filename}.json`);
       if (response.ok) {
         const data = await response.json();
         networkCache.set(sector, data);
