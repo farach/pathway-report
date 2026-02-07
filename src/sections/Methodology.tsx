@@ -334,7 +334,7 @@ export function Methodology() {
           </h3>
           <div className="grid sm:grid-cols-2 gap-4">
             <a
-              href="/data/roles.json"
+              href={`${import.meta.env.BASE_URL}data/roles.json`}
               download
               className="flex items-center gap-3 p-4 rounded-xl bg-slate-50 dark:bg-slate-700/50 hover:bg-slate-100 dark:hover:bg-slate-700 transition-colors"
             >
@@ -347,7 +347,7 @@ export function Methodology() {
               </div>
             </a>
             <a
-              href="/data/sectors.json"
+              href={`${import.meta.env.BASE_URL}data/sectors.json`}
               download
               className="flex items-center gap-3 p-4 rounded-xl bg-slate-50 dark:bg-slate-700/50 hover:bg-slate-100 dark:hover:bg-slate-700 transition-colors"
             >
@@ -369,7 +369,7 @@ export function Methodology() {
             </h4>
             <div className="flex flex-wrap gap-4">
               <a
-                href="https://github.com/farach/ai-labor-networks"
+                href="https://github.com/farach/pathway-report"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 text-blue-600 dark:text-blue-400 hover:underline"
