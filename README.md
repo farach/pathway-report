@@ -1,73 +1,41 @@
-# React + TypeScript + Vite
+# Structural Vulnerability in AI-Affected Career Pathways
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive research report exploring how AI exposure and career network structure combine to create distinct vulnerability profiles for workers across 20 industry sectors.
 
-Currently, two official plugins are available:
+**Live report:** [workforcefutures.net/reports/pathway-report](https://workforcefutures.net/reports/pathway-report/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## What This Report Covers
 
-## React Compiler
+This visualization presents findings from an analysis of over 500,000 validated career transitions across 20 sectors. It introduces two independent measures of workforce vulnerability:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **AI Pathway Risk (PTR)** -- How exposed is a role to AI, and how few promotion options does the worker have?
+- **Career Network Constraint (NFC)** -- Are the roles a worker could move into also at risk?
 
-## Expanding the ESLint configuration
+These two dimensions are largely independent (r = 0.10), meaning a role's direct AI exposure tells you almost nothing about whether the worker has viable career alternatives. Together they define four vulnerability profiles, visualized through interactive network graphs.
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+## Features
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+- Interactive force-directed network visualization of career pathways per sector
+- Quadrant framework mapping roles across two risk dimensions
+- Sector-by-sector exploration of 15,759 roles across 20 industries
+- Cascade fragmentation analysis showing network resilience under targeted disruption
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+## Tech Stack
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+React, TypeScript, Vite, D3.js, Tailwind CSS, Framer Motion
+
+## Development
+
+```bash
+npm install
+npm run dev      # http://localhost:5173
+npm run build    # Production build in dist/
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+## Related Research
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+This report accompanies the working paper *Structural Vulnerability in AI-Affected Career Pathways: A Network Analysis of Promotion Transitions Across 20 Sectors*. The underlying analysis is available at [github.com/farach/ai-labor-networks](https://github.com/farach/ai-labor-networks).
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+## License
+
+MIT

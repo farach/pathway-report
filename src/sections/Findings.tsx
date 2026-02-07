@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 import { AlertTriangle, TrendingUp, GitBranch, Target } from 'lucide-react';
 import { useScrollAnimation } from '../hooks/useScrollAnimation';
 import { useCascadeResults, useStats } from '../hooks/useNetworkData';
-import { cn, formatPercent } from '../lib/utils';
+import { cn } from '../lib/utils';
 
 const findings = [
   {
