@@ -18,18 +18,18 @@ const findings = [
     icon: AlertTriangle,
     title: 'Double Jeopardy Roles',
     description:
-      'Roles in the "Double Jeopardy" category face compounding risk: they are both directly exposed to AI automation AND surrounded by other constrained roles in their career network.',
+      'Roles in the "Double Jeopardy" category face compounding risk: they are both directly exposed to AI automation AND occupy critical bridge positions in constrained career networks. Strikingly, 91.8% of sector-contained roles (high AI exposure, low cross-industry portability) fall in this quadrant.',
     color: 'red',
-    stat: '40%+',
-    statLabel: 'HH Share',
+    stat: '91.8%',
+    statLabel: 'Sector-Contained in HH',
   },
   {
     icon: Target,
     title: 'Network Fragmentation Test',
     description:
-      'What happens if high-risk roles disappear? Simulating the removal of top AI Pathway Risk roles fragments the career network 3x more than random removal, suggesting these positions may be structurally critical chokepoints.',
+      'What happens if high-risk roles disappear? Simulating the removal of the most network-constrained roles fragments the career network 4x more than random removal, suggesting these bridge positions may be structurally critical chokepoints.',
     color: 'orange',
-    stat: '3×',
+    stat: '4×',
     statLabel: 'Fragmentation',
   },
   {
@@ -118,13 +118,31 @@ export function Findings() {
           </p>
           <p className="leading-relaxed">
             We also tested what would happen if high-risk roles were disrupted: when we simulate
-            removing the most AI-exposed roles from the career network (a rough proxy for what
-            would happen if AI displaced workers in these positions), the network fragments at
-            three times the rate of random removal. This <strong>network fragmentation
-            test</strong> suggests that high-risk positions aren't just individually
-            vulnerable; they may serve as critical connectors in the career mobility
+            removing the most network-constrained roles from the career network (a rough proxy
+            for what would happen if AI displaced workers in these bridge positions), the network
+            fragments at four times the rate of random removal. This <strong>network fragmentation
+            test</strong> suggests that high-NFC positions aren't just individually
+            vulnerable; they serve as critical connectors in the career mobility
             infrastructure. Their disruption could ripple through adjacent positions,
             potentially stranding workers who themselves face no direct AI exposure.
+          </p>
+          <p className="leading-relaxed">
+            A striking validation comes from cross-referencing our framework with
+            cross-sector mobility data. Roles classified as "Sector-Contained" (high AI
+            exposure but low portability across industries) concentrate overwhelmingly in
+            the Double Jeopardy quadrant: <strong>91.8%</strong> of such roles fall in
+            the highest-vulnerability category. Workers in these positions face a triple
+            bind: their tasks are automatable, their within-sector career paths are
+            constrained, and they lack the cross-sector mobility that might otherwise
+            provide an escape route.
+          </p>
+          <p className="leading-relaxed">
+            Finally, emerging evidence suggests that these career network dynamics may
+            interact with organizational and social networks in important ways. A 2026
+            field experiment (Büchsenschuss et al.) found that AI tool adoption within
+            organizations reinforced the centrality of bridge workers rather than
+            displacing them, suggesting that the structural positions we identify may be
+            even more consequential than career network analysis alone would indicate.
           </p>
         </motion.div>
 

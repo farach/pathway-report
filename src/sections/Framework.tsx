@@ -26,8 +26,9 @@ export function Framework() {
           <p className="mt-4 text-lg text-slate-600 dark:text-slate-300">
             This analysis measures two things about each job role: (1) how directly AI threatens the
             role's tasks <em>and</em> how few promotion options the worker
-            has (<strong>AI Pathway Risk</strong>) and (2) whether the roles a worker could move
-            into are also at risk (<strong>Career Network Constraint</strong>). Together, these two
+            has (<strong>AI Pathway Risk</strong>) and (2) whether the role serves as a critical
+            bridge in career pathways that many workers depend
+            on (<strong>Career Network Constraint</strong>). Together, these two
             independent measures create four vulnerability profiles.
           </p>
         </motion.div>
@@ -106,24 +107,26 @@ export function Framework() {
                   Career Network Constraint (NFC)
                 </h3>
                 <p className="mt-1 text-sm italic text-slate-500 dark:text-slate-400">
-                  Are the roles you could move to also at risk?
+                  Is this AI-exposed role a bridge that many career paths depend on?
                 </p>
                 <p className="mt-3 text-slate-600 dark:text-slate-300">
-                  Career Network Constraint looks beyond a single role to its neighborhood in
-                  the career network. It measures whether a role's potential destination
-                  positions are themselves at risk. High NFC indicates that even if a worker
-                  can transition out of their current role, they may find themselves in an
-                  equally precarious position, a form of structural entrapment.
+                  Career Network Constraint identifies roles that are both AI-exposed and
+                  structurally critical connectors in the career network. Some roles serve as
+                  bridges between clusters of positions, meaning many workers' career paths
+                  flow through them. When these bridge roles are also highly exposed to AI,
+                  their disruption could strand workers on either side, cutting off career
+                  mobility for people who themselves face no direct AI threat.
                 </p>
                 <ExpandableDetail summary="Show formula and technical detail">
                   <p>
-                    NFC combines the average AI Pathway Risk of neighboring roles (weighted by
-                    promotion frequency) with local network density (clustering coefficient).
-                    This captures both the vulnerability of adjacent positions and how tightly
-                    interconnected the local career neighborhood is.
+                    NFC combines a role's AI exposure rank with its betweenness centrality
+                    rank in the sector-specific career network. Betweenness centrality measures
+                    how many shortest paths between other roles pass through a given role,
+                    identifying it as a bridge or chokepoint. The geometric mean ensures a
+                    role must score high on both dimensions to register as highly constrained.
                   </p>
                   <div className="mt-2 font-mono bg-white/50 dark:bg-slate-800/50 p-2 rounded text-xs">
-                    NFC = AvgNeighborPTR × LocalClusteringCoefficient
+                    NFC = sqrt(Rank(AI_Exposure) × Rank(Betweenness))
                   </div>
                 </ExpandableDetail>
               </div>
@@ -134,17 +137,24 @@ export function Framework() {
                   A Surprising Independence
                 </h4>
                 <p className="text-sm text-blue-800 dark:text-blue-200 leading-relaxed">
-                  These two metrics turn out to be largely independent of each other. Knowing
-                  a role's AI exposure tells you almost nothing about its career mobility
-                  constraints, and vice versa. This means a single score cannot capture the
-                  full picture of vulnerability. Both dimensions matter.
+                  These two metrics turn out to be largely independent of each other, and
+                  the reason is structural: dead-end roles and bridge roles are fundamentally
+                  different positions in a career network. A role with few outgoing connections
+                  (high PTR) cannot, by definition, be a bridge that many career paths flow
+                  through (high NFC). Consider a senior technical writer with limited
+                  promotion options versus a project manager who connects multiple departments.
+                  Both may face AI exposure, but they occupy completely different structural
+                  positions. A single vulnerability score cannot capture both.
                 </p>
                 <ExpandableDetail summary="Show technical detail" className="mt-2 bg-blue-100/50 dark:bg-blue-900/30 border-blue-200/50 dark:border-blue-700/50">
                   <p>
                     AI Pathway Risk and Career Network Constraint correlate at only r ≈ 0.10
-                    across our sample of 15,759 roles. This near-orthogonality confirms the two
-                    metrics capture genuinely distinct dimensions of vulnerability, justifying
-                    their treatment as complementary axes in a two-dimensional vulnerability space.
+                    across our sample of 15,759 roles. This near-orthogonality is not a
+                    statistical accident but a structural consequence of how career networks
+                    work: roles penalized for lacking outbound connections (high PTR) have
+                    near-zero betweenness centrality by construction, while bridge roles
+                    (high NFC) necessarily have multiple connections. The two metrics capture
+                    genuinely distinct dimensions of vulnerability.
                   </p>
                 </ExpandableDetail>
               </div>
