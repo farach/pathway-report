@@ -76,7 +76,7 @@ export function NetworkGraph({
       const matchesSearch =
         !searchTerm ||
         node.label.toLowerCase().includes(searchTerm.toLowerCase()) ||
-        node.soc.includes(searchTerm);
+        (node.soc && node.soc.includes(searchTerm));
 
       if (selectedQuadrant && searchTerm) {
         return matchesQuadrant && matchesSearch ? 1 : 0.1;
@@ -409,7 +409,7 @@ export function NetworkTooltip({ node }: NetworkTooltipProps) {
   return (
     <div className="absolute top-4 right-4 z-50 p-4 bg-white dark:bg-slate-800 rounded-lg shadow-xl border border-slate-200 dark:border-slate-700 max-w-xs">
       <h4 className="font-semibold text-slate-900 dark:text-white">{node.label}</h4>
-      <p className="text-sm text-slate-500 dark:text-slate-400 mt-1">SOC: {node.soc}</p>
+      {node.soc && <p className="text-sm text-slate-500 dark:text-slate-400 mt-1">SOC: {node.soc}</p>}
       <div className="mt-3 grid grid-cols-2 gap-2 text-sm">
         <div>
           <span className="text-slate-500 dark:text-slate-400">Pathway Risk:</span>
