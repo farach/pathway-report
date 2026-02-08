@@ -9,7 +9,7 @@ const findings = [
     icon: GitBranch,
     title: 'Two Independent Risk Dimensions',
     description:
-      'AI Pathway Risk and Career Network Constraint are nearly independent of each other, meaning task-level AI exposure and career mobility constraints capture fundamentally different vulnerabilities. A single metric misses half the picture.',
+      'AI Pathway Risk and Career Network Constraint are nearly independent of each other in our data, meaning task-level AI exposure and career mobility constraints appear to capture distinct vulnerabilities. A single metric may miss much of the picture.',
     color: 'blue',
     stat: 'r = 0.10',
     statLabel: 'Correlation',
@@ -18,7 +18,7 @@ const findings = [
     icon: AlertTriangle,
     title: 'Double Jeopardy Roles',
     description:
-      'Roles in the "Double Jeopardy" category face compounding risk: they are both directly exposed to AI automation AND occupy critical bridge positions in constrained career networks. Strikingly, 91.8% of sector-contained roles (high AI exposure, low cross-industry portability) fall in this quadrant.',
+      'Roles in the "Double Jeopardy" category face compounding risk in our framework: they are both directly exposed to AI automation AND occupy bridge positions in constrained career networks. In our data, 91.8% of sector-contained roles (high AI exposure, low cross-industry portability) fall in this quadrant.',
     color: 'red',
     stat: '91.8%',
     statLabel: 'Sector-Contained in HH',
@@ -27,7 +27,7 @@ const findings = [
     icon: Target,
     title: 'Network Fragmentation Test',
     description:
-      'What happens if high-risk roles disappear? Simulating the removal of the most network-constrained roles fragments the career network 4x more than random removal, suggesting these bridge positions may be structurally critical chokepoints.',
+      'What happens if high-risk roles disappear? Simulating the removal of the most network-constrained roles fragments the career network 4x more than random removal, suggesting these bridge positions may be structurally important connectors.',
     color: 'orange',
     stat: '4×',
     statLabel: 'Fragmentation',
@@ -36,7 +36,7 @@ const findings = [
     icon: TrendingUp,
     title: 'Sector Variation',
     description:
-      'Double Jeopardy role concentration varies dramatically across sectors, ranging from 35% in Non-Profit to 45% in Manufacturing, suggesting sector-specific intervention strategies may be needed.',
+      'Double Jeopardy role concentration varies considerably across sectors, ranging from 35% in Non-Profit to 45% in Manufacturing, suggesting sector-specific approaches may be warranted.',
     color: 'purple',
     stat: '35-45%',
     statLabel: 'Range',
@@ -89,7 +89,7 @@ export function Findings() {
             Key Research Findings
           </h2>
           <p className="mt-4 text-lg text-slate-600 dark:text-slate-300">
-            Four critical insights from analyzing {stats?.totalRoles.toLocaleString() || '15,759'} roles
+            Four key findings from analyzing {stats?.totalRoles.toLocaleString() || '15,759'} roles
             across {stats?.totalSectors || 20} sectors.
           </p>
         </motion.div>
@@ -104,7 +104,7 @@ export function Findings() {
           <p className="leading-relaxed">
             Our analysis yields four principal findings about how AI exposure intersects with
             career network structure. These results suggest that traditional policy
-            approaches (which focus exclusively on task-level exposure) miss a substantial
+            approaches focused exclusively on task-level exposure may miss a substantial
             portion of structural vulnerability in the labor market.
           </p>
           <p className="leading-relaxed">
@@ -112,29 +112,32 @@ export function Findings() {
             Risk</strong> and <strong>Career Network Constraint</strong>, are largely
             independent of each other. Knowing a worker's direct AI exposure tells us almost
             nothing about their career mobility constraints, and vice versa. This independence
-            implies that single-metric approaches to identifying "at-risk" workers will
-            systematically overlook roughly half of the vulnerability landscape. Policy
-            interventions must account for both dimensions simultaneously.
+            suggests that single-metric approaches to identifying "at-risk" workers may
+            overlook a substantial portion of the vulnerability landscape. Effective policy
+            interventions would likely need to account for both dimensions.
           </p>
           <p className="leading-relaxed">
             We also tested what would happen if high-risk roles were disrupted: when we simulate
             removing the most network-constrained roles from the career network (a rough proxy
             for what would happen if AI displaced workers in these bridge positions), the network
             fragments at four times the rate of random removal. This <strong>network fragmentation
-            test</strong> suggests that high-NFC positions aren't just individually
-            vulnerable; they serve as critical connectors in the career mobility
-            infrastructure. Their disruption could ripple through adjacent positions,
-            potentially stranding workers who themselves face no direct AI exposure.
+            test</strong> suggests that high-NFC positions may not be just individually
+            vulnerable; they appear to serve as important connectors in the career mobility
+            infrastructure. Their disruption could affect adjacent positions,
+            potentially limiting options for workers who themselves face no direct AI exposure.
           </p>
           <p className="leading-relaxed">
-            A striking validation comes from cross-referencing our framework with
-            cross-sector mobility data. Roles classified as "Sector-Contained" (high AI
-            exposure but low portability across industries) concentrate overwhelmingly in
+            Further support comes from cross-referencing our framework with
+            a separate{' '}
+            <a href="https://workforcefutures.net/aso-dashboard/" target="_blank" rel="noopener noreferrer" className="text-blue-600 dark:text-blue-400 hover:underline">
+              cross-sector mobility analysis
+            </a>. Roles classified as "Sector-Contained" (high AI
+            exposure but low portability across industries) concentrate heavily in
             the Double Jeopardy quadrant: <strong>91.8%</strong> of such roles fall in
-            the highest-vulnerability category. Workers in these positions face a triple
-            bind: their tasks are automatable, their within-sector career paths are
-            constrained, and they lack the cross-sector mobility that might otherwise
-            provide an escape route.
+            the highest-vulnerability category. Workers in these positions may face a
+            triple bind: their tasks are automatable, their within-sector career paths
+            appear constrained, and they lack the cross-sector mobility that might
+            otherwise provide an escape route.
           </p>
           <p className="leading-relaxed">
             Finally, emerging evidence suggests that these career network dynamics may
@@ -144,9 +147,9 @@ export function Findings() {
             displacing them. Complementary research on peer learning networks suggests
             that a worker's capacity to adapt to AI depends partly on who they learn
             from, meaning social network position may moderate the very vulnerabilities
-            we measure here. Together, these findings suggest that the structural
-            positions we identify may be even more consequential than career network
-            analysis alone would indicate.
+            we measure here. Together, these findings are consistent with the possibility
+            that the structural positions we identify matter beyond what career network
+            analysis alone would capture.
           </p>
         </motion.div>
 
@@ -208,7 +211,7 @@ export function Findings() {
             <p className="text-slate-600 dark:text-slate-300 mb-6">
               Simulating removal of the top 20 roles by each strategy (Finance sector).
               The large number shows disconnected components after removal; the small number
-              shows additional components created. NFC-based removal creates 4x more
+              shows additional components created. NFC-based removal produces 4x more
               fragmentation than random removal.
             </p>
 

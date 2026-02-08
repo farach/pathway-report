@@ -217,12 +217,13 @@ export function Methodology() {
               <div>
                 <h4 className="font-semibold">Career Network Constraint (NFC)</h4>
                 <p>
-                  Captures neighborhood-level constraints: average PTR of neighboring roles
-                  weighted by local clustering. High NFC indicates being surrounded by
-                  other constrained positions.
+                  Combines AI exposure with betweenness centrality to identify roles that
+                  are both AI-exposed and structurally important connectors in the career
+                  network. High NFC indicates a bridge role through which many career
+                  paths flow.
                 </p>
                 <code className="block mt-2 p-2 bg-slate-100 dark:bg-slate-700 rounded text-xs">
-                  NFC = avg_neighbor_PTR × neighborhood_density
+                  NFC = sqrt(Rank(AI_Exposure) × Rank(Betweenness))
                 </code>
               </div>
               <div>
@@ -386,6 +387,15 @@ export function Methodology() {
                 <ExternalLink className="w-4 h-4" />
                 CMap R Package
               </a>
+              <a
+                href="https://workforcefutures.net/aso-dashboard/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-2 text-blue-600 dark:text-blue-400 hover:underline"
+              >
+                <ExternalLink className="w-4 h-4" />
+                Cross-Sector Mobility Analysis
+              </a>
             </div>
           </div>
         </motion.div>
@@ -436,6 +446,19 @@ export function Methodology() {
                 className="text-blue-600 dark:text-blue-400 hover:underline"
               >
                 arXiv:2507.07935
+              </a>
+            </p>
+            <p>
+              <strong>AI and Organizational Networks:</strong> Büchsenschuss R, Koch-Bayram I,
+              Biemann T, Puranam P. The impact of generative AI adoption on organizational
+              networks: Evidence from a field experiment. INSEAD Working Paper No. 2026/01/STR.{' '}
+              <a
+                href="https://ssrn.com/abstract=6028034"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 dark:text-blue-400 hover:underline"
+              >
+                SSRN:6028034
               </a>
             </p>
           </div>

@@ -49,7 +49,7 @@ export function Hero() {
           transition={{ duration: 0.6, delay: 0.2 }}
         >
           Mapping how AI-exposed positions sit within career mobility networks
-          to understand the systemic risks to workforce development.
+          to identify potential structural risks to workforce development.
         </motion.p>
 
         {/* Stats Grid */}
@@ -112,19 +112,19 @@ export function Hero() {
             <p className="text-lg text-slate-600 dark:text-slate-300 leading-relaxed">
               The debate over AI's labor market impact has largely focused on{" "}
               <em>which jobs</em> are susceptible to automation, a question of task-level
-              exposure. Yet this framing misses a crucial dimension: workers don't simply
+              exposure. Yet this framing may miss an important dimension: workers don't simply
               occupy static positions. They move through <strong>career networks</strong>,
               the web of promotion pathways that connect one role to another, over time.
               A role's vulnerability depends not only on what tasks it contains, but on where
               it sits within the broader landscape of professional advancement.
             </p>
             <p className="text-slate-600 dark:text-slate-300 leading-relaxed mt-4">
-              This analysis applies a framework for understanding <strong>structural
+              This analysis applies a framework for characterizing <strong>structural
               vulnerability</strong>: the degree to which AI-exposed positions are embedded
               in constrained career pathways. By analyzing over 500,000 validated promotion
               transitions across 20 industry sectors, we map the career networks that workers
-              actually navigate, and identify the positions where AI exposure combines with
-              limited mobility options to create compounding risk.
+              actually navigate and identify positions where AI exposure coincides with
+              limited mobility options.
             </p>
           </div>
         </motion.div>

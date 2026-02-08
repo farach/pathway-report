@@ -26,8 +26,8 @@ export function Framework() {
           <p className="mt-4 text-lg text-slate-600 dark:text-slate-300">
             This analysis measures two things about each job role: (1) how directly AI threatens the
             role's tasks <em>and</em> how few promotion options the worker
-            has (<strong>AI Pathway Risk</strong>) and (2) whether the role serves as a critical
-            bridge in career pathways that many workers depend
+            has (<strong>AI Pathway Risk</strong>) and (2) whether the role serves as an
+            important bridge in career pathways that many workers depend
             on (<strong>Career Network Constraint</strong>). Together, these two
             independent measures create four vulnerability profiles.
           </p>
@@ -43,14 +43,14 @@ export function Framework() {
           <p className="text-lg leading-relaxed">
             Most analyses of AI's labor market impact focus on what might be called the <em>inner loop</em>:
             the degree to which specific job tasks can be automated or augmented by AI systems.
-            While valuable, this task-centric view misses a critical dimension of workforce
+            While valuable, this task-centric view may miss an important dimension of workforce
             vulnerability: the <em>outer loop</em> of career mobility.
           </p>
           <p className="leading-relaxed">
             Consider two workers with identical AI exposure scores. One occupies a position
             with multiple promotion pathways leading to diverse, less-exposed roles. The other
             sits in a career cul-de-sac, surrounded by equally vulnerable positions. These
-            workers face fundamentally different prospects, yet traditional AI exposure metrics
+            workers face meaningfully different prospects, yet traditional AI exposure metrics
             would classify them identically.
           </p>
           <p className="leading-relaxed">
@@ -111,11 +111,11 @@ export function Framework() {
                 </p>
                 <p className="mt-3 text-slate-600 dark:text-slate-300">
                   Career Network Constraint identifies roles that are both AI-exposed and
-                  structurally critical connectors in the career network. Some roles serve as
+                  structurally important connectors in the career network. Some roles serve as
                   bridges between clusters of positions, meaning many workers' career paths
                   flow through them. When these bridge roles are also highly exposed to AI,
-                  their disruption could strand workers on either side, cutting off career
-                  mobility for people who themselves face no direct AI threat.
+                  their disruption could limit career mobility for workers on either side,
+                  including those who themselves face no direct AI threat.
                 </p>
                 <ExpandableDetail summary="Show formula and technical detail">
                   <p>
@@ -138,8 +138,8 @@ export function Framework() {
                 </h4>
                 <p className="text-sm text-blue-800 dark:text-blue-200 leading-relaxed">
                   These two metrics turn out to be largely independent of each other, and
-                  the reason is structural: dead-end roles and bridge roles are fundamentally
-                  different positions in a career network. A role with few outgoing connections
+                  the reason is structural: dead-end roles and bridge roles are
+                  structurally distinct positions in a career network. A role with few outgoing connections
                   (high PTR) cannot, by definition, be a bridge that many career paths flow
                   through (high NFC). Consider a senior technical writer with limited
                   promotion options versus a project manager who connects multiple departments.
@@ -207,11 +207,11 @@ export function Framework() {
               Double Jeopardy
             </div>
             <p className="mt-3 text-sm text-slate-600 dark:text-slate-300 leading-relaxed">
-              These roles face compounding risk: high direct AI exposure combined with
-              constrained escape routes. Workers here cannot simply "skill up" into adjacent
-              positions because those positions are similarly vulnerable. This quadrant
-              may demand systemic intervention: retraining programs, credential pathways, and
-              potentially new career ladders that don't currently exist.
+              These roles face compounding risk in our framework: high direct AI exposure
+              combined with constrained escape routes. Workers here may not be able to
+              simply "skill up" into adjacent positions if those positions are similarly
+              vulnerable. This quadrant may warrant targeted intervention: retraining
+              programs, credential pathways, or new career ladders.
             </p>
           </div>
 
@@ -221,10 +221,11 @@ export function Framework() {
               Exposed but Mobile
             </div>
             <p className="mt-3 text-sm text-slate-600 dark:text-slate-300 leading-relaxed">
-              High personal AI exposure, but the career network provides viable alternatives.
-              These workers have options; the challenge is awareness and timing. Early
-              intervention can facilitate transitions before displacement occurs. This is
-              the quadrant where traditional upskilling programs are most likely to succeed.
+              High personal AI exposure, but the career network appears to provide viable
+              alternatives. These workers may have options; the challenge is awareness and
+              timing. Early intervention could facilitate transitions before displacement
+              occurs. This is the quadrant where traditional upskilling programs seem most
+              likely to be effective.
             </p>
           </div>
 
@@ -271,7 +272,7 @@ export function Framework() {
             ensures that "high" and "low" are interpreted relative to the relevant labor
             market context. A financial analyst's
             vulnerability is compared to other finance roles, not to healthcare workers with
-            fundamentally different career structures. This approach sacrifices some
+            very different career structures. This approach sacrifices some
             cross-sector comparability in exchange for more meaningful within-sector insights.
           </p>
         </motion.div>
