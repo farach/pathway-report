@@ -141,8 +141,12 @@ export function Findings() {
             interact with organizational and social networks in important ways. A 2026
             field experiment (Büchsenschuss et al.) found that AI tool adoption within
             organizations reinforced the centrality of bridge workers rather than
-            displacing them, suggesting that the structural positions we identify may be
-            even more consequential than career network analysis alone would indicate.
+            displacing them. Complementary research on peer learning networks suggests
+            that a worker's capacity to adapt to AI depends partly on who they learn
+            from, meaning social network position may moderate the very vulnerabilities
+            we measure here. Together, these findings suggest that the structural
+            positions we identify may be even more consequential than career network
+            analysis alone would indicate.
           </p>
         </motion.div>
 
