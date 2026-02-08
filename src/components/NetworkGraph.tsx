@@ -92,6 +92,12 @@ export function NetworkGraph({
     [selectedQuadrant, searchTerm]
   );
 
+  // Ref for getNodeOpacity so main D3 effect doesn't re-run on filter changes
+  const getNodeOpacityRef = useRef(getNodeOpacity);
+  useEffect(() => {
+    getNodeOpacityRef.current = getNodeOpacity;
+  }, [getNodeOpacity]);
+
   // D3 visualization
   useEffect(() => {
     if (!svgRef.current || nodes.length === 0) return;
@@ -290,7 +296,7 @@ export function NetworkGraph({
       .attr('fill', (d) => quadrantColors[d.quadrant])
       .attr('stroke', '#fff')
       .attr('stroke-width', 2)
-      .attr('opacity', (d) => getNodeOpacity(d))
+      .attr('opacity', (d) => getNodeOpacityRef.current(d))
       .attr('filter', (d) => `url(#glow-${d.quadrant})`)
       .style('transition', 'transform 150ms ease-out');
 
@@ -357,7 +363,8 @@ export function NetworkGraph({
     return () => {
       simulation.stop();
     };
-  }, [nodes, edges, dimensions, getNodeOpacity]);
+  // eslint-disable-next-line react-hooks/exhaustive-deps -- getNodeOpacity handled via ref + separate useEffect
+  }, [nodes, edges, dimensions]);
 
   // Update opacities when filters change
   useEffect(() => {
